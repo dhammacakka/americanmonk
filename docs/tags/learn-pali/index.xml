@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learn-pali on American Monk:  Life with Buddha, Dhamma and Saṅgha</title>
+    <link>/tags/learn-pali/</link>
+    <description>Recent content in learn-pali on American Monk:  Life with Buddha, Dhamma and Saṅgha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/learn-pali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tipiṭaka Pāḷi Projector (unsupported)</title>
+      <link>/posts/tipitaka-pali-projector/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/posts/tipitaka-pali-projector/</guid>
+      <description>NOTE: Tipitaka Pāḷi Reader is the new Pāḷi Reading app. Click link below: Tipitaka Pali Reader A new beautiful app written in Flutter for all Desktops and Mobile Devices.&#xA;If you are still interested you can read below: News:&#xA;Developers are encouraged to join our Discord server for our 2.0 total rewrite called Ultimate Pali Reader&#xA;June 21, 2022 Version 1.4.0 is now released (Win, Linux Snap) ( android 1.2.1)</description>
+    </item>
+  </channel>
+</rss>

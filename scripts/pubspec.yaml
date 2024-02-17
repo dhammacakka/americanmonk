@@ -1,0 +1,10 @@
+name: your_project_name  # Replace with your actual project name
+description: A simple Dart script for Hugo project.  # Optional: Provide a brief description
+version: 1.0.0  # Your project version
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'  # This allows any 3.x version, where x is >=2, but less than 4.0.0
+
+dependencies:
+  collection: ^1.15.0
+  path: ^1.8.0

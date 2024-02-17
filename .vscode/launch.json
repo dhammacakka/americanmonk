@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run add_featured_image",
+            "type": "dart",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/add_featured_image.dart",
+            "args": [
+                "${workspaceFolder}/content/posts/"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+baseURL = 'https://americanmonk.org/'
+languageCode = 'en-us'
+title = 'American Monk: Life with Buddha, Dhamma, and Saṅgha'
+theme = 'ananke'
+
+
+[params]
+paginate = 50

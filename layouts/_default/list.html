@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ range .Paginator.Pages }}
+<article>
+    <header>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    </header>
+    <section>
+        {{ .Summary }}
+    </section>
+    <footer>
+        <span>Posted on: {{ .Date.Format "January 2, 2006" }}</span>
+    </footer>
+</article>
+{{ end }}
+<!-- Pagination -->
+{{ if .Paginator.HasPrev || .Paginator.HasNext }}
+<nav class="pagination" role="navigation">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}" rel="prev">&laquo; Newer Posts</a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}" rel="next">Older Posts &raquo;</a>
+    {{ end }}
+</nav>
+{{ end }}
+{{ end }}

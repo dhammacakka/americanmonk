@@ -1,0 +1,32 @@
+---
+title: "What Halloween is like"
+date: 2014-11-02
+authors: 
+  - bksubhuti
+image: /images/halloween.jpg
+featured_image: /images/halloween.jpg
+---
+
+**What Halloween is like** (Alms story inside) Since a good chunk of you are not American, I thought it would be fun to reshare this Halloween picture direct from my hometown in West Hartford, CT. The kids dress up as .... well anything they want, and then they go house to house and ring the doorbells and say "Trick or Treat!" After that, the person at the door is somewhat obligated by culture to give small sized candy bars to the kids. The bags, which are ambitiously sized in this photo, are used to collect the candy.
+
+In Asia, the monks, dressed as themselves, go house to house and silently wait near the house; not too far and not too close. If someone notices, she will often offer a small amount of food in the monk's bowl. Often, this is a few spoons of rice and sometimes a spoon of curry. Little by little, the bowl gets filled with the day's meal. The monks cannot store food, so they should only accept what will be used by himself or his monastery before high Noon. All Buddhist monks of all traditions have this rule of not eating after Noon.
+
+One time, while visiting in America in 2006, I went house to house in the same manner as I would in Myanmar. Nobody really knew what we were doing and we were not exactly able to advertise it either unless someone asked. Eventually that happened. However, we were staying at a Vietnamese monastery in a not so nice neighborhood of New Britain, CT.
+
+Quote from "Going For Broke"
+
+During our trip, we made it a point to go walking with our alms bowls in search for food every day. We knew we would not get any food, but we felt as though it was our duty, as I said before. We even did it while we stayed in New Britain. This neighborhood was a little different from the charming little town of Niantic. There was a great deal of broken glass around, and the neighborhood had people to match it too! I do not remember Mr. Rogers talking about this type of neighborhood! Red and black clothes seemed to be a trendy color for the locals! I never saw the movie Colors, but I’m pretty sure that many of these fashion-conscious people were actually gang members! In the end, everyone except for some religious folks (many of whom were probably former gang members) was somewhat nice to us.
+
+We walked around one neighborhood for about a week until a teenager asked us, “Did somebody dare you to do this?” That was close enough to asking us about what we were doing, so I explained about who we were and where we were from. However, later that night I thought about his use of the word “dare.” I thought about where it would be used, and for sure, it would be used for either gang initiations or fraternity initiations. Although this was my old college town, I do not think anyone in this neighborhood was applying for a frat membership! I followed that thought and started thinking about how people might dare a person to shoot or stab an innocent person (like a monk) as part of his initiation. At that moment, I decided that we should switch neighborhoods.
+
+The next day, we switched to another neighborhood that had less broken glass in it. There seemed to be quite a few Born-Again Christians in this neighborhood, though. Once, after a few days, a woman across the street asked us what we were doing. I approached her and explained that we were Buddhist monks and that we were collecting food. She replied and said to us, “If you believe in Jeee-sus you don’t need to go looking for food!” I thought to myself, “Oh Lord! She’s going to try to convert us!”
+
+At that time there was a small gathering of people, and we even saw a patrol car come and watch us from a distance for a minute or two until a very big guy came out of his house armed with a…with a…a Bible! Before he could find his favorite page to read to me, I explained that we were not trying to convert people to our religion unless someone was sincerely interested in learning about Buddhism. Furthermore, I explained that we were not looking for money, and I spoke more on some other monastic rules. Lastly, to give them some light at the end of their tunnel, I explained that we would be moving on soon (back to Niantic) and that we were only looking for some food. Another person who seemed pleased with this said to us, “Shet man, all you want is some food yo, I’ll go right u’stairs and get you some lunch meat and a half a’loaf uh’bread. That’ll setya straight for a’while’yo.”
+
+Just as we were just about to get our first house donation, the woman urged him not to, and so he held back. Was she a vegetarian? Nevertheless, the next day our new friend called us to come over to the house of a friend of his further down the road, and we got our first food donation. These people appeared to be interested in what we were doing. They must have heard about what we said to the others down the street. They told us to have a safe journey as they put the food in our bowl.
+
+The kind donors gave each of us two pieces of bread and a cup of juice. In Myanmar, many of the donors usually give just a spoonful of rice each until our bowls are filled. Bread would be the equivalent of rice in America. Unfortunately, since there was only one donor, it was not enough for our meal. However, we must start from somewhere. We were very grateful for the small amount we received, and it tasted wonderful!
+
+In Myanmar, walking on alms round is a way to give people a chance to do something nice (make merit). ... In the end, you would guess that the people who made our first donation felt good about what they did. I hope that they remember this random act of kindness for a long time. (End of quote..)
+
+I am sure if you are from America, you have enjoyed giving candy to your well dressed young visitors. I am sure you would enjoy it more to give a hearty meal to someone who really needed it, like maybe someone who is homeless and lives on the street. If you have done this before, I am sure you know it feels good simply because it is a good deed. Nourish another and you will nourish your heart. For most, this opportunity does not happen often or even at all. However, once a year, a lesser opportunity arrives at your door at the end of October. Noble or not, giving is still giving, and perhaps you already have a taste for what goes on in Southeast Asia everyday!

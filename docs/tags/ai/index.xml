@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai on American Monk:  Life with Buddha, Dhamma and Saṅgha</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in ai on American Monk:  Life with Buddha, Dhamma and Saṅgha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does AI think of Loving-Kindness?  Here is a poem.</title>
+      <link>/posts/ai-poem-on-loving-kindness/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/ai-poem-on-loving-kindness/</guid>
+      <description>ai generated art for this post&#xA;I asked openai chatGPT to write a buddhist poem on loving-kindness in the style of Dr. Seuss. This is what I got.&#xA;With open hearts and open hands,&#xA;We spread loving-kindness across the lands.&#xA;Like ripples on a pond, it starts with one,&#xA;But soon it touches everyone.&#xA;With each kind word and thoughtful deed,&#xA;We plant the seeds of love, in hearts to breed.</description>
+    </item>
+  </channel>
+</rss>
