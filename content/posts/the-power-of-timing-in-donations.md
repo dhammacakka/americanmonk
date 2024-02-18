@@ -24,7 +24,9 @@ This Dhamma talk discusses the key elements of the Kāladāna Sutta in addition 
   
 The video is below:
 
-https://www.youtube.com/watch?v=Qy\_h71a17Qo
+https://www.youtube.com/watch?v=Qy_h71a17Qo
+
+{{< youtube "Qy_h71a17Qo" >}}
 
 ![](/images/buddhaglue.jpg)
 

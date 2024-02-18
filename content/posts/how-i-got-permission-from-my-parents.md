@@ -23,6 +23,8 @@ I hope you enjoy this post. It is one of my classic stories from the past. The s
 
 https://www.youtube.com/watch?v=c2JQjhwdsxA
 
+{{< youtube c2JQjhwdsxA >}}
+
 ![](/images/GFBColorOrig-330x195.jpg)
 
 ### Why did you become a monk?
