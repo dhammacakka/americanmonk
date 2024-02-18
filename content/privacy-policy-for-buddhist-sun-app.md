@@ -1,6 +1,6 @@
 +++
 title = 'Privacy Policy for Buddhist Sun App'
-date = 2024-02-17T12:17:02+05:30
+date = 2023-02-17T12:17:02+05:30
 draft = false
 +++
 Privacy Policy For Buddhist Sun App

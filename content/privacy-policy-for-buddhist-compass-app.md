@@ -1,6 +1,6 @@
 +++
 title = 'Privacy Policy for Buddhist Compass App'
-date = 2024-02-17T12:17:08+05:30
+date = 2023-02-17T12:17:08+05:30
 draft = false
 +++
 Privacy Policy For Buddhist Compass App

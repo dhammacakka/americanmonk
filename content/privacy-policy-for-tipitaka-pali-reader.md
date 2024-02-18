@@ -1,6 +1,6 @@
 +++
 title = 'Privacy Policy for Tipitaka Pali Reader'
-date = 2024-02-17T12:16:27+05:30
+date = 2023-02-17T12:16:27+05:30
 draft = false
 +++
 Privacy Policy for Tipitaka Pali Reader

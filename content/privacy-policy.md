@@ -1,6 +1,6 @@
 +++
 title = 'Privacy Policy'
-date = 2024-02-17T12:55:16+05:30
+date = 2023-02-17T12:55:16+05:30
 draft = false
 +++
 
