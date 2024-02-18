@@ -11,6 +11,8 @@ url = 'https://twitter.com/GoHugoIO'
 googleAnalytics = ''
 enableRobotsTXT = true
 
+[permalinks]
+  posts = "/:filename/"
 
 
 [sitemap]
