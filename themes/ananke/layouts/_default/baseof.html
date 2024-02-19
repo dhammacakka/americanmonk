@@ -13,6 +13,7 @@
   {{ hugo.Generator }}
   {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
   {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
+  {{ template "_internal/google_analytics.html" . }}
   {{ $public := not .Params.private }}
   {{ if and $production $public }}
   <meta name="robots" content="index, follow">
