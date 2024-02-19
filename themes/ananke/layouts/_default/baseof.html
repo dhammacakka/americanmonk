@@ -13,7 +13,6 @@
   {{ hugo.Generator }}
   {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
   {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
-  {{ template "_internal/google_analytics.html" . }}
   {{ $public := not .Params.private }}
   {{ if and $production $public }}
   <meta name="robots" content="index, follow">
@@ -51,6 +50,15 @@
   {{ template "_internal/google_analytics.html" . }}
   {{ end }}
   {{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
+  <!-- Googles -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ES5VJRZTGT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'YOUR_MEASUREMENT_ID');
+  </script>
+
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/custom.css">
 </head>
