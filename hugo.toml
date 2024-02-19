@@ -6,6 +6,7 @@ publishDir = 'docs'
 [[params.ananke_socials]]
 name = 'twitter'
 url = 'https://twitter.com/GoHugoIO'
+googleAnalytics = "G-ES5VJRZTGT"
 
 #paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ''
