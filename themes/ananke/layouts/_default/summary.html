@@ -1,7 +1,12 @@
 <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     {{with .CurrentSection.Title }}<span class="f6 db">{{ . }}</span>{{end}}
-    <h1 class="f3 near-black">
+    {{ if .Params.featured_image }}
+    <a href="{{ .RelPermalink }}" class="link black dim tag-link">
+      <img src="{{ .Params.featured_image }}" class="img" alt="image from {{ .Title }}">
+    </a>
+    {{ end }}
+    <h1 class="f3 near-black no-margin-top">
       <a href="{{ .RelPermalink }}" class="link black dim">
         {{ .Title }}
       </a>
