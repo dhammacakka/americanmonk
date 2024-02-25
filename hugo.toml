@@ -12,6 +12,12 @@ environment = "production"
 #paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
 [permalinks]
   posts = "/:filename/"
 
