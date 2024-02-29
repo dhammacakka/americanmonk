@@ -12,11 +12,11 @@ tags:
   - mp3
 authors: 
   - bksubhuti
-image: /images/sept2-2018.png
-featured_image: /images/sept2-2018.png
+image: /images/sept2-2018.webp
+featured_image: /images/sept2-2018.webp
 ---
 
-[![](/images/sept2-2018.png)](https://americanmonk.org/wp-content/uploads/2018/09/sept2-2018.png)
+[![](/images/sept2-2018.webp)](https://americanmonk.org/wp-content/uploads/2018/09/sept2-2018.webp)
 
 # mp3 Dhamma Talk September 2, 2018
 

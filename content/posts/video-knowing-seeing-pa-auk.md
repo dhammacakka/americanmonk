@@ -10,11 +10,11 @@ tags:
   - video
 authors: 
   - bksubhuti
-image: /images/usubhuti-urevata-interview.jpg
-featured_image: /images/usubhuti-urevata-interview.jpg
+image: /images/usubhuti-urevata-interview.webp
+featured_image: /images/usubhuti-urevata-interview.webp
 ---
 
-![](/images/usubhuti-urevata-interview.jpg)
+![](/images/usubhuti-urevata-interview.webp)
 
 From Knowing and Seeing Pa-Auk Forest Monastery video
 

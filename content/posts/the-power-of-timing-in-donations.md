@@ -15,8 +15,8 @@ tags:
   - miracle
 authors: 
   - bksubhuti
-image: /images/kaladanasutta3stories.png
-featured_image: /images/kaladanasutta3stories.png
+image: /images/kaladanasutta3stories.webp
+featured_image: /images/kaladanasutta3stories.webp
 ---
 
 This Dhamma talk discusses the key elements of the Kāladāna Sutta in addition to three personal stories that show how donations can miraculously come back to you. Some of the stories can be found at my website at this particular webpage below with pictures of the original items:  
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=Qy_h71a17Qo
 
 {{< youtube "Qy_h71a17Qo" >}}
 
-![](/images/buddhaglue.jpg)
+![](/images/buddhaglue.webp)
 
 ### Miracle On 3 or 4 Streets
 

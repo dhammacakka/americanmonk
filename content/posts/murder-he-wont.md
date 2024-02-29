@@ -9,8 +9,8 @@ tags:
   - murder
 authors: 
   - bksubhuti
-image: /images/HandMadeKnife.jpg
-featured_image: /images/HandMadeKnife.jpg
+image: /images/HandMadeKnife.webp
+featured_image: /images/HandMadeKnife.webp
 ---
 
 A friend of mine once told me his story about how he had a knife in his hand and was raging with anger. He was going to kill his wife and her new found lover. Below is a short retelling of the story in third person.
@@ -31,7 +31,7 @@ He was once in the soviet army, and there he learned that he should protect his 
 
 He went to his cabin and got the knife. He stood outside the cabin where they were and he was about 10 feet from the door. He was ready to kill them both. However, he decided that he should have a plan of action so that he could do the job right. His friend was much bigger than him and he knew that his state of mind could prevent him from carrying out the revenge effectively. He knew from Goenka and martial arts that he should clear his mind so it could work efficiently and effectively for the task to follow. So he decided to focus on his breathing for a minute or two before going inside to kill them.
 
-![](/images/HandMadeKnife.jpg)
+![](/images/HandMadeKnife.webp)
 
 Similar knife to his own
 

@@ -3,13 +3,13 @@ title: "How Do Monks Live Without Money?"
 date: 2022-07-29
 authors: 
   - bksubhuti
-image: /images/madmagazine-small.png
-featured_image: /images/madmagazine-small.png
+image: /images/madmagazine-small.webp
+featured_image: /images/madmagazine-small.webp
 ---
 
 ## Introduction
 
-![](/images/madmagazine-small.png)
+![](/images/madmagazine-small.webp)
 
 One of my childhood favorite board games made by MAD Magazine. Unlike other games, the object of the game was to lose all of your money.
 
@@ -114,7 +114,7 @@ Now that you know about different invitations and donors, there is another metho
 
 Joe Schmoe has given the office $50 USD in allowable requisites for your needs. Please ask anyone in the office when you need something.
 
-![](/images/reqslip.jpg)
+![](/images/reqslip.webp)
 
 A blank requisite slip at Pa-Auk Office
 
@@ -134,7 +134,7 @@ The main difference between surviving with money and without money is the planni
 
 A monk can always use his bowl to get what he needs. The monk can passively stand with is bowl in front of a bus station or pharmacy in any Buddhist country. Even in [Kaua'i, Hawai'i, USA](https://americanmonk.org/leaving-kauai-on-a-jet-plane/#ftoc-heading-6), I have stood in front of a supermarket with the permission of the shopping plaza owner. It is not so difficult but it might take some time. Therefore, one needs to plan in advance.
 
-![](/images/meatbigsave1.rsz_-1024x768.jpg)
+![](/images/meatbigsave1.rsz_-1024x768.webp)
 
 Me collecting alms food at Big Save, Hanalei (with permission from the plaza owners). A friend shot this and thought I might like to have it. No kappiya. No money. No Buddhist Country. Only trusting in Kindness. It takes about 90 minutes to get my meal this way.
 
@@ -150,7 +150,7 @@ One time I was going to Seattle Airport during a time when my donor would be asl
 
 ## Ye Have Faith
 
-![](/images/meinbagan.jpg)
+![](/images/meinbagan.webp)
 
 This picture went viral on Facebook in 2015 when I was in Bagan. It was also reported in the national newspaper.  
 It says, "This monk does not use money, like or share."

@@ -14,15 +14,15 @@ tags:
   - subhuti
 authors: 
   - bksubhuti
-image: /images/digiheart.png
-featured_image: /images/digiheart.png
+image: /images/digiheart.webp
+featured_image: /images/digiheart.webp
 ---
 
-[![](/images/digiheart-1024x695.png)](https://americanmonk.org/wp-content/uploads/2018/09/digiheart.png)
+[![](/images/digiheart-1024x695.webp)](https://americanmonk.org/wp-content/uploads/2018/09/digiheart.webp)
 
 # Free Book:  Abhidhamma Lessons PDF
 
-[Download Abhidhamma Lessons PDF ![pdficon](/images/pdficon.jpeg)](assets/AbhidhammaLessons.pdf) 
+[Download Abhidhamma Lessons PDF ![pdficon](/images/pdficon.webp)](assets/AbhidhammaLessons.pdf) 
 
 Here is a book I wrote long ago that relates the Abhidhamma to Computer Science. As a programmer from the nineties, I "clicked" with the abhidhamma after reading just a small amount.  When I learned that the mind does only one thing at a time, it instantly clicked with a graduate class I had taken on digital circuits.  It gave me the faith in the Abhidhamma early on which is very rare among Western Monks and Western Theravada Buddhist lay people. Most of the Western scholars are outspoken against the Abhidhamma.  I am no scholar by any right, but I hope this can create an interest and restore some faith.
 

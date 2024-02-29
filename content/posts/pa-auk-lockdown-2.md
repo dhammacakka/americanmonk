@@ -3,11 +3,11 @@ title: "Pa-Auk Lockdown #2"
 date: 2021-03-22
 authors: 
   - bksubhuti
-image: /images/paauk-lockdown-2.png
-featured_image: /images/paauk-lockdown-2.png
+image: /images/paauk-lockdown-2.webp
+featured_image: /images/paauk-lockdown-2.webp
 ---
 
-![](/images/paauk-lockdown-2.png)
+![](/images/paauk-lockdown-2.webp)
 
 Recently, I have been getting a few messages wishing me safety and wellbeing with the current news floating around the world about events in Myanmar. I can assure you that our lives have not changed much even with the pandemic. Yes, we have been locked down for nearly a year or maybe longer, but monastery life is pretty much the monastery life. The only thing that is different is we wear masks around other monks who seem to care about masks and lately that mask population has been less and less. We have been on strict lockdown, so the odds are slim that Covid will come inside. So basically, we wear masks around the teachers and the Admin monks, and also when we get our food. Besides the masks, and the whispers that float around about politics, life is the same, if not better. Why would it be better? We are a monastery and it is best to “stay” in one. The teachers often do lots of traveling during normal times, but now they are stuck here with us. It is always nice to lock down a teacher and it has inspired many monks to continue with meditation.
 
@@ -23,11 +23,11 @@ With a phone battery that lasts 4 or 5 days, I’ve had extra free time outside 
 
 Below are other things I’ve done with tutorials and lastly the pixar lamp.
 
-![](/images/glasses-and-headphone-1024x576.png)
+![](/images/glasses-and-headphone-1024x576.webp)
 
-![](/images/blender-screen-ballpen-1024x558.png)
+![](/images/blender-screen-ballpen-1024x558.webp)
 
-![](/images/buddha-light2-1024x576.png)
+![](/images/buddha-light2-1024x576.webp)
 
 Before the lockdown started we had 530 residents. Now there are 304 which is almost half of what it was. Recently, a batch of 18 residents just left. They were mostly Vietnamese and a few more are scheduled to go as well. Although the embassies are recommending that we leave, they always do that and try to make you worry for nothing. I’m waiting for them to close the embassy before I consider leaving. I really don’t believe the residents are leaving because of the political issues now. It is more likely that they used it as an excuse to get the permission to go back to their own countries which was difficult during the earlier days of the pandemic. These days, permission to return back to your own country is being granted more easily and there are planes being arranged by the embassies of the respective countries which were not available before. There were two planes arranged by the USA Embassy which I declined. I’m really glad I didn’t go back to the USA in June, 2020. What a mess America was back then. I think a lot of the residents have had enough of the lockdown and they want a change in life and want to be locked down in their own country, or if they are American, they might be eager for the vaccination scheduling. People have a difficult time doing a 10 day retreat. What more could be said about doing years at a single place?
 

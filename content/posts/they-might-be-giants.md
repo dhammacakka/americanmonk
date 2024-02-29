@@ -3,11 +3,11 @@ title: "They might be Giants"
 date: 2015-04-09
 authors: 
   - bksubhuti
-image: /images/giantmonk-samanera.jpg
-featured_image: /images/giantmonk-samanera.jpg
+image: /images/giantmonk-samanera.webp
+featured_image: /images/giantmonk-samanera.webp
 ---
 
-![](/images/giantmonk-samanera.jpg)
+![](/images/giantmonk-samanera.webp)
 
 Original picture lost, but this one from Thailand will do.
 

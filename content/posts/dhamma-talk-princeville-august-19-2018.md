@@ -13,11 +13,11 @@ tags:
   - monk-in-kauai
 authors: 
   - bksubhuti
-image: /images/aug-19.png
-featured_image: /images/aug-19.png
+image: /images/aug-19.webp
+featured_image: /images/aug-19.webp
 ---
 
-- [![](/images/aug-19.png)](https://americanmonk.org/wp-content/uploads/2018/08/aug-19.png)
+- [![](/images/aug-19.webp)](https://americanmonk.org/wp-content/uploads/2018/08/aug-19.webp)
 
 With only 5 minutes left before we were supposed to start, the security guard told us that someone else had the room booked and we would need to move to a smaller amd inferior room.  It was a mistake on their part, and while I did ask to see the schedule book, I opted out because we were running out of time and needed to setup the room again.  It was disturbing and noisy, but we had to make the best of it.  During the process of being notified and moving our setup I said a few times, "I am a monk and we need to be passive......We are Buddhists and need to be passive."  I ended up speaking on a topic related to such an event.  In the end we were right and the other group that took the room apologized to me.  However, we did the right thing and represented The Buddha the correct way.  Before we meditated, I coached them on how to meditate when noises are in the room.  Had we refused to move there would be "no enjoyment" of our gains.  The next time something happens to you like this, remember how a monk should act.  We lost the room but in the end, the purpose was to lean about peace.
 

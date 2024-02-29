@@ -8,8 +8,8 @@ categories:
   - teaching
 authors: 
   - bksubhuti
-image: /images/walkingthumb.png
-featured_image: /images/walkingthumb.png
+image: /images/walkingthumb.webp
+featured_image: /images/walkingthumb.webp
 ---
 
 There are many people who are inside their homes, so I thought it would be good to make a small 10 minute video on how to do basic walking meditation inside the home. Here it is.

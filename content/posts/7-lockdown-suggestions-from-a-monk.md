@@ -8,8 +8,8 @@ tags:
   - meditation
 authors: 
   - bksubhuti
-image: /images/7lockdownsuggestion.png
-featured_image: /images/7lockdownsuggestion.png
+image: /images/7lockdownsuggestion.webp
+featured_image: /images/7lockdownsuggestion.webp
 ---
 
 These days, the lockdowns are in full swing. The question is, "What do you do with your time?" Perhaps you are out of work, or retired like my parents. What do you do? As a monk, lockdowns or "stay at home" orders are not much of a big deal unless a medical problem arises.
@@ -31,7 +31,7 @@ So how can I share this "lockdown contentedness" with you?
 
 ## 1: Schedule & Checklist
 
-![](/images/timesheet.jpg)
+![](/images/timesheet.webp)
 
 Actual Pa-Auk Timesheet
 
@@ -47,17 +47,17 @@ You have more time on your hands, yet you might still think you are busy. Actual
 
 ## 3: Meditation
 
-![](/images/theravada-monk-free-pic-682x1024.jpg)
+![](/images/theravada-monk-free-pic-682x1024.webp)
 
 Meditation is my main job here so I don't have to struggle to juggle a schedule to fit it in. That was why I became a monk in the first place. However, you _should_ struggle to juggle to fit meditation into your schedule. You are forced to stay at home, and this is an opportunity to have some monastic benefits brought to your own home. If you are reading this blog regularly, you have some connection with meditation and should find the time. How long can you schedule? 15 minutes 30 or 1 hour per day? You should start off slowly with small amounts and try to be consistent on a daily level. It is just like physical exercise. Don't binge one time per week. Do what you can, however small on a daily basis. Then when you feel the benefit, you will want more and find the time to write into your schedule. Always use a timer, and when it rings, check off the task you completed. The best book is on my Buddhist [Mindfulness of Breathing](assets/MindfulnessBreathing.pdf), translated by Venerable Nyanamoli.
 
-![](/images/bodhitimer-473x1024.png)
+![](/images/bodhitimer-473x1024.webp)
 
 One of the many meditation timers
 
 ## 4: Diets: Internet & Food
 
-![](/images/Diet-Concept-–-Red-Apple-And-Tape-Measure.jpg)
+![](/images/Diet-Concept-–-Red-Apple-And-Tape-Measure.webp)
 
 diet concept
 
@@ -75,19 +75,19 @@ If you want to reduce certain behaviors, write them down. So put those activitie
 
 ## 5: Exercise and Pedometer
 
-![](/images/pedometer.jpg)
+![](/images/pedometer.webp)
 
 As one who sits for a living, a pedometer is literally a lifesaver It allows me to know when my exercise is not good. Likewise, as I roll into a consistent schedule, I don't need a pedometer as much. I just know.
 
 ## 6: Communication
 
-![](/images/commpics-1.png)
+![](/images/commpics-1.webp)
 
 At monasteries we are encouraged to talk as little as possible because residual thoughts from conversations can seep into the meditation. Nevertheless, I have been trying to connect my parents at least once per week to help them feel less lonely. They are old-school and I call their landline(s)! However, we do video every so often and sometimes with the whole family present. I have also been chatting with my sister more often as well. My brother's job as a therapist has shifted to video conferencing so we have actually reduced our communication during these times.
 
 ## 7: Share With a Friend
 
-![](/images/noun_Influence-Without-Authority_1681597.png)
+![](/images/noun_Influence-Without-Authority_1681597.webp)
 
 Have a friend be your mentor and report about your progress and misgivings. Also share your experience with other your friends after you feel it is going well. When you have someone watching you and helping you keep a wholesome life along the lines of Dhamma, this is what we called a "beautiful friend" (_kalyāṇamitta_). If we have fear of wrong doing and moral shame (hiriottappa) when our good friends look at our reports, this is our protection. So select a good friend and report with joy about the good you have accomplished! Likewise, share your progress with others so they can also try these suggestions and be more happy during these times of lockdown.
 

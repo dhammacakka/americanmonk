@@ -9,11 +9,11 @@ tags:
   - meditation-visa
 authors: 
   - bksubhuti
-image: /images/emabassy-Myanmar.jpeg
-featured_image: /images/emabassy-Myanmar.jpeg
+image: /images/emabassy-Myanmar.webp
+featured_image: /images/emabassy-Myanmar.webp
 ---
 
-[![](/images/emabassy-Myanmar.jpeg)](/images/2018/05/emabassy-Myanmar.jpeg)
+[![](/images/emabassy-Myanmar.webp)](/images/2018/05/emabassy-Myanmar.webp)
 
 ## New Update and Summary:
 

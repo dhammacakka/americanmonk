@@ -13,11 +13,11 @@ tags:
   - vesak
 authors: 
   - bksubhuti
-image: /images/buddhist-flag-rotated.jpg
-featured_image: /images/buddhist-flag-rotated.jpg
+image: /images/buddhist-flag-rotated.webp
+featured_image: /images/buddhist-flag-rotated.webp
 ---
 
-![](/images/buddhist-flag-rotated.jpg)
+![](/images/buddhist-flag-rotated.webp)
 
 6 Color Buddhist Flag
 

@@ -13,11 +13,11 @@ tags:
   - vassa
 authors: 
   - bksubhuti
-image: /images/foodLine-052_Bram.jpg
-featured_image: /images/foodLine-052_Bram.jpg
+image: /images/foodLine-052_Bram.webp
+featured_image: /images/foodLine-052_Bram.webp
 ---
 
-![](/images/Fotos_138_Christian-1024x681.jpg)
+![](/images/Fotos_138_Christian-1024x681.webp)
 
 monks seated for the patimokkha recitation in Pa-Auk Mawlamyine
 
@@ -33,7 +33,7 @@ A synonym for a religious monastics is "The Order". But did you know that "ordin
 
 ## Vassa or Rainy Seasons
 
-![](/images/iit_bhante_deva_me.jpg)
+![](/images/iit_bhante_deva_me.webp)
 
 In this picture, Ven Devananda is to my right even though we were ordained the same day.
 
@@ -53,7 +53,7 @@ Before the Buddha attained Parinibbāna, he made a ruling that junior monks shou
 
 ## Sitting and Eating
 
-![](/images/bowls-IIT-1-e1671964670539-1024x606.jpg)
+![](/images/bowls-IIT-1-e1671964670539-1024x606.webp)
 
 Monks seated in order to eat food at IIT
 
@@ -63,7 +63,7 @@ The same order is followed when the monastics receive food. The most senior mona
 
 ## Paying Respect
 
-![](/images/confession-1024x768.jpg)
+![](/images/confession-1024x768.webp)
 
 Pa Auk Monastery in 2014
 
@@ -75,13 +75,13 @@ The junior monastics pay respect to the senior monastics, but not vice versa. Th
 
 Seniority also determines the roles and responsibilities that the monastics take on within the community. Often, the senior monastics who have over ten years of monastic experience take on teacher roles to other monastics. They teach the Dhamma, the monastic discipline, and the meditation techniques to the junior monastics. They also answer their questions, correct their mistakes, and inspire them to practice diligently. Most importantly , they become "good quality supportive friends" (_kalyāṇamitta_) to the other monastics both senior and junior. A monk who has over 10 years is called a Thera which means elder while a monk with over 20 years is called a Mahāthera (great elder). You might recall that Theravāda means "[The Teaching Of the Elders](https://americanmonk.org/what-is-theravada-buddhism/)" However, in this case, Theravāda is referring to the teachings of the Buddha, his disciples and also the ancient teachers who helped shape the ancient texts.
 
-![](/images/foodLine-052_Bram-1024x682.jpg)
+![](/images/foodLine-052_Bram-1024x682.webp)
 
 Pa Auk Monastery in 2014
 
 The senior monastics also take on leadership roles, such as leading the groups, the ceremonies, and the rituals of the community. They are the ones who make the decisions and the rules for the benefit of all. They also take care of the facilities, the schedules, and the events of the monastery, with the help of the lay supporters.
 
-![](/images/iit_eating_food_sangha.jpg)
+![](/images/iit_eating_food_sangha.webp)
 
 Seating for eating are by ordination dates at IIT
 
@@ -93,7 +93,7 @@ Being junior is also a way for humility to arise. When I [re-ordained](https://a
 
 ## When Flexibility Occurs
 
-![](/images/usubhuti-urevata-interview.jpg)
+![](/images/usubhuti-urevata-interview.webp)
 
 Venerable Revata teaching meditation while he was still a very junior monk (but senior to me)
 
@@ -111,7 +111,7 @@ The most important thing is not the order of seniority, but the quality of the m
 
 There is a story in the mūla vinaya texts that illustrates the importance of seniority and respect among the monastics. The story goes like this:
 
-![](/images/DALL·Epainting-elephant-monkey-partridgepng.jpg)
+![](/images/DALL·Epainting-elephant-monkey-partridgewebp.webp)
 
 > The Buddha then addressed the monks:
 > 

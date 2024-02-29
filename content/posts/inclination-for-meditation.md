@@ -5,11 +5,11 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/grassmeditationfeature.jpg
-featured_image: /images/grassmeditationfeature.jpg
+image: /images/grassmeditationfeature.webp
+featured_image: /images/grassmeditationfeature.webp
 ---
 
-[![grassmeditation~01](/images/grassmeditation01.jpg)](/images/2015/08/grassmeditation01.jpg)
+[![grassmeditation~01](/images/grassmeditation01.webp)](/images/2015/08/grassmeditation01.webp)
 
 These days, most meditators meditate inside buildings on flat and hard surfaces. One should try to meditate outside on a nice grassy area that has a 20 to 30° angle. It does not take much to find such a place and if you do, you might feel there is no need for pillows or other bulky equipment for your comfort. Go ahead and give it a \*try!
 

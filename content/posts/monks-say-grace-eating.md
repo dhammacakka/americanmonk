@@ -14,11 +14,11 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/theravada-buddhism-1769541_1280.jpg
-featured_image: /images/theravada-buddhism-1769541_1280.jpg
+image: /images/theravada-buddhism-1769541_1280.webp
+featured_image: /images/theravada-buddhism-1769541_1280.webp
 ---
 
-![](/images/theravada-buddhism-1769541_1280-1024x681.jpg)
+![](/images/theravada-buddhism-1769541_1280-1024x681.webp)
 
 # How Do Monks Say Grace Before Eating?
 

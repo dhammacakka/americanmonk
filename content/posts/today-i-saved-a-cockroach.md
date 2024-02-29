@@ -10,13 +10,13 @@ tags:
   - save
 authors: 
   - bksubhuti
-image: /images/640px-Amerikanische_Grosschabe_1.jpeg
-featured_image: /images/640px-Amerikanische_Grosschabe_1.jpeg
+image: /images/640px-Amerikanische_Grosschabe_1.webp
+featured_image: /images/640px-Amerikanische_Grosschabe_1.webp
 ---
 
-![](/images/640px-Amerikanische_Grosschabe_1.jpeg)
+![](/images/640px-Amerikanische_Grosschabe_1.webp)
 
-https://commons.wikimedia.org/wiki/File:Amerikanische\_Gro%C3%9Fschabe\_1.JPG
+https://commons.wikimedia.org/wiki/File:Amerikanische\_Gro%C3%9Fschabe\_1.webp
 
 Today I saved an upside down cockroach in my bathroom. I thought he was dead but then saw that he was still alive and moving. I was late for breakfast and decided I would save him after I came back, but I became very overwhelmed with guilt 10 seconds later and could not go further. So I grabbed a tissue and picked him up with care knowing not to squeeze too hard. He crawled out from my loose grip and stood on top of the tissue on the way to the door outside. Although the modern way to do things like this is to take a selfie with the cockroach before saving him, uh.. I didn't do that. This picture up top is from wikimedia. The real roach was smooth oily and black! After my heroic event, I washed my hands and then went to breakfast with a happy mind.
 

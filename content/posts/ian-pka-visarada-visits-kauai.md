@@ -15,25 +15,25 @@ tags:
   - waterfalls
 authors: 
   - bksubhuti
-image: /images/bahnteleiman.jpg
-featured_image: /images/bahnteleiman.jpg
+image: /images/bahnteleiman.webp
+featured_image: /images/bahnteleiman.webp
 ---
 
-![](/images/bahnteleiman-1024x768.jpg)
+![](/images/bahnteleiman-1024x768.webp)
 
 This past July, I had an old friend named Ian Sloan (previously Venerable Visarada ) visit me in Kauai.  He disrobed after being a monk for 25 years. He disrobed because of a conflict of philosophy about what happens at death. It was a combination of accounts from past life regressions in hypnotherapy, what he has read by Edgar Cayce, and the event of his father's death.  He seems to appreciate the Near Death Experiences which can still be explained partially with Buddhism, but he felt it was time to disrobe. 
 
-![](/images/visarada-drawing-letters-1024x579.jpg)
+![](/images/visarada-drawing-letters-1024x579.webp)
 
 Venerable Visarada took a strong liking to Chinese culture in his later years
 
 Although most people suspect women are the cause for disrobing, Ian waited 2 years after disrobing until he started dating again. He later met Maggie from China who is a New Zealand Citizen. After some time, they married. Although it has been a while, they are still very much in love... it is very easy to see that. He is a gentleman to her as you would expect and he also opens up the car door for her every time. Upon his arrival, I offered the lovebirds leis to give them a traditional aloha welcome. However, I also did it to tease Ian about being a "lay-man."  Below is a picture of their arrival.
 
-![](/images/ianmaggai-lei-1024x768.jpg)
+![](/images/ianmaggai-lei-1024x768.webp)
 
 I have kept in contact with him a few times a year and contacted him again when I was figuring out how to make my bowl black again.  When we made our bowls black in Sri Lanka, he was always part of that ritual, spreading the oil on the bowls before they were baked in the makeshift oven fire.  One key point about making the bowl black is preparing the oil.  It is not known by most monks since it not done often.  Basically, you need to pre-cook the oil until it is as thick as honey.   I asked him some questions about preparing the oil, and then we spoke again about my troubles after I did not pre-cook the oil long enough and had bad results. 
 
-![](/images/visarada-makebowl-1024x768.jpg)
+![](/images/visarada-makebowl-1024x768.webp)
 
 Venerable Visarada and Venerable Samita oiling bowls
 
@@ -41,28 +41,28 @@ During our exchanges, one thing led to another, and he started thinking Kauai mi
 
 With that I had several photo ops.. and this was an opportunity for me to post a bunch of "otheries." (photos of me taken by others).  So most of this post is more or less a photo frenzy to show how beautiful Kauai is. The one below is of Poipu
 
-![](/images/mepoipu-1024x768.jpg)
+![](/images/mepoipu-1024x768.webp)
 
 Poipu Heritage Trail
 
 Below is of Waime'a Canyon and a nice waterfall we found along the way.
 
-![](/images/meatfallswaiamea-1024x768.jpg)
+![](/images/meatfallswaiamea-1024x768.webp)
 
 Me at Waime'a Canyon + Waterfall
 
 Here is a usual Thursday meeting at Sukhothai Cafe where everyone takes 5 precepts. Although Ian has kept his 5 precepts all along, I convinced him to take them again anyways.
 
-![](/images/sinha-1024x768.jpg)
+![](/images/sinha-1024x768.webp)
 
 Giving 5 Precepts at Sukhothai Cafe
 
-![](/images/mehianaagain-1024x768.jpg)
+![](/images/mehianaagain-1024x768.webp)
 
 HĀʻENA Beach
 
 Below is Princeville Botanical Garden where I used to live. See [https://americanmonk.org/a-walk-in-the-gardens/](https://americanmonk.org/a-walk-in-the-gardens/)
 
-![](/images/me-pbg-bridge2-1024x768.jpg)
+![](/images/me-pbg-bridge2-1024x768.webp)
 
 Princeville Botanical Gardens where I used to live.

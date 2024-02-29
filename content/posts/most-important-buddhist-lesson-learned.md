@@ -13,8 +13,8 @@ tags:
   - pali
 authors: 
   - bksubhuti
-image: /images/important-lesson-subhuti.jpg
-featured_image: /images/important-lesson-subhuti.jpg
+image: /images/important-lesson-subhuti.webp
+featured_image: /images/important-lesson-subhuti.webp
 ---
 
 A little while ago, I was asked what was the most important lesson learned and what was the most important thing that I taught.  The answer spans two different videos and they are listed below:

@@ -15,13 +15,13 @@ tags:
   - rupa
 authors: 
   - bksubhuti
-image: /images/Einstein_formula_on_blackboard.jpg
-featured_image: /images/Einstein_formula_on_blackboard.jpg
+image: /images/Einstein_formula_on_blackboard.webp
+featured_image: /images/Einstein_formula_on_blackboard.webp
 ---
 
-![](/images/Einstein_formula_on_blackboard.jpg)
+![](/images/Einstein_formula_on_blackboard.webp)
 
-Einstein formula on blackboard see this [link for attributio](https://commons.wikimedia.org/wiki/File:Einstein_formula_on_blackboard_20190401.jpg)n
+Einstein formula on blackboard see this [link for attributio](https://commons.wikimedia.org/wiki/File:Einstein_formula_on_blackboard_20190401.webp)n
 
 The [Mass–energy equivalence](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence) is one of the most famous physics equations known to the general population. Did the Buddha know this beforehand? We all know this formula as the explanation for how nuclear energy works, but we really don' t know much more than that.
 

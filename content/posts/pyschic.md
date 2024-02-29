@@ -10,11 +10,11 @@ tags:
   - psychic
 authors: 
   - bksubhuti
-image: /images/crystalball.jpg
-featured_image: /images/crystalball.jpg
+image: /images/crystalball.webp
+featured_image: /images/crystalball.webp
 ---
 
-![](/images/crystalball-1024x592.jpg)
+![](/images/crystalball-1024x592.webp)
 
 Accused of Being Psychic
 

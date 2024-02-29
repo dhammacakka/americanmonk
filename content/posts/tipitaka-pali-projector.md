@@ -7,13 +7,13 @@ tags:
   - learn-pali
 authors: 
   - bksubhuti
-image: /images/asoka.png
-featured_image: /images/asoka.png
+image: /images/asoka.webp
+featured_image: /images/asoka.webp
 ---
 
 ## NOTE: Tipitaka Pāḷi Reader is the new Pāḷi Reading app. Click link below:
 
-![](/images/TPR-billboard.png)
+![](/images/TPR-billboard.webp)
 
 ### Tipitaka Pali Reader
 
@@ -21,7 +21,7 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 ## If you are still interested you can read below:
 
-![](/images/asoka.png)
+![](/images/asoka.webp)
 
 News:
 
@@ -43,13 +43,13 @@ News:
 
 - October 11, 2020: Version 1.06 is now released... Download now...
 
-[![](/images/Windows_10_logo.png)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab) [(Windows Store)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab)   [![](/images/200px-MacOS_logo_2017.svg_.png)](https://apps.apple.com/us/app/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/id1541426949) old version 1.06
+[![](/images/Windows_10_logo.webp)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab) [(Windows Store)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab)   [![](/images/200px-MacOS_logo_2017.svg_.webp)](https://apps.apple.com/us/app/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/id1541426949) old version 1.06
 
-[![](/images/debian.png)](https://snapcraft.io/tipitaka-pali-projector)  [(Ubuntu Snap Store)](https://snapcraft.io/tipitaka-pali-projector)    [![](/images/200px-.zip_OneDrive_icon.svg_.png)](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/v1.0.6.zip) [(Zip 156MB) for firefox](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/refs/heads/master.zip)
+[![](/images/debian.webp)](https://snapcraft.io/tipitaka-pali-projector)  [(Ubuntu Snap Store)](https://snapcraft.io/tipitaka-pali-projector)    [![](/images/200px-.zip_OneDrive_icon.svg_.webp)](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/v1.0.6.zip) [(Zip 156MB) for firefox](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/refs/heads/master.zip)
 
- ![](/images/480px-Android-logo.png) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapaliprojector)
+ ![](/images/480px-Android-logo.webp) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapaliprojector)
 
- ![](/images/App_Store_iOS_11_Custom_size.png) [(iOS Store)](https://apps.apple.com/us/app/id1541426949) Different App called TPR 
+ ![](/images/App_Store_iOS_11_Custom_size.webp) [(iOS Store)](https://apps.apple.com/us/app/id1541426949) Different App called TPR 
 
 Mac OS users.
 
@@ -73,49 +73,49 @@ This release is available for Windows, Mac Os and Linux (deb) and now supports a
 
 TPP is a software program to help one navigate the vast amounts of Pāḷi texts. It includes, 21 English Ebooks that can be displayed side by side with the Pāḷi texts. The Dictionaries and Search functions are where TPP separates itself from the other Pāḷi readers. It is very fast and totally off-line. It works on Windows as an installable Exe or MacOS DMG file too. The project can also run on any operating system that supports FireFox Web Browser. This application was created at Pa-Auk Forest Monastery in Maymyo. The FireFox version supports Sinhala, Myanmar, Thai and Devanagiri Scripts.
 
-![](/images/image-4.png)
+![](/images/image-4.webp)
 
-![](/images/image-3.png)
+![](/images/image-3.webp)
 
 You can open any book easily with a tree control. Just click to expand, and click to open. It will open the entire book within a few seconds with a Table of Contents and quick jumps to your favorite suttas. English mode, in the settings, will open the same book on the right hand side.
 
-![](/images/image-1024x554.png)
+![](/images/image-1024x554.webp)
 
 TPP Sample
 
 The Search function is fast.. very very fast. Click on the matrix to limit your search or select all books. As you type, we show you what is available. Click on the word and jump to your searches quickly by list or with a table of search results. Top checkboxes can immediately select the root texts, or left most checkboxes can select according to text name, and commentaries. Get all searches organized in a table. Click to expand and click to view inside the text.
 
-![](/images/image-1-1024x556.png)
+![](/images/image-1-1024x556.webp)
 
-![](/images/image-5.png)
+![](/images/image-5.webp)
 
 Click to expand search table. Click on yellow word to open text
 
-![](/images/image-6.png)
+![](/images/image-6.webp)
 
 Automatically opens and highlights the word you searched for
 
-![](/images/image-2-1024x447.png)
+![](/images/image-2-1024x447.webp)
 
 DIctionary Functions
 
 The Dictionary panel can display multiple definitions from the selected dictionaries. You can disable or enable them with a simple click to the checkboxes. You can even search for English words you may want to understand clearer by clicking on the english words inside the panel. The dictionaries are also integrated with Sanskrit. If you see a Sanskrit inside a PTS definition, you can click on that word and see the Sanskrit definition in the SED. Just click on the words inside the definitions and start surfing. You can also type Velthius letters that automatically transform to unicode and get a list of words as you type. TPP Pali dictionaries supported are: English, Chinese, German, Hindi, Indonesian, Myanmar, Sinhala, and Vietnamese. We boast 400 MB of Dictionaries when expanded!
 
-![](/images/image-7.png)
+![](/images/image-7.webp)
 
-![](/images/image-8.png)
+![](/images/image-8.webp)
 
 You can learn about the declensions by simply clicking on your Declension tab and then clicking on a word. If there is a table for the word, we have you covered.
 
-![](/images/image-12.png)
+![](/images/image-12.webp)
 
 If you are one who uses Anki to learn new words. TPP has full integration with Anki. We keep track of all of the words you have clicked on, complete with the sentence source text, and definition. The keyword will also be bold inside the sample sentence. Simply export the Anki file and then import into Anki. Within a few minutes you can import hundreds of words for the texts you wish to study.
 
-![](/images/image-9.png)
+![](/images/image-9.webp)
 
-![](/images/image-10.png)
+![](/images/image-10.webp)
 
-![](/images/image-11-1024x504.png)
+![](/images/image-11-1024x504.webp)
 
 Watch and subscribe to our [YouTube channel](https://www.youtube.com/channel/UCMKjBJT7vMjyWt8RU4lpiDg) to understand more about the new features as they get developed. If you are a firefox user, it is essential to watch a video understand how to change the security to make it work.
 
@@ -133,17 +133,17 @@ or download the source zip [here](https://github.com/bksubhuti/Tipitaka-Pali-Pro
 
 Auto Update is available with the Windows exe and MacOS dmg versions. We will let you know automatically.
 
-![](/images/image-16.png)
+![](/images/image-16.webp)
 
-## ![](/images/image-15.png) Firefox Instructions:
+## ![](/images/image-15.webp) Firefox Instructions:
 
 Download the zip listed up top. To make Firefox work you need to type **about:config** in the address bar to get the advanced preferences. The search for **security.fileuri.strict.origin.policy** and set it to **false**. Tablets and phones might want to set the **layout.css.devPixelsPerPx** to **1.5** to fit better in a smaller screen area.
 
 There has recently been a controversial upgrade that has removed about:config. I have contacted mozilla (FireFox) and located an older version on their website. It is not recommended to go elsewhere. The current beta release app from the Google Play Store should work as well. Link for older version is here: [http://archive.mozilla.org/pub/mobile/releases/68.8.0/android-aarch64/en-US/](http://archive.mozilla.org/pub/mobile/releases/68.8.0/android-aarch64/en-US/)
 
-![](/images/image-13-1024x198.png)
+![](/images/image-13-1024x198.webp)
 
-![](/images/image-14-1024x229.png)
+![](/images/image-14-1024x229.webp)
 
 # PRIVACY POLICY:
 

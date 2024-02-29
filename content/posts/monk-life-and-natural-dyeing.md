@@ -12,20 +12,20 @@ tags:
   - tree-bark
 authors: 
   - bksubhuti
-image: /images/rolling1.jpg
-featured_image: /images/rolling1.jpg
+image: /images/rolling1.webp
+featured_image: /images/rolling1.webp
 ---
 
-![](/images/cookingdye-monk-rotated.jpg)
+![](/images/cookingdye-monk-rotated.webp)
 
 A venerable tending the fire for cooking dye
 
   
 Here are pictures about the natural dyeing process. The monks boil the ironwood tree bark chips for a long time (days). When a drop of dye is dropped in a glass of water, a ball will form and sink to the bottom. At that point, the dye master will empty that batch of dye into containers and then reboil the same chips with fresh water to make more dye. You can do this two or three times before the chips are used up.
 
-- ![](/images/rolling1.jpg)
+- ![](/images/rolling1.webp)
     
-- ![](/images/rolling2.jpg)
+- ![](/images/rolling2.webp)
     
 
 Cold-rolling the dye into the robes
@@ -34,18 +34,18 @@ The dye is added by sprinkling just a little bit onto the robe and then rolling 
 
 This process is different from regular dying and I suspect that the art of natural dying is not done correctly. I have researched this and there is an American yogi I know who has a masters in Chemistry and he also used to own a chemical manufacturing company in Vietnam. I have asked him to research this process and he has pledged to help us rediscover this ancient art upon his return. In the meantime, this is the only method we have and it is better to store the freshly dyed robe in a plastic bag overnight or longer for better results.
 
-- ![](/images/cookingdye1.jpg)
+- ![](/images/cookingdye1.webp)
     
-- ![](/images/cookingdye2.jpg)
+- ![](/images/cookingdye2.webp)
     
-- ![](/images/dye-stove-rotated.jpg)
+- ![](/images/dye-stove-rotated.webp)
     
 
 The cooking process takes days
 
 Chemical dyes are done much differently by making a dye bath and then boiling the robe in a large pot for about 25 minutes. The dye sticks much better this way.
 
-![](/images/modern-dye-chicago-1024x768.jpeg)
+![](/images/modern-dye-chicago-1024x768.webp)
 
 Chemical Dye on a stove top
 

@@ -11,13 +11,13 @@ tags:
   - story
 authors: 
   - bksubhuti
-image: /images/seedslongago.jpg
-featured_image: /images/seedslongago.jpg
+image: /images/seedslongago.webp
+featured_image: /images/seedslongago.webp
 ---
 
 # **The Seeds From Long Ago**
 
-![](/images/seedslongago-1024x768.jpg)
+![](/images/seedslongago-1024x768.webp)
 
 I remember when I first learned how to meditate on my breath some time in 1990, during my university years. Back then, meditation was not so well known. The beat generation's Zen trend in the 60's had died out with disco in the 70's. Barnes and Noble maybe had only a few shelves in a single bookcase labeled with "Eastern Philosophy" that covered all Eastern religions, including Buddhism. Ram Das's cryptic book, _Be Here Now_ was the only book I had read prior to reading my World Religions book, which had included a chapter on Buddhism for a class I took. It was different in the early 90's. There wasn't a world wide web, Google or even Yahoo. We didn't have Idiot or Dummy books back then either. While there were books out there, you really had to explore a subculture, and _you had to know someone_ in order to know what the subcultures were and where to find them.
 

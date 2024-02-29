@@ -10,11 +10,11 @@ tags:
   - gifts
 authors: 
   - bksubhuti
-image: /images/boxingday.jpg
-featured_image: /images/boxingday.jpg
+image: /images/boxingday.webp
+featured_image: /images/boxingday.webp
 ---
 
-![](/images/boxingday.jpg)
+![](/images/boxingday.webp)
 
 Robin Hutton cc-nc-sa https://www.flickr.com/photos/robinhutton/35838229270
 

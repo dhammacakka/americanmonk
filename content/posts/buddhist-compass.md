@@ -12,8 +12,8 @@ tags:
   - qibla
 authors: 
   - bksubhuti
-image: /images/buddhist_compass-1.jpg
-featured_image: /images/buddhist_compass-1.jpg
+image: /images/buddhist_compass-1.webp
+featured_image: /images/buddhist_compass-1.webp
 ---
 
 ![](https://play-lh.googleusercontent.com/RLdLjTdLL7lUZijOYgJzXU0iw_8GGkUJx7khyOLQE1hsliPdG5tDVQv4VKKK6uc0-bR0)
@@ -36,13 +36,13 @@ https://www.youtube.com/watch?v=kXF0N64RBs4
 
 You can find other software I such as [Buddhist Sun](https://americanmonk.org/buddhist-sun-app/) or [Tipitaka Pali Reader](https://americanmonk.org/tipitaka-pali-reader/) which I project manage.
 
-![](/images/TPR-billboard.png)
+![](/images/TPR-billboard.webp)
 
 ### Tipitaka Pali Reader
 
 A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
-![](/images/buddhist_sun.png)
+![](/images/buddhist_sun.webp)
 
 ### Buddhist Sun App
 

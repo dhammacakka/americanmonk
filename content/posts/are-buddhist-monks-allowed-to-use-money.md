@@ -12,13 +12,13 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/1024px-Buddhist_money_tree_with_toilet_paper.jpg
-featured_image: /images/1024px-Buddhist_money_tree_with_toilet_paper.jpg
+image: /images/1024px-Buddhist_money_tree_with_toilet_paper.webp
+featured_image: /images/1024px-Buddhist_money_tree_with_toilet_paper.webp
 ---
 
-![](/images/1024px-Buddhist_money_tree_with_toilet_paper.jpg)
+![](/images/1024px-Buddhist_money_tree_with_toilet_paper.webp)
 
-A Money tree in Laos cc-by-attrib-sa https://commons.wikimedia.org/wiki/File:Buddhist\_money\_tree\_with\_toilet\_paper.jpg
+A Money tree in Laos cc-by-attrib-sa https://commons.wikimedia.org/wiki/File:Buddhist\_money\_tree\_with\_toilet\_paper.webp
 
 Are Buddhist monks allowed to use money? The short answer is that monks are definitely not allowed to even touch money for all traditions; Theravāda, Mahayāna, and Tibetan. However, it is very common for monks to not only accept money from lay people without shame, but they even encourage lay people to offer the money. Nevertheless, it is still a rule and there are heavy consequences if this becomes a lifetime habit and a wrong mode of livelihood. In the Theravāda, you are likely to find less than 2% of monks who follow such rules. While 2% seems like very little there might be over 5,000 monks who follow such rules world wide.\[mfn\]Thailand and Sri Lanka might be around 5%. However since there are 300,000 monks in Myanmar which dwarfs all totals from all other countries, this number probably goes down to around 2% since Myanmar is 1% or less \[/mfn\]
 

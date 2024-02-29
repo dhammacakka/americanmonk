@@ -9,11 +9,11 @@ tags:
   - praying
 authors: 
   - bksubhuti
-image: /images/prayer-india.png
-featured_image: /images/prayer-india.png
+image: /images/prayer-india.webp
+featured_image: /images/prayer-india.webp
 ---
 
-![](/images/prayer-india-1024x718.png)
+![](/images/prayer-india-1024x718.webp)
 
 India 2011
 

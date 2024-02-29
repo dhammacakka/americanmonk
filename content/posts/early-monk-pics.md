@@ -6,17 +6,17 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/me-earliest.jpg
-featured_image: /images/me-earliest.jpg
+image: /images/me-earliest.webp
+featured_image: /images/me-earliest.webp
 ---
 
 I recently turned 49 and I found some old pictures of myself that I thought I would share. It is very difficult to get older pictures of myself because it was before the digital picture revolution. In those days, we used to hire (through a helper) the man known as "photoman" who had a camera and would take one single picture and then sell the prints for about $1 each. It was very expensive for locals to develop a whole role of film and this was how it was done. The first picture exists only as a scan from a friend who had this on his website long ago. The second picture I still have (laminated) and the third picture was sent to me by a friend who spotted this picture frame hanging up at Sayadaw U Khundadhana's monastery in Dawei, Myanmar.
 
-![](/images/me-earliest.jpg)
+![](/images/me-earliest.webp)
 
-![](/images/20130507_164503-e1570518818871-768x1024.jpg)
+![](/images/20130507_164503-e1570518818871-768x1024.webp)
 
-![](/images/me-and-ukho-1024x768.jpg)
+![](/images/me-and-ukho-1024x768.webp)
 
 The first picture might be one of the earliest pictures I have. It might be from 2001 which is shortly after I ordained. If you have been to Venerable Pa-Auk Sayadaw’s mountain kuti, you will notice that the path to it is not tiled, there is no covered walkway, the trees are extremely young (like myself) and … ehem, my robes are very sloppy and not even like in the second picture.
 

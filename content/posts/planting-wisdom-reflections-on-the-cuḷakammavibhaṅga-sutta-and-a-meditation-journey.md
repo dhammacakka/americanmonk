@@ -9,8 +9,8 @@ tags:
   - karma
 authors: 
   - bksubhuti
-image: /images/Planting-Wisdom.png
-featured_image: /images/Planting-Wisdom.png
+image: /images/Planting-Wisdom.webp
+featured_image: /images/Planting-Wisdom.webp
 ---
 
 In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of reconnecting with my first meditation teacher after nearly two decades. The focus is on the seeds of kamma that we plant continuously through our actions. What kind of seeds are we planting right now?
@@ -19,7 +19,7 @@ In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of 
 
 https://www.youtube.com/watch?v=Iq7LED3zIJo
 
-![](/images/seedslongago.jpg)
+![](/images/seedslongago.webp)
 
 ### The Seeds From Long Ago
 

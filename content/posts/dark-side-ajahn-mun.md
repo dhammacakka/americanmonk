@@ -11,11 +11,11 @@ tags:
   - thailand
 authors: 
   - bksubhuti
-image: /images/cover_venerable-acariya-mun-bhuridatta-thera.png
-featured_image: /images/cover_venerable-acariya-mun-bhuridatta-thera.png
+image: /images/cover_venerable-acariya-mun-bhuridatta-thera.webp
+featured_image: /images/cover_venerable-acariya-mun-bhuridatta-thera.webp
 ---
 
-![](/images/cover_venerable-acariya-mun-bhuridatta-thera.png)
+![](/images/cover_venerable-acariya-mun-bhuridatta-thera.webp)
 
 Ajahn Mun dark
 

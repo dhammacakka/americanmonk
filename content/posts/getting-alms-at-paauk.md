@@ -11,8 +11,8 @@ tags:
   - paauk-meal
 authors: 
   - bksubhuti
-image: /images/pa-auk-almsline.jpg
-featured_image: /images/pa-auk-almsline.jpg
+image: /images/pa-auk-almsline.webp
+featured_image: /images/pa-auk-almsline.webp
 ---
 
 My father asked me what the food was like. Here is a small video going through the alms-line at Pa-Auk

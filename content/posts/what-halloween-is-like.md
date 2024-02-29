@@ -3,8 +3,8 @@ title: "What Halloween is like"
 date: 2014-11-02
 authors: 
   - bksubhuti
-image: /images/halloween.jpg
-featured_image: /images/halloween.jpg
+image: /images/halloween.webp
+featured_image: /images/halloween.webp
 ---
 
 **What Halloween is like** (Alms story inside) Since a good chunk of you are not American, I thought it would be fun to reshare this Halloween picture direct from my hometown in West Hartford, CT. The kids dress up as .... well anything they want, and then they go house to house and ring the doorbells and say "Trick or Treat!" After that, the person at the door is somewhat obligated by culture to give small sized candy bars to the kids. The bags, which are ambitiously sized in this photo, are used to collect the candy.

@@ -12,8 +12,8 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: /images/LovingkindnessWatKhao-1.png
-featured_image: /images/LovingkindnessWatKhao-1.png
+image: /images/LovingkindnessWatKhao-1.webp
+featured_image: /images/LovingkindnessWatKhao-1.webp
 ---
 
 https://www.youtube.com/watch?v=00t5\_a8L9Xg&feature=youtu.be This is a Dhamma Talk I gave at Wat Khao Sanamachai about Kauai, alms and how loving-kindness wins battles.. It is translated into Thai by a Lao monk who lives there. The full story can be seen at https://subhuti.withmetta.net/2015/11/26/676/

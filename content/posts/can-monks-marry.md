@@ -8,11 +8,11 @@ tags:
   - monk
 authors: 
   - bksubhuti
-image: /images/marry.png
-featured_image: /images/marry.png
+image: /images/marry.webp
+featured_image: /images/marry.webp
 ---
 
-![](/images/marry.png)
+![](/images/marry.webp)
 
 cc0 picture
 
@@ -40,7 +40,7 @@ The most important class of rules is called Pārājika or the "Rules Involving D
 
 Below is a screen shot of a book that compares the rules of monks. From A Comparative Studio of Prātimokṣa by W Pachow, PhD.
 
-![](/images/paraj-compare.png)
+![](/images/paraj-compare.webp)
 
 So in certain Tibetan sects, they do have lamas that marry. They have two classes of lamas and they look identical in the robes they wear to an average outsider. However, one is a bhikṣu (Skt. monk) and the other is a lay person. If a Tibetan bhikṣu breaks the rule, he too is guilty of the offense of defeat. He should be defrocked and never to ordain again.
 
@@ -50,7 +50,7 @@ There is one exception to this. If the monk ordained in a tradition that was alr
 
 There are also heavy rules that do not defeat the monk, but they are quite serious and are not easy to resolve and purify. There are rules for emitting semen, touching women which also go across all Buddhist traditions. If you see a monk touching women with an altered mind of desire in Mahayana or Tibetan traditions let alone Theravada, know that this is also a heavy offense that requires special rehabilitation by his monastic peers. The purpose is to prevent the monk from breaking the rule of sex, but also breaking the way monks should act in general. The logic is, if you do not touch, you cannot break the rule. With or without desire, monks should not touch women. Why? Because the mind is quick and desire is quick to arise for one who is fully celibate and sensing the touch of a woman. That is why it is a rule to never touch a woman even without desire. Touching without desire is a small rule, but a rule to prevent the related heavy rules from arising. Furthermore, there are rules for direct and indirect lewd words which often precedes basic touching. Lastly, it is also a heavy offense to help others get married including performing marriage ceremonies (rule #5) Such actions also need rehabilitation by their monastic peers. Often we casually refer to it as a prison monastery. Several Pa-Auk branch monasteries have such "monastic rehabilitation monasteries". Below is a chart showing the rules:
 
-![](/images/sd-chart-compare.png)
+![](/images/sd-chart-compare.webp)
 
 First 5 rules involving rehabilitation by monastic peers (monk-prison) 6 nights or more.
 
@@ -58,7 +58,7 @@ First 5 rules involving rehabilitation by monastic peers (monk-prison) 6 nights 
 
 Monks cannot marry if they are indeed ordained monks. They cannot speak lewd words or touch women with or without desire. There should also be no marriage ceremonies performed by monks. It is important for lay people to know some of the major rules and question when these rules are broken.
 
-![](/images/monk-marriage-dalle.png)
+![](/images/monk-marriage-dalle.webp)
 
 ### Are Monks Allowed To Perform Marriages?
 

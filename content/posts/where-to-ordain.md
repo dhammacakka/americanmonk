@@ -3,11 +3,11 @@ title: "Where to Ordain?"
 date: 2020-09-04
 authors: 
   - bksubhuti
-image: /images/pabbajja.resized.jpg
-featured_image: /images/pabbajja.resized.jpg
+image: /images/pabbajja.resized.webp
+featured_image: /images/pabbajja.resized.webp
 ---
 
-![](/images/pabbajja.resized.jpg)
+![](/images/pabbajja.resized.webp)
 
 Pabbajja Ordination in Pa Auk (8th April 2014)
 

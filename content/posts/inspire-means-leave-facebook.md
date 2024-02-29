@@ -11,11 +11,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/no-facebook.png
-featured_image: /images/no-facebook.png
+image: /images/no-facebook.webp
+featured_image: /images/no-facebook.webp
 ---
 
-[![](/images/no-facebook.png)](/images/2018/01/no-facebook.png)
+[![](/images/no-facebook.webp)](/images/2018/01/no-facebook.webp)
 
 # Inspire Means To Leave Facebook
 

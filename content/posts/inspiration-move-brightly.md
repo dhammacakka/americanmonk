@@ -15,11 +15,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/alms-varansi.jpg
-featured_image: /images/alms-varansi.jpg
+image: /images/alms-varansi.webp
+featured_image: /images/alms-varansi.webp
 ---
 
-\[caption id="attachment\_966" align="alignnone" width="2048"\][![Alms](/images/alms-varansi.jpg)](/images/2017/01/alms-varansi.jpg) Alms\[/caption\]
+\[caption id="attachment\_966" align="alignnone" width="2048"\][![Alms](/images/alms-varansi.webp)](/images/2017/01/alms-varansi.webp) Alms\[/caption\]
 
 Inspiration is like a bright star that shines among the dim.  In Monastic life, there are few monasteries or monks that really inspire people.  Following the vinaya (or rules) inspires people.  It is tried and tested.
 

@@ -8,11 +8,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/monkline.jpg
-featured_image: /images/monkline.jpg
+image: /images/monkline.webp
+featured_image: /images/monkline.webp
 ---
 
-\[caption id="attachment\_786" align="alignnone" width="764"\][![Sima of Varanasi Monastery](/images/sima3.jpg)](/images/2016/05/sima3.jpg) Sima of Varanasi Monastery\[/caption\]
+\[caption id="attachment\_786" align="alignnone" width="764"\][![Sima of Varanasi Monastery](/images/sima3.webp)](/images/2016/05/sima3.webp) Sima of Varanasi Monastery\[/caption\]
 
  
 
@@ -32,18 +32,18 @@ The pictures you see below are:
 
 2.The three story Dorm and learning building
 
-\[caption id="attachment\_781" align="alignnone" width="1280"\][![3 Story Building](/images/3story.jpg)](/images/2016/05/3story.jpg) 3 Story Building\[/caption\]
+\[caption id="attachment\_781" align="alignnone" width="1280"\][![3 Story Building](/images/3story.webp)](/images/2016/05/3story.webp) 3 Story Building\[/caption\]
 
 3\. The new Mahabodhi styled pagoda (which has approx 36 meditation cells “Goenka Style”)  (also inside view too)
 
-[![pagoda](/images/pagoda.jpg)](/images/2016/05/pagoda.jpg) [![pagodainside](/images/pagodainside.jpg)](/images/2016/05/pagodainside.jpg)
+[![pagoda](/images/pagoda.webp)](/images/2016/05/pagoda.webp) [![pagodainside](/images/pagodainside.webp)](/images/2016/05/pagodainside.webp)
 
 4. The monks in line
 
-[![monkline](/images/monkline.jpg)](/images/2016/05/monkline.jpg)
+[![monkline](/images/monkline.webp)](/images/2016/05/monkline.webp)
 
 5\.  Servers donating the meal
 
-[![servers](/images/servers.jpg)](/images/2016/05/servers.jpg)
+[![servers](/images/servers.webp)](/images/2016/05/servers.webp)
 
 To get to Varanasi, simply take a taxi or bus to “Tiger Beer Factory” and look for the red Varanasi sign on the village side of the road. Then follow the signs about 1 mile inside.

@@ -12,11 +12,11 @@ tags:
   - travel
 authors: 
   - bksubhuti
-image: /images/cooler.jpg
-featured_image: /images/cooler.jpg
+image: /images/cooler.webp
+featured_image: /images/cooler.webp
 ---
 
-[![cooler](/images/cooler.jpg)](/images/2016/05/cooler.jpg)
+[![cooler](/images/cooler.webp)](/images/2016/05/cooler.webp)
 
 I remember when I went to America in 2008 with one of my monastic friends named Ven. Visarada. He was an experienced monk and had good ascetic practices. When we went to America, he did not have any luggage and brought everything he owned with him. Instead of using luggage, he used a simple cardboard box. It is simple, easy to get, easy to dispose of and also more suitable for a monk than fancy luggage.
 

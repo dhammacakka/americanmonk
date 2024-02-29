@@ -9,8 +9,8 @@ tags:
   - rainy-season
 authors: 
   - bksubhuti
-image: /images/good-night-full-moon-moonlight-night.jpg
-featured_image: /images/good-night-full-moon-moonlight-night.jpg
+image: /images/good-night-full-moon-moonlight-night.webp
+featured_image: /images/good-night-full-moon-moonlight-night.webp
 ---
 
 **Please note:** this was written in 2020 but also applies to 2023. Vassa starts on August 1, 2023.
@@ -40,7 +40,7 @@ The Solar Calendar is 365 days per year.
 The Lunar Calendar is 354 days per year.  
 The Lunar Month is 29 days and 12 hours and change.
 
-![](/images/800px-2020_Lunar_Calendar.png)
+![](/images/800px-2020_Lunar_Calendar.webp)
 
 From Wikipedia
 

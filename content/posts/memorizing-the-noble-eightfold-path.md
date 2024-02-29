@@ -12,11 +12,11 @@ tags:
   - youtube
 authors: 
   - bksubhuti
-image: /images/8foldpath.png
-featured_image: /images/8foldpath.png
+image: /images/8foldpath.webp
+featured_image: /images/8foldpath.webp
 ---
 
-![](/images/8foldpath-1024x607.png)
+![](/images/8foldpath-1024x607.webp)
 
 I took a small poll among seasoned Buddhists to see who could list all eight factors of The Noble Eightfold Path in English from memory and not many did so well. How can one follow a Path that one does not know? These factors should be said to oneself daily if one truly wishes to walk on the Path. To help with Buddhist literacy, I made a basic video that helps people memorize The Noble Eightfold Path in English. May this help you in your Path. Click on the picture below to see in youtube, or click [here.](https://www.youtube.com/watch?v=GBgT6_rJ1bQ)
 

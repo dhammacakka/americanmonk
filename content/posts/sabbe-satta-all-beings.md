@@ -12,8 +12,8 @@ tags:
   - samanera
 authors: 
   - bksubhuti
-image: /images/sabbesatta2.jpg
-featured_image: /images/sabbesatta2.jpg
+image: /images/sabbesatta2.webp
+featured_image: /images/sabbesatta2.webp
 ---
 
 reposted from [https://withmetta.net](https://withmetta.net) (2016) . When a Buddhist monk says _“sabbe satta,”_ that is a shorthand for _metta_ practice. “_Sabbe satta_” means “all beings.”
@@ -28,7 +28,7 @@ He confidently concluded his explanation again with the words, “Sabbe Satta.�
 
 When we know the deep meaning of some small words, they can transform into big words. When we chant the loving-kindness practice chant, we start with “sabbe satta” and then go through a list of all the different beings, and then go through a list of the ten directions, and then we go through the four phrases. This is to bring to mind the loving kindness for “Sabbe Satta.”
 
-![](/images/sabbesatta2-1024x768.jpg)
+![](/images/sabbesatta2-1024x768.webp)
 
 Here is the loving-kindness chant below:  
 Translated by Ven. Anandajoti  

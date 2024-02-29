@@ -13,8 +13,8 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: /images/3-stories.png
-featured_image: /images/3-stories.png
+image: /images/3-stories.webp
+featured_image: /images/3-stories.webp
 ---
 
 There are three stories of loving-kindness told in the video posted below. The first story is from Kaua'i, Hawai'i, when a person did not want me on "his" street. Through the power of loving-kindness, things changed. Another story was also from the island in 2015. There were children on bicycles who were yelling at us to go away on multiple days. Through the power of loving-kindness, things changed. The last story is from 2011 during a trip to India. The loving-kindness did not change the other, but a different outcome was the result.

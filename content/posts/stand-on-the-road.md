@@ -11,11 +11,11 @@ tags:
   - monk
 authors: 
   - bksubhuti
-image: /images/20180516_094919-e1526506667615.jpg
-featured_image: /images/20180516_094919-e1526506667615.jpg
+image: /images/20180516_094919-e1526506667615.webp
+featured_image: /images/20180516_094919-e1526506667615.webp
 ---
 
-![](/images/20180516_094919-e1526506667615-768x1024.jpg)
+![](/images/20180516_094919-e1526506667615-768x1024.webp)
 
 That is me going for alms on Aalona Street Kilauea.
 
@@ -23,13 +23,13 @@ I have a Christmas story for you. I have tried to keep it short but it didn't wo
 
 When I was in Kaua'i on from 2017-2019, an 18 month run, I made it a point to go for alms by the house to house loving-kindness method on Tuesdays and Wednesdays as a way to get food. Early on, I was invited to Waiapua Road while standing in front of Hanalei Big Save which was my Monday stop. This lady offered me food from the store after I refused to accept money and explained how things are normally done in Thailand for house alms. I explained further that the supermarket is a another way to get food in the West. After I gave the blessing, she said, "Oh, you really should come to our neighborhood! My house is such and such with the two palms, etc." And so an alms round was born. I went to her street for well over a year. Ironically, most of the time, we would not see each other. Houses in America are often isolated, and the residents often don't know what goes on outside on their street.
 
-![](/images/meatbigsave1.rsz_-1024x768.jpg)
+![](/images/meatbigsave1.rsz_-1024x768.webp)
 
 How I would collect food. Impromptu and rare picture by Ian (ex-Visarada)
 
 Eventually, just about everyone came outside at least once to say hello and find out what I was about. After some time, I was able to get food from that neighborhood but not always. In those cases, I had some backups. The local pharmacy owner named "Shri" offered me "shoplifting rights," but since I'm not allowed to take things that are not offered, I had to wait for a worker to take the items off the shelf for me and put them in my bowl. I often asked for the dented cans of soup as a priority over the new ones and sometimes joked that I forgot my hammer (to make them dented). That pharmacy had really kind, open minded and happy staff.
 
-![](/images/almsMap-1024x677.png)
+![](/images/almsMap-1024x677.webp)
 
 Alms Map: Takes about 90 minutes to complete with Loving-kindness method
 
@@ -76,16 +76,16 @@ And so that is my Hawai'ian Christmas Story for you.
 
 Aloha!
 
-![](/images/cropped-IMG_20190403_182709-1024x1024.jpg)
+![](/images/cropped-IMG_20190403_182709-1024x1024.webp)
 
 Me at Hideaway Beach, Princeville, Kaua'i, HI
 
 Below are just a couple of the many regular donors: They are not the parents I spoke of above, but it is a small neighborhood and they all know who is who. This neighborhood was really kind to me.
 
-![](/images/auntisharenandunclejack-1024x768.jpg)
+![](/images/auntisharenandunclejack-1024x768.webp)
 
 Auntie Sharon and her husband Uncle Jack (she was looking outside during the hurricane and started talking with me).
 
-![](/images/koral-fam-1024x768.jpg)
+![](/images/koral-fam-1024x768.webp)
 
 [Koral](https://americanmonk.org/koral-inspires-me/) and her parents who give her food for her donation in my bowl

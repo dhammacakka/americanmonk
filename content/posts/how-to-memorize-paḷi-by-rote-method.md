@@ -11,11 +11,11 @@ tags:
   - patimokkha
 authors: 
   - bksubhuti
-image: /images/subhutiMemPalititle.png
-featured_image: /images/subhutiMemPalititle.png
+image: /images/subhutiMemPalititle.webp
+featured_image: /images/subhutiMemPalititle.webp
 ---
 
-![](/images/subhutiMemPalititle-1024x576.png)
+![](/images/subhutiMemPalititle-1024x576.webp)
 
 Title Page
 

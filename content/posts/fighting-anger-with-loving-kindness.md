@@ -15,11 +15,11 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: /images/sword.png
-featured_image: /images/sword.png
+image: /images/sword.webp
+featured_image: /images/sword.webp
 ---
 
-[![](/images/sword-300x295.png)](https://americanmonk.org/wp-content/uploads/sword.png)
+[![](/images/sword-300x295.webp)](https://americanmonk.org/wp-content/uploads/sword.webp)
 
 Recently, I ran into a very angry man who came out of his house yelling at me and coming closer and closer.  Eventually, I won the fight with my two big weapons, loving-kindness and my commitment of being free from money for all these years.  I have been going for alms in this neighborhood for a little over a year now, and while I did have two girls yell at me, they did not leave their property boundary.  Later, I switched to a new street in the same neighborhood as I explained in my last [story](https://americanmonk.org/koral-inspires-me/).  However, things were different as this guy came out of his house with raging anger, coming closer and closer to me, I was unsure what would happen.
 

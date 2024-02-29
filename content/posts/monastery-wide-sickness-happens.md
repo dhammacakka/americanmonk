@@ -10,8 +10,8 @@ tags:
   - sickness
 authors: 
   - bksubhuti
-image: /images/sicknoticeenglish.jpg
-featured_image: /images/sicknoticeenglish.jpg
+image: /images/sicknoticeenglish.webp
+featured_image: /images/sicknoticeenglish.webp
 ---
 
 While I have said quite a lot to inspire people about life as a monk around the world. I should give you both sides of the story to be fair.
@@ -26,18 +26,18 @@ Sometimes food problems happen throughout the monastery all at once. We are not 
 
 About 10 days ago, my stomach was gurgling at night and I didn't sleep well. I wanted to vomit, and did the routine with dry vomiting action over the toilet but nothing came out. I was not forcing it, tears were rolling down my eyes from the vomit action in my throat and let us say it was not fun. However, I wish I could have vomited that night because something needed to "get out." The next day, I had a fever of 101F and I was sleeping for 21 hours per day for the next 2 and a half days.
 
-- ![](/images/temp1-rotated.jpg)
+- ![](/images/temp1-rotated.webp)
     
-- ![](/images/temp2-rotated.jpg)
+- ![](/images/temp2-rotated.webp)
     
 
 I sent a message to the clinic doctor monk, but he was sick too and could not help. So I went to the interview teacher to find another doctor monk who is usually there taking attendance. He was busy but called a third doctor monk for me and then I got help. (Yes, three of our monks are real MD's and a fourth just recently disrobed after 11 years). The doctor gave me anti vomit medicines and not much else. He didn't give me Paracetamol (synthetic aspirin) because the electronic thermometer (which is used to screen for Covid-19) was saying I was normal. However, I have an old fashioned mercury thermometer and I know I had a temperature because it said so and later read normal when the temperature passed. I'm pretty sure these temperature infrared guns just flash random numbers near "normal".
 
-![](/images/sicknoticeenglish-768x1024.jpg)
+![](/images/sicknoticeenglish-768x1024.webp)
 
 Monastery Notice About Sickness
 
-![](/images/sicknoticeburmese-768x1024.jpg)
+![](/images/sicknoticeburmese-768x1024.webp)
 
 When a monk is sick, it is easy to get food delivered to his kuti. After this broke out, all sick monks needed to stay clear of the dining hall. A few days later, I was hungry and ate all of the breakfast food plus some of the lunch that was brought to my kuti. I ate like famished monk and I regretted that because my stomach was not ready for full action yet. I went through another few days of sickness with no fever and then I was okay... well... sort of. As I said before, there is still some type of queasy feeling in my stomach at times. I have only had a full meal three times (including the famished monk feast and today).
 

@@ -13,11 +13,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/WesternElectric302.jpg
-featured_image: /images/WesternElectric302.jpg
+image: /images/WesternElectric302.webp
+featured_image: /images/WesternElectric302.webp
 ---
 
-[![](/images/WesternElectric302.jpg)](/images/2017/03/WesternElectric302.jpg)
+[![](/images/WesternElectric302.webp)](/images/2017/03/WesternElectric302.webp)
 
 ## Why are most monasteries not allowable for vinaya monks?
 

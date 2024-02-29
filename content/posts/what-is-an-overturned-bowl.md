@@ -15,11 +15,11 @@ tags:
   - vinayakamma
 authors: 
   - bksubhuti
-image: /images/bowlrack.jpg
-featured_image: /images/bowlrack.jpg
+image: /images/bowlrack.webp
+featured_image: /images/bowlrack.webp
 ---
 
-![](/images/bowlrack-1024x768.jpg)
+![](/images/bowlrack-1024x768.webp)
 
 Pa-Auk Bowl Blackening Foundry (not a political picture)
 

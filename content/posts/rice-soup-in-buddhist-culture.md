@@ -12,11 +12,11 @@ tags:
   - yagu
 authors: 
   - bksubhuti
-image: /images/Chinese_rice_congee.jpg
-featured_image: /images/Chinese_rice_congee.jpg
+image: /images/Chinese_rice_congee.webp
+featured_image: /images/Chinese_rice_congee.webp
 ---
 
-![](/images/Chinese_rice_congee.jpg)
+![](/images/Chinese_rice_congee.webp)
 
 Chinese congee Photo By Daiju Azuma - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=567814
 

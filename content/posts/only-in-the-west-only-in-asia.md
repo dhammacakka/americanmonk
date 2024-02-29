@@ -10,11 +10,11 @@ tags:
   - spray-gun
 authors: 
   - bksubhuti
-image: /images/spraygun.jpg
-featured_image: /images/spraygun.jpg
+image: /images/spraygun.webp
+featured_image: /images/spraygun.webp
 ---
 
-![](/images/spraygun.jpg)
+![](/images/spraygun.webp)
 
 **Only In The West, Only In Asia**  
 

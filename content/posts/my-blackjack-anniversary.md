@@ -11,11 +11,11 @@ tags:
   - kuti
 authors: 
   - bksubhuti
-image: /images/me-feb72022.jpg
-featured_image: /images/me-feb72022.jpg
+image: /images/me-feb72022.webp
+featured_image: /images/me-feb72022.webp
 ---
 
-![](/images/me-feb72022-1024x679.jpg)
+![](/images/me-feb72022-1024x679.webp)
 
 Eating Hall Feb 7 2022
 
@@ -56,6 +56,6 @@ I'm very happy with my life in similar ways... and I think I have said the same 
 
 May you all be happy and healthy and attain the most wholesome goals available.
 
-![](/images/me2-feb7-2022-1.jpg)
+![](/images/me2-feb7-2022-1.webp)
 
 Me in front of my kuti Feb 7, 2022

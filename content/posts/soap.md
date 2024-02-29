@@ -11,8 +11,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/subhuttowelsoaptitle.png
-featured_image: /images/subhuttowelsoaptitle.png
+image: /images/subhuttowelsoaptitle.webp
+featured_image: /images/subhuttowelsoaptitle.webp
 ---
 
 Very few people from the West know about what the monks use for their bath towels and their bathing soap. Monks use items that are much different than those found in the West, although commonly known in Myanmar and other Buddhist countries. Furthermore, the monks use these items because of the monk rules associated with them in addition to the abundance and low cost.
@@ -27,7 +27,7 @@ Why?
 4. The smaller size is easy to dry after each use, even in tropical climates
 5. The towel can be worn on one's belt and carried with the monk wherever he goes.
 
-![](/images/handtowel-edited-1.jpg)
+![](/images/handtowel-edited-1.webp)
 
 basic hand towel
 
@@ -39,7 +39,7 @@ Why?
 2. It is one of the oldest, simplest and most natural forms of soap around.
 3. It is cheap and plentiful. Although the price for a bar of carbolic soap can cost $5 per bar on Amazon, one can get 20 of these bars for about 50 cents in Myanmar.
 
-![](/images/carbolicsoap-rotated.jpg)
+![](/images/carbolicsoap-rotated.webp)
 
 Carbolic Soap
 

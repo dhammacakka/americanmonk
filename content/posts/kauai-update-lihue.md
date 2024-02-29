@@ -14,11 +14,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/IMG_20190508_201114.jpg
-featured_image: /images/IMG_20190508_201114.jpg
+image: /images/IMG_20190508_201114.webp
+featured_image: /images/IMG_20190508_201114.webp
 ---
 
-![](/images/IMG_20190508_201114-1024x978.jpg)
+![](/images/IMG_20190508_201114-1024x978.webp)
 
 All-focus
 
@@ -28,11 +28,11 @@ Things have recently changed in my life. I have now moved to Lihue. Things were 
 
 Within a few days, I shifted locations and spent a month house sitting at a Princeville donor's house. It was absolutely wonderful! The last couple of weeks, I made it a point to walk to "sunset lookout" almost everyday. Also Hideaway Beach was also a place to go to as well. As the name implies, it is a hidden beach very few people know about. I was very grateful for the house sitting gig and it allowed me to stay exactly one year in Kauai.
 
-![](/images/IMG_20190330_183736-1024x768.jpg)
+![](/images/IMG_20190330_183736-1024x768.webp)
 
 All-focus
 
-![](/images/IMG_20190403_182709-1024x768.jpg)
+![](/images/IMG_20190403_182709-1024x768.webp)
 
   
   
@@ -53,11 +53,11 @@ I agreed to try it out for one month and came by a little while earlier to look 
 
 I came back to Kauai in mid-April and moved into my new place. When I looked inside, I noticed a new bed and also a new floor. The place was also freshly painted. They refurbished the whole area where I am now staying. I have the master bedroom with a toilet and shower. When Myanmar people do things, they do things right. It is very common for Myanmar people to have a "Buddha Room" or "Pungyee (monk) Room" inside their house. Most are not according to vinaya for monks to sleep there... but this one was done to spec. I am very grateful for what they did. However, it did not stop there. Everyday there seemed to be a new thing or two that they would buy for me without my asking. Now my room is filled with lots of stuff I'd rather not have but they are my donors and they do everything with aloha. Now things are more under control as far as donations are concerned.
 
-![](/images/IMG_20190507_172106-1024x577.jpg)
+![](/images/IMG_20190507_172106-1024x577.webp)
 
 All-focus
 
-![](/images/IMG_20190418_102004-1024x768.jpg)
+![](/images/IMG_20190418_102004-1024x768.webp)
 
 All-focus
 

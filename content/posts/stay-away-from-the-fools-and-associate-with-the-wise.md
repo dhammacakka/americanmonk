@@ -14,11 +14,11 @@ tags:
   - wise
 authors: 
   - bksubhuti
-image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.jpg
-featured_image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.jpg
+image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.webp
+featured_image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.webp
 ---
 
-![](/images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070-1024x681.jpg)
+![](/images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070-1024x681.webp)
 
 Sattigumba and Pupphaka
 

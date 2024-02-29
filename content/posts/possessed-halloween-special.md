@@ -7,11 +7,11 @@ tags:
   - yakkha
 authors: 
   - bksubhuti
-image: /images/demon.jpg
-featured_image: /images/demon.jpg
+image: /images/demon.webp
+featured_image: /images/demon.webp
 ---
 
-[![](/images/demon.jpg)](/images/2017/10/demon.jpg)
+[![](/images/demon.webp)](/images/2017/10/demon.webp)
 
 There were a few times when I have seen some yogis and or monks go crazy. One time I saw a possession case when I went to a Kandy forest monastery called, Ulpathkandha. It means Sprint Hill Monastery.
 

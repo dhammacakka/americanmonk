@@ -11,11 +11,11 @@ tags:
   - toothpaste
 authors: 
   - bksubhuti
-image: /images/toothpaste.jpg
-featured_image: /images/toothpaste.jpg
+image: /images/toothpaste.webp
+featured_image: /images/toothpaste.webp
 ---
 
-![](/images/toothpaste.jpg)
+![](/images/toothpaste.webp)
 
 My near-empty tube of Meswak next to the new one
 

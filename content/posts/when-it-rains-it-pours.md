@@ -9,11 +9,11 @@ tags:
   - itbmu
 authors: 
   - bksubhuti
-image: /images/IMG_20160703_121038.jpg
-featured_image: /images/IMG_20160703_121038.jpg
+image: /images/IMG_20160703_121038.webp
+featured_image: /images/IMG_20160703_121038.webp
 ---
 
-[![IMG_20160703_121038](/images/IMG_20160703_121038.jpg)](/images/2016/07/IMG_20160703_121038.jpg)
+[![IMG_20160703_121038](/images/IMG_20160703_121038.webp)](/images/2016/07/IMG_20160703_121038.webp)
 
 I had a really good day going for alms today. When it “rains it pours.” Although it rained today, I am talking about alms donations. I told myself, that if this village does not give (like usual), then I will skip it and find another one or stay with the shack village alone. After 3 weeks of only one donor in that village, I finally got some edible food.... However, I accomplished that by going down some other side-roads I had started to skip.. and then people started to stop me in my tracks.
 

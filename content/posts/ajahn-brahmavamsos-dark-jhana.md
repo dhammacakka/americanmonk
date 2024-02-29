@@ -16,11 +16,11 @@ tags:
   - paauk
 authors: 
   - bksubhuti
-image: /images/anzotti.com_.png
-featured_image: /images/anzotti.com_.png
+image: /images/anzotti.com_.webp
+featured_image: /images/anzotti.com_.webp
 ---
 
-![](/images/anzotti.com_-1024x566.png)
+![](/images/anzotti.com_-1024x566.webp)
 
 ## Does Ajahn Brahmavamso Jhāna Have a Nimitta?
 

@@ -14,11 +14,11 @@ tags:
   - parajika
 authors: 
   - bksubhuti
-image: /images/monk-knife-art.jpg
-featured_image: /images/monk-knife-art.jpg
+image: /images/monk-knife-art.webp
+featured_image: /images/monk-knife-art.webp
 ---
 
-![](/images/monk-knife-art-569x1024.jpg)
+![](/images/monk-knife-art-569x1024.webp)
 
 Artistic digital recreation of Migalaṇḍika (an ascetic who looked like a monk)
 

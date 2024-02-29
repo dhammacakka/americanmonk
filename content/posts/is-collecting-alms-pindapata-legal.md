@@ -16,11 +16,11 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/20180516_094919-e1526506667615.jpg
-featured_image: /images/20180516_094919-e1526506667615.jpg
+image: /images/20180516_094919-e1526506667615.webp
+featured_image: /images/20180516_094919-e1526506667615.webp
 ---
 
-\[caption id="attachment\_1264" align="alignnone" width="708"\][![](/images/20180516_094919-e1526506667615-768x1024.jpg)](/images/2018/05/20180516_094919-e1526506667615.jpg) That is me going for alms on Aalona Street Kilauea.\[/caption\]
+\[caption id="attachment\_1264" align="alignnone" width="708"\][![](/images/20180516_094919-e1526506667615-768x1024.webp)](/images/2018/05/20180516_094919-e1526506667615.webp) That is me going for alms on Aalona Street Kilauea.\[/caption\]
 
 Collecting alms, also known as piṇḍapāta by Theravāda Buddhists, is a legal activity in the USA. There are some restrictions though. I spoke with a lawyer who seemed to know civil liberties quite well, but there are no guarantees with what I say. However, this information should make sense and seem legal to you. It is legal to ring the doorbell of any house and preach to them or talk to them about politics under the freedom of speech rights. One can even ask them to support, give money to a cause. One can sell them vacuum cleaners too. However, if they have a sign that says, “No Solicitation” or “No Trespassing” or “Private Property”, or any other derivative, then one need to stay clear away from the property lines or at least up to the sign location.
 

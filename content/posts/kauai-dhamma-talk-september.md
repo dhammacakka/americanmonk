@@ -6,8 +6,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/mangalapt1.png
-featured_image: /images/mangalapt1.png
+image: /images/mangalapt1.webp
+featured_image: /images/mangalapt1.webp
 ---
 
 Here are links to the two parts of a Dhamma Talk on the Mahamangala Sutta givin at Princeville Community Center in Kauai.  September 27th.

@@ -15,13 +15,13 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/paliscript.jpg
-featured_image: /images/paliscript.jpg
+image: /images/paliscript.webp
+featured_image: /images/paliscript.webp
 ---
 
-![](/images/paliscript.jpg)
+![](/images/paliscript.webp)
 
-Palm leaf photo link wellcomecollection:\[mfn\]CC 4.0 iiif.wellcomecollection.org/image/L0031774/full/760%2C/0/default.jpg\[/mfn\]
+Palm leaf photo link wellcomecollection:\[mfn\]CC 4.0 iiif.wellcomecollection.org/image/L0031774/full/760%2C/0/default.webp\[/mfn\]
 
 Today I finished memorizing the Bhikkhunī Pātimokkha in Pāḷi (the 311 Theravāda nun's rules).  While I did not recite the whole lot in a single session, I did memorize in chunks until the total was completely memorized at one time or another.   That means, I would recite a chunk of rules in front of a teacher by memory and then work on a separate adjacent succeeding chunk for memory.  After finishing the new chunk, I would recite those new rules by memory in front of a teacher and then move forward to another adjacent succeeding chunk.  While this is not the best or ideal method, the chunks were quite large at times.  Furthermore, because present day bhikkhunis are considered extinct (and mentioned in the preamble (pubbakaraṇa) of the bhikkhu rule recitation ceremonies across the world) and not accepted by the world international saṅgha council (yet)\[mfn\]This would be the future 7th Buddhist Council Meeting that follows the previous 6th council meeting (_[Chaṭṭha Saṅgāyana](https://en.wikipedia.org/wiki/Sixth_Buddhist_council)_) that already happened in 1954\[/mfn\], the practice of memorizing has a different role today for me. 
 
@@ -49,11 +49,11 @@ Memorizing the Bhikkhunī Pātimokkha is a requirement for monk's independence t
 
 The rules are definitely restrictive, and it is certain for progress in meditation to be impossible if any of the rules are broken intentionally. What more could be said about the consequences for breaking the heavy rules that require probation?  That is why the well-learned Sayadaws have created a nun lineage called "Sayalay" so they can simply follow 8 or 10 rules.  These Sayalay rules give a monastic life and plenty of time for study and practice without disrespecting the original bhikkhunī rules laid down by the Buddha.  If you want, you can become a Sayalay at any of the many Pa-Auk International monasteries or Na-Uyana (Dhammika Ashram) and practice meditation to your heart's content with very top meditation teachers.  In short, it is not easy to be a Buddhist nun of any type (bhikkhunī or sayalay) and I would not want to be a woman.  See photos below:\[mfn\]artist is here https://pixabay.com/users/truthseeker08-2411480/ \[/mfn\]
 
-![](/images/meditation-3824978_1280.jpg)
+![](/images/meditation-3824978_1280.webp)
 
-![](/images/person-people-buddhist-buddhism-religion-child-786962-pxhere.com_.jpg)
+![](/images/person-people-buddhist-buddhism-religion-child-786962-pxhere.com_.webp)
 
-![](/images/theravada-buddhism-3818886_1280.jpg)
+![](/images/theravada-buddhism-3818886_1280.webp)
 
 ## How to Support 8 and 10 Precept Nuns:
 
@@ -63,7 +63,7 @@ I encourage you to support and respect the Sayalays (or other 8 or 10 precept nu
 
 I am very happy about finishing this Bhikkhunī Pātimokkha task that was long overdue.  It could be done better, but it is good enough for now.  Next on my list to memorize is 32,000 syllables worth of suttas (teachings of The Buddha).  While it sounds difficult, the texts were geared for memorization and there are many repetitions.  We are also memorizing the entire Dhammapada at IIT during the next two years with a rate of one verse per day.   Slowly but surely, the task will be fulfilled.  While memorizing texts is not easy, nor is it my favorite thing to do as a monk, it is something that needs to be done.  Generally speaking, I’m quite happy with my monk life and I feel so blessed for this bhikkhu life to the point that if I talk about my gratitude for this life long enough, my voice starts to quiver and tears start to roll.  These tasks are a small debt to pay, and it is all part of the package.  Furthermore, these learning exercises and achievements are mentioned by the ancient commentaries\[mfn\]One possible reason why some Western monks go against the commentaries\[/mfn\].  They are wise and I can see the benefits.
 
-![](/images/monk-buddhist-theravada-buddhism-pindacara-alm-round-morning-1658392-pxhere.com_-1024x683.jpg)
+![](/images/monk-buddhist-theravada-buddhism-pindacara-alm-round-morning-1658392-pxhere.com_-1024x683.webp)
 
 Picture by truth seeker \[mfn\]https://pixabay.com/photos/dawn-monks-morning-pindacara-2671235/\[/mfn\]
 

@@ -13,11 +13,11 @@ tags:
   - wtc
 authors: 
   - bksubhuti
-image: /images/WTC_south_tower_9-11.jpeg
-featured_image: /images/WTC_south_tower_9-11.jpeg
+image: /images/WTC_south_tower_9-11.webp
+featured_image: /images/WTC_south_tower_9-11.webp
 ---
 
-![](/images/WTC_south_tower_9-11.jpeg)
+![](/images/WTC_south_tower_9-11.webp)
 
 cc WTC 9/11, 2001 wikimedia **Attribution: Robert J. Fisch**
 

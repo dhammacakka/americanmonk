@@ -17,11 +17,11 @@ tags:
   - sukhothai-cafe
 authors: 
   - bksubhuti
-image: /images/IMG_1771-e1543113014102.jpg
-featured_image: /images/IMG_1771-e1543113014102.jpg
+image: /images/IMG_1771-e1543113014102.webp
+featured_image: /images/IMG_1771-e1543113014102.webp
 ---
 
-> [![](/images/IMG_1771-e1543113014102-225x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/IMG_1771-e1543113014102.jpg)
+> [![](/images/IMG_1771-e1543113014102-225x300.webp)](https://americanmonk.org/wp-content/uploads/2018/11/IMG_1771-e1543113014102.webp)
 
 Kauai Update #3
 
@@ -29,7 +29,7 @@ I have moved from the Botanical Gardens recently.  I was able to stay there for
 
 It all happened after a wonderful person picked me up on the side of the road holding my signs the day my parents, brother and in-law dropped me off (I’ll get back to that family-visit part later).  So this guy I knew from before picked me up in Kapaa and asked me where I wanted to go. I told him I lived in Princeville but could be dropped off at the bus stop at the town before his road. He looked at me, smiled, and said, “I asked you where you want to go, because I’m going to drive you there.”  He then showed me his bracelet which said, “What would love do?” Then he said he was driving me.
 
-[![](/images/IMG_20181120_161055-225x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/IMG_20181120_161055.jpg)
+[![](/images/IMG_20181120_161055-225x300.webp)](https://americanmonk.org/wp-content/uploads/2018/11/IMG_20181120_161055.webp)
 
 Since he was a friend of mine, and we were at the botanical gardens, I gave him a tour of the Botanical Gardens which he really enjoyed.  He is really nice and likes a “communal” environment and entertained the idea of a monk living on his property. Eventually, a topic came up about leaving the gardens and he suggested that I come live at his place.  There was a discussion about working as a trade, which I cannot do, but I have supporters on the island who can do work for me. Eventually, we had a meeting with my chief Thai supporter and all was agreed that I could move in.
 
@@ -61,17 +61,17 @@ I have not done other routes thoughh, like I did three years before, but I still
 
 In October, my brother arranged for me to meet his new husband and my parents.  I have not seen my brother since 2011 and my parents since 2013. However, we do Skype often.  Usually we make an appointment for Skype and do an hour long conversation. My father has sworn that he will never go on an airplane again, but for this occasion and a little arm twisting, he did.  My brother rented a wonderful condo that had a really nice view in a Princeville complex called Pu’u Poa. Despite the climate change which has given us nearly constant rain since I arrived in April, it was pretty much clear for a week straight during my parents visit.  That was just too awesome, because my mother does not like the rain. (I like the rain that falls in Kauai).  Below are pictures of the complex and views from the balcony:
 
-\[caption id="attachment\_1627" align="alignnone" width="300"\][![](/images/viewpuupoa-300x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/viewpuupoa.jpg) View from condo balcony\[/caption\]
+\[caption id="attachment\_1627" align="alignnone" width="300"\][![](/images/viewpuupoa-300x300.webp)](https://americanmonk.org/wp-content/uploads/2018/11/viewpuupoa.webp) View from condo balcony\[/caption\]
 
-\[caption id="attachment\_1625" align="alignnone" width="300"\][![](/images/puupoacomplex-300x169.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/puupoacomplex.jpg) Pu'u Poa\[/caption\]
+\[caption id="attachment\_1625" align="alignnone" width="300"\][![](/images/puupoacomplex-300x169.webp)](https://americanmonk.org/wp-content/uploads/2018/11/puupoacomplex.webp) Pu'u Poa\[/caption\]
 
-\[caption id="attachment\_1626" align="alignnone" width="300"\][![](/images/puupoafam-300x225.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/puupoafam.jpg) Family at balcony of Pu'u Poa\[/caption\]
+\[caption id="attachment\_1626" align="alignnone" width="300"\][![](/images/puupoafam-300x225.webp)](https://americanmonk.org/wp-content/uploads/2018/11/puupoafam.webp) Family at balcony of Pu'u Poa\[/caption\]
 
 For my birthday, I was able to get a helicopter ride and in exchange, I got them a local rate using my local Hawaiian ID.  If you ever do one helicopter tour in your life, do it in Kauai. It was amazing. We also did many other things and we usually made it back before sunset to watch the sunset each night.  While I was with my parents, I took a couple days off from my alms round. However, I did do the Sukhothai Cafe day with my family. There my parents could see me doing Buddhist services of giving 5 precepts and several blessings along with accepting food.  My father really liked that event because it was a chance to see me doing the works of my profession as a monk. That was really inspiring for him to see me in action. Usually he only hears about my alms rounds which is not so wonderful for a Western father to hear.  After a trip to the Thai restaurant, he started to have faith that a monastery might actually form.
 
  
 
-\[caption id="attachment\_1630" align="alignnone" width="300"\][![](/images/sukhothaimeeting-300x225.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/sukhothaimeeting.jpg) Sukhothai Cafe Thursdays\[/caption\]
+\[caption id="attachment\_1630" align="alignnone" width="300"\][![](/images/sukhothaimeeting-300x225.webp)](https://americanmonk.org/wp-content/uploads/2018/11/sukhothaimeeting.webp) Sukhothai Cafe Thursdays\[/caption\]
 
 \[video width="426" height="240" mp4="https://americanmonk.org/wp-content/uploads/2018/11/Helicopter.mp4" preload="auto"\]\[/video\]
 
@@ -87,7 +87,7 @@ Bhante Subhuti
 
  
 
-[![](/images/MeandDadSecrets-e1543112876832-225x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/MeandDadSecrets-e1543112876832.jpg)
+[![](/images/MeandDadSecrets-e1543112876832-225x300.webp)](https://americanmonk.org/wp-content/uploads/2018/11/MeandDadSecrets-e1543112876832.webp)
 
  
 

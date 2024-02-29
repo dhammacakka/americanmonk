@@ -11,8 +11,8 @@ tags:
   - robes
 authors: 
   - bksubhuti
-image: /images/footrugtitle.jpg
-featured_image: /images/footrugtitle.jpg
+image: /images/footrugtitle.webp
+featured_image: /images/footrugtitle.webp
 ---
 
 Here is an instructional video on how to make a foot-rug from old and discarded monk's robes.  If you are a monk, perhaps you will be very interested in this.  I made the video as I was making my very first rug.  Ven. Khemavamsa is the one who helped in the end.  It was his idea and I have never seen this before.  The story from the texts is below:

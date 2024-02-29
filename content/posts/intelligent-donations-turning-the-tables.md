@@ -19,11 +19,11 @@ tags:
   - tables
 authors: 
   - bksubhuti
-image: /images/wp-1680002946744.jpg
-featured_image: /images/wp-1680002946744.jpg
+image: /images/wp-1680002946744.webp
+featured_image: /images/wp-1680002946744.webp
 ---
 
-![](/images/wp-1680002946744-1024x576.jpg)
+![](/images/wp-1680002946744-1024x576.webp)
 
 Ven Ananda with the two donors
 

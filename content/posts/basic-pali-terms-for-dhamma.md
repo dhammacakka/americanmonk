@@ -13,11 +13,11 @@ tags:
   - words
 authors: 
   - bksubhuti
-image: /images/Burmese_Kammavaca_Manuscript.jpg
-featured_image: /images/Burmese_Kammavaca_Manuscript.jpg
+image: /images/Burmese_Kammavaca_Manuscript.webp
+featured_image: /images/Burmese_Kammavaca_Manuscript.webp
 ---
 
-![](/images/Burmese_Kammavaca_Manuscript.jpg)
+![](/images/Burmese_Kammavaca_Manuscript.webp)
 
 Burmese Pāḷi
 

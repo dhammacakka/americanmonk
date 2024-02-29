@@ -9,13 +9,13 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/monk-marriage-dalle.png
-featured_image: /images/monk-marriage-dalle.png
+image: /images/monk-marriage-dalle.webp
+featured_image: /images/monk-marriage-dalle.webp
 ---
 
 Although Buddhist lay people might be interested in having a monk perform their marriage ceremony, it is not allowed and doing so is classed as a heavy rule (Saṅghādisesa). Such heavy rules have penalties and require the monk to lose his full status for a minimum of 6 nights\[mfn\]mānatta\[/mfn\] and additional probation time if concealing the offense occurs.
 
-![](/images/monk-marriage-dalle.png)
+![](/images/monk-marriage-dalle.webp)
 
 Image was created by AI DALL-E by openai. All participants do not exist in real life.
 
@@ -33,7 +33,7 @@ Image was created by AI DALL-E by openai. All participants do not exist in real 
 
 If you can recall what happens at a typical marriage ceremony, the one who leads the ceremony asks the questions to each party just as written in the factors of the rule as quoted above from The Buddhist Monastic Code. This is why you have probably never seen bhikkhus or "bhikkhunis" performing marriages. If you do see this, take note that it is really bad. Doing so entails the same type of punishment for a monk merely fondling a woman's body or even holding her hand with lustful intent.\[mfn\]Bhikkhunis are defeated if they consent to being touched below the collarbone and above the knees.\[/mfn\]
 
-![](/images/image.png)
+![](/images/image.webp)
 
 AI Art again
 
@@ -45,13 +45,13 @@ Like more than half of the marriages in America that are doomed for failure, so 
 
 At best, a monk can chant at a marriage, give a dhamma talk or both after the marriage ceremony has finished. If you see monks at a wedding, merely chanting or giving a dhamma talk is usually what they are doing there.
 
-![](/images/marry.png)
+![](/images/marry.webp)
 
 ### Can Monks Get Married?
 
 Although it is appalling that the Catholic church allows its priests to continue in the order even after such admissions of guilt for sexual acts, the Buddhism is different.
 
-![](/images/edenburgh-prison.jpg)
+![](/images/edenburgh-prison.webp)
 
 ### Should Bhikkhunis Be Sent To Probation Monasteries?
 

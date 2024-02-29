@@ -13,11 +13,11 @@ tags:
   - theravada-2
 authors: 
   - bksubhuti
-image: /images/angkorwatgroup.jpeg
-featured_image: /images/angkorwatgroup.jpeg
+image: /images/angkorwatgroup.webp
+featured_image: /images/angkorwatgroup.webp
 ---
 
-![](/images/angkorwatcover.jpg)
+![](/images/angkorwatcover.webp)
 
 During the Buddhist Rainy season, I was invited to go to Cambodia as part of a group to deliver some relics and see Angkor Wat. While most people don't know much about Cambodia as a Theravāda Buddhist Country, it is actually 97% Buddhist, which ranks them as the most Theravāda Buddhist Country in the world. The trip ended up being more than 1000 times more powerful than we ever expected and it will be a memory for a long time to come.
 
@@ -44,24 +44,24 @@ So the relics were the star of the show, not the delivery monks. It is like cele
 
 On the first day, (forget leaving time for travel recovery).. we went out to see the well known [Angkor Wat Temple](https://en.wikipedia.org/wiki/Angkor_Wat) which is a UNESCO World Heritage Site. For me, this was the main reason to go to Cambodia, but that has been overshadowed with what I will say later! Nevertheless, it was quite amazing, and it reminded me much of Bagan. Although similar to Bagan's temples in some respects, it was distinct in its construction, being made from large stones rather than bricks. The temple was interesting and we did a few chanting sessions there as a group. Furthermore, it is not just one Angkor Wat Temple. Similar to Bagan, there are 100's or even 1000's of smaller temples and monasteries. We went to a few of these other temples in a similar style and it was all quite nice to see.
 
-- ![](/images/me-angkor2-rotated.jpg)
+- ![](/images/me-angkor2-rotated.webp)
     
-- ![](/images/angkorwatgroup.jpeg)
+- ![](/images/angkorwatgroup.webp)
     
-- ![](/images/cambodia.angkorwat-1024x768.jpg)
+- ![](/images/cambodia.angkorwat-1024x768.webp)
     
 
 After that, we came back to "the house" and then a brief visit to a monastery nearby. What about the house? We stayed at a house that was built for the monks to stay in by a woman named Mrs. Morn Vary. It is a very nice 3 story house complete with an elevator too. The first floor has the gathering room and is very well designed and filled with wood carvings. We slept in this house for 2 nights. While I was sad to leave, I did not know what else was in store for us.
 
-- ![](/images/mrsmornvaryhouse4-768x1024.jpg)
+- ![](/images/mrsmornvaryhouse4-768x1024.webp)
     
     Mrs Morn Vary House
     
-- ![](/images/mrsmornvaryhouse3-1024x768.jpg)
+- ![](/images/mrsmornvaryhouse3-1024x768.webp)
     
     Mrs Morn Vary House (inside)
     
-- ![](/images/mrsmornvaryhouse-768x1024.jpg)
+- ![](/images/mrsmornvaryhouse-768x1024.webp)
     
     Mrs Morn Vary House (breakfast)
     
@@ -70,7 +70,7 @@ After that, we came back to "the house" and then a brief visit to a monastery ne
 
 After the 2nd night at the house, we left after breakfast. From there we had a long journey to Phnom Penh, the capital city of Cambodia. It was there that I started to pick up some sort of sickness. When we got off the bus for lunch, I was shivering, but I was the only one who was cold. However, I seemed to shake most of it off after a good meal and we continued to Pa-Auk Dhamma Dura. Just before arriving at the nearby village, we were greeted with a police escort to bring us the final few miles. Then, when we got off the bus, there were hundreds or maybe one thousand people who were all waiting to greet us... I mean.. the Relics. This was very amazing and much much bigger than the airport welcome. As we walked behind the relics, there was a line of people waiting to see. They would throw flower petals at our feet and also over our heads. There were also a few ancient drummers along with an ancient horn thing which might be called a "[Horanewa](https://wmic.net/sri-lanka-horanewa/)".. It was similar to what you would hear at major Sri Lankan Buddhist events. We walked into this gorgeous shrine room, placed the relics there and then did some chanting and went to sleep. It was quite a night, but the main event has yet to come.
 
-![](/images/nagaboat-1024x671.jpg)
+![](/images/nagaboat-1024x671.webp)
 
 Nāga boat
 
@@ -80,19 +80,19 @@ Words and even videos cannot describe what this was like to be on the leading n�
 
 \[archiveorg id=nagaboat-edit/nagaboat-edit.mpeg4\]
 
-- ![](/images/skylanterns-1024x682.jpg)
+- ![](/images/skylanterns-1024x682.webp)
     
     Sky Lanterns
     
-- ![](/images/streetcrowd-relic-1024x767.jpg)
+- ![](/images/streetcrowd-relic-1024x767.webp)
     
     Crowd 1
     
-- ![](/images/streetcrowd-relic2-1024x767.jpg)
+- ![](/images/streetcrowd-relic2-1024x767.webp)
     
     Crowd 3
     
-- ![](/images/streetcrowd-relic3-1024x767.jpg)
+- ![](/images/streetcrowd-relic3-1024x767.webp)
     
     Crowd 3
     
@@ -101,21 +101,21 @@ Words and even videos cannot describe what this was like to be on the leading n�
 
 On the last day, we took a small tour of the Pa-Auk monastery. It is quite large and we had a buggy drive us around. The grounds are large and feel a little bit like the Maha Cetiya in Sri Lanka, but it is also a meditation center. There is quite a lot going on at the monastery compound, but since it is so big, I think everything can still work. It was a special time for the monastery, so I don't want to judge the noise based on that. Perhaps others can report on how well the place does for meditation for the long term. I am planning on adding Cambodia to my "[Where to Ordain Post](https://americanmonk.org/where-to-ordain/)". Currently, there are no religious visas given out by the government, but they think that business class visas can be given to monks.
 
-- ![](/images/paaukcambodiakuti.jpg)
+- ![](/images/paaukcambodiakuti.webp)
     
     Meditation kuti
     
-- ![](/images/paaukcambodiasima.jpg)
+- ![](/images/paaukcambodiasima.webp)
     
     Sīma Hall
     
-- ![](/images/simabuddha.jpg)
+- ![](/images/simabuddha.webp)
     
-- ![](/images/bigbuddha-cambodiapaauk-1024x683.jpg)
+- ![](/images/bigbuddha-cambodiapaauk-1024x683.webp)
     
     Big Buddha
     
-- ![](/images/carbuggy-1024x683.jpg)
+- ![](/images/carbuggy-1024x683.webp)
     
     Buggy to travel monastery
     

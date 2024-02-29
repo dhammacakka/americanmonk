@@ -13,11 +13,11 @@ tags:
   - propagation
 authors: 
   - bksubhuti
-image: /images/sukhothaimeeting.jpg
-featured_image: /images/sukhothaimeeting.jpg
+image: /images/sukhothaimeeting.webp
+featured_image: /images/sukhothaimeeting.webp
 ---
 
-![](/images/IMG_20190330_183736-1024x768.jpg)
+![](/images/IMG_20190330_183736-1024x768.webp)
 
 All-focus
 
@@ -45,27 +45,27 @@ Links below are:
 - [https://americanmonk.org/kauai-update-part-2/](https://americanmonk.org/kauai-update-part-2/)
 - [https://americanmonk.org/miracle-on-3-or-4-streets/](https://americanmonk.org/miracle-on-3-or-4-streets/)
 
-![](/images/IMG_0576-e1524374761899-768x1024.jpg)
+![](/images/IMG_0576-e1524374761899-768x1024.webp)
 
 Me at Anini Beach Park
 
-![](/images/IMG_20180421_074412-1024x768.jpg)
+![](/images/IMG_20180421_074412-1024x768.webp)
 
 Tent at Anini
 
-![](/images/IMG_20180421_074441-1024x768.jpg)
+![](/images/IMG_20180421_074441-1024x768.webp)
 
 My tent Ocean view
 
-![](/images/aninitent2-768x1024.jpg)
+![](/images/aninitent2-768x1024.webp)
 
 Second tent after storm damaged the first
 
-![](/images/AniniTent-576x1024.jpg)
+![](/images/AniniTent-576x1024.webp)
 
 Second Tent View
 
-![](/images/hhsigns-pen-1024x768.jpg)
+![](/images/hhsigns-pen-1024x768.webp)
 
 My handmade signs. Later my father sent me some signs from his shop.
 
@@ -73,31 +73,31 @@ My handmade signs. Later my father sent me some signs from his shop.
 
 After my sixth week in the park, I was headed back to Anini Park from my alms round in Kilauea while it was raining. A person, who turned out to be the owner of the Princeville Botanical Gardens, picked me up. He had just finished a meditation retreat at Spirit Rock in California. He had a vision of turning his garden into a retreat center and then he saw me on the road two weeks later. He showed me his "monk hut" and invited me to stay for a few days. It was like nothing I had ever dreamed of seeing before because it takes a whole team of people to keep the place tidy. People usually pay $70 for a three hour tour, while I was lucky to actually live there for 5 months. This link here has more [https://americanmonk.org/a-walk-in-the-gardens/](https://americanmonk.org/a-walk-in-the-gardens/)
 
-![](/images/IMG_20180531_163228-768x1024.jpg)
+![](/images/IMG_20180531_163228-768x1024.webp)
 
 garden kuti
 
-![](/images/IMG_20180606_190629-1024x768.jpg)
+![](/images/IMG_20180606_190629-1024x768.webp)
 
 Garden View
 
-![](/images/mepbgbridge-1024x768.jpg)
+![](/images/mepbgbridge-1024x768.webp)
 
 ## **Kapuna Road, Kilauea**
 
 Again, using my signs, a friend I had known for a few months named Uncle Gene saw me standing on the side of the road and offered me a ride back to the garden even though it was 8 miles beyond his own house and where he was headed. I offered him a walk in the garden and he offered me a new place to stay if I ever needed one. Shortly after that, I relocated to Kilauea and stayed there for about 5 months again. Below is a picture of my tent and the view of the mountains near my tent. This link has more [https://americanmonk.org/kauai-update-3/](https://americanmonk.org/kauai-update-3/)
 
-![](/images/kilauea-tent-1024x768.jpg)
+![](/images/kilauea-tent-1024x768.webp)
 
 All-focus
 
-![](/images/monkbowl.jpg)
+![](/images/monkbowl.webp)
 
 ## The Schedule
 
 All the while, I had developed a schedule. If you look at my calendar, you will see all of the days filled up. Below is a sample from the month of August, 2019. [https://americanmonk.org/calendar/](https://americanmonk.org/calendar/)
 
-![](/images/august-calendar-1024x773.png)
+![](/images/august-calendar-1024x773.webp)
 
 Above you will see the same pattern repeat again and again. Everyday, I did something, but many times, I was a little weak to update the calendar. You can see a clear schedule from January 2019 to September, 2019.
 
@@ -116,7 +116,7 @@ Below is a rare picture of me collecting alms food from some tourists who origin
 
 Below is a rare picture of that exact moment. On this particular day, an ex-monk friend wanted to meet me here to offer food before he left the island. He came exactly at the same time when I was giving the blessing/teaching as stated above and he caught the Kodak moment. Afterwards, my friend filled up my bowl to supplement my meal for the day.
 
-![](/images/meatbigsave1.rsz_-1024x768.jpg)
+![](/images/meatbigsave1.rsz_-1024x768.webp)
 
 Collecting alms at Big Save Supermarket
 
@@ -130,23 +130,23 @@ Below was my experience collecting food in the village of Kilauea. I had many ad
 - [https://americanmonk.org/is-collecting-alms-pindapata-legal/](https://americanmonk.org/is-collecting-alms-pindapata-legal/)
 - [https://americanmonk.org/video-interview-about-alms/](https://americanmonk.org/video-interview-about-alms/)
 
-![](/images/alms-map-kilauea.jpg)
+![](/images/alms-map-kilauea.webp)
 
 Wednesday Alms Route in Kilauea
 
-![](/images/20180516_094919-e1526506667615-768x1024.jpg)
+![](/images/20180516_094919-e1526506667615-768x1024.webp)
 
 That is me going for alms on Aalona Street Kilauea.
 
-![](/images/koral-fam-1024x768.jpg)
+![](/images/koral-fam-1024x768.webp)
 
 Some Of My Donors in Kilauea
 
-![](/images/auntisharenandunclejack-1024x768.jpg)
+![](/images/auntisharenandunclejack-1024x768.webp)
 
 Auntie Sharon and Uncle Jack (my regular alms donors)
 
-![](/images/wednesdayGains-1024x576.jpg)
+![](/images/wednesdayGains-1024x576.webp)
 
 Results from one day of collecting food.
 
@@ -154,19 +154,19 @@ Results from one day of collecting food.
 
 Below is a picture from one of our weekly Thursday meetings at Sukhothai Café in Kapa'a where 5 precepts are given. If we ever get land, it will be possible with the seeding of the Thai/Lao community, especially the owner of Sukhothai Café who started the whole process with a very large donation. Quite a few of the ladies shown here speak English and have American husbands. There is also a Thai farming community too, but they don't speak English very well.
 
-![](/images/sukhothaimeeting-1024x768.jpg)
+![](/images/sukhothaimeeting-1024x768.webp)
 
 Getting ready to give 5 precepts and Triple Gem at Sukhothai Cafe
 
-![](/images/sukhothai-2019-08-01.jpeg)
+![](/images/sukhothai-2019-08-01.webp)
 
 Some of the regular donors Sukhothai
 
-![](/images/sukhothai-dana2019-08-01-1-1024x768.jpeg)
+![](/images/sukhothai-dana2019-08-01-1-1024x768.webp)
 
 Receiving alms from a Laos woman at Sukhothai Café
 
-![](/images/sukhothai-alms2019-06-05.jpg)
+![](/images/sukhothai-alms2019-06-05.webp)
 
 Receiving Alms at Sukhothai Cafe
 
@@ -174,7 +174,7 @@ Receiving Alms at Sukhothai Cafe
 
 The last leg of my stay was in Lihue. I spent almost 6 months there. The owner of the condo and sushi shop is U Htin Aung. One day, I went to Lihue to do some sewing at my "Thai Uncle's" house and U Htin Aung spotted me walking to the bus on my way home. He introduced himself and then visited me a few times with his wife. When I told him that I was leaving the island last April after a year's stay, he invited me to stay at his place. He separated the master bedroom from the condo according to the monks' rules. He and his wife took care of me very well. You can read more at this link here [https://americanmonk.org/kauai-update-lihue/](https://americanmonk.org/kauai-update-lihue/)
 
-![](/images/IMG_20190508_201114-1024x978.jpg)
+![](/images/IMG_20190508_201114-1024x978.webp)
 
 Kalapaki Villas in Lihue
 

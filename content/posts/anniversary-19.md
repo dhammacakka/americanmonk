@@ -10,11 +10,11 @@ tags:
   - pa-auk-pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/2020020622171000.jpg
-featured_image: /images/2020020622171000.jpg
+image: /images/2020020622171000.webp
+featured_image: /images/2020020622171000.webp
 ---
 
-![](/images/2020020622171000-768x1024.jpg)
+![](/images/2020020622171000-768x1024.webp)
 
 The standing marble Buddha at Pyin Oo Lwin Pa-Auk
 
@@ -24,13 +24,13 @@ I ordained as a novice monk early in the morning on February 7th 2001 (like 4:30
 
 The Mahadana Day or (Great Giving Day) is when all of the special monks from all over Myanmar and world come for an annual meeting. Because everyone is in one place, they chose that day to give donation to all the monks. In other words, all the great monks were at my ordination. At that time, Pa-Auk main monastery (out of maybe 4 branches) usually had around 120 monks. On that day, the number grew to 198. I know this because it says that on my original ordination certificate. Today, there are many branches (I forget but I think it is over 60 in Myanmar plus 25 abroad). The Mawlamyine branch monastery now boasts 600+ monks normally and 1200 during the Mahadana day. That is just monks. There is a floating population of 1200 residents most of the time. Today is my English calendar anniversary and tomorrow, on the full moon will my "moon anniversary." The full moon day tomorrow is also the Mahadana Day of 2020.
 
-![](/images/2020020704434500-1024x768.jpg)
+![](/images/2020020704434500-1024x768.webp)
 
 Taking away my sacks in 2015
 
 During this special day, we get rice sacks and fill them up with laundry detergent, bath soap, razors, robes and other things. The sacks get filled mostly with bathroom stuff, but sometimes a special gift get slipped in, like a flask or flashlight (torch). Four years ago, one sack was not enough and now we got issued 3 sacks! The times have changed as the Pa-Auk Monasteries get more well known.
 
-![](/images/2020020704394800-1024x768.jpg)
+![](/images/2020020704394800-1024x768.webp)
 
 2 of my sacks in 2015
 
@@ -40,6 +40,6 @@ Life in the monastery is much easier than living in Hawai'i, but I do miss it de
 
 Next year will bring me 20 years (total). However, since I re-ordained, my official age is 6 rainy seasons less. I’m okay with that because I am not ready to be a Mahathera next year. Today, I am now residing at Pa-Auk’s, “Standing Buddha Monastery” in Pyin Oo Lwin, Myanmar. I hope for many more years to come.
 
-![](/images/2020020622151200-1024x768.jpg)
+![](/images/2020020622151200-1024x768.webp)
 
 The entrance to the meditation hall at Pyin Oo Lwin Pa-Auk

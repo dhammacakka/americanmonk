@@ -13,11 +13,11 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/mabathaopenletter.jpg
-featured_image: /images/mabathaopenletter.jpg
+image: /images/mabathaopenletter.webp
+featured_image: /images/mabathaopenletter.webp
 ---
 
-\[caption id="attachment\_793" align="alignnone" width="1200"\][![Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness](/images/mabathaopenletter.jpg)](/images/2016/06/mabathaopenletter.jpg) Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness\[/caption\]
+\[caption id="attachment\_793" align="alignnone" width="1200"\][![Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness](/images/mabathaopenletter.webp)](/images/2016/06/mabathaopenletter.webp) Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness\[/caption\]
 
  
 
@@ -101,6 +101,6 @@ In this sutta, there were robbers who were cutting off the limbs of their victi
 
  
 
-\[caption id="attachment\_794" align="alignnone" width="1920"\][![Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.](/images/muslimgiverice.jpg)](/images/2016/06/muslimgiverice.jpg) Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.\[/caption\]
+\[caption id="attachment\_794" align="alignnone" width="1920"\][![Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.](/images/muslimgiverice.webp)](/images/2016/06/muslimgiverice.webp) Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.\[/caption\]
 
 \*Note: Many numbers are assumed and not accurate, but it is enough to give the point across.

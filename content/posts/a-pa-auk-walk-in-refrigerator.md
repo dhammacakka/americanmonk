@@ -9,8 +9,8 @@ tags:
   - refrigerator
 authors: 
   - bksubhuti
-image: /images/Walk-In-Fridge_Pa-Auk.jpg
-featured_image: /images/Walk-In-Fridge_Pa-Auk.jpg
+image: /images/Walk-In-Fridge_Pa-Auk.webp
+featured_image: /images/Walk-In-Fridge_Pa-Auk.webp
 ---
 
 Recently, the doctor ordered some lemon juice for me to take as medicine, so I asked the office helper for some lemons. She went into the kitchen and then to the "walk-in refrigerator." I just had to laugh and then snapped a picture.
@@ -25,11 +25,11 @@ Recently, the doctor ordered some lemon juice for me to take as medicine, so I a
 - Insulation (optional)
 - Put one or two air conditioners inside
 
-![](/images/Pa-Auk_maymyo_Fridge.jpg)
+![](/images/Pa-Auk_maymyo_Fridge.webp)
 
 Pa-Auk Maymyo: Only 1 air conditioner. Maybe because of the cooler climate and insulation.
 
-![](/images/Walk-In-Fridge_Pa-Auk.jpg)
+![](/images/Walk-In-Fridge_Pa-Auk.webp)
 
 Pa-Auk Mawlamyine
 

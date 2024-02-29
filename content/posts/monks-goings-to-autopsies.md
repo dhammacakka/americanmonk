@@ -13,11 +13,11 @@ tags:
   - monks
 authors: 
   - bksubhuti
-image: /images/1280px-Cadaver_dissection_table_-_long_shot.jpg
-featured_image: /images/1280px-Cadaver_dissection_table_-_long_shot.jpg
+image: /images/1280px-Cadaver_dissection_table_-_long_shot.webp
+featured_image: /images/1280px-Cadaver_dissection_table_-_long_shot.webp
 ---
 
-![](/images/1280px-Cadaver_dissection_table_-_long_shot-1024x710.jpg)
+![](/images/1280px-Cadaver_dissection_table_-_long_shot-1024x710.webp)
 
 Autopsy Table found on Wikipedia. The table we saw did not have "containment walls"
 
@@ -43,7 +43,7 @@ Several weeks ago, Venerable Devananda taught us (academically) about the 40 dif
 
 We had to move quickly and within 5 or 10 minutes we organized four other monks plus the driver. The four monks were, Ven. Nāthaputta (Nepal) Ven. Kusaladhamma (USA), Ven. Kassapa (Nepal) and Ven. ñānagavesi (SL). Everyone who was invited quickly agreed. Nobody said "no," even though we knew that we might forgo our lunch that day due to timing. Below is a picture of us traveling in the car. We had a small snack on the way, but pretty much, in monk's terms, we missed our meal. It was totally worth it and ehem...I was not so hungry afterwards.
 
-![](/images/coming_back_autopsy-1024x472.jpg)
+![](/images/coming_back_autopsy-1024x472.webp)
 
 Coming back from autopsy
 
@@ -96,7 +96,7 @@ Meditations on the cycle of life for monks to share.
 An experience profound, with deep insights to unveil,  
 To disconnect the tracks and to leave the rails .
 
-![](/images/MonkSkeleton.png)
+![](/images/MonkSkeleton.webp)
 
 ### Why Do Monasteries Have Skeletons?
 

@@ -13,11 +13,11 @@ authors:
 image: 
 featured_image: 
 
-image: /images/am-on-hugo.jpg
-featured_image: /images/am-on-hugo.jpg
+image: /images/am-on-hugo.webp
+featured_image: /images/am-on-hugo.webp
 ---
 
-[![](/images/am-on-hugo.jpg)](/images/am-on-hugo.jpg)
+[![](/images/am-on-hugo.webp)](/images/am-on-hugo.webp)
 
 AmericanMonk.org has a new free home!  I started the process last week and if you are a subscriber who gets this email, the task is 90% complete.  There is still some refinement to do.  
 

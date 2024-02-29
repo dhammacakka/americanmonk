@@ -14,11 +14,11 @@ tags:
   - viral
 authors: 
   - bksubhuti
-image: /images/meinbagan.jpg
-featured_image: /images/meinbagan.jpg
+image: /images/meinbagan.webp
+featured_image: /images/meinbagan.webp
 ---
 
-[![](/images/meinbagan.jpg)](/images/2017/01/meinbagan.jpg)
+[![](/images/meinbagan.webp)](/images/2017/01/meinbagan.webp)
 
 To receive this by email, sign up at [https://subhuti.withmetta.net/subscribe/](https://subhuti.withmetta.net/subscribe/)
 

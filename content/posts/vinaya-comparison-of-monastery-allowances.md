@@ -12,11 +12,11 @@ tags:
   - wat-pa-nanachat
 authors: 
   - bksubhuti
-image: /images/health-chocolate01-lg.jpg
-featured_image: /images/health-chocolate01-lg.jpg
+image: /images/health-chocolate01-lg.webp
+featured_image: /images/health-chocolate01-lg.webp
 ---
 
-[![](/images/health-chocolate01-lg-1024x788.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/health-chocolate01-lg.jpg)
+[![](/images/health-chocolate01-lg-1024x788.webp)](https://americanmonk.org/wp-content/uploads/2018/10/health-chocolate01-lg.webp)
 
 Below is a chart comparing special allowances by tradition which is useful for making a decision on where to ordain.  If you need an explanation, read further..
 
@@ -78,6 +78,6 @@ There is a second factor and more provable factor for attending the Patimokkha m
 
 The Buddhist Texts consists of three sections. Traditionally they are called the three baskets; Vinaya (rules), Sutta (discourses),and Abhidhamma (detailed components of ultimate realities). The last of the three baskets is disputed by the two traditions on the left and followed closely by the two traditions on the right.  The commentaries for the discourses which is compatible with the Abhidhamma are usually disputed called "academic" by the Thai Forest Tradition.   According to monk monk from the Ajahn Cha tradition, “Many of the commentaries are followed. However if they are scholarly, they are rejected.” What “scholarly” means is up for debate.  Lastly, because of this lack of detail, those that follow the book written on Ajhan Mun’s life, believe that the Buddha lives in Nibbana. Since was written by a Dhammayut monk, it is accepted.  Interpretations vary in the Wat Pah Pong, but seem to side that the author was wrong.  The two traditions on the right simply laugh at such claims that The Buddha Lives in Nibbana.
 
-Chocolate picture cc-attrib found at http://www.picserver.org/pictures/health-chocolate01-lg.jpg
+Chocolate picture cc-attrib found at http://www.picserver.org/pictures/health-chocolate01-lg.webp
 
 This text is copyright, Bhante Subhuti .. CC-by-Attrib (needs a reference link to this website).

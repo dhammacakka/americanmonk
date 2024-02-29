@@ -13,8 +13,8 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/gettingfoodmawlamyine.png
-featured_image: /images/gettingfoodmawlamyine.png
+image: /images/gettingfoodmawlamyine.webp
+featured_image: /images/gettingfoodmawlamyine.webp
 ---
 
 I recently found this video in my Google Drive.  I had a layperson (probably UKZ) follow me around in the line to show what it was like for a monk to go through the alms food line at Pa-Auk Main Center, Mawlamyine, Myanmar. It is not easy to manage so many donors with big hearts to give. Most of the time, I am giving hand signals to get less food. You might want to play this at double speed. However, you can get a real time feel of what it is like, once one enters the food line. There are often 400+ monks waiting in line to get to this point too.

@@ -13,11 +13,11 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/heavenly-sky-from-rawpixel.jpg
-featured_image: /images/heavenly-sky-from-rawpixel.jpg
+image: /images/heavenly-sky-from-rawpixel.webp
+featured_image: /images/heavenly-sky-from-rawpixel.webp
 ---
 
-![](/images/heavenly-sky-from-rawpixel-1024x637.jpg)
+![](/images/heavenly-sky-from-rawpixel-1024x637.webp)
 
 Sunrise behind clouds, free public domain CC0 image.
 

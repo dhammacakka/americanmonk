@@ -9,8 +9,8 @@ tags:
   - one-voice
 authors: 
   - bksubhuti
-image: /images/spokenmix.png
-featured_image: /images/spokenmix.png
+image: /images/spokenmix.webp
+featured_image: /images/spokenmix.webp
 ---
 
 This is a spoken English version of the Discourse on Loving-Kindness (Metta Sutta), mixed with the Pāi chanting of One Voice (EkaSara). I like it and I think you will too. Enjoy!  If you get a chance, It is best listened with headphones.  There is quite a bit of stereophonic separation included.  Feedback welcome.  The audio is uploaded [here.](https://archive.org/details/MettaOnevoiceEnglishmix6Session)

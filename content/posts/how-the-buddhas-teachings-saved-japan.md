@@ -11,21 +11,21 @@ tags:
   - jayewardene
 authors: 
   - bksubhuti
-image: /images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg
-featured_image: /images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg
+image: /images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.webp
+featured_image: /images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.webp
 ---
 
 ## Introduction:
 
 There was a moment in world history where the Buddha's teachings greatly affected world diplomacy during the Peace Treaty of 1951. We can learn from this type of history and apply the solution in our daily lives. In short, we can stop hatred with loving-kindness.
 
-![J. R. Jayewardene](/images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg)
+![J. R. Jayewardene](/images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.webp)
 
 President J.R. Jayewardene of Sri Lanka exits from a helicopter and walks to his airplane for departure after a state visit.
 
 If you look at the history of the San Francisco Treaty of 1951, you will see that it officially negotiated the end of the war crimes with Japan from WWII. There were many war reparations demanded from the World Powers from economic penalties to splitting Japan into new territories. The land of Japan would be severely punished for its war crimes and it would not be the same independent land as you see it today if it were not for J. R. Jayewardene who was Sri Lanka's delegate to this conference. In his speech, he stated that Sri Lanka will refuse any economic reimbursements from the treaty on the table and argued for peace, compassion and Japan's independence.
 
-![](/images/JR.jpg)
+![](/images/JR.webp)
 
 Remote URL of the conference in 1951
 

@@ -13,11 +13,11 @@ tags:
   - patimokkha
 authors: 
   - bksubhuti
-image: /images/lucky-draw-odds.png
-featured_image: /images/lucky-draw-odds.png
+image: /images/lucky-draw-odds.webp
+featured_image: /images/lucky-draw-odds.webp
 ---
 
-\[caption id="attachment\_902" align="alignnone" width="948"\][![lucky draw calc](/images/lucky-draw-odds.png)](/images/2016/09/lucky-draw-odds.png) Calculation of odds.\[/caption\]
+\[caption id="attachment\_902" align="alignnone" width="948"\][![lucky draw calc](/images/lucky-draw-odds.webp)](/images/2016/09/lucky-draw-odds.webp) Calculation of odds.\[/caption\]
 
  
 

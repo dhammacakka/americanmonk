@@ -10,8 +10,8 @@ tags:
   - pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/Maymyofoodemotyfoodline.jpg
-featured_image: /images/Maymyofoodemotyfoodline.jpg
+image: /images/Maymyofoodemotyfoodline.webp
+featured_image: /images/Maymyofoodemotyfoodline.webp
 ---
 
 At Theravada monasteries there is no eating allowed after Noontime. Some monasteries only give one meal per day, while other monasteries give 2 meals per day. Both meal plans are allowed by the Buddha. However, some monasteries have no meals brought to the monks and they need to go out in the village and collect it. This last case is very rare and usually done by the forest monks living in secluded places or ehem.. Kaua'i. At Pa-Auk, we get breakfast, lunch and an afternoon filtered fresh fruit drink, usually avocado juice. Life here is easier compared to the life in Kaua'i where collecting my meals and eating could take four or five hours and rarely would I get a hot meal to eat. Nevertheless, I have found that the difficulty of collecting food to be very rewarding. Because the food is brought to us, we have more time to focus on meditation.
@@ -24,35 +24,35 @@ Volunteers working in the cold Winter mornings
 
 And Now for the video (7mb)
 
-- ![](/images/Maymyofoodemotyfoodline-1024x768.jpg)
+- ![](/images/Maymyofoodemotyfoodline-1024x768.webp)
     
-- ![](/images/Maymyofood-line.jpg)
+- ![](/images/Maymyofood-line.webp)
     
 
 The buffet table and the line of monks
 
 Here are some close-up pictures from the meal line.
 
-![](/images/Maymyofood-rice.jpg)
+![](/images/Maymyofood-rice.webp)
 
 Getting the rice
 
-![](/images/Maymyofood-curry-1024x768.jpg)
+![](/images/Maymyofood-curry-1024x768.webp)
 
 One of the curries
 
-![](/images/Maymyofood-green.jpg)
+![](/images/Maymyofood-green.webp)
 
 Cooked greens are always available
 
-![](/images/Maymyofood-crunch.jpg)
+![](/images/Maymyofood-crunch.webp)
 
 a little crunch for the bowl
 
-![](/images/Maymyofood-endline.jpg)
+![](/images/Maymyofood-endline.webp)
 
 Monks finishing up the line
 
-![](/images/Maymyofoodteaa.jpg)
+![](/images/Maymyofoodteaa.webp)
 
 Tea that is offered daily (For use before Noon)

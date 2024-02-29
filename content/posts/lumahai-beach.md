@@ -3,11 +3,11 @@ title: "Lumaha'i Beach"
 date: 2015-08-12
 authors: 
   - bksubhuti
-image: /images/IMG_6591.jpg
-featured_image: /images/IMG_6591.jpg
+image: /images/IMG_6591.webp
+featured_image: /images/IMG_6591.webp
 ---
 
-[![Lumahai Beach](/images/IMG_6591.jpg)](/images/2015/08/IMG_6591.jpg) Our third beach trip with chanting and meditation during sunset. Lumaha'i Beach. We walked to the center of the beach and then sat down on top of a sand ledge to do our chanting. Afterwards, we did our meditation until a small rain cloud started to sprinkle down upon us. We had a good Dhamma discussion with our driver who is eager to learn about Buddhism and meditation and often asks us when the next trip will happen. Such trips are a blessing for the both of us!
+[![Lumahai Beach](/images/IMG_6591.webp)](/images/2015/08/IMG_6591.webp) Our third beach trip with chanting and meditation during sunset. Lumaha'i Beach. We walked to the center of the beach and then sat down on top of a sand ledge to do our chanting. Afterwards, we did our meditation until a small rain cloud started to sprinkle down upon us. We had a good Dhamma discussion with our driver who is eager to learn about Buddhism and meditation and often asks us when the next trip will happen. Such trips are a blessing for the both of us!
 
 As beautiful as the above picture looks, I find "Secret Beach" to still be my favorite spot, which is local to our home town in Kilauea.
 

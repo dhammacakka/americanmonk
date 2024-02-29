@@ -13,13 +13,13 @@ tags:
   - myanmar
 authors: 
   - bksubhuti
-image: /images/pexels-photo-13918.jpeg
-featured_image: /images/pexels-photo-13918.jpeg
+image: /images/pexels-photo-13918.webp
+featured_image: /images/pexels-photo-13918.webp
 ---
 
-[![pexels-photo-13918](/images/pexels-photo-13918.jpeg)](/images/2016/07/pexels-photo-13918.jpeg)
+[![pexels-photo-13918](/images/pexels-photo-13918.webp)](/images/2016/07/pexels-photo-13918.webp)
 
-[![hatredlove](/images/hatredlove.png)](/images/2016/07/hatredlove.png)
+[![hatredlove](/images/hatredlove.webp)](/images/2016/07/hatredlove.webp)
 
 This video clip below came my way and I would hate to say that not only is this guy is correct right near the end of his talk, but he is expressing the same thoughts as the Buddha and myself...well, at least the last part. This link will skip over to 3 minutes 38 seconds. Remainder running time is about 2 minutes.  **NOTE**: There is more I say below after this video: https://www.youtube.com/watch?v=CceQISThDYQ#t=3m38s
 
@@ -47,6 +47,6 @@ This is not my invention.  It has been advised to me in one form or another and
 
 However, last month or so, during our uposatha or sabbath day, I heard that he was having problems with varicose veins, which was something that affected me two years prior. I went through the whole process and I am quite knowledgeable in it. Because he was in pain, he listened to my advisement.  I couldn't help myself and just stand there and stay silent even though I knew he did not want to speak to me... We spoke for some time and later, I came to him and offered him all of the medicine and oils I had and a leg stocking which helps the condition.  Although I may have needed it later, I gave it all to him with a wish.  “May this help you and may I also never need this medicine too.”  I told him what can be done (not much can be done), warned him about surgery options and what the doctors will say. All of that was confirmed by the doctors he saw later that night. Now we speak to each-other.
 
-Cover photo is cc0 @  https://static.pexels.com/photos/13918/pexels-photo-13918.jpeg \*slightly modified translation:
+Cover photo is cc0 @  https://static.pexels.com/photos/13918/pexels-photo-13918.webp \*slightly modified translation:
 
 \*I have still have not listened to these guys since 2001, but it was tempting.  Lyrics pasted from the internet.

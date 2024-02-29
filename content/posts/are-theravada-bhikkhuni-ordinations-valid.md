@@ -13,11 +13,11 @@ tags:
   - upasampada
 authors: 
   - bksubhuti
-image: /images/magnifying_glass_globe.jpg
-featured_image: /images/magnifying_glass_globe.jpg
+image: /images/magnifying_glass_globe.webp
+featured_image: /images/magnifying_glass_globe.webp
 ---
 
-![](/images/magnifying_glass_globe-1024x683.jpg)
+![](/images/magnifying_glass_globe-1024x683.webp)
 
 cc0 picture https://pxhere.com/en/photo/489726
 
@@ -145,13 +145,13 @@ This discussion on the two methods of bhikkhunii ordination is now finished. A f
 
 You can read my other article (which came later) which explores.. "If bhikkhunis are real, what rules do they need to follow?"  
 
-![](/images/edenburgh-prison.jpg)
+![](/images/edenburgh-prison.webp)
 
 ### Should Bhikkhunis Be Sent To Probation Monasteries?
 
 Did you know that bhikkhunis (nuns) are not allowed to sleep alone or travel alone and if they do, they are sentenced to 2 weeks of rehabilitation?
 
-![](/images/patimokkha.jpg)
+![](/images/patimokkha.webp)
 
 ### What Is The Bhikkhu Patimokkha or Buddhist Monk Rules?
 

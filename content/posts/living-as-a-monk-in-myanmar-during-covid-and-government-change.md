@@ -16,13 +16,13 @@ tags:
   - visa
 authors: 
   - bksubhuti
-image: /images/mm-covid.jpg
-featured_image: /images/mm-covid.jpg
+image: /images/mm-covid.webp
+featured_image: /images/mm-covid.webp
 ---
 
 ## Introduction
 
-![](/images/mm-covid-1024x671.jpg)
+![](/images/mm-covid-1024x671.webp)
 
 Foreigner monk gets a COVID vaccine jab during the times of the new Myanmar government
 
@@ -46,7 +46,7 @@ We were worried about getting covid because we did not have access to vaccines o
 
 We also had quarantine rules if we had to leave the monastery for any reason and wanted to come back. If you left the monastery gate, even for a day trip, you were confined to your room for [3 weeks](https://americanmonk.org/super-quarantine-inside-pa-auk/). Later, at the end of 2022, quarantine periods dropped to only 1 week. However, the quarantines stopped covid from coming to our monastery during the most dangerous times in 2020 and 2021. Nevertheless, [COVID did eventually come.](https://americanmonk.org/pa-auk-lockdown-3-living-with-covid/) and we were living with it for about one month.
 
-![](/images/lockdown-lwc.resized.png)
+![](/images/lockdown-lwc.resized.webp)
 
 ### Pa-Auk Lockdown #3: Living With COVID
 
@@ -64,13 +64,13 @@ I originally came to Myanmar in 2001 when there was a military government led by
 
 ## Three Year Retreat
 
-![](/images/bhante-meditation.jpg)
+![](/images/bhante-meditation.webp)
 
 Tibetan Buddhism is famous for their 3 year retreats. Because we could not really feel safe going anywhere else due to COVID, I stayed at Pa-Auk monastery from November 2019 until December 2022. It was a peaceful place where I could practice meditation without much distraction or disturbance. I learned a lot from my teachers who were also on lockdown too. Because the teachers were unable to travel during COVID times, we were stuck with each other, and that too also increased the good conditions for meditation.
 
 ## Deciding to Leave
 
-![](/images/iit_puja.jpg)
+![](/images/iit_puja.webp)
 
 General Meeting
 

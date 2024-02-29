@@ -5,11 +5,11 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/some-wish-for-peace.jpg
-featured_image: /images/some-wish-for-peace.jpg
+image: /images/some-wish-for-peace.webp
+featured_image: /images/some-wish-for-peace.webp
 ---
 
-# [![some-wish-for-peace](/images/some-wish-for-peace.jpg)](/images/2015/11/some-wish-for-peace.jpg)
+# [![some-wish-for-peace](/images/some-wish-for-peace.webp)](/images/2015/11/some-wish-for-peace.webp)
 
 # Some wish for peace, I did something (story below)
 

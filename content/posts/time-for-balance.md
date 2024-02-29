@@ -7,19 +7,19 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/balanceTheRock.png
-featured_image: /images/balanceTheRock.png
+image: /images/balanceTheRock.webp
+featured_image: /images/balanceTheRock.webp
 ---
 
 I've been looking forward to the Myanmar Internet being cut off, but it does not seem to be happening. I guess that is good for the people here. I will be taking a SIM break for about 5 days...  
   
 Tuesdays are usually when I post things from the meditation hall because it is the day I have to manage the Tuesday cleaning crew. My job is to clean the Big Buddha (that is me below).  
 
-![](/images/meCleaningBuddha-768x1024.jpg)
+![](/images/meCleaningBuddha-768x1024.webp)
 
 Sima Hall 2nd floor Buddha
 
-![](/images/MeCleaniingBuddha2-768x1024.jpg)
+![](/images/MeCleaniingBuddha2-768x1024.webp)
 
 Action Shot
 
@@ -33,8 +33,8 @@ Here you will see him balance a rock I picked up off the ground on top of a Sima
 
 He sent me a better video
 
-![](/images/UmanisaraBalance3-768x1024.jpg)
+![](/images/UmanisaraBalance3-768x1024.webp)
 
 This one he calls beautiful. As you can see.. difficult to believe.
 
-![](/images/Umanisara4-576x1024.jpg)
+![](/images/Umanisara4-576x1024.webp)

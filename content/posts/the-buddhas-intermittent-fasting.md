@@ -11,15 +11,15 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/bowl-meridian.png
-featured_image: /images/bowl-meridian.png
+image: /images/bowl-meridian.webp
+featured_image: /images/bowl-meridian.webp
 ---
 
 Did the Buddha do intermittent fasting? The answer is: Yes.
 
 When I first became a monk, people were shocked about how I gave up eating after Solar Noon and I have not eaten dinner in over 20 years. Sometimes I switch to one meal per day, but I often find a light breakfast, mostly liquid foods or [rice soup](https://americanmonk.org/rice-soup-in-buddhist-culture/), with a full lunch works best for me. These days, many people are using _intermittent fasting_ as a form of weight loss and when I describe my Buddhist monk diet, they give a nod and say "Intermittent Fasting... It's Healthy." I guess I'm always one step ahead of mainstream society!
 
-![](/images/bowl-meridian.png)
+![](/images/bowl-meridian.webp)
 
 ## So what did the Buddha say about intermittent fasting?
 
@@ -66,13 +66,13 @@ For fully ordained adult monks, we have a rule about eating at one part of the d
 
 Eating at the wrong time is the moment after Solar Noon occurs. It is not necessarily at 12:00 PM. Sometimes it is later, and sometimes it is before. It depends on the GPS location and also the time of the year. In Kaua'i, Hawai'i, I'm sometimes able to eat as late as 12:40 PM because the island is further West yet shares the same time zone as Honolulu. I often use the smartphone app called [LunaSoCal](https://play.google.com/store/apps/details?id=com.vvse.lunasolcal&hl=en&gl=US), and the website [https://timeanddate.com](https://timeanddate.com)
 
-![](/images/lunasocal.png)
+![](/images/lunasocal.webp)
 
-![](/images/timeanddate.png)
+![](/images/timeanddate.webp)
 
 ## What do Harvard Medical professors say about intermittent fasting?
 
-![](/images/david-sinclair.png)
+![](/images/david-sinclair.webp)
 
 PROFESSOR DAVID SINCLAIR of Harvard Medical School, is one of the foremost experts on anti-aging therapies. He is 50 years old. What do you think about how old he looks? One of his most simple and effective recommendations that one can do today without drugs is Intermittent Fasting. This is a small excerpt from this web page [here](https://www.everythingzoomer.com/health/2019/10/02/lifespan-author-david-a-sinclair-on-exercise-reverse-aging-and-fasting/).
 
@@ -102,4 +102,4 @@ It is considered healthy to do intermittent fasting by The Buddha and also by an
 
 Attribution for bowl: Modified by Bhante Subhuti cc-by-sa 4.0 original picture is credited below
 
-By Amitchell125 - Own work based on Meridian on celestial sphere.png, CC BY-SA 4.0, [https://commons.wikimedia.org/w/index.php?curid=105539264](https://commons.wikimedia.org/w/index.php?curid=105539264)
+By Amitchell125 - Own work based on Meridian on celestial sphere.webp, CC BY-SA 4.0, [https://commons.wikimedia.org/w/index.php?curid=105539264](https://commons.wikimedia.org/w/index.php?curid=105539264)

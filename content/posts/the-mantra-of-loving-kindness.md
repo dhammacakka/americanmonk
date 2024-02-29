@@ -8,8 +8,8 @@ tags:
   - meditation
 authors: 
   - bksubhuti
-image: /images/MLK-Title.png
-featured_image: /images/MLK-Title.png
+image: /images/MLK-Title.webp
+featured_image: /images/MLK-Title.webp
 ---
 
 This video is an instruction on how to practice loving-kindness meditation. The simplest way is to repeat the Loving-Kindness phrases (mantras). The discussion goes into the details. I hope you enjoy this.

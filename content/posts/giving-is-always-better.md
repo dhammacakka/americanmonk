@@ -11,17 +11,17 @@ tags:
   - sewing
 authors: 
   - bksubhuti
-image: /images/sunanda-lookup-scaled.jpg
-featured_image: /images/sunanda-lookup-scaled.jpg
+image: /images/sunanda-lookup-scaled.webp
+featured_image: /images/sunanda-lookup-scaled.webp
 ---
 
-![](/images/sunanda-lookup-1024x576.jpg)
+![](/images/sunanda-lookup-1024x576.webp)
 
 Ven Sunanda (China)
 
 One of the Chinese monks named Venerable Sunanda recently had his birthday. For his birthday, he determined to offer 100 shoulder cloths to various monks and ended up making 123. What is a shoulder cloth? It is a small robe that monks often like to wear underneath their upper robe.
 
-![](/images/Sweeping-Monk.jpg)
+![](/images/Sweeping-Monk.webp)
 
 from http://www.justwalkedby.com/2016/03/sweeping-monk/ creative commons attrib nc
 
@@ -33,27 +33,27 @@ Is this a waste to cut up new robes which have already been made? Well... yes an
 
 When I was in Kaua'i, my robes were quite old and I explored making robes and getting the cloth that was necessary for the job. The cloth used for our Myanmar robes is very high quality and although the robes are about $50 or $60 USD per set, the cloth alone will cost more than $150 when purchased in Hawai'i. Even with shipping costs, it is still cheaper to ask a donor or monk to send from Myanmar. Plus there is nothing to make.
 
-![](/images/robe-stack-768x1024.jpg)
+![](/images/robe-stack-768x1024.webp)
 
 The stash
 
-![](/images/robe-stack-plastic-768x1024.jpg)
+![](/images/robe-stack-plastic-768x1024.webp)
 
 The stash wrapped up for giving
 
-![](/images/robe-giving-768x1024.jpg)
+![](/images/robe-giving-768x1024.webp)
 
 A picture of me receiving a robe
 
 So is it a waste to cut up brand new robes? Well considering the cloth is valuable, it can be used as cloth to make other items. Furthermore, it is nice to have a [robe-stitching-pattern](https://americanmonk.org/buddhist-monks-robes-information/) on your inner robe when normally they are of a single piece. If you look at the monk sweeping on the left, you will see he is wearing a single piece of cloth with no patchwork pattern (like a rice paddy field). The Pa-Auk monk on the right made his own presumably from an old robe which shows the robe stitching pattern.\[mfn\]He originally said I could take a photo only below the head, but after the nice smile, I convinced him to let me post the whole photo.\[/mfn\] This single fresh piece of cloth is common for such a small robe cloths, especially in Thailand (with brown color robes).
 
-![](/images/Sweeping-Monk.jpg)
+![](/images/Sweeping-Monk.webp)
 
-![](/images/shoulder-robe-rotated.jpg)
+![](/images/shoulder-robe-rotated.webp)
 
 Below is a close-up of the robe the Pa-Auk monk on the right made for himself. Like myself in 2017, he never bothered to put a finishing seam. I guess we are both part of the same fringe group. The cloth is high quality cloth that dress shirts are made from and can last a long time in this condition. If it does not last, one can always make another in the same way in a matter of minutes. I have a video that shows how to make string very quickly in my [water filter post](https://americanmonk.org/make-monk-filter-3-minutes/). This is very useful for making shoulder cloths as well. However, the tying strings made by Venerable Sunanda were sewed properly.
 
-![](/images/shoulder-robe-close.png)
+![](/images/shoulder-robe-close.webp)
 
 Close up of home made shoulder cloth.
 
@@ -84,11 +84,11 @@ The excellent part about this, is that Venerable Sunanda was able to make a dona
 
 ## How Long Did It Take To Make?
 
-![](/images/sewing1.jpg)
+![](/images/sewing1.webp)
 
-![](/images/sewing3.jpg)
+![](/images/sewing3.webp)
 
-![](/images/sewing2.jpg)
+![](/images/sewing2.webp)
 
 By the time he finished 100 robes, he was able to make a new robe in 15 minutes. If it took one hour to make one robe, 100 robes would be 100 hours. If it takes 15 minutes, then it is 25 hours for 100 robes. However, he is most likely over-estimating his work and even though he can do one robe in 15 minutes, that was after he had already became efficient at making 100 robes. Plus, you don't work at top speed the whole time. I'd put the total workload at 40-50 hours which is quite impressive when the purpose is just to give something away.
 

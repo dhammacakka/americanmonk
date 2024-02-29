@@ -11,11 +11,11 @@ tags:
   - pa-auk-sayadaw
 authors: 
   - bksubhuti
-image: /images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.jpg
-featured_image: /images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.jpg
+image: /images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.webp
+featured_image: /images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.webp
 ---
 
-![](/images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance-1024x750.jpg)
+![](/images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance-1024x750.webp)
 
 Pa-Auk Main Gate (cc-by-sa)
 
@@ -25,7 +25,7 @@ Some people might question why Pa-Auk Forest Monastery and Venerable Pa-Auk Saya
 
 ## Who?
 
-![](/images/1440px-Venerable_Pa-Auk_Tawya_Sayadaw_Bhaddanta_Aciṇṇa-1024x768.jpg)
+![](/images/1440px-Venerable_Pa-Auk_Tawya_Sayadaw_Bhaddanta_Aciṇṇa-1024x768.webp)
 
 Venerable Pa-Auk Sayadawgyi (cc-by-sa)
 
@@ -35,11 +35,11 @@ Venerable Pa-Auk Sayadaw’s real name is Sayadaw U Āciṇṇa. It means “hab
 
 This is the original Pa-Auk Forest Monastery in Mawlamyine, Mon State.
 
-![](/images/pa-auk-main-1024x337.png)
+![](/images/pa-auk-main-1024x337.webp)
 
 ## Where?
 
-![](/images/pa-auk-map-1024x540.png)
+![](/images/pa-auk-map-1024x540.webp)
 
 There is a village named Pa-Auk Village situated about 10 miles outside of Mawlamyine, which is one of the major cities in Mon State. The monastery is called Pa-Auk Tawya Monastery. Tawya means forest, so it is the forest monastery of the village named Pa-Auk. You can see on the map that the monastery is located on the right (where the forest is), while the village is on the other side of the main road.
 

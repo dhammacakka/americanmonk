@@ -10,11 +10,11 @@ tags:
   - visuddhimagga
 authors: 
   - bksubhuti
-image: /images/secretwheel.png
-featured_image: /images/secretwheel.png
+image: /images/secretwheel.webp
+featured_image: /images/secretwheel.webp
 ---
 
-[![](/images/secretwheel.png)](/images/2018/08/secretwheel.png)
+[![](/images/secretwheel.webp)](/images/2018/08/secretwheel.webp)
 
 If there was a book that had all of the Secret Teachings of Theravāda, _The Path of Purification (The Visuddhimagga)_ would be that book. It explains all the good stuff, like how to attain samādhi concentration; how to attain psychic powers including knowing and seeing the past lives. Lastly, it includes the stages of insight and wisdom that one needs to reach Nibbāna. Books do not get more complete than this. You can read a free and condensed version called [Knowing and Seeing](assets/know-see.pdf) by The Most Venerable Pa-Auk Sayadawgyi who teaches this exact method based on The Path of Purification.
 

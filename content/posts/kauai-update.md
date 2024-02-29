@@ -9,11 +9,11 @@ tags:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/IMG_0576-e1524374761899.jpg
-featured_image: /images/IMG_0576-e1524374761899.jpg
+image: /images/IMG_0576-e1524374761899.webp
+featured_image: /images/IMG_0576-e1524374761899.webp
 ---
 
-[![](/images/IMG_0576-e1524374761899-768x1024.jpg)](/images/2018/04/IMG_0576-e1524374761899.jpg)
+[![](/images/IMG_0576-e1524374761899-768x1024.webp)](/images/2018/04/IMG_0576-e1524374761899.webp)
 
 **Kauai Update April 22** Aloha! I have been in Kauai since April 9th. It has been a rough start but things are getting better everyday. If you have paid attention to the news, you may have noticed an unheard of 30" of rain in 24 hours. Actually, there were several days of incredible amounts of rain, but only the third day broke the records.  See [https:www.washingtonpost.com](https://www.google.com/amp/s/www.washingtonpost.com/amphtml/news/capital-weather-gang/wp/2018/04/17/historic-rain-inundates-kauai-cutting-off-hawaii-tourists-with-floods-and-mudslides/)
 
@@ -43,4 +43,4 @@ I have a one way ticket and I am alone this time. I have the flexibility to stay
 
 Below are some pictures of my campsite.
 
-Aloha! [![](/images/IMG_20180421_074412-1024x768.jpg)](/images/2018/04/IMG_20180421_074412.jpg) [![](/images/IMG_20180421_074441-1024x768.jpg)](/images/2018/04/IMG_20180421_074441.jpg)
+Aloha! [![](/images/IMG_20180421_074412-1024x768.webp)](/images/2018/04/IMG_20180421_074412.webp) [![](/images/IMG_20180421_074441-1024x768.webp)](/images/2018/04/IMG_20180421_074441.webp)
