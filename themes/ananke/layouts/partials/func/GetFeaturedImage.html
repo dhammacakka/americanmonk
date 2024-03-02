@@ -27,6 +27,9 @@
   {{ with $.Resources.GetMatch . }}
     {{ $linkToCover = .RelPermalink }}
   {{ end }}
+  {{ with resources.Get . }}
+    {{ $linkToCover = .RelPermalink }}
+  {{ end }}
 {{/* Find the first image with 'cover' in the name in this page bundle. */}}
 {{ else }}
   {{ with .Resources.ByType "image" }}
