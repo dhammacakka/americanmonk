@@ -26,13 +26,22 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     {{ range $pages }}
-      <item>
-        <title>{{ .Title }}</title>
-        <link>{{ .Permalink }}</link>
-        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-        <guid>{{ .Permalink }}</guid>
-        <description><![CDATA[{{ .Summary }}]]></description>
-      </item>
+    <item>
+      <title>{{ .Title | html }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <guid>{{ .Permalink }}</guid>
+      <description>
+        <![CDATA[
+          <img src="{{ .Params.rssImage | absURL }}" alt="" />
+          {{ if .Params.excerpt }}
+            {{ .Params.excerpt | html }}
+          {{ else }}
+            {{ .Summary | html }}
+          {{ end }}
+        ]]>
+      </description>
+    </item>
     {{ end }}
   </channel>
 </rss>
