@@ -37,11 +37,8 @@
       <description>{{ .Content | plainify | truncate 350 }}</description>
       {{ with .Params.featured_image }}
       {{ with resources.Get . }}
-      <image>
-        <url>{{ (.Resize "600x").Permalink }}</url>
-        <title>{{ $title }}</title>
-        <link>{{ $permaLink }}</link>
-      </image>
+      {{ $enclosureImg := (.Resize "600x").Permalink }}
+      <enclosure url="{{ $enclosureImg }}" type="image/webp" />
       {{ end }}
       {{ end }}
     </item>
