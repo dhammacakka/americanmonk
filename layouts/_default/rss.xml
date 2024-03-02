@@ -1,3 +1,11 @@
+<description>
+  <![CDATA[
+    <style>img { max-width: 600px; height: auto; }</style>
+    {{ .Content | html }}
+  ]]>
+</description>
+
+
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}

@@ -1,0 +1,4 @@
+{{ $src := .Get "src" }}
+{{ $image := resources.Get $src }}
+{{ $resizedImage := $image.Resize "600x" }}
+<img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Get " alt" }}">
