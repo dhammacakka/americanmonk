@@ -37,7 +37,7 @@
       <description>{{ .Content | plainify | truncate 350 }}</description>
       {{ with .Params.featured_image }}
       {{ $absFeaturedUrl := trim . "/" | absURL }}
-      <enclosure url="{{ $absFeaturedUrl }}" type="image/webp" />
+      <enclosure url="{{ $absFeaturedUrl }}" length="200000" type="image/webp" />
       <image>
         <url>{{ $absFeaturedUrl }}</url>
         <title>{{ $title }}</title>
