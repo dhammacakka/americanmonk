@@ -36,13 +36,12 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | plainify | truncate 350 }}</description>
       {{ with .Params.featured_image }}
-      {{ $absFeaturedUrl := trim . "/" | absURL }}
-      <enclosure url="https://americanmonk.org/images/talk-on-monks-bowl-v2.jpg" length="55576" type="image/jpeg" />
-      <image>
-        <url>{{ $absFeaturedUrl }}</url>
-        <title>{{ $title }}</title>
-        <link>{{ $permaLink }}</link>
-      </image>
+      {{ with resources.Get . }}
+      {{ with .Resize "580x jpg q75"}}
+      {{ $sizeInBytes := len .Content }}
+      <enclosure url="{{ .Permalink }}" length="{{$sizeInBytes}}" type="image/jpeg" />
+      {{ end }}
+      {{ end }}
       {{ end }}
     </item>
     {{ end }}

@@ -13,7 +13,7 @@ image: /images/testing-our-water.webp
 featured_image: /images/testing-our-water.webp
 ---
 
-![](/images/waterdiagram-1024x681.webp)
+{{< img src = "/images/waterdiagram-1024x681.webp"  >}}
 
 Water Purification Diagram
 
@@ -21,7 +21,7 @@ While the first step of meditation is called Sīlavisuddhi (Purification of mora
 
 Ven Kāruṇika is one of the worker monks who keeps our water filtration machine in tip top condition, or shall we say "purerr-ing" ? I took a bunch of pictures with him explaining how everything works.. However, it was long ago and now I forget how to explain things.
 
-![](/images/UKarunika.webp)
+{{< img src = "/images/UKarunika.webp"  >}}
 
 Venerable Kāruṇika
 
@@ -29,46 +29,48 @@ Enjoy the pictures!
 
 The first stage is a sand filter, second is carbon filter and then I think it gets softened before the reverse osmosis (RO) filter. I hope I got the order right because I think that is what the chart says.
 
-![](/images/sandcarbonsoft.webp)
+{{< img src = "/images/sandcarbonsoft.webp"  >}}
 
 Different Stages
 
-![](/images/WaterLongView.webp)
+{{< img src = "/images/WaterLongView.webp"  >}}
 
 Tanks and Switches
 
-![](/images/ThisSwitchOfforOn.webp)
+{{< img src = "/images/ThisSwitchOfforOn.webp"  >}}
 
 Artistic shot of Switches :)
 
-![](/images/ROunplugged.webp)
+{{< img src = "/images/ROunplugged.webp"  >}}
 
 I think this is an old RO Filter
 
-![](/images/RO-Filter.webp)
+{{< img src = "/images/RO-Filter.webp"  >}}
 
 RO in action
 
-![](/images/HCL.webp)
+{{< img src = "/images/HCL.webp"  >}}
 
 HCL
 
-![](/images/ChemStoreHCL.webp)
+{{< img src = "/images/ChemStoreHCL.webp"  >}}
 
 HCL Chem
 
-![](/images/20200724_172201.webp)
+{{< img src = "/images/20200724_172201.webp"  >}}
 
 Testing our Water vs Store Bought
 
-![](/images/Testing-another-companys-water.webp)
+{{< img src = "/images/Testing-another-companys-water.webp"  >}}
 
 I think red is bad
 
-![](/images/testing-our-water.webp)
+{{< img src = "/images/testing-our-water.webp"  >}}
 
 Blue must be good and our water
 
-![](/images/water-result.webp)
+{{< img src = "/images/water-result.webp" >}}
+
+
 
 Finished Product (Filling Station) with smaller storage tanks Large tank is behind the building.
