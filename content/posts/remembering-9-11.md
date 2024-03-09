@@ -17,7 +17,7 @@ image: /images/WTC_south_tower_9-11.webp
 featured_image: /images/WTC_south_tower_9-11.webp
 ---
 
-![](/images/WTC_south_tower_9-11.webp)
+{{< img src = "/images/WTC_south_tower_9-11.webp" >}}
 
 cc WTC 9/11, 2001 wikimedia **Attribution: Robert J. Fisch**
 

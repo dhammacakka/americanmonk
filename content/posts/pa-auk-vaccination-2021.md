@@ -16,7 +16,7 @@ image: /images/getjab.webp
 featured_image: /images/getjab.webp
 ---
 
-![](/images/getjab.webp)
+{{< img src = "/images/getjab.webp" >}}
 
 Injection on Western resident monk
 
@@ -30,7 +30,7 @@ Making the decisions for the monastics was not easy. Even if a smaller percentag
 
 As we are finding out, there is a lot of misinformation from the media leading people to believe that the vaccines will prevent COVID infections. We are slowly learning that efficacy does not mean prevention. It just means it has some effectiveness in reducing the serious cases. My pro-vax sister told me that prevention of serious illness means that if you get sick, go to the hospital and you are sent home with an oxygen tank, that is considered "not-serious". You need to be careful when you hear about "Chinese Vaccines" too. China was the first to start rolling out vaccines, so it makes sense that problems would happen proportionally in time and with new variants. Furthermore, you might hear that Chinese vaccines are less effective for the Delta variant even though all vaccines are less effective against the Delta variant. There is quite a lot of bending of the truth from the media which is supported indirectly by big Pharma. We are now getting more "time tested" information about the American produced vaccines too. Lastly, the SinoPharm is different from the SinoVac vaccine. If you have heard about problems with the "Chinese Vaccine" it probably referenced to SinoVac _and not SinoPharm_. In either case, they all help as long as you don't react to the vaccine and die. Let's hope that Pa-Auk has a zero reaction rate. My mother has had her third Pfizer dose, yet she still needs to wear a mask. Nevertheless, I do believe the statistics about serious illness of those who are vaccinated versus those who are not vaccinated. That was why I got my first jab.
 
-![](/images/medical-car.webp)
+{{< img src = "/images/medical-car.webp" >}}
 
 Official Medical Car parked outside
 

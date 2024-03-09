@@ -14,7 +14,7 @@ image: /images/Thumbnail-finger.webp
 featured_image: /images/Thumbnail-finger.webp
 ---
 
-![Thumbnail](/images/Thumbnail-finger.webp)
+![Thumbnail](/images/Thumbnail-finger.webp" >}}
 
 Last week I taught Fingernail Meditation. This is where one uses the fingernail(s) as a subject of meditation. Although this has probably never been taught before by anyone as a standalone meditation subject, it is a subsection of a meditation instruction that all monks are given on their ordination day. That is called, _"The First Five Body Parts,"_ Yes, it is that well known, but rarely ever or even never taught. However, you might think, "Only a subsection, why not practice the whole thing?"
 
@@ -44,4 +44,4 @@ Below is a recording of the finger nail meditation talk I gave.
 
 Other recordings may be found at [https://americanmonk.org/recordings-by-bhante-subhuti/](https://americanmonk.org/recordings-by-bhante-subhuti/)
 
-Picture is cc-Attrib-Share-Alike at this link [here](https://commons.wikimedia.org/wiki/File:Ongle_du_doigt_de_la_main_-_Fingernail_hand.webp)
+Picture is cc-Attrib-Share-Alike at this link [here](https://commons.wikimedia.org/wiki/File:Ongle_du_doigt_de_la_main_-_Fingernail_hand.webp" >}}

@@ -11,7 +11,7 @@ image: /images/Glickphoto.webp
 featured_image: /images/Glickphoto.webp
 ---
 
-![](/images/Glickphoto.webp)
+{{< img src = "/images/Glickphoto.webp" >}}
 
 My family
 
@@ -19,31 +19,31 @@ I did a brief visit with my parents on the corner of October and November. Altho
 
 The immediate preceding visit to [Chicago](https://americanmonk.org/chicago-lao-monastery/) went well, but I was just getting a taste of the non-Hawai'ian cold climate for the later days in Connecticut. The last few days were near freezing temperatures and since my father keeps the heat slightly above freezing it was not so fun, but sometimes my mother turned up the thermostat :) To make matters worse, according to vinaya, one should not have a living area that is internally connected to the other living areas where women stay (even one's own mother). That means that if I want to use the toilet during the middle of the night when it is near or below freezing, I need to walk outside, go around the house and then walk through the front door. I had to do this because the doorways connecting the porch-sun-room to the house were intentionally boarded up for this purpose.
 
-![](/images/porchpic2-e1574243008764-1024x407.webp)
+{{< img src = "/images/porchpic2-e1574243008764-1024x407.webp" >}}
 
 I have not been to my parents house since 2008 and the last time I went, my sister and I did not see eye to eye (wink). During this visit the whole family was wondering how things would go with this particular visit and on the first day, my sister came alone _without_ her 13 year old daughter to test the waters. Things went well and my sister kept asking me what type of food I would like. I finally told her that vegetarian home-cooked food was best without much details and after that my sister disappeared for about 6 hours. Upon her return, she came with a week's worth of home cooked curries along with her daughter too. We are still mystified how she went shopping, cooked the food and returned so quickly which included a 3 hour round trip commute. Whatever the case was, we all had a wonderful visit and the food was literally wonderful!
 
-![](/images/mewithsis.webp)
+{{< img src = "/images/mewithsis.webp" >}}
 
 Me and my sister Alisa
 
-![](/images/mewitheve.webp)
+{{< img src = "/images/mewitheve.webp" >}}
 
 My new niece named Eva
 
 On Sundays (two of them), I gave Dhammatalks to the Vietnamese community at Hi'an Pagoda in New Britain, CT. This was where I first learned some traditional (yet Mahayana) Buddhism as a lay person. It was at this monastery where I decided that Theravada was my real calling and I was happy to share that experience along with my gratitude for their support for this monastery which was a stepping stone into my Theravada monkhood. I also told a story about a friend who introduced me to their community and taught me meditation. I had written about this before at this link here: [https://americanmonk.org/the-seeds-from-long-ago/](https://americanmonk.org/the-seeds-from-long-ago/)
 
-![](/images/vietnam1-1024x768.webp)
+{{< img src = "/images/vietnam1-1024x768.webp" >}}
 
 Teaching at Hi'an Pagoda in New Britain, CT
 
-![](/images/retreatgroup4-1024x768.webp)
+{{< img src = "/images/retreatgroup4-1024x768.webp" >}}
 
 Impromptu one day retreat
 
 I also gave a talk to the Thursday night "Westerner Program" and stayed overnight for a small impromptu retreat that 4 people managed to attend the next day. Near the end of the retreat, I asked the participants about their previous metta (loving-kindness) practice and discovered that only 1 out of the four had any formal training in metta. With that, we had a long fun-filled and sustained metta meditation session which was extended to standing and walking metta meditation. That was fun and the group was really happy about the day spent in meditation. You might notice the robes on all of the participants. In the Vietnam tradition, it is common for the laypeople to wear special yogi robes when visiting the temple. You might wonder why I'm only wearing "half robes" (covered by a blanket). When we are residents, we are allowed to do so. Since I spent the night at the temple, I was a resident. You can read more here at [https://americanmonk.org/buddhist-monks-robes-information/](https://americanmonk.org/buddhist-monks-robes-information/)
 
-![](/images/momfood2.webp)
+{{< img src = "/images/momfood2.webp" >}}
 
 Mom serving me an old family favorite, spaghetti with homemade tomato sauce
 
@@ -65,7 +65,7 @@ My mother prepared the food that my sister made for me nearly everyday and it al
 > **cattāro dhammā vaḍḍhanti: āyu, vaṇṇo, sukhaṁ, balaṁ.**  
 > four things increase: length of life, beauty, happiness, and strength.[1](https://americanmonk.org/18th-anniversary-and-update/#easy-footnote-bottom-1-1746)  
 
-![](/images/momgivingfood.webp)
+{{< img src = "/images/momgivingfood.webp" >}}
 
 Another day getting served with my sister's vegetarian curries
 
@@ -73,7 +73,7 @@ Lastly, one of the toppings on the cake was that my parents finally came to term
 
 So the talk officially began at 1:30 pm but some people came early. It was supposed to end an hour later but somehow it lasted until 4:30 pm with a couple of friends lingering until 6:00 pm My father was dozing on and off during the talk and after it was over, he felt he had missed something. Later that night, my mother went out and my father asked me to teach him meditation. For Buddhists, it is such a rare opportunity and such and honor as well. After it was finished, he said, "Why didn't you teach this to me 50 years ago?" Besides being 49, I have always asked him to meditate, but I guess I never really sat down and taught him.
 
-![](/images/dhamma@glicks.webp)
+{{< img src = "/images/dhamma@glicks.webp" >}}
 
 My parent's book club came over for a visit
 

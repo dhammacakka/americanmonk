@@ -7,7 +7,7 @@ image: /images/Burmese-Pali_Manuscript.webp
 featured_image: /images/Burmese-Pali_Manuscript.webp
 ---
 
-![](/images/Burmese-Pali_Manuscript.webp)
+{{< img src = "/images/Burmese-Pali_Manuscript.webp" >}}
 
 Here is a link to a different English translation of the vissuddhimagga.
 

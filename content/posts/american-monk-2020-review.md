@@ -14,7 +14,7 @@ This past year has been very fruitful for AmericanMonk.org. In this post, we wil
 
 So how did things go in the year 2020? Below is a chart of the years up to today.
 
-![](/images/2020stats-1-1024x324.webp)
+{{< img src = "/images/2020stats-1-1024x324.webp" >}}
 
 Yearly Page Hits up to 2020
 
@@ -22,7 +22,7 @@ Not so bad. As you can see the yearly hits total was about 46,000 and the visito
 
 The CPanel chart below shows different numbers. CPanel is the server interface which is a level up from the web management software I use and showed above. The people who know more about websites than me claim that these are also free from counting robots and more accurate than the one shown above.
 
-![](/images/cpanelstats2020.webp)
+{{< img src = "/images/cpanelstats2020.webp" >}}
 
 2020 stats from CPanel. The bottom row shows the totals for the year.
 
@@ -30,7 +30,7 @@ Here you will see that the server counting totals (cpanel) shows 45,000 unique v
 
 Below, back to the WordPress stats, is a summary of the page hits.
 
-![](/images/2020stats2-1024x844.webp)
+{{< img src = "/images/2020stats2-1024x844.webp" >}}
 
 WordPress page stats 2020
 

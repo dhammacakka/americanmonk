@@ -14,7 +14,7 @@ image: /images/boxingday.webp
 featured_image: /images/boxingday.webp
 ---
 
-![](/images/boxingday.webp)
+{{< img src = "/images/boxingday.webp" >}}
 
 Robin Hutton cc-nc-sa https://www.flickr.com/photos/robinhutton/35838229270
 

@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=c2JQjhwdsxA
 
 {{< youtube c2JQjhwdsxA >}}
 
-![](/images/GFBColorOrig-330x195.webp)
+{{< img src = "/images/GFBColorOrig-330x195.webp" >}}
 
 ### Why did you become a monk?
 

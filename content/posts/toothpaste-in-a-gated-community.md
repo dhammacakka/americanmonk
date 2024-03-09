@@ -15,7 +15,7 @@ image: /images/toothpaste.webp
 featured_image: /images/toothpaste.webp
 ---
 
-![](/images/toothpaste.webp)
+{{< img src = "/images/toothpaste.webp" >}}
 
 My near-empty tube of Meswak next to the new one
 

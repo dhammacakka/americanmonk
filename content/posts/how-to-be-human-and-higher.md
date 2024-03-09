@@ -17,7 +17,7 @@ image: /images/heavenly-sky-from-rawpixel.webp
 featured_image: /images/heavenly-sky-from-rawpixel.webp
 ---
 
-![](/images/heavenly-sky-from-rawpixel-1024x637.webp)
+{{< img src = "/images/heavenly-sky-from-rawpixel-1024x637.webp" >}}
 
 Sunrise behind clouds, free public domain CC0 image.
 

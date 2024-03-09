@@ -15,7 +15,7 @@ image: /images/GFBColorOrig.webp
 featured_image: /images/GFBColorOrig.webp
 ---
 
-![](/images/2020020720314200.webp)
+{{< img src = "/images/2020020720314200.webp" >}}
 
 Probably the #1 question we get is, "Why did you become a monk?" That question has many factors and answers. However, a better question is, "How did I actually get the nerve to become a monk?"  I had a lot to give up.  I was a computer programmer and really enjoyed my job.  It did not feel like work actually and I was also making more than 15 times what someone on minimum wage was making at that time.  I had gone through the "Should I stay or should I go?" routine many many times but never really committed myself to monkhood. 
 

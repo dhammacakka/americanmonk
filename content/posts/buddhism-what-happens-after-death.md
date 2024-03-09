@@ -22,7 +22,7 @@ image: /images/hand-candle.webp
 featured_image: /images/hand-candle.webp
 ---
 
-![](/images/hand-candle.webp)
+{{< img src = "/images/hand-candle.webp" >}}
 
 https://unsplash.com/photos/j3R9C-Xqe1w
 
@@ -148,13 +148,13 @@ These five causes lead to five results. The five khandas (mind and matter). The 
 
 Have you ever seen the Tibetan Wheel of Life? Most of you have. It is actually the wheel of saṃsāra (cycle of birth and death). As I have said before, the Wheel is the most basic and profound teaching in Buddhism. You might know what the links mean, but most of you have never really heard how birth and death work on a technical level. Those five key points listed above explain most of it. Once you know the 5 points, you can fill in the rest quite easily. However, the average reader will not be able to understand all of the graphics below and they are not in order like a clock. They are causes of causes. The third Mogok graphic shows many squiggly lines and arrows. Trust me... The five points above is how it generally works, and these five points are from the Path of Purification (Visuddhimagga), which is one of the most authoritative Theravāda Pāḷi texts with the details to the Suttas of how one gets liberated. This is the simplest and most digested way to understand the Wheel. Try to make sense of the graphics below and then be grateful you know the five points.
 
-![](/images/Paticca-Samuppada.webp)
+{{< img src = "/images/Paticca-Samuppada.webp" >}}
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Paticca-Samuppada.webp/551px-Paticca-Samuppada.webp
 
-![](/images/wheel-1.webp)
+{{< img src = "/images/wheel-1.webp" >}}
 
-![](/images/mmwheel.webp)
+{{< img src = "/images/mmwheel.webp" >}}
 
 Mogok Wheel
 

@@ -18,7 +18,7 @@ image: /images/monk-knife-art.webp
 featured_image: /images/monk-knife-art.webp
 ---
 
-![](/images/monk-knife-art-569x1024.webp)
+{{< img src = "/images/monk-knife-art-569x1024.webp" >}}
 
 Artistic digital recreation of Migalaṇḍika (an ascetic who looked like a monk)
 

@@ -24,4 +24,4 @@ My life has been so simple for so long that I sometimes forget how unique and sp
 
 I wish you all well and perhaps this can be a comfort in times that are uncertain. Below is a picture of the wooden lunch bell at Pa-Auk Forest Monastery. It can be heard from very far away. Although being homeless is another name to describe the monk life, I live in a monastery with an assigned meditation hut (kuti) I can use while I stay here. In this particular monastery, we have food arranged by kitchen staff instead of needing to go out into the village each day. The food is good and life is simple. Kaua'i is just not possible right now but I still miss the island and its people dearly.
 
-![](/images/lunchBell-768x1024.webp)
+{{< img src = "/images/lunchBell-768x1024.webp" >}}

@@ -18,7 +18,7 @@ image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.w
 featured_image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.webp
 ---
 
-![](/images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070-1024x681.webp)
+{{< img src = "/images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070-1024x681.webp" >}}
 
 Sattigumba and Pupphaka
 

@@ -17,7 +17,7 @@ image: /images/Burmese-Pali_Manuscript.webp
 featured_image: /images/Burmese-Pali_Manuscript.webp
 ---
 
-![](/images/Burmese-Pali_Manuscript.webp)
+{{< img src = "/images/Burmese-Pali_Manuscript.webp" >}}
 
 Myanmar Pali Script (credit at bottom link.. cc-sa-attrib)
 
@@ -332,4 +332,4 @@ Five Precepts taken from: [https://bhavanasociety.org/bv](https://bhavanasociety
 
 Picture from:
 
-[See page for author](https://commons.wikimedia.org/wiki/File:Burmese-Pali_Manuscript._Wellcome_L0026547.webp), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons
+[See page for author](https://commons.wikimedia.org/wiki/File:Burmese-Pali_Manuscript._Wellcome_L0026547.webp" >}}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons

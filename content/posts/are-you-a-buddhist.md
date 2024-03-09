@@ -12,7 +12,7 @@ image: /images/wheel-1.webp
 featured_image: /images/wheel-1.webp
 ---
 
-[![](/images/wheel-1.webp)](/images/2017/11/wheel-1.webp)
+[{{< img src = "/images/wheel-1.webp" >}}](/images/2017/11/wheel-1.webp" >}}
 
 **Are You A Buddhist?** 
 

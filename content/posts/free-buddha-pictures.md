@@ -14,7 +14,7 @@ image: /images/Bodhgaya-Mahabodhi-Thumb-00014.webp
 featured_image: /images/Bodhgaya-Mahabodhi-Thumb-00014.webp
 ---
 
-![](/images/Bodhgaya-Mahabodhi-Thumb-00014.webp)
+{{< img src = "/images/Bodhgaya-Mahabodhi-Thumb-00014.webp" >}}
 
 15 Main Image Close Up, at the Mahabodhi Temple, cc-atrib-sa https://www.photodharma.net/India/Bodhgaya-Mahabodhi/Bodhgaya-Mahabodhi.htm
 
@@ -24,7 +24,7 @@ Sometimes it is difficult to find free Buddha pictures. Even when Google shows y
 
 You will see that I modified a picture and then also stated the source of my picture in the [Buddhist Intermittent Fasting](https://americanmonk.org/the-buddhas-intermittent-fasting/) post and several others. Because the original photo was for any use, I cannot restrict the license to non-commercial as my own license. That is what "share alike" or "SA" means. Below is a creative commons picture of the creative commons copyright system. If you have heard of open source software, the two are very similar, but Creative Commons are usually for media and documents.
 
-![](/images/cc-spectrum.webp)
+{{< img src = "/images/cc-spectrum.webp" >}}
 
 Shaddim; original CC license symbols by Creative Commons, CC BY 4.0 [https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons
 
@@ -32,7 +32,7 @@ If you wish to find free Buddhist pictures, you can go to [photodharma.net](http
 
 Another source for free Buddhas or other free-to-use images are at the Creative Commons Website, which I discovered while writing this article. You can go to [this link here](https://search.creativecommons.org/search?q=buddha) to search for free to use/print pictures. If you want a large Buddha Poster similar to the picture below, grab a high res picture and run to your local sign shop for large format printing. I'm not sure where this picture was found or the resolution need for printing that size.
 
-![](/images/buddha-me-elgin-1024x768.webp)
+{{< img src = "/images/buddha-me-elgin-1024x768.webp" >}}
 
 Me giving a Dhamma talk at Elgin Lao Buddhist Monstery, USA
 

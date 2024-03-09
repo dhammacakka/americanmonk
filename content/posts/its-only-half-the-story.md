@@ -26,4 +26,4 @@ In the end, it is not so bad if they only get half of a story.
 
 With loving kindness, Bhikkhu Subhuti
 
-[![fb bless kilauea](/images/fb-bless-kilauea.webp)](/images/2015/11/fb-bless-kilauea.webp)
+[![fb bless kilauea](/images/fb-bless-kilauea.webp" >}}](/images/2015/11/fb-bless-kilauea.webp" >}}

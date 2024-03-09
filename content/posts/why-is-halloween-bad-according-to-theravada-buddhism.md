@@ -13,7 +13,7 @@ image: /images/oct31-halloween-pexels-александар-цветановић-
 featured_image: /images/oct31-halloween-pexels-александар-цветановић-1480861.webp
 ---
 
-![](/images/oct31-halloween-pexels-александар-цветановић-1480861-1024x682.webp)
+{{< img src = "/images/oct31-halloween-pexels-александар-цветановић-1480861-1024x682.webp" >}}
 
 ## Introduction:
 
@@ -47,11 +47,11 @@ On Halloween, one is like an actor. One dresses up in full costume. While there 
 
 Try to think of all the costumes, especially the best ones. Usually the more wicked and gory "the better" according to Halloween standards. Unless of course you are an abstract artist who dresses up as a can of soda or something. In that case, I'm just not sure how to judge this :). You could dress up as something wholesome, like a good fairy or a philanthropist throwing fake money around as if it were really fake money. That might be okay, but what will you do next year? Just like the actor, eventually she will land a part where bad karma is committed.
 
-![](/images/good-fairy-pexels-jill-wellington-220426-683x1024.webp)
+{{< img src = "/images/good-fairy-pexels-jill-wellington-220426-683x1024.webp" >}}
 
 Good Fairy This Year
 
-![](/images/girl-gool-pexels-matheus-bertelli-5477427-683x1024.webp)
+{{< img src = "/images/girl-gool-pexels-matheus-bertelli-5477427-683x1024.webp" >}}
 
 Death Zombie Next Year
 
@@ -113,4 +113,4 @@ As wholesome as it might appear to be at first glance, _one should never dress u
 
 The best thing for one to do, is to embody and live out a real character that is wholesome and that you admire. I totally recommend this. It was my dream to become a monk for a long time until I finally made the plunge. It was not an easy choice, but I finally did it with some [arm-bending from the universe](https://americanmonk.org/why-did-you-become-a-monk/) (kamma). Today, I no longer need to wish for this to happen because everyday I am blessed with my real robes that I get to wear every real day. I even [changed my legal name](https://americanmonk.org/legal-name-change/) to match my identity. The difficult part is to really really really be the best and ideal monk. I'm still working on that. But for now, I am what I am. Bhante Bhikkhu Subhūti. May you act out and become the real wholesome character in real life, everyday.
 
-![](/images/cropped-IMG_20190403_182709-1024x1024.webp)
+{{< img src = "/images/cropped-IMG_20190403_182709-1024x1024.webp" >}}

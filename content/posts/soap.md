@@ -27,7 +27,7 @@ Why?
 4. The smaller size is easy to dry after each use, even in tropical climates
 5. The towel can be worn on one's belt and carried with the monk wherever he goes.
 
-![](/images/handtowel-edited-1.webp)
+{{< img src = "/images/handtowel-edited-1.webp" >}}
 
 basic hand towel
 
@@ -39,7 +39,7 @@ Why?
 2. It is one of the oldest, simplest and most natural forms of soap around.
 3. It is cheap and plentiful. Although the price for a bar of carbolic soap can cost $5 per bar on Amazon, one can get 20 of these bars for about 50 cents in Myanmar.
 
-![](/images/carbolicsoap-rotated.webp)
+{{< img src = "/images/carbolicsoap-rotated.webp" >}}
 
 Carbolic Soap
 

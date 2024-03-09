@@ -9,4 +9,4 @@ featured_image: /images/vinayaclass.webp
 
 80 foreinger monks attend weekly vinaya class by sayadaw u candima.
 
-![](/images/vinayaclass-1024x495.webp)
+{{< img src = "/images/vinayaclass-1024x495.webp" >}}

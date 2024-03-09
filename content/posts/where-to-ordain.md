@@ -7,7 +7,7 @@ image: /images/pabbajja.resized.webp
 featured_image: /images/pabbajja.resized.webp
 ---
 
-![](/images/pabbajja.resized.webp)
+{{< img src = "/images/pabbajja.resized.webp" >}}
 
 Pabbajja Ordination in Pa Auk (8th April 2014)
 

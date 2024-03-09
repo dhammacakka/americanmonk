@@ -15,11 +15,11 @@ image: /images/MonkSkeleton.webp
 featured_image: /images/MonkSkeleton.webp
 ---
 
-![](/images/MonkSkeleton.webp)
+{{< img src = "/images/MonkSkeleton.webp" >}}
 
 If you go to a Theravada Buddhist forest monastery in Asia, you are likely to find a full skeleton or parts of a skeleton somewhere where it can be viewed easily. Some monasteries also have cemeteries inside the boundary like Pa-Auk Forest Monastery in Mawlamyine. Some other monasteries have a place were dead bodies are burned (with open wood fires), right on the premises, like Pa-Auk Mawlamyine and also Wat Pa Nanachat in Thailand. Wat Pa Nanachat has an enclosed glass case with a skeleton inside located in their main eating hall. Does that sound appetizing? Pa-Auk has a glass case near the entrance of the lower monastery, not far from the cemetery.
 
-![](/images/pa-auk-cemetary-1024x681.webp)
+{{< img src = "/images/pa-auk-cemetary-1024x681.webp" >}}
 
 Cemetery at Pa-Auk Monastery Main Branch, Mawlamyine. The 10 feet on other side of the road are where monks sleep.
 
@@ -37,7 +37,7 @@ While Meditation on Death is very important, we will save that for last and comp
 
 <table><tbody><tr><td><strong>Group 1</strong></td><td><strong>Group 2</strong></td><td><strong>Group 3</strong></td><td><strong>Group 4</strong></td><td><strong>Group 5</strong></td><td><strong>Group 6</strong></td></tr><tr><td>Hair of head</td><td>Flesh</td><td>Heart</td><td>Intestines</td><td>Bile</td><td>Tears</td></tr><tr><td>Hair of body</td><td>Sinews</td><td>Liver</td><td>Binding wire</td><td>Flem</td><td>Skin grease</td></tr><tr><td>Nails</td><td><strong><span class="has-inline-color has-vivid-purple-color">Bones</span></strong></td><td>Membrane</td><td>Contents of stomach</td><td>Pus</td><td>Saliva</td></tr><tr><td>Teeth</td><td>Bone Marrow</td><td>Spline</td><td>Poop</td><td>Blood</td><td>Snot</td></tr><tr><td>Skin</td><td>Kidneys</td><td>Lungs</td><td>Brain</td><td>Sweat</td><td>Joint oil</td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td>Fat</td><td>Urine</td></tr></tbody></table>
 
-![](/images/wp-1622864229863-1024x472.webp)
+{{< img src = "/images/wp-1622864229863-1024x472.webp" >}}
 
 A synthetic skeleton outside sitting outside meditation hall
 
@@ -71,7 +71,7 @@ In other places, it is a subject for foulness of the body. For instance, a story
 > 
 > Path of Purification, p24
 
-![](/images/paaukskull-1024x682.webp)
+{{< img src = "/images/paaukskull-1024x682.webp" >}}
 
 Skull found on top of the mountain of Pa-Auk Main Branch in Mawlamyine
 
@@ -130,7 +130,7 @@ The Buddha spoke of skeletons in one of His most famous discourses called Mahās
 > 
 > Mahāsatipaṭṭhānasuttaṁ, DN 22
 
-![](/images/9charnel.webp)
+{{< img src = "/images/9charnel.webp" >}}
 
 A famous painting representing the cemetery contemplation
 
@@ -171,6 +171,6 @@ Below is a painting which is reduced to three essentials: Life, Death, and Time
 
 By Philippe de Champaigne - Web Gallery of Art: Image Info about artwork, Public Domain, https://commons.wikimedia.org/w/index.php?curid=369918
 
-![](/images/939px-StillLifeWithASkull.webp)
+{{< img src = "/images/939px-StillLifeWithASkull.webp" >}}
 
 [Philippe de Champaigne](https://en.wikipedia.org/wiki/Philippe_de_Champaigne)'s _[Vanitas](https://en.wikipedia.org/wiki/Vanitas)_ (c. 1671) is reduced to three essentials: Life, Death, and Time

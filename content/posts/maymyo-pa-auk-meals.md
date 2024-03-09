@@ -18,41 +18,41 @@ At Theravada monasteries there is no eating allowed after Noontime. Some monaste
 
 Below are some videos, pictures and gifs about what the food is like. In short, it consists of mostly international Chinese vegetarian food. There are also extra donors at the end of the line who serve "extra food" including optional vegetarian or meat items. Every so often a Myanmar curry gets put on the table as well. The food here seems to satisfy everyone's needs. In the olden Pa-Auk days there were many complaints about the food content and style. Here, there is nothing to complain about, but people still complain. In order for the monks to freely take from the table as they need, the food is offered to "duty monks" and then they put the food on the table for all of the other monks. Below is a video of the curries and dishes. Before we show that, we must show the volunteers working hard outside in the cold mornings.
 
-![](/images/Volunteers-Maymyo300.gif)
+{{< img src = "/images/Volunteers-Maymyo300.gif" >}}
 
 Volunteers working in the cold Winter mornings
 
 And Now for the video (7mb)
 
-- ![](/images/Maymyofoodemotyfoodline-1024x768.webp)
+- {{< img src = "/images/Maymyofoodemotyfoodline-1024x768.webp" >}}
     
-- ![](/images/Maymyofood-line.webp)
+- {{< img src = "/images/Maymyofood-line.webp" >}}
     
 
 The buffet table and the line of monks
 
 Here are some close-up pictures from the meal line.
 
-![](/images/Maymyofood-rice.webp)
+{{< img src = "/images/Maymyofood-rice.webp" >}}
 
 Getting the rice
 
-![](/images/Maymyofood-curry-1024x768.webp)
+{{< img src = "/images/Maymyofood-curry-1024x768.webp" >}}
 
 One of the curries
 
-![](/images/Maymyofood-green.webp)
+{{< img src = "/images/Maymyofood-green.webp" >}}
 
 Cooked greens are always available
 
-![](/images/Maymyofood-crunch.webp)
+{{< img src = "/images/Maymyofood-crunch.webp" >}}
 
 a little crunch for the bowl
 
-![](/images/Maymyofood-endline.webp)
+{{< img src = "/images/Maymyofood-endline.webp" >}}
 
 Monks finishing up the line
 
-![](/images/Maymyofoodteaa.webp)
+{{< img src = "/images/Maymyofoodteaa.webp" >}}
 
 Tea that is offered daily (For use before Noon)

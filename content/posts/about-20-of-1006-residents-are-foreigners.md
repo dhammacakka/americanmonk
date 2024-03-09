@@ -7,6 +7,6 @@ authors:
 
 About 20% of 1006 residents are foreigners.﻿
 
-![](/images/tmp_20131022_0811472083296239.webp)
+{{< img src = "/images/tmp_20131022_0811472083296239.webp" >}}
 
 [This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/Yr9PYJyQGDz)

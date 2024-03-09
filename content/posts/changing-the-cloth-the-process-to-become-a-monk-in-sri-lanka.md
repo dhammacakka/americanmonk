@@ -24,11 +24,11 @@ A lay person named Chathuranga came to the [International Institute of Theravād
 
 First he was a regular lay person working as a construction assistant engineer in the Maldives and then made the transition to a devoted layperson. Here you can see he is more serious about Buddhism and cleaning an ancient Buddhist shrine.
 
-![](/images/chathuranga-1024x576.webp)
+{{< img src = "/images/chathuranga-1024x576.webp" >}}
 
 Maldives
 
-![](/images/chaturanga-cleaning-1024x768.webp)
+{{< img src = "/images/chaturanga-cleaning-1024x768.webp" >}}
 
 Abhayagiri Stupa, Anuraddhapura, Sri Lanka
 
@@ -58,11 +58,11 @@ After getting more into Buddhism and wanting to make the transition to a full ti
 
 Here you can see him dressed in white clothes as an Upāsako
 
-![](/images/upasako-1024x768.webp)
+{{< img src = "/images/upasako-1024x768.webp" >}}
 
 on the left in white
 
-![](/images/chaturangha-getting-robes.webp)
+{{< img src = "/images/chaturangha-getting-robes.webp" >}}
 
 getting pandupalasa clothes
 
@@ -70,27 +70,27 @@ getting pandupalasa clothes
 
 Chathuranga came to the monastery on November 10th, 2022 and he went to the 2nd stage called paṇḍupalāsa on near the first of June, 2023. He spent 2 weeks wearing red clothes which were given to him by the chief monk. This is to represent a leaf that gets old and falls from a tree. In the next stage you can see him in red clothes, but not yet a monk. However, he has 10 precepts similar to a novice monk.
 
-![](/images/chaturanga-pandupalasa-768x1024.webp)
+{{< img src = "/images/chaturanga-pandupalasa-768x1024.webp" >}}
 
 ## Stage 4: Taking Sāmaṇera Robes
 
 Lastly, after two weeks in red, he can finally enter the novice monk stage. His name is Reverend Paññāsekara.
 
-![](/images/chaturangha-first-cut-1024x576.webp)
+{{< img src = "/images/chaturangha-first-cut-1024x576.webp" >}}
 
 First cutting
 
-![](/images/pannyasekara-shave-1024x576.webp)
+{{< img src = "/images/pannyasekara-shave-1024x576.webp" >}}
 
 nearly fully shaven
 
 Here he is sāmaṇera Paññāsekara
 
-![](/images/Pannyasekara-sit-1-1024x576.webp)
+{{< img src = "/images/Pannyasekara-sit-1-1024x576.webp" >}}
 
 On June 18th, 2023, Chathuranga became a sāmaṇera. Next year, again on June 18th, 2024, he will become a fully ordained bhikkhu. All monks from this tradition take the full bhikkhu ordination during the 3 day ordination period starting on June 18th annually. I'll probably update this post and send this post again to the subscribers. However, he will look pretty much the same. He follows the ten precepts. I have an article which explains the 5, 8 and 10 precepts. I hope you can read it below as well. Be sure to subscribe to get the latest post notifications delivered to your email. I hope you enjoyed this and may you one day become a monk as well.
 
-![](/images/Precepts-330x195.webp)
+{{< img src = "/images/Precepts-330x195.webp" >}}
 
 ### 5, 8 and 10 Precepts
 

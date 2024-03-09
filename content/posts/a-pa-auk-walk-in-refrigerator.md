@@ -25,11 +25,11 @@ Recently, the doctor ordered some lemon juice for me to take as medicine, so I a
 - Insulation (optional)
 - Put one or two air conditioners inside
 
-![](/images/Pa-Auk_maymyo_Fridge.webp)
+{{< img src = "/images/Pa-Auk_maymyo_Fridge.webp" >}}
 
 Pa-Auk Maymyo: Only 1 air conditioner. Maybe because of the cooler climate and insulation.
 
-![](/images/Walk-In-Fridge_Pa-Auk.webp)
+{{< img src = "/images/Walk-In-Fridge_Pa-Auk.webp" >}}
 
 Pa-Auk Mawlamyine
 

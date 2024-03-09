@@ -9,11 +9,11 @@ image: /images/kilaueafarmsdeva.webp
 featured_image: /images/kilaueafarmsdeva.webp
 ---
 
-[![kilaueafarmsSubhuti](/images/kilaueafarmsSubhuti.webp)](/images/2015/10/kilaueafarmsSubhuti.webp)
+[![kilaueafarmsSubhuti](/images/kilaueafarmsSubhuti.webp" >}}](/images/2015/10/kilaueafarmsSubhuti.webp" >}}
 
-[![kilaueafarmsdeva](/images/kilaueafarmsdeva.webp)](/images/2015/10/kilaueafarmsdeva.webp)I had to ask Bhante Devananda several times in order to go to the end of the road to see the ocean today. We have been at this location for six weeks now without ever going to the ocean at the end of our own road.  However, after we got there, Bhante Devananda did not want to leave.  Being the nice monk I am, I let us stay and we meditated on the mountain until it got dark.  After all, it was our road and we knew the way back. Waiakalua, Kilauea Farms.
+[![kilaueafarmsdeva](/images/kilaueafarmsdeva.webp" >}}](/images/2015/10/kilaueafarmsdeva.webp" >}}I had to ask Bhante Devananda several times in order to go to the end of the road to see the ocean today. We have been at this location for six weeks now without ever going to the ocean at the end of our own road.  However, after we got there, Bhante Devananda did not want to leave.  Being the nice monk I am, I let us stay and we meditated on the mountain until it got dark.  After all, it was our road and we knew the way back. Waiakalua, Kilauea Farms.
 
-[![kilaueafarmsmeditation](/images/kilaueafarmsmeditation.webp)](/images/2015/10/kilaueafarmsmeditation.webp)
+[![kilaueafarmsmeditation](/images/kilaueafarmsmeditation.webp" >}}](/images/2015/10/kilaueafarmsmeditation.webp" >}}
 
 The area is a protected conservation area and the ocean has pretty bad currents that are just an absolute joy to look at.  It is truly unspoiled land.  I think I found a new favorite spot.  Maybe we will go there again tomorrow.
 

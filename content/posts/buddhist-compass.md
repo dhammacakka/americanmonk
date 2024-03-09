@@ -36,13 +36,13 @@ https://www.youtube.com/watch?v=kXF0N64RBs4
 
 You can find other software I such as [Buddhist Sun](https://americanmonk.org/buddhist-sun-app/) or [Tipitaka Pali Reader](https://americanmonk.org/tipitaka-pali-reader/) which I project manage.
 
-![](/images/TPR-billboard.webp)
+{{< img src = "/images/TPR-billboard.webp" >}}
 
 ### Tipitaka Pali Reader
 
 A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
-![](/images/buddhist_sun.webp)
+{{< img src = "/images/buddhist_sun.webp" >}}
 
 ### Buddhist Sun App
 

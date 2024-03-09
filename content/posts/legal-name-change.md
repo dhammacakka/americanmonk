@@ -14,7 +14,7 @@ image: /images/bhantepassport-no-num.webp
 featured_image: /images/bhantepassport-no-num.webp
 ---
 
-![](/images/bhantepassport-no-num-758x1024.webp)
+{{< img src = "/images/bhantepassport-no-num-758x1024.webp" >}}
 
 I recently changed my name officially to Bhante Bhikkhu Subhuti. I have been wanting to do this for a very long time but, unfortunately, I was unable to do it because the name change process has to be done in the probate court where one has residency. Since I had spent most of my time in Myanmar and Sri Lanka, it was just not possible, until recently. After being in Hawaii for a while, I committed to staying for at least three months longer to complete the name change process. Today was a landmark, with the arrival of my new passport.
 

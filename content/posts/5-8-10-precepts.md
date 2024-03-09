@@ -26,7 +26,7 @@ The conversation I had with another monk who approached me with a question a few
 
 **Question:** “Bhante, what is worse, to eat after NOON or to use money? I think that using money is worse because money is a “forfeiture” classed rule (Nissaggiyā Pācittiyā) and eating is only a confession classed rule (pācittiya).”
 
-\[caption id="attachment\_959" align="alignnone" width="1039"\][![A comparison of 5, 8 and 10 precepts](/images/Precepts.webp)](/images/2016/12/Precepts.webp) A comparison of 5, 8 and 10 precepts\[/caption\]
+\[caption id="attachment\_959" align="alignnone" width="1039"\][![A comparison of 5, 8 and 10 precepts](/images/Precepts.webp" >}}](/images/2016/12/Precepts.webp" >}} A comparison of 5, 8 and 10 precepts\[/caption\]
 
 **Answer:** (modified slightly) “Let us look at the 3 levels of precepts. Regular lay people follow 5 precepts, serious lay yogis follow 8 precepts and novice monks follow 10 precepts\*.
 

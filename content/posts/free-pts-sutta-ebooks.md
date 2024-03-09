@@ -16,13 +16,13 @@ image: /images/PTS-eBooks.webp
 featured_image: /images/PTS-eBooks.webp
 ---
 
-![](/images/DN-cover.webp)
+{{< img src = "/images/DN-cover.webp" >}}
 
-![](/images/MN-cover.webp)
+{{< img src = "/images/MN-cover.webp" >}}
 
-![](/images/SN-cover.webp)
+{{< img src = "/images/SN-cover.webp" >}}
 
-![](/images/AN-cover.webp)
+{{< img src = "/images/AN-cover.webp" >}}
 
 The Pali Text Society has made its Vinaya, Sutta and Abhidhamma books available for non-commercial use since 2013. The Sutta books have been extracted from the [Buddhadust Website](http://buddhadust.net/backmatter/indexes/sutta/sutta_toc.htm) which is still considered as "work in progress." However, the work was good enough to reformat as eBooks in its current state.
 
@@ -36,37 +36,37 @@ Click the format (PDF, ePub, Mobi, AZW3) under the book you'd like to download i
 
 #### Dīgha Nikāya
 
-![](/images/DN-cover-e1577619753915.webp)  
+{{< img src = "/images/DN-cover-e1577619753915.webp" >}}  
   
 Download:  
-[![](/images/pdficon.webp)](assets/dn-pts-v1.2.pdf) [(PDF 4.5mb)](assets/dn-pts-v1.2.pdf)  
-[![](/images/mobi-icon.webp)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.mobi) [(Mobi 1.6mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.mobi)  
-[![](/images/epub.webp)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.epub) [(ePub 1.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.epub)  
-[![undefined](/images/azw3-30.webp)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3) [(AZW3 2.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3)
+[{{< img src = "/images/pdficon.webp" >}}](assets/dn-pts-v1.2.pdf) [(PDF 4.5mb)](assets/dn-pts-v1.2.pdf)  
+[{{< img src = "/images/mobi-icon.webp" >}}](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.mobi) [(Mobi 1.6mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.mobi)  
+[{{< img src = "/images/epub.webp" >}}](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.epub) [(ePub 1.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.epub)  
+[![undefined](/images/azw3-30.webp" >}}](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3) [(AZW3 2.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3)
 
 * * *
 
 #### Majjhima Nikāya
 
-![](/images/MN-cover.webp)  
+{{< img src = "/images/MN-cover.webp" >}}  
   
 Download:  
-[![](/images/pdficon.webp)](assets/mn-pts-v1.2.pdf) [(PDF 8.5mb)](assets/mn-pts-v1.2.pdf)  
-[![](/images/mobi-icon.webp)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.mobi) [(Mobi 2.4mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.mobi)  
-[![](/images/epub.webp)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.epub) [(ePub 1.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.epub)  
-[![undefined](/images/azw3-30.webp)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3) [(AZW3 3.1mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3)
+[{{< img src = "/images/pdficon.webp" >}}](assets/mn-pts-v1.2.pdf) [(PDF 8.5mb)](assets/mn-pts-v1.2.pdf)  
+[{{< img src = "/images/mobi-icon.webp" >}}](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.mobi) [(Mobi 2.4mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.mobi)  
+[{{< img src = "/images/epub.webp" >}}](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.epub) [(ePub 1.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.epub)  
+[![undefined](/images/azw3-30.webp" >}}](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3) [(AZW3 3.1mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3)
 
 * * *
 
 #### Saṃyutta Nikāya
 
-![](/images/SN-cover.webp)  
+{{< img src = "/images/SN-cover.webp" >}}  
   
 Download:  
-[![](/images/pdficon.webp)](assets/sn-pts-v1.0.pdf) [(PDF 26.4mb)](assets/sn-pts-v1.0.pdf)  
-[![](/images/mobi-icon.webp)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.mobi) [(Mobi 6.3mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.mobi)  
-[![](/images/epub.webp)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.epub) [(ePub 2.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.epub)  
-[![undefined](/images/azw3-30.webp)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3) [(AZW3 8.9mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3)
+[{{< img src = "/images/pdficon.webp" >}}](assets/sn-pts-v1.0.pdf) [(PDF 26.4mb)](assets/sn-pts-v1.0.pdf)  
+[{{< img src = "/images/mobi-icon.webp" >}}](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.mobi) [(Mobi 6.3mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.mobi)  
+[{{< img src = "/images/epub.webp" >}}](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.epub) [(ePub 2.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.epub)  
+[![undefined](/images/azw3-30.webp" >}}](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3) [(AZW3 8.9mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3)
 
 * * *
 
@@ -74,13 +74,13 @@ Download:
 
 #### Aṅguttara Nikāya
 
-![](/images/AN-cover.webp)  
+{{< img src = "/images/AN-cover.webp" >}}  
   
 Download:  
-[![](/images/pdficon.webp)](assets/an-pts_v1.1.pdf) [(PDF 24.7mb)](assets/an-pts_v1.1.pdf)  
-[![](/images/mobi-icon.webp)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.mobi) [(Mobi 2.4mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.mobi)  
-[![](/images/epub.webp)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.epub) [(ePub 2.5mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.epub)  
-[![undefined](/images/azw3-30.webp)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3) [(AZW3 7.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3)
+[{{< img src = "/images/pdficon.webp" >}}](assets/an-pts_v1.1.pdf) [(PDF 24.7mb)](assets/an-pts_v1.1.pdf)  
+[{{< img src = "/images/mobi-icon.webp" >}}](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.mobi) [(Mobi 2.4mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.mobi)  
+[{{< img src = "/images/epub.webp" >}}](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.epub) [(ePub 2.5mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.epub)  
+[![undefined](/images/azw3-30.webp" >}}](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3) [(AZW3 7.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3)
 
 * * *
 

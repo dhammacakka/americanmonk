@@ -18,7 +18,7 @@ image: /images/monk5percent.webp
 featured_image: /images/monk5percent.webp
 ---
 
-![](/images/monk5percent.webp)
+{{< img src = "/images/monk5percent.webp" >}}
 
 Monk walking towards the world of the 5%
 
@@ -44,7 +44,7 @@ For example, [Pa-Auk Forest Monastery](https://americanmonk.org/video-knowing-se
 
 ## Myanmar Monasteries
 
-![](/images/paauk.webp)
+{{< img src = "/images/paauk.webp" >}}
 
 In Myanmar, there are only a few large monasteries that are allowable to visit. Some monasteries are allowable to visit because they were built properly according to the rules, but since the passing of the chief monks of those places, they have been reduced to just a handful of monks, one or none. For instance Mahagandayone has 3,000 monks and was once a major place for monks to study and not touch money. Now there is just one monk living there out of 3000 that does not use money.\[mfn\]I know because that monk told me he was the only one. If there was another, they would know each other because it is a small world.\[/mfn\] Panditarama and Shwe Oo Min both have just a few monks each that do not use money. It is allowable to go there, because the buildings were built in proper ways according to the rules and they might still have a lay-committee-office structure. However, you would not want to live there long term and not many do. We are left with just a few other monasteries or franchises to work with. Pa-Auk would be the largest with about 3,000 monks total. There is Mahavihara with 1,600 monks. And Dhammavinaya with 200 monks. Let's say my numbers are off a little bit. If so we can increase the number to 6,000 so nobody complains. It really does not matter. We are still left with 2 percent if we divide 6,000 by 300,000. Please also understand that not all monks as these monasteries are full-time money-free monks. Pa-Auk might have 60% that do not touch money on a regular basis because visitors are not required to fully disclose in detail what they actually did to "renounce" their unallowable items. Take note that Mahavihara, Varanasi Monastery, and Dhammavinaya, although independent, were started by Pa-Auk monks. Without The Venerable Pa-Auk Sayadawgyi, Vinaya would be pretty much dead in Myanmar.
 
@@ -76,7 +76,7 @@ Any other country outside these five countries would be relatively insignificant
 
 I wish the numbers were larger. You can see that 5% would be a padded number from the padded numbers used in the calculations above. However, using money is a very well known and accepted practice in Asia. The monks get money from the lay people, and giving money to monks is "cool and normal". I have met lay people from Asian countries that have never met a monk that didn't use money. They thought it was not possible. One time someone took a picture of me when I was in Bagan and it [went viral](https://americanmonk.org/shining-the-inner/) on Facebook, solely because I didn't use money and for no other reason.
 
-![](/images/meinbagan.webp)
+{{< img src = "/images/meinbagan.webp" >}}
 
 Viral photo in 2015. About 47,000 likes
 
@@ -88,13 +88,13 @@ The general population of monks usually study and they teach the lay people. Thi
 
 Are you surprised by these numbers? Did you learn something new? Leave a comment below. There are also a few other articles based on this topic of monastics and money below.
 
-![](/images/1024px-Buddhist_money_tree_with_toilet_paper.webp)
+{{< img src = "/images/1024px-Buddhist_money_tree_with_toilet_paper.webp" >}}
 
 ### Are Buddhist Monks Allowed To Use Money?
 
 Are Buddhist monks allowed to use money? The short answer is that monks are definitely not allowed to even touch money for all traditions.
 
-![](/images/madmagazine-small.webp)
+{{< img src = "/images/madmagazine-small.webp" >}}
 
 ### How Do Monks Live Without Money?
 

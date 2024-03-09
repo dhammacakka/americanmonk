@@ -31,7 +31,7 @@ He was once in the soviet army, and there he learned that he should protect his 
 
 He went to his cabin and got the knife. He stood outside the cabin where they were and he was about 10 feet from the door. He was ready to kill them both. However, he decided that he should have a plan of action so that he could do the job right. His friend was much bigger than him and he knew that his state of mind could prevent him from carrying out the revenge effectively. He knew from Goenka and martial arts that he should clear his mind so it could work efficiently and effectively for the task to follow. So he decided to focus on his breathing for a minute or two before going inside to kill them.
 
-![](/images/HandMadeKnife.webp)
+{{< img src = "/images/HandMadeKnife.webp" >}}
 
 Similar knife to his own
 

@@ -21,7 +21,7 @@ image: /images/Hall_iit2.webp
 featured_image: /images/Hall_iit2.webp
 ---
 
-![](/images/Hall_iit2.webp)
+{{< img src = "/images/Hall_iit2.webp" >}}
 
 Multi purpose hall at IIT
 
@@ -35,29 +35,29 @@ After 3 years in Myanmar, I have moved to The International Institute of Therav�
 
   
 
-![](/images/iit_studio.webp)
+{{< img src = "/images/iit_studio.webp" >}}
 
 ## Studio
 
-![](/images/iit_sanghavasa3.webp)
+{{< img src = "/images/iit_sanghavasa3.webp" >}}
 
 ## saṅghavasa
 
-![](/images/iit_sanghavasa2.webp)
+{{< img src = "/images/iit_sanghavasa2.webp" >}}
 
 ## saṅghavasa
 
-![](/images/iit_sanghavasa1.webp)
+{{< img src = "/images/iit_sanghavasa1.webp" >}}
 
 ## saṅghavasa
 
-![](/images/iit_library.webp)
+{{< img src = "/images/iit_library.webp" >}}
 
 ## library
 
 One thing they are doing at this monastery is focusing on a community of vinaya monks. While many monasteries in Thailand and Sri Lanka exclude monks from other traditions from participating in vinaya transactions, this monastery is not part of that exclusionary practice. Pa-Auk and Wat Khao Sanamchai are also monasteries that are open to all monks who choose to follow vinaya as well. By doing this, more monks can learn about the vinaya bhikkhu way of life.
 
-![](/images/iit_eating_food_sangha.webp)
+{{< img src = "/images/iit_eating_food_sangha.webp" >}}
 
 Monks of all Theravāda traditions eating together according to vassa
 
@@ -69,11 +69,11 @@ The description continues further.
 > 
 > https://www.theravado.com/aboutus
 
-![](/images/iit_lecture2.webp)
+{{< img src = "/images/iit_lecture2.webp" >}}
 
-![](/images/iit_lecture.webp)
+{{< img src = "/images/iit_lecture.webp" >}}
 
-![](/images/iit_puja.webp)
+{{< img src = "/images/iit_puja.webp" >}}
 
 If you read between the lines, they are also talking about the current state of "International Theravada Buddhism", especially those that teach in English. Over the last seven decades refers to the monks who have ordained in Sri Lanka and other countries without proper teachers, using self study mixed with self-opinions, conclusions and flavors of what is "true" and what is "not true". These teachings have spread and have become mainstream in the West. IIT seeks to remedy this through proper education and bringing up monks properly... etc. Actually, there is no other course of action.
 
@@ -89,15 +89,15 @@ The description continues further:
 
 If you read this last paragraph quickly you might overlook that the president of Sri Lanka helped with the initial construction.
 
-![](/images/iit_double_kuti.webp)
+{{< img src = "/images/iit_double_kuti.webp" >}}
 
-![](/images/iit_kuti2.webp)
+{{< img src = "/images/iit_kuti2.webp" >}}
 
-![](/images/iit_kuti3.webp)
+{{< img src = "/images/iit_kuti3.webp" >}}
 
-![](/images/iit_kuti1.webp)
+{{< img src = "/images/iit_kuti1.webp" >}}
 
-![](/images/iit_kuti_inside.webp)
+{{< img src = "/images/iit_kuti_inside.webp" >}}
 
 The last part of the description is below:
 
@@ -110,9 +110,9 @@ The last part of the description is below:
 
 I have known the founding monks, Venerable Maggavihari and Venerable Dewananda for over 16 years now. I have also gone to [Kaua'i](https://americanmonk.org/radio-kkcr/) with Venerable Dewananda in 2015. I'm not sure if the Kaua'i people knew how special my guest was who visited the island.
 
-![](/images/IMG_6591-1024x768.webp)
+{{< img src = "/images/IMG_6591-1024x768.webp" >}}
 
-![](/images/iit_bhante_deva_me.webp)
+{{< img src = "/images/iit_bhante_deva_me.webp" >}}
 
 This place is filled with very special monks and there is a general happy vibe here because everyone has semi-committed to six years. They want to improve who they are as monks and fulfill the _true requirements_ for monks to gain "independence". Because of this, sincere monks have gathered.
 
@@ -120,7 +120,7 @@ This place is filled with very special monks and there is a general happy vibe h
 
 The mission is to train monks in the classical Theravāda training to be independent from teachers according to the classical requirements mentioned in the pali texts. Few monks ever achieve proper independence, yet this school aims to have all graduates achieve this status in a period of 6 years. I hope to be one of those graduates too. No title is given when one graduates. You just get the privilege to be qualified to live alone if you choose to do so.
 
-![](/images/iit_pali_books-1024x768.webp)
+{{< img src = "/images/iit_pali_books-1024x768.webp" >}}
 
 > Following things should learn and skilled by the one who completed five rains and to be freed from dependence. \[mfn\]tasmā nissayamuccanakena (pāci. aṭṭha. 145-147) upasampadāya pañcavassena sabbantimena paricchedena dve mātikā paguṇā vācuggatā kattabbā, pakkhadivasesu dhammassavanatthāya suttantato cattāro bhāṇavārā, sampattānaṃ parisānaṃ parikathanatthāya andhakavinda(a. ni. 5.114) mahārāhulovāda(ma. ni. 2.113 ādayo) ambaṭṭha(daī. ni. 1.254 ādayo) sadiso eko kathāmaggo, saṅghabhattamaṅgalāmaṅgalesu anumodanatthāya tisso anumodanā, uposathapavāraṇādijānanatthaṃ kammākammavinicchayo, samaṇadhammakaraṇatthaṃ samādhivasena vā vipassanāvasena vā arahattapariyosānamekaṃ kammaṭṭhānaṃ, ettakaṃ uggahetabbaṃ.\[/mfn\]
 > 
@@ -142,16 +142,16 @@ Although I have finished the [memorization](https://americanmonk.org/i-finally-d
 
 I have come from [Pa-Auk, Pyin Oo Lwin,](https://americanmonk.org/maymo-pa-auk-pyin-oo-lwin/) Myanmar and now I am at The International Institute of Theravadā. You might wonder why I would stay in, or go to, countries which are reputed to have financial and or political difficulties? My parents have asked the same question to me as well. The answer is, it is rare to find monasteries which are striving to practice the vinaya to its fullest extent, while fulfilling the study and meditation duties of a monk. Unfortunately, such places are rare. Because of its rarity, such places are fully supported by the community for the four requisites. (robes, meals, living quarters, & medicine).
 
-![](/images/iit_bowl_wash.webp)
+{{< img src = "/images/iit_bowl_wash.webp" >}}
 
-![](/images/bowls-IIT-1-e1671964670539.webp)
+{{< img src = "/images/bowls-IIT-1-e1671964670539.webp" >}}
 
-![](/images/iit_getting_food.webp)
+{{< img src = "/images/iit_getting_food.webp" >}}
 
-![](/images/iit_getting_food2.webp)
+{{< img src = "/images/iit_getting_food2.webp" >}}
 
 For a place that has just opened 3 years ago, 78 residents is quite an astounding achievement. New applicants are locked out now for the first 6 years, but I wonder if this will really happen. In the future, it will open year by year for new students. IIT will surely become a central hub for monks who want proper monastic education and training. I believe it will be a well known place for foreigners to [ordain](https://americanmonk.org/where-to-ordain/). I wish the organization the best. I also wish myself the best because it will not be easy. There is quite a lot to study!
 
-![](/images/iit_dana_sala_night.webp)
+{{< img src = "/images/iit_dana_sala_night.webp" >}}
 
-![](/images/iit_buddha-1024x768.webp)
+{{< img src = "/images/iit_buddha-1024x768.webp" >}}

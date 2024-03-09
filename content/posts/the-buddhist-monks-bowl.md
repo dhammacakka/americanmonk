@@ -19,7 +19,7 @@ image: /images/theravada-buddhism-1769541_1280.webp
 featured_image: /images/theravada-buddhism-1769541_1280.webp
 ---
 
-![](/images/theravada-buddhism-1769541_1280-1024x681.webp)
+{{< img src = "/images/theravada-buddhism-1769541_1280-1024x681.webp" >}}
 
 Bowl with bowl stand (maybe Pa-Auk)
 
@@ -52,7 +52,7 @@ Why is it so big? The bowls are indeed quite big. In fact, it is similar in size
 - Put all of the food you want to eat for a single day inside one bowl, including the packaging and drink. You will find you do not have much room leftover.
 - Monks often need to collect food not only for themselves but for other monks as well. If a monk is sick, collecting for the monastery, or if a monk is in retreat.
 
-![](/images/twobowls.webp)
+{{< img src = "/images/twobowls.webp" >}}
 
 mixing bowl next to a monk bowl
 
@@ -79,7 +79,7 @@ My current bowl was baked in the West using a standard oven that was outside. It
 
 After the oil has been cooked down and cooled, you need to wipe it with small layers and then place it in an oven at the highest temperature. After about 5 minutes, you can take some ash and place it on top. Blow it off, and if the bowl is clean without ash, one's burning is complete. If it is not clean and sticks.. put it back for more cooking. Repeat 5 times.
 
-![](/images/IMG_20171004_202508-1024x768.webp)
+{{< img src = "/images/IMG_20171004_202508-1024x768.webp" >}}
 
 Bowl burning at Varanasi Monastery, Mingaladon
 
@@ -91,9 +91,9 @@ Most Thai bowls had a reinforced layer at the top of the bowl. The steel was fol
 
 The bowl bag is standard equipment for a bowl. Normally a bowl will come with a bowl bag, but many opt to have different styles of bowl bags. My bowl bag is a snug fitting crochet "sweater" that has some slots for a bowl strap. I have opted for a seat belt from a junk car because this material is the most comfortable and durable. If it can protect you in a car crash, it can hold your bowl. Plus, one is always wearing his seat-belt! Pa-Auk usually has loose fitting bags so that the bowl lid which is upside down and used as a tray can be fit inside.
 
-![](/images/bowlbag-full-rotated.webp)
+{{< img src = "/images/bowlbag-full-rotated.webp" >}}
 
-![](/images/nauyanakuti2.webp)
+{{< img src = "/images/nauyanakuti2.webp" >}}
 
 ### Bowl Lid:
 
@@ -111,7 +111,7 @@ The bowl lids are often made of stainless steel and come in a set with the "bowl
 
 The topmost picture above has a wooden bowl stand, and the picture in the bowl bag section is a metal bowl stand. My personal bowl stand is a hose clamp I found on the road in Kaua'i. I wrapped rope around it so it would not scratch the floor and to give it a new look. I like this because it is shorter yet does the job of protecting the bowl and keeping it from sliding. I can also remove this from my bowl bag easily. Lastly, if I travel, I can put this in the overhead luggage area due to the low profile. Monasteries often have extra bowl stands. I often use one of those when eating in the public alms hall.
 
-![](/images/me-feb72022-1024x679.webp)
+{{< img src = "/images/me-feb72022-1024x679.webp" >}}
 
 My bowl bag attached to a hose clamp bowl ring with a seat belt strap
 

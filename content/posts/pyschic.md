@@ -14,7 +14,7 @@ image: /images/crystalball.webp
 featured_image: /images/crystalball.webp
 ---
 
-![](/images/crystalball-1024x592.webp)
+{{< img src = "/images/crystalball-1024x592.webp" >}}
 
 Accused of Being Psychic
 

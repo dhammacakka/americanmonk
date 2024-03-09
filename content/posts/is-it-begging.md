@@ -7,7 +7,7 @@ image: /images/bowl.webp
 featured_image: /images/bowl.webp
 ---
 
-[![bowl](/images/bowl.webp)](/images/2016/10/bowl.webp)
+[![bowl](/images/bowl.webp" >}}](/images/2016/10/bowl.webp" >}}
 
 I remember when I saw my grandfather before I left the world behind in 1999 for some travel and perhaps an ordination. He was in the hospital going through the first round of fighting lymphoma cancer. He asked about my planned one or two year journey and I told him about all of the places I would travel to.  Then I said how I wanted to become a monk and that might happen near the end of the trip. He asked, "Why would do you want to become a monk?" I left out the Nibbāna part for him because he would not understand that.
 

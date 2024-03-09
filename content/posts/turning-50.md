@@ -15,7 +15,7 @@ featured_image: /images/me-oct62020.webp
 
 Today I turned fifty years of age. A few months ago, I was really happy about it but then as health problems piled up a few weeks ago (which ended up being a 2.5 week allergic reaction), I was unpleasantly reminded that our bodies were only given 40-year warranties and I was ten years overdue. As I told my parents this newly discovered truth that a birthday just means I'm getting older with more problems and eventually death, my father said, "Bhante, we have been 30 years ahead of you with this same stuff."
 
-![](/images/me-oct62020-1024x768.webp)
+{{< img src = "/images/me-oct62020-1024x768.webp" >}}
 
 Me on this day
 
@@ -41,13 +41,13 @@ Nevertheless, as I reflect and look back on my life, I become quite happy. I've 
 
 Although I was known as the monk who was a computer programmer, if you look closely at the timeline, I really only worked for a little less than 6 years. Working was easy for me, yet people thought I was really smart to do what I did. But really, it was actually easy back in those days and I really enjoyed it. The rest of my adult life was simply living my dream to travel around the world and then to become a monk. Going back to Kaua'i twice was a bonus dream too. Even in college, I lived out a dream by learning how to hang-glide. Things have been good. Below is a picture of me when I was a programmer.
 
-![](/images/me-before-monk.webp)
+{{< img src = "/images/me-before-monk.webp" >}}
 
 me before monk life posing with my brother and sister
 
 My adult life pretty much started in 1989 which clocks in at a total of 31 years to the present date. Of those 31 years, I have been a monk for (a total of) nearly 20 years, and backpacked around the world for 1.5 years. Life has been good and I'm really happy with my life's decisions (as an adult). With this November full moon I will be officially 14 rainy seasons of monk years. Below is the oldest picture I have... maybe from 2001. I look quite different from the lay picture above.
 
-![](/images/me-earliest.webp)
+{{< img src = "/images/me-earliest.webp" >}}
 
 Earliest picture of me.. Sayadawgyi's kuti ~2001 (look how new the trees are)
 
@@ -75,17 +75,17 @@ After all of this time as a monk, my parents and family finally accept me as mon
 > 
 > A friend endowed with these seven qualities is worth associating with." He gives what is beautiful, hard to give, does what is hard to do, endures painful, ill-spoken words. His secrets he tells you, your secrets he keeps. When misfortunes strike, he doesn't abandon you; when you're down & out, doesn't look down on you. A person in whom these traits are found, is a friend to be cultivated by anyone wanting a friend.
 
-![](/images/IMG_20190403_182709-1024x768.webp)
+{{< img src = "/images/IMG_20190403_182709-1024x768.webp" >}}
 
 Hideaway Beach, Princeville, Kaua'i 2019
 
-![](/images/adam-and-me.webp)
+{{< img src = "/images/adam-and-me.webp" >}}
 
 My brother Adam and yours truly
 
 Today, along with some of my donors, the fam sponsored the meal for the day plus a fresh juice drink for 537 residents. Because we are on a covid-lock-down, shopping for new food is just not really happening. However, the food is pretty good considering the circumstances and the remainder of the money will go to the food endowment for the monastery.
 
-![](/images/oct6dana-2020board2-1024x768.webp)
+{{< img src = "/images/oct6dana-2020board2-1024x768.webp" >}}
 
 white board donation list for October 6th 2020
 

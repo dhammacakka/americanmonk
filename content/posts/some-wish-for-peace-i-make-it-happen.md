@@ -7,7 +7,7 @@ image: /images/some-wish-for-peace-scaled.webp
 featured_image: /images/some-wish-for-peace-scaled.webp
 ---
 
-![](/images/some-wish-for-peace-1024x449.webp)
+{{< img src = "/images/some-wish-for-peace-1024x449.webp" >}}
 
 **Some wish for peace, I make it happen** (story below)  
 I just got back from inviting 2 Muslims to serve at the head of the meal line for Tomorrow's lunch at Pa-Auk. Everyone thought I was crazy and that the Muslims would kill me or at least shout at me as soon as I entered the compound. Instead they sat us down and offered us apples, and fruit juice with a happy and warm welcoming smiles.
@@ -31,7 +31,7 @@ In the end, there were no shooting guns. Instead, everybody was shooting happy g
 
 He came back and I told him my story and my wish just as I told you just now. I also told him about the American ethics I grew up with, where it is one of the most terrible things to hate someone because of religion or race. In the end, the Muslim Priest asked what time he should send someone to come and was very happy. He was smiling during a good portion of our visit. I asked for two people, and requested that he be one of those two people. I said that the upper monastery has more mature people, but there may be some who do not like him. I continued and requested him to only remember the nice people. However, I did not see any problems. The Priest said, "People just need more loving-kindness, and when that happens, this whole fighting thing can end. Those who are not 'khanti' (tolerant and patient) are not real Muslims. They are not with Allah." I was very happy, and our meeting went better than I had optimistically planned. My friends who came along were pleasantly surprised. I am really glad I could find some friends who would "just show up" at a mosque unannounced. I do not keep up with the news, but no matter how you slice it, it was strange and maybe a first time occurrence for them (and us too, I guess).
 
-![](/images/muslimgiverice-1024x1018.webp)
+{{< img src = "/images/muslimgiverice-1024x1018.webp" >}}
 
 Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.
 

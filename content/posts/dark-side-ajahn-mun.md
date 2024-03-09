@@ -15,7 +15,7 @@ image: /images/cover_venerable-acariya-mun-bhuridatta-thera.webp
 featured_image: /images/cover_venerable-acariya-mun-bhuridatta-thera.webp
 ---
 
-![](/images/cover_venerable-acariya-mun-bhuridatta-thera.webp)
+{{< img src = "/images/cover_venerable-acariya-mun-bhuridatta-thera.webp" >}}
 
 Ajahn Mun dark
 

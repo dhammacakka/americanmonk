@@ -17,7 +17,7 @@ image: /images/Burmese_Kammavaca_Manuscript.webp
 featured_image: /images/Burmese_Kammavaca_Manuscript.webp
 ---
 
-![](/images/Burmese_Kammavaca_Manuscript.webp)
+{{< img src = "/images/Burmese_Kammavaca_Manuscript.webp" >}}
 
 Burmese Pāḷi
 

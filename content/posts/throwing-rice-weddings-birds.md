@@ -13,7 +13,7 @@ image: /images/birdseatingrice.webp
 featured_image: /images/birdseatingrice.webp
 ---
 
-[![birdseatingrice](/images/birdseatingrice.webp)](/images/2016/12/birdseatingrice.webp)
+[![birdseatingrice](/images/birdseatingrice.webp" >}}](/images/2016/12/birdseatingrice.webp" >}}
 
 Is it OK to feed uncooked rice to the birds?
 

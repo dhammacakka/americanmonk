@@ -22,7 +22,7 @@ featured_image: /images/rainyseason-backhall.webp
 
 - Recently, I got a nice message from a monk friend telling me he was taking vassa (3 month Rainy Season Retreat) on July 23rd (the Full Moon Day) and wishing me a happy vassa before he goes offline for three months. However, we at Pa-Auk are taking the vassa today on July 24 (the day after the Full Moon Day). The calendars often say it starts on the Full Moon Day, but we don't do that at Pa-Auk. So who is correct?
 
-![](/images/rainyseason-backhall.webp)
+{{< img src = "/images/rainyseason-backhall.webp" >}}
 
 Rainy Season from the back of the sima hall
 
@@ -40,7 +40,7 @@ So what does this mean. In Buddhism we count time in new and full moon cycles. S
 > 
 > https://en.wikipedia.org/wiki/Vassa
 
-![](/images/rainyseason-fronthall.webp)
+{{< img src = "/images/rainyseason-fronthall.webp" >}}
 
 Rainy Season from the front of the sima hall (Pa-Auk Sayadawgyi is behind the glass enclosure on the far-right)
 

@@ -28,7 +28,7 @@ He confidently concluded his explanation again with the words, “Sabbe Satta.�
 
 When we know the deep meaning of some small words, they can transform into big words. When we chant the loving-kindness practice chant, we start with “sabbe satta” and then go through a list of all the different beings, and then go through a list of the ten directions, and then we go through the four phrases. This is to bring to mind the loving kindness for “Sabbe Satta.”
 
-![](/images/sabbesatta2-1024x768.webp)
+{{< img src = "/images/sabbesatta2-1024x768.webp" >}}
 
 Here is the loving-kindness chant below:  
 Translated by Ven. Anandajoti  

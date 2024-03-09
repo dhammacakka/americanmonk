@@ -18,17 +18,17 @@ image: /images/20180516_094919-e1526506667615.webp
 featured_image: /images/20180516_094919-e1526506667615.webp
 ---
 
-[![](/images/20180516_094925-e1526506649572-768x1024.webp)](/images/2018/05/20180516_094925-e1526506649572.webp)
+[{{< img src = "/images/20180516_094925-e1526506649572-768x1024.webp" >}}](/images/2018/05/20180516_094925-e1526506649572.webp" >}}
 
 Aloha!
 
 It has been a little over a month since I have been on the island of Kauai.  Things have been going well although my situation is still the same. I am still in a tent at Anini, but I have a new tent in Anini with a better view of the pristine Kauai shore!  Things are dryer than the record rains we had last month.. and I guess if it were wetter than before a new record would be set. I have made somewhat of a schedule and I try to update my schedule on my phone calendar which synchronizes to the webpage calendar over [here](https://subhuti.withmetta.net/calendar/) (in case you are interested).
 
- [![](/images/IMG_20180425_123452-768x1024.webp)](/images/2018/05/IMG_20180425_123452.webp) 
+ [{{< img src = "/images/IMG_20180425_123452-768x1024.webp" >}}](/images/2018/05/IMG_20180425_123452.webp" >}} 
 
  
 
-\[caption id="attachment\_1267" align="alignnone" width="730"\][![](/images/IMG_20180510_162748-1024x576.webp)](/images/2018/05/IMG_20180510_162748.webp) My view from my campsite\[/caption\]
+\[caption id="attachment\_1267" align="alignnone" width="730"\][{{< img src = "/images/IMG_20180510_162748-1024x576.webp" >}}](/images/2018/05/IMG_20180510_162748.webp" >}} My view from my campsite\[/caption\]
 
 I have added two days of alms round to my routine on Tuesdays and Wednesdays since I am outside the park on those days and sleep on a couch on Tuesday nights.  Getting out of the park on a reliable basis is not so easy, but those two days are quite fixed. Going through the different streets for alms has been a great pleasure and I spend the majority of my time wishing the people in each house loving-kindness.
 
@@ -42,9 +42,9 @@ I have added two days of alms round to my routine on Tuesdays and Wednesdays sin
 
 During my alms round, I stop in front of houses and  I practice on these phrases, usually with my eyes closed focusing on loving-kindness for the members of the house.  They don’t know that the monk is trying to collect food or that the thing I am carrying is a bowl. I can occupy my time wisely, and protect myself this way.  It is a real joy to do this and when I did this custom made Hawaiian alms-going style for the first time in two years, I thought to myself, “This is a practice I should keep doing, someway and somehow.”  So I decided I would do it on Tuesdays and Wednesdays. So far, I have kept to that schedule.
 
-\[caption id="attachment\_1264" align="alignnone" width="730"\][![](/images/20180516_094919-e1526506667615-768x1024.webp)](/images/2018/05/20180516_094919-e1526506667615.webp) That is me going for alms on Aalona Street Kilauea.\[/caption\]
+\[caption id="attachment\_1264" align="alignnone" width="730"\][{{< img src = "/images/20180516_094919-e1526506667615-768x1024.webp" >}}](/images/2018/05/20180516_094919-e1526506667615.webp" >}} That is me going for alms on Aalona Street Kilauea.\[/caption\]
 
-[![](/images/20180516_094907-e1526506687568-768x1024.webp)](/images/2018/05/20180516_094907-e1526506687568.webp)
+[{{< img src = "/images/20180516_094907-e1526506687568-768x1024.webp" >}}](/images/2018/05/20180516_094907-e1526506687568.webp" >}}
 
 This past Tuesday, someone came up to me and asked me, “How is it for you being a monk going through a neighborhood that does not know the monks?”  I told him that I practice loving-kindness to protect my mind from getting upset about not getting food and told him about the 4 phrases above. Lastly, I said it also protects me (in general) and I get to wish loving-kindness on the (inhabitants) of the houses as well.  Then I told him that I have not touched money in 17 years, and that I am not collecting money, and I don’t eat after 12:30 pm (solar meridian time here). Then he told me he wanted to give me half of his salad that he made for his lunch that day. I asked him if he wanted a blessing, and he agreed.
 

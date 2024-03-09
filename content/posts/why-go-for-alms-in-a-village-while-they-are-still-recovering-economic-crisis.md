@@ -19,7 +19,7 @@ image: /images/extra-before-meal1.webp
 featured_image: /images/extra-before-meal1.webp
 ---
 
-![](/images/alms-tray-and-bowl1-1024x576.webp)
+{{< img src = "/images/alms-tray-and-bowl1-1024x576.webp" >}}
 
 Alms Tray and Cambodia Monk's Full Bowl
 
@@ -86,21 +86,21 @@ Lastly, by going piṇḍapāta in the village, the food is not wasted. I ate my
 
 It also gives proper contemplations for the monks when they eat their food. The food was given to the monks on faith, so the monks need to fulfill their duties in meditation, study, and work. When we give from our own bowl to the community of monks, it also helps to promote a sense of community and sharing among the monks. This too is an important aspect of Buddhist practice.
 
-![](/images/alms-before.webp)
+{{< img src = "/images/alms-before.webp" >}}
 
-![](/images/2023012111123100.webp)
+{{< img src = "/images/2023012111123100.webp" >}}
 
-![](/images/whatI-eat-rotated.webp)
+{{< img src = "/images/whatI-eat-rotated.webp" >}}
 
-![](/images/This-monk-went-straight-to-this-village-tray-rotated.webp)
+{{< img src = "/images/This-monk-went-straight-to-this-village-tray-rotated.webp" >}}
 
-![](/images/cambodia-monk-refilling-hisbowl-rotated.webp)
+{{< img src = "/images/cambodia-monk-refilling-hisbowl-rotated.webp" >}}
 
-![](/images/Cambodia-bowl-offered-to-sangha.webp)
+{{< img src = "/images/Cambodia-bowl-offered-to-sangha.webp" >}}
 
-![](/images/alms-tray-and-bowl1.webp)
+{{< img src = "/images/alms-tray-and-bowl1.webp" >}}
 
-![](/images/village.webp)
+{{< img src = "/images/village.webp" >}}
 
 (Pictures of alms food and the monks taking it. The majority of the alms food shared with saṅgha will get used and is preferred by some monks who didn't have the opportunity to go. Alms map, and another day of alms offering are shown.)
 

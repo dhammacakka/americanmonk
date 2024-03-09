@@ -16,7 +16,7 @@ image: /images/1024px-Buddhist_money_tree_with_toilet_paper.webp
 featured_image: /images/1024px-Buddhist_money_tree_with_toilet_paper.webp
 ---
 
-![](/images/1024px-Buddhist_money_tree_with_toilet_paper.webp)
+{{< img src = "/images/1024px-Buddhist_money_tree_with_toilet_paper.webp" >}}
 
 A Money tree in Laos cc-by-attrib-sa https://commons.wikimedia.org/wiki/File:Buddhist\_money\_tree\_with\_toilet\_paper.webp
 

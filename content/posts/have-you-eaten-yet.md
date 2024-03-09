@@ -12,7 +12,7 @@ image: /images/slippers-kuti.resized.webp
 featured_image: /images/slippers-kuti.resized.webp
 ---
 
-![](/images/mybowl-nov24-1024x768.webp)
+{{< img src = "/images/mybowl-nov24-1024x768.webp" >}}
 
 In 1993, I visited China with five lucky School of Technology students at my University. Before going, I asked around for some cool things to say and "Chī le ma?" or "Have you eaten yet?" was the phrase I learned besides asking for the toilet. It does not mean what it literally says. Instead, it means a little bit like "How are you?", but more casual like, "How's it going?" It sounds funny in English and that is why I say it in English to my Chinese monastic friend when I see him.
 
@@ -30,7 +30,7 @@ So today, Tuesday, Dec 8th, was the last day. My monastic friend either had to e
 
 I stopped by his kuti this morning after eating my breakfast to see _if he had eaten yet_. However, all the food was in front of the Buddha like all of the other days. He was leading the chanting, with a few other monks, to the Buddha and I didn't want to play the game and decided to leave. I went back to my kuti and sent a text message to him by Viber and went about my morning business and meditation.
 
-![A story about a monk who refused to eat.](/images/better-eat-edited.webp)
+![A story about a monk who refused to eat.](/images/better-eat-edited.webp" >}}
 
 After lunch I stopped by his kuti again and I could hear laughing and loud talking as I was going up the concrete steps. I gave a quick double knock and then opened the door myself. My friend was still eating.
 
@@ -42,7 +42,7 @@ Inside the kuti was a Myanmar monk who knew how to speak Chinese but had never b
 
 And so that is the happy ending to this story. Most of these types of stories don't end this way.
 
-![](/images/slippers-kuti.resized.webp)
+{{< img src = "/images/slippers-kuti.resized.webp" >}}
 
 The slippers of all the rotating visiting monks coming to check up on him this happy night
 

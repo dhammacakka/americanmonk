@@ -20,6 +20,6 @@ I had fun during the interview and also reading the finished product after it wa
 
 Click [here](https://www.patheos.com/religion-behind-the-scenes/how-are-buddhist-monastic-robes-made-and-used) or the picture below to read the article:
 
-[![](/images/kungfu.webp)](https://www.patheos.com/religion-behind-the-scenes/how-are-buddhist-monastic-robes-made-and-used)
+[{{< img src = "/images/kungfu.webp" >}}](https://www.patheos.com/religion-behind-the-scenes/how-are-buddhist-monastic-robes-made-and-used)
 
 Modified from, Mostafameraji, CC BY-SA 4.0 [https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons

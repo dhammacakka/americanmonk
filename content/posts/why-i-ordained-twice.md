@@ -18,7 +18,7 @@ image: /images/pa-auk-Ordination-Certificate-2001.webp
 featured_image: /images/pa-auk-Ordination-Certificate-2001.webp
 ---
 
-![](/images/pa-auk-Ordination-Certificate-2001.webp)
+{{< img src = "/images/pa-auk-Ordination-Certificate-2001.webp" >}}
 
 Many people who have learned that I have re-ordained and actually know what that means have asked me why I did it.  It is a long story, but I will try to be brief. 
 
@@ -40,7 +40,7 @@ The tipping point was when my monastic friend from Nepal (who also was rejected 
 
 Those two sentences stuck in my mind and then I decided that I would re-ordain.  Because everyone else had lost their seniority, re-ordaining did not feel like such a big deal.  Venerable Sayadaw was there and I explained to him about my dilemma, and then asked him for permission to re-ordain, which he said "Yes".   On the night of June 17th,  I dropped down to a novice monk, then I wore a bed-sheet, and then I got my robes back from a new novice preceptor, Venerable Ariyadhamma and ordained as a novice 20 minutes later.  The next morning, on June 18th, I ordained. as a full monk again.  I lost 6 years in the process.  
 
-![](/images/Ordination-Certificate-Yellow-2007-e1569827183396.webp)
+{{< img src = "/images/Ordination-Certificate-Yellow-2007-e1569827183396.webp" >}}
 
 It was very humbling to re-ordain. There were many monks who were really new and I had to bow down to them after my first day. I had dropped to the bottom of the pecking order.  Once you give up, you cannot get those years back. It is official years, but the experience of "years" are still there. That never leaves. In the end, there were some good outcomes by re-ordaining and I try to look on the bright side of it all.
 

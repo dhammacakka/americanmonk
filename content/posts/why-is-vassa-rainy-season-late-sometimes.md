@@ -40,7 +40,7 @@ The Solar Calendar is 365 days per year.
 The Lunar Calendar is 354 days per year.  
 The Lunar Month is 29 days and 12 hours and change.
 
-![](/images/800px-2020_Lunar_Calendar.webp)
+{{< img src = "/images/800px-2020_Lunar_Calendar.webp" >}}
 
 From Wikipedia
 

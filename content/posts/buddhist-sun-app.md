@@ -16,9 +16,9 @@ image: /images/buddhist_sun_logo4.webp
 featured_image: /images/buddhist_sun_logo4.webp
 ---
 
-![](/images/buddhist_sun_logo4.webp)
+{{< img src = "/images/buddhist_sun_logo4.webp" >}}
 
- [![Play Store](/images/google-play-badge.webp)](https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun) [ ![iOS App Store](/images/app-store.webp) ](https://apps.apple.com/us/app/buddhist-sun/id1585091207) 
+ [![Play Store](/images/google-play-badge.webp" >}}](https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun) [ ![iOS App Store](/images/app-store.webp" >}} ](https://apps.apple.com/us/app/buddhist-sun/id1585091207) 
 
 Recently I made a mobile app to help me know when the Solar Noon is approaching and past.
 

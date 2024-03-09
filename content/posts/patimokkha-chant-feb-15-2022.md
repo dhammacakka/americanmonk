@@ -18,11 +18,11 @@ image: /images/patimokkha-pic-rotated.webp
 featured_image: /images/patimokkha-pic-rotated.webp
 ---
 
-![](/images/patimokkha-pic-crop.webp)
+{{< img src = "/images/patimokkha-pic-crop.webp" >}}
 
 Yesterday, I recited the 227 rules of the Pātimokkha for 110 bhikkhus at Pa-Auk Meditation Center in Pyin Oo Lwin. When a monk recites the Pātimokkha, traditionally he does so by memory and _not_ by reading. My recitation was not the best quality, but it was not so bad considering I only started when I was 47, and I have only done this 5 times now. However, the recitations get better and better each time I do it and I hope improvement continues until perfection.
 
-![](/images/patimokkha.webp)
+{{< img src = "/images/patimokkha.webp" >}}
 
 ### What Is The Bhikkhu Patimokkha or Buddhist Monk Rules?
 
@@ -30,9 +30,9 @@ The Pātimokkha is a set of 227 rules for the bhikkhus belonging to the Theravā
 
 According to tradition, every monk should learn to memorize the Pātimokkha before he is five years old (in monk years). However, only a small percentage of monks are capable of doing this, especially from foreigner monks.
 
-![](/images/patimokkha-buddha.webp)
+{{< img src = "/images/patimokkha-buddha.webp" >}}
 
-![](/images/patimokkha-group1.webp)
+{{< img src = "/images/patimokkha-group1.webp" >}}
 
 Sayadawgyi is inside a glass partition in front for COVID precautions while the rest wear masks except for the reciter
 

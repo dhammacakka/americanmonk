@@ -13,7 +13,7 @@ image: /images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-C
 featured_image: /images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp
 ---
 
-[![](/images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590-768x1024.webp)](/images/2017/09/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp)
+[{{< img src = "/images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590-768x1024.webp" >}}](/images/2017/09/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp" >}}
 
 The Buddha in the clouds
 
@@ -43,7 +43,7 @@ This is why the Buddha does not live in Nibbāna. There was no longer force to p
 
 Strive with diligence. Rare is the appearance of the Buddha.
 
-![](/images/ajmun-crop-dark-324x195.webp)
+{{< img src = "/images/ajmun-crop-dark-324x195.webp" >}}
 
 ### The Dark Side of Ajahn Mun's Biography
 

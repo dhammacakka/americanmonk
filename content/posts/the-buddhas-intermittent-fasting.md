@@ -19,7 +19,7 @@ Did the Buddha do intermittent fasting? The answer is: Yes.
 
 When I first became a monk, people were shocked about how I gave up eating after Solar Noon and I have not eaten dinner in over 20 years. Sometimes I switch to one meal per day, but I often find a light breakfast, mostly liquid foods or [rice soup](https://americanmonk.org/rice-soup-in-buddhist-culture/), with a full lunch works best for me. These days, many people are using _intermittent fasting_ as a form of weight loss and when I describe my Buddhist monk diet, they give a nod and say "Intermittent Fasting... It's Healthy." I guess I'm always one step ahead of mainstream society!
 
-![](/images/bowl-meridian.webp)
+{{< img src = "/images/bowl-meridian.webp" >}}
 
 ## So what did the Buddha say about intermittent fasting?
 
@@ -66,13 +66,13 @@ For fully ordained adult monks, we have a rule about eating at one part of the d
 
 Eating at the wrong time is the moment after Solar Noon occurs. It is not necessarily at 12:00 PM. Sometimes it is later, and sometimes it is before. It depends on the GPS location and also the time of the year. In Kaua'i, Hawai'i, I'm sometimes able to eat as late as 12:40 PM because the island is further West yet shares the same time zone as Honolulu. I often use the smartphone app called [LunaSoCal](https://play.google.com/store/apps/details?id=com.vvse.lunasolcal&hl=en&gl=US), and the website [https://timeanddate.com](https://timeanddate.com)
 
-![](/images/lunasocal.webp)
+{{< img src = "/images/lunasocal.webp" >}}
 
-![](/images/timeanddate.webp)
+{{< img src = "/images/timeanddate.webp" >}}
 
 ## What do Harvard Medical professors say about intermittent fasting?
 
-![](/images/david-sinclair.webp)
+{{< img src = "/images/david-sinclair.webp" >}}
 
 PROFESSOR DAVID SINCLAIR of Harvard Medical School, is one of the foremost experts on anti-aging therapies. He is 50 years old. What do you think about how old he looks? One of his most simple and effective recommendations that one can do today without drugs is Intermittent Fasting. This is a small excerpt from this web page [here](https://www.everythingzoomer.com/health/2019/10/02/lifespan-author-david-a-sinclair-on-exercise-reverse-aging-and-fasting/).
 

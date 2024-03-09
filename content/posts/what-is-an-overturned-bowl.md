@@ -19,7 +19,7 @@ image: /images/bowlrack.webp
 featured_image: /images/bowlrack.webp
 ---
 
-![](/images/bowlrack-1024x768.webp)
+{{< img src = "/images/bowlrack-1024x768.webp" >}}
 
 Pa-Auk Bowl Blackening Foundry (not a political picture)
 

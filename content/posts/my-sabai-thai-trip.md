@@ -17,7 +17,7 @@ featured_image: /images/wp-1686396381691.webp
 
 I spent a little over 30 days in Thailand and I learned a great deal about Thai Buddhist culture and how things things are for monks outside of the vinaya saṅgha.  What did I learn?
 
-![](/images/wp-1686396381691.webp)
+{{< img src = "/images/wp-1686396381691.webp" >}}
 
 Uncle Sam's Banana Farm
 
@@ -31,7 +31,7 @@ The main part of his village is not very big and maybe the size of IIT.  You ca
 
 The normal daily routine would be that Uncle Sam would drop me off with the forest monk in the morning and the two of us would go for alms together.  The route that we took was very small and we would simply walk down the street and wait a few minutes at one end. After that, we would turn around and villagers would wait for us on the same road.  We were normally offered food on the way back, but sometimes, we were given food on the way up.  After alms we would eat together and share what we received.  With the Google Translate app on my phone, I was able to ask the monk questions and talk with him.
 
-![](/images/wp-1686399666280-1-1024x576.webp)
+{{< img src = "/images/wp-1686399666280-1-1024x576.webp" >}}
 
 We would eat at Ajahn's Kuti at the Forest Monastery
 
@@ -47,9 +47,9 @@ During our group meals at some of the village houses, I ate with my bowl.  I wa
 
 Before leaving Sri Lanka, I asked a Thai monk from IIT for a reputable monastery near Non Khai so that I could listen to the pātimokkha (recitation of the 227 monk rules).  It is a duty for all monks to attend on the full and new moon days.  We called the abbot and asked about attending the pātimokkha but he said, “I’m sorry we used to have two monks who could recite the pātimokkha, but now they left and we don’t have anyone who can perform the recitation.”  I said (through Uncle Sam), “If you want, I can recite it for you.”  They accepted and told me to come the night before because they do it in the morning.  I arrived the night before and In the morning, I went for alms in their local city.  
 
-![](/images/watwaikooltharam.webp)
+{{< img src = "/images/watwaikooltharam.webp" >}}
 
-![](/images/wp-1686396381545-1024x576.webp)
+{{< img src = "/images/wp-1686396381545-1024x576.webp" >}}
 
 For alms, we had a group of monks who went to the city by truck.  We would jump out at the start of the route, walk to collect alms, and then drive back at the end.  The monastery has a great reputation and the people in the city were lined up with massive amounts of alms food.  Because I was the most senior for the alms round, they put me in the front of the alms line and I did most of the collecting.  I would fill up my bowl with food from 4 or 5 donors, and then empty my bowl into a collection container held by the lay attendants.  It was a lot of work for the attendants and the truck would meet the attendants at certain parts of the route so they could empty their containers too.  It took about 30 minutes to do the whole route and then we had enough food for the day.  Above is a small picture from breakfast.  After breakfast,  I recited the pātimokkha.  Knowing the pātimokkha is not common and it is important and useful for other monasteries.  Now I have now recited the pātimokkha in 3 countries.
 
@@ -61,15 +61,15 @@ Later, we went to Laos.  I had two monasteries I wanted to visit which were not
 
 I was supposed to stay the night at Ajahn Sam’s place, but Ajahn Kola was at the main city and offered to pick us up on his way back and drive us to his monastery since taxis were rare in this area.  We decided to take his offer and we drove to Ajahn Kola’s monastery that night.  
 
-![](/images/wp-1686399666188-1024x576.webp)
+{{< img src = "/images/wp-1686399666188-1024x576.webp" >}}
 
 Ajahn Kola
 
-![](/images/wp-16863996658116266019639391713850-576x1024.webp)
+{{< img src = "/images/wp-16863996658116266019639391713850-576x1024.webp" >}}
 
 Ajahn Sam's kuti
 
-![](/images/wp-1686399665699-768x1024.webp)
+{{< img src = "/images/wp-1686399665699-768x1024.webp" >}}
 
 Getting food with Ajahn Sam
 
@@ -86,11 +86,11 @@ Both Ajhan Kola and Ajahn Sam are on a mission to give the Lao monks the trainin
 
 In the afternoon, we left and then went to the Capitol city near the Thai border.  We visited one of the Lao lady’s who was in Kaua’i when I was there in 2015, and 2018-19, and then we crossed the border.  It was strange to see another person from Kaua’i in a remote area so far away.  The world is very small. She is in the picture from Sukho Thai Restaurant [in this post here.](https://americanmonk.org/leaving-kauai-on-a-jet-plane/)
 
-![](/images/wp-1686396381949.webp)
+{{< img src = "/images/wp-1686396381949.webp" >}}
 
 At the Thailand-Laos Friendship Bridge (for crossing the border)
 
-![](/images/sukhothaimeeting.webp)
+{{< img src = "/images/sukhothaimeeting.webp" >}}
 
 Sukho Thai Restaurant, Kaua'i Island, Hawai'i, 2019
 
@@ -100,11 +100,11 @@ When I came back to Uncle Sam’s village, again we would follow the same routin
 
 [In a previous article](https://americanmonk.org/tag/death/), I explain how Buddhist monks should focus on death. Next to the forest monastery and part of the forest monastery is a crematorium.  I asked if I could sleep there and it was allowed.  I spent 3 nights there and “camped out” with a self standing mosquito net (if you know what they are).  We cleaned the area and Uncle Sam was “on call” if I got too afraid and wanted to go home.  On the very first night of all nights, there was a rare and strong thunderstorm.    It was a nice time, but I was most afraid of the "living humans" who might visit and party and do drugs there.  Luckily nobody came and I was fine.  It was a nice experience, but 3 nights was enough.  After that, it was back to Uncle Sam’s farm again.
 
-![](/images/atcemetary-1024x576.webp)
+{{< img src = "/images/atcemetary-1024x576.webp" >}}
 
 oven
 
-![](/images/wp-1686398210087-1024x473.webp)
+{{< img src = "/images/wp-1686398210087-1024x473.webp" >}}
 
 I slept in the open pavilion to the left
 
@@ -112,7 +112,7 @@ Above, on the left is the place where they burn the dead bodies. Most villages a
 
 ## A Small Meditation Retreat
 
-![](/images/wp-16864483732541996271049282188522-576x1024.webp)
+{{< img src = "/images/wp-16864483732541996271049282188522-576x1024.webp" >}}
 
 Sīma for Wat Nong Panau
 
@@ -122,21 +122,21 @@ The monastery was well supported and had about 15 monks.  However, the leaders 
 
 ## The Last Week
 
-![](/images/wp-1686448535380-646x1024.webp)
+{{< img src = "/images/wp-1686448535380-646x1024.webp" >}}
 
 Learning to make strips
 
-![](/images/wp-1686396381526-1024x473.webp)
+{{< img src = "/images/wp-1686396381526-1024x473.webp" >}}
 
 After the meditation retreat, I had one week left on my trip.  The lay people in the village have a cottage industry for making bamboo sticky rice steamers.   I tried to learn the art of splitting bamboo for weaving with the intention of crafting an alms-bowl stand, but it was just a little too difficult.  Before I knew it, the time came for me to go back to Sri Lanka.  In Udon Thani, they have a special area for monks to sit in the pre-security area as well as inside the gate.  It was nice and it was used quite a lot. There are many monks and they fly a lot (including myself).  Both DMK and BKK airports also have special lounge rooms for the monks as well. I had Kappiya Greg who normally lives in Myanmar host me for one night at his brother-in-law's place in Bangkok. The next morning he drove me to the airport with food in hand. Below is a picture of him along with the food at the monk room at BKK airport.
 
 And that was my trip!
 
-![](/images/wp-1686399666333-1024x576.webp)
+{{< img src = "/images/wp-1686399666333-1024x576.webp" >}}
 
 Monk room at Thailand Airport
 
-![](/images/wp-1686399666305-1024x576.webp)
+{{< img src = "/images/wp-1686399666305-1024x576.webp" >}}
 
 Monk Area at Gate
 

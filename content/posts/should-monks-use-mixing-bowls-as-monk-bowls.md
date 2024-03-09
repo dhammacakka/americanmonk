@@ -14,7 +14,7 @@ image: /images/twobowls2.webp
 featured_image: /images/twobowls2.webp
 ---
 
-![](/images/twobowls2.webp)
+{{< img src = "/images/twobowls2.webp" >}}
 
 On a warm Hawaiian Christmas day in 2018, I was off to collect my alms in the village. I was in a rush and worried that I would not be able to find a ride to the village where I go for alms because so few cars would be on the roads. Luckily, I got a ride and as I stepped out of the the car, I did my usual baggage check.
 
@@ -34,11 +34,11 @@ I decided to explore both of those options and stopped by my friend's house and 
 
 While it was Christmas, the mixing bowl worked quite well. I received food from two new people. Two of my regular donors noticed that my bowl was different, but the rest never noticed. Was it the special day or was it the bowl? Probably both, although I have never duplicated going for alms with a mixing bowl again.
 
-![](/images/mixbowl1.webp)
+{{< img src = "/images/mixbowl1.webp" >}}
 
 In the West, I have encountered many questions about my alms bowl. A common comment is, "Hey, nice drum." In reality, the monk's bowl is a special shape, with nice little covers and with nice little straps complete with a little stand on the bottom. After all that, the bowl doesn't really look like a bowl anymore to the average person in the West. I think if I did a survey and asked people what they thought my alms bowl was, I think 30% would say a bowl, 30% would say a drum, and 40% would not really know for sure.
 
-![](/images/monkbowl.webp)
+{{< img src = "/images/monkbowl.webp" >}}
 
 If my goal is to gather food, it might be good to use something that is obvious for collecting food. I would guess that panhandling was when people would carry a frying pan around to collect food. After some time, it was used for money to buy food, and then of course it just became a name for aggressive beggars who want money. What if real panhandling were to carry around a device (a bowl or frying pan) that would signify someone was collecting food to eat? It seems like it makes sense, but the websites that "have researched this" consider this reason to be very weak. Why? As begging shifted towards a way to make money, the idea of someone collecting "food" has been lost.
 
@@ -46,4 +46,4 @@ Since monks do not cook, a mixing bowl rather than a frying pan seems to be a ve
 
 What are your thoughts? Leave a comment and mention whether or not you are or were a monk.
 
-![](/images/twobowls.webp)
+{{< img src = "/images/twobowls.webp" >}}

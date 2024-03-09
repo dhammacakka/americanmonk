@@ -16,7 +16,7 @@ image: /images/acapellainertia-story.webp
 featured_image: /images/acapellainertia-story.webp
 ---
 
-# [![](/images/acapellainertia-story-768x1024.webp)](/images/2018/02/acapellainertia-story.webp)
+# [{{< img src = "/images/acapellainertia-story-768x1024.webp" >}}](/images/2018/02/acapellainertia-story.webp" >}}
 
 # A Tale of Love and Samādhi Explained:
 

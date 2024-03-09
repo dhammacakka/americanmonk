@@ -12,7 +12,7 @@ image: /images/loving-kindness-ai-1.webp
 featured_image: /images/loving-kindness-ai-1.webp
 ---
 
-![](/images/loving-kindness-ai-1.webp)
+{{< img src = "/images/loving-kindness-ai-1.webp" >}}
 
 ai generated art for this post
 

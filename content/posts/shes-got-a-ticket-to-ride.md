@@ -39,7 +39,7 @@ These acts of kindness towards me increase their own faith, it sets my heading a
   
   
 Bus picture is from:  
-[http://en.m.wikipedia.org/wiki/File:Sri\_Lanka\_Bus.webp](http://en.m.wikipedia.org/wiki/File:Sri_Lanka_Bus.webp)  
+[http://en.m.wikipedia.org/wiki/File:Sri\_Lanka\_Bus.webp](http://en.m.wikipedia.org/wiki/File:Sri_Lanka_Bus.webp" >}}  
   
 ﻿
 

@@ -10,7 +10,7 @@ image: /images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Me
 featured_image: /images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.webp
 ---
 
-[![](/images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958-1024x680.webp)](/images/2018/05/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.webp)
+[{{< img src = "/images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958-1024x680.webp" >}}](/images/2018/05/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.webp" >}}
 
 Is the light a Nimitta and when should one look at it?
 

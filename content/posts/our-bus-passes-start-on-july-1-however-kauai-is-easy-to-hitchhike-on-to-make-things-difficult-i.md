@@ -9,7 +9,7 @@ image: /images/kauai-bus-information.webp
 featured_image: /images/kauai-bus-information.webp
 ---
 
-[![kauai-bus-information](/images/kauai-bus-information.webp)](/images/2015/07/kauai-bus-information.webp)
+[![kauai-bus-information](/images/kauai-bus-information.webp" >}}](/images/2015/07/kauai-bus-information.webp" >}}
 
 Our bus passes start on July 1. However, Kauai is easy to hitchhike on. To make things difficult, I do not want to use my thumb and just let people guess. The result?  
 It is really easy and I regret having passes, although it is easy that way.  

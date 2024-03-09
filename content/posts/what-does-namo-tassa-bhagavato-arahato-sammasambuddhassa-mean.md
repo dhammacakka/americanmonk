@@ -16,7 +16,7 @@ image: /images/wp-1608279208032-edited.webp
 featured_image: /images/wp-1608279208032-edited.webp
 ---
 
-![](/images/namo-cover.webp)
+{{< img src = "/images/namo-cover.webp" >}}
 
 ## Introduction:
 
@@ -39,7 +39,7 @@ Today we will have a short and brief introduction into the meaning of "Namo Tass
 
 **Sammāsambuddho** is the word for the Buddha that you are familiar with. He has also eradicated greed, hatred and delusion, but he has done so on his own without a teacher. He is the one who discovers the teachings. Like tassa, sammāsambuddho has a similar dative ending. Sammāsambuddha + ssa means "To The Buddha, the perfectly self enlightened one." While some other traditions outside of Classical Theravāda say one can become a Buddha in this lifetime, they cannot and this is a wrong teaching. It takes a "modern" time equivalent of 4 big bangs in order to become a Buddha and even this might not be a long enough estimate of how long it takes. Only after one receives a prophecy from a living Buddha does one actually start the clock. It takes that long because it is not easy to become self enlightened and one needs to develop many skills over many lives to accomplish this. It should be known that the Buddha is not alive, in some other plane of existence. He is only "alive" through his teachings, like Einstein is alive through his discoveries.
 
-![](/images/wp-1608279208032-edited.webp)
+{{< img src = "/images/wp-1608279208032-edited.webp" >}}
 
 ## Conclusion:
 

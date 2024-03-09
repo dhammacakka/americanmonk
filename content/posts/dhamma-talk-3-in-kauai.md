@@ -7,4 +7,4 @@ image: /images/dhammatalk27th.webp
 featured_image: /images/dhammatalk27th.webp
 ---
 
-[![dhammatalk27th](/images/dhammatalk27th.webp)](/images/2015/09/dhammatalk27th.webp)
+[![dhammatalk27th](/images/dhammatalk27th.webp" >}}](/images/2015/09/dhammatalk27th.webp" >}}

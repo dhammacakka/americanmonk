@@ -13,7 +13,7 @@ image: /images/needlecase.webp
 featured_image: /images/needlecase.webp
 ---
 
-[![](/images/needlecase.webp)](/images/2018/01/needlecase.webp)
+[{{< img src = "/images/needlecase.webp" >}}](/images/2018/01/needlecase.webp" >}}
 
 This is a small video on how to make a monk's needle case from a used up disposable pen. It is one of the 8 requisites of a Buddhist monk. It is mostly intended for monks to view, but lay people might find it interesting.
 

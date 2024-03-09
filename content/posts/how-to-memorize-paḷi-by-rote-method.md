@@ -15,7 +15,7 @@ image: /images/subhutiMemPalititle.webp
 featured_image: /images/subhutiMemPalititle.webp
 ---
 
-![](/images/subhutiMemPalititle-1024x576.webp)
+{{< img src = "/images/subhutiMemPalititle-1024x576.webp" >}}
 
 Title Page
 

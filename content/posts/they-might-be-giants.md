@@ -7,7 +7,7 @@ image: /images/giantmonk-samanera.webp
 featured_image: /images/giantmonk-samanera.webp
 ---
 
-![](/images/giantmonk-samanera.webp)
+{{< img src = "/images/giantmonk-samanera.webp" >}}
 
 Original picture lost, but this one from Thailand will do.
 

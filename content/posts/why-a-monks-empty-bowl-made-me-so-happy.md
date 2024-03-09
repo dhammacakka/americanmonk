@@ -15,7 +15,7 @@ image: /images/Looking-at-bowl.webp
 featured_image: /images/Looking-at-bowl.webp
 ---
 
-![](/images/Looking-at-bowl-1024x576.webp)
+{{< img src = "/images/Looking-at-bowl-1024x576.webp" >}}
 
 Ven. Nepal Nāthaputta and I have been going for alms together for some time now. He usually comes with me the whole way on Saturdays and on Sundays, he forks right after the 2nd or 3rd house. However, recently, a new monk decided to join our route. Last week, Ven. Nepal Nāthaputta went off on his own on Saturday while the two of us went on my usual route (good for two monks). We did the same this Saturday. When we came back Ven. Nepal Nāthaputta showed me the contents of his bowl. It had 2 spoons of rice and a few bananas. While this was clearly not enough food for him, it made me so happy. But Why? I'm a monk, right? Why should I be happy that a friend didn't get any substantial food?
 

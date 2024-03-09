@@ -16,4 +16,4 @@ A Counterfeit Mitsubishi Truck was found in Pa-Auk Forest Monastery. I had my do
 
 In the olden days there were very high taxes on cars. I think 200% tax which made used cars hold their value well. To avoid import taxes, it was common to make a village car. Here is the post I made.
 
-![](/images/fake-mitsubishi-truck-1024x769.webp)
+{{< img src = "/images/fake-mitsubishi-truck-1024x769.webp" >}}

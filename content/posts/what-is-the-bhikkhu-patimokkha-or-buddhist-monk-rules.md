@@ -16,7 +16,7 @@ image: /images/patimokkha.webp
 featured_image: /images/patimokkha.webp
 ---
 
-![](/images/patimokkha-1024x681.webp)
+{{< img src = "/images/patimokkha-1024x681.webp" >}}
 
 Pa Auk Monastery in 2014, Photo by Klaus
 
@@ -121,7 +121,7 @@ I might speculate this expression might also be an idiom. There are other numeri
 
 The Pātimokkha is recited on the new and full moon days. These days are called the Uposatha days of the 14 or 15th day cycles. All monks are required to come to the Uposatha hall (sīma). The monks must purify their offenses before entering the Pātimokkha recitation area by confessing and getting rid of unallowable items, usually from the Nissaggiya-pācittiyā section. Those who have offenses that still remain, like those who have money or items bought with monk-owned-money and cannot bear to relinquish them completely, are not allowed to attend the Pātimokkha. These monks will not be pure no matter how many times they confess.
 
-![](/images/good-night-full-moon-moonlight-night.webp)
+{{< img src = "/images/good-night-full-moon-moonlight-night.webp" >}}
 
 New and Full moon days are Uposatha Days
 
@@ -140,7 +140,7 @@ The confession procedure is stated below:
 
 A monk who has money or has items bought with monk-owned-money on him, in his kuti or held by a friend cannot honestly purify his offenses with the above statements. The confession requires him to agree to stop doing such actions and relinquish what needs to be relinquished. If he doesn't, his purifying confession of light rules are not complete if the nissaggi items still remain.
 
-![](/images/confession-1024x768.webp)
+{{< img src = "/images/confession-1024x768.webp" >}}
 
 Confession, Pa Auk Monastery in 2014 Photo by Klaus
 
@@ -164,13 +164,13 @@ Pātimokkha is a Pāḷi word and refers to Pāḷi Buddhism or Theravāda Buddh
 
 A real Theravāda bhikkhuni who breaks any of these above rules, found nearly verbatim in all textual versions of all vinaya sects, needs to [lose her full status and needs to follow the similar procedure](https://americanmonk.org/should-bhikkhunis-be-sent-to-probation-monasteries/) as stated in the Saṅghādisesā section of this article. However, instead of six nights, they need to do 2 weeks. Although the rehabilitation base time is longer, there is no bonus time for concealing. Furthermore, afterwards, they need at least twenty bhikkhus and at least twenty nuns as quorum to restore their full status.\[mfn\]As stated before, it would be preferred to have twenty-five from each group\[/mfn\] You can read this article below in full, which discusses more on the actual and real bhikkhuni rules:  
 
-![](/images/magnifying_glass_globe.webp)
+{{< img src = "/images/magnifying_glass_globe.webp" >}}
 
 ### Are Theravāda Bhikkhuni Ordinations Valid?
 
 There is not much written in English explaining why bhikkhuni ordinations are rejected by the Theravada Community of Monks.
 
-![](/images/edenburgh-prison.webp)
+{{< img src = "/images/edenburgh-prison.webp" >}}
 
 ### Should Bhikkhunis Be Sent To Probation Monasteries?
 

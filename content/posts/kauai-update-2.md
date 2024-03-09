@@ -41,4 +41,4 @@ Bhikkhu Subhuti
 
 Picture: Another rainbow over the new place.
 
-[![noks farm rainbow](/images/noks-farm-rainbow.webp)](/images/2015/09/noks-farm-rainbow.webp)
+[![noks farm rainbow](/images/noks-farm-rainbow.webp" >}}](/images/2015/09/noks-farm-rainbow.webp" >}}

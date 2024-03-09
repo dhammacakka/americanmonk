@@ -14,7 +14,7 @@ image: /images/Tipitaka_scripture.webp
 featured_image: /images/Tipitaka_scripture.webp
 ---
 
-![](/images/Tipitaka_scripture-1024x746.webp)
+{{< img src = "/images/Tipitaka_scripture-1024x746.webp" >}}
 
 CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=190448
 
@@ -101,7 +101,7 @@ The verse can be translated as:
 > 
 > Ven Nārada
 
-![](/images/Arahat_Cakkhupala_before_and_after_his_Blindness.webp)
+{{< img src = "/images/Arahat_Cakkhupala_before_and_after_his_Blindness.webp" >}}
 
 https://commons.wikimedia.org/wiki/File:Nava\_Jetavana\_Temple\_-_Shravasti_\-_003\_Arahat\_Cakkhupala,\_before\_and\_after\_his\_Blindness_(9241775603).webp
 

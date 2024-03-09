@@ -15,7 +15,7 @@ image: /images/umbrella.webp
 featured_image: /images/umbrella.webp
 ---
 
-![](/images/umbrella_walk.webp)
+{{< img src = "/images/umbrella_walk.webp" >}}
 
 Monks walking up the monastery road near the library 2014. (Double umbrella)
 
@@ -29,7 +29,7 @@ This past Rainy Season gave us a little too much confusion and we now have lamin
 
 Umbrellas surely break, and we now have an Umbrella Repair Service Station at Kuti #1. I call this monk "U Htee" which means Venerable Umbrella. You can actually use the "I'm sorry I was late, my umbrella was in the shop." as an excuse in this monastery. With this umbrella service, I was able to make my umbrella last almost two rainy seasons before giving it away to a visiting monk. Umbrellas really take a beating here and my umbrella was in the shop three times!
 
-![](/images/umbrella-800x1024.webp)
+{{< img src = "/images/umbrella-800x1024.webp" >}}
 
 Umbrella Shop: Kuti #1 (taken in 2014 and a different monk from the story)
 
@@ -39,7 +39,7 @@ U Htee is a real pro. He can do anything with your umbrella and there are plenty
 And so it is the simple life that I live. It allows me to appreciate the small things when they would normally get lost  
 in the day-to-day schedules of my previous way of life which was simpler than most.
 
-![](/images/umbrellastair-1024x680.webp)
+{{< img src = "/images/umbrellastair-1024x680.webp" >}}
 
 Several Pa-Auk Ⓡ double layer umbrellas on the Pa-Auk meditation hall staircase with different markings on the handles or tags, 2014.
 

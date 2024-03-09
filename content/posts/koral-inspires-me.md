@@ -18,7 +18,7 @@ image: /images/koral-fam.webp
 featured_image: /images/koral-fam.webp
 ---
 
-![](/images/koral-fam-1024x768.webp)
+{{< img src = "/images/koral-fam-1024x768.webp" >}}
 
 Koral's Family
 
@@ -34,7 +34,7 @@ It inspires me because the way the family gives to me is exactly the same way fa
 
 It is strange that one can naturally do the same thing that is done in Asia without knowing what is done there. Past life habitual kamma is the only answer. It inspires me and I feel it is my duty to go to their house at least once per week. Below is the cover photo from my other website\[mfn\][https://withmetta.net](https://withmetta.net)\[/mfn\]. It shows a scene from a video\[mfn\][A Glimpse of Nauyana Forest Monastery](https://youtu.be/g-sk9SGaZUk?t=364)\[/mfn\] of a family giving alms in Sri Lanka. You can see that it all is the same, depending on how old the children are.
 
-![](/images/withmettacovernew.webp)
+{{< img src = "/images/withmettacovernew.webp" >}}
 
 As one who has grown up in the West, I have never had the chance to give to monks at a young age. Seeds definitely get planted similar to a mother tongue. We can learn languages, but nothing compares to our mother tongue. Because I missed such an upbringing for myself, I make it a point to share this opportunity with the young ones growing up in the West today.
 

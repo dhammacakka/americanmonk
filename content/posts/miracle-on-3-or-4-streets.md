@@ -15,7 +15,7 @@ image: /images/buddhaglue.webp
 featured_image: /images/buddhaglue.webp
 ---
 
-![](/images/buddhaglue-576x1024.webp)
+{{< img src = "/images/buddhaglue-576x1024.webp" >}}
 
 Here are a five remarkable stories of miracles to tell, but not all of them. There have been many miracles that have come my way when I needed them the most. For the Christians out there, they might say, “Doesn’t that make you believe in God?” My answer is, “It makes me believe there are heavenly beings ([Devas & Devis](https://en.wikipedia.org/wiki/Deva_(Buddhism)))) who are looking out for me.”. There are other stories not included such as "[My Watch Story](https://americanmonk.org/why-did-you-become-a-monk/)"
 
@@ -43,7 +43,7 @@ That day, I happened to receive nothing on my alms round except that wonderful g
 
 ## **Where Is My Salvation?**
 
-![](/images/salvationarmy.webp)
+{{< img src = "/images/salvationarmy.webp" >}}
 
 On my second day in Kauai, I decided that I should go see the homeless outreach lady and declare myself as homeless which would allow me to declare residency without a physical address. My helper sent me off with a bus pass and 2 apples while I would need to find the rest of my meal somehow, and somewhere. I had no exact plans, but I started by going to the office building where the homeless outreach lady works. I had made an appointment to see her after 12 noon since she was doing her rounds in the beach parks and then started to think about my meal for the day.
 
@@ -55,7 +55,7 @@ On my way back from another visit to the Salvation Army kitchen, I got lost tryi
 
 ## **Ring Around The Rosary**
 
-![](/images/malahand.resized.webp)
+{{< img src = "/images/malahand.resized.webp" >}}
 
 Mala in Hand
 

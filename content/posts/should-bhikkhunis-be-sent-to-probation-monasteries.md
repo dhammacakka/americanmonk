@@ -24,7 +24,7 @@ image: /images/edenburgh-prison.webp
 featured_image: /images/edenburgh-prison.webp
 ---
 
-![](/images/edenburgh-prison.webp)
+{{< img src = "/images/edenburgh-prison.webp" >}}
 
 Copyright notice.. picture by [Kim Traynor](https://www.geograph.org.uk/photo/2179460) cc-by-sa
 
@@ -202,13 +202,13 @@ The bhikkhuni rules are not easy to follow especially if one cannot travel alone
 
 ## Further Reading:
 
-![](/images/magnifying_glass_globe.webp)
+{{< img src = "/images/magnifying_glass_globe.webp" >}}
 
 ### Are Theravāda Bhikkhuni Ordinations Valid?
 
 There is not much written in English explaining why bhikkhuni ordinations are rejected by the Theravada Community of Monks.
 
-![](/images/patimokkha.webp)
+{{< img src = "/images/patimokkha.webp" >}}
 
 ### What Is The Bhikkhu Patimokkha or Buddhist Monk Rules?
 

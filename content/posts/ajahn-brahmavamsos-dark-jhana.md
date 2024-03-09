@@ -20,7 +20,7 @@ image: /images/anzotti.com_.webp
 featured_image: /images/anzotti.com_.webp
 ---
 
-![](/images/anzotti.com_-1024x566.webp)
+{{< img src = "/images/anzotti.com_-1024x566.webp" >}}
 
 ## Does Ajahn Brahmavamso Jhāna Have a Nimitta?
 

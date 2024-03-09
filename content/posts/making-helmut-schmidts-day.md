@@ -14,7 +14,7 @@ image: /images/HelmutSchmidt-Day.webp
 featured_image: /images/HelmutSchmidt-Day.webp
 ---
 
-[![helmutschmidt-day](/images/HelmutSchmidt-Day.webp)](/images/2016/09/HelmutSchmidt-Day.webp)
+[![helmutschmidt-day](/images/HelmutSchmidt-Day.webp" >}}](/images/2016/09/HelmutSchmidt-Day.webp" >}}
 
 A Story from 1993 from my college days, before the Internet was around.
 

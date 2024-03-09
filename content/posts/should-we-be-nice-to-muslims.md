@@ -17,7 +17,7 @@ image: /images/IMG_20141008_104709-e1522319106715.webp
 featured_image: /images/IMG_20141008_104709-e1522319106715.webp
 ---
 
-\[caption id="attachment\_1211" align="alignnone" width="400"\][![muslim dana](/images/IMG_20141008_104709-e1522319106715-768x1024.webp)](/images/2018/03/IMG_20141008_104709-e1522319106715.webp) Muslim Imam giving dana\[/caption\]
+\[caption id="attachment\_1211" align="alignnone" width="400"\][![muslim dana](/images/IMG_20141008_104709-e1522319106715-768x1024.webp" >}}](/images/2018/03/IMG_20141008_104709-e1522319106715.webp" >}} Muslim Imam giving dana\[/caption\]
 
  
 
@@ -101,4 +101,4 @@ If the Myanmar people really want to protect Buddhism, it will have to retain it
 
 In this sutta, there were robbers who were cutting off the limbs of their victim slowly with a saw. The Buddha told us that we should develop loving-kindness towards these thieves until the very end of our lives. This is the advice of our Lord Buddha and this is the way we shall protect Buddhism.
 
-\[caption id="attachment\_1211" align="alignnone" width="225"\][![muslim dana](/images/IMG_20141008_104709-e1522319106715-225x300.webp)](/images/2018/03/IMG_20141008_104709.webp) Muslim Imam giving dana\[/caption\]
+\[caption id="attachment\_1211" align="alignnone" width="225"\][![muslim dana](/images/IMG_20141008_104709-e1522319106715-225x300.webp" >}}](/images/2018/03/IMG_20141008_104709.webp" >}} Muslim Imam giving dana\[/caption\]

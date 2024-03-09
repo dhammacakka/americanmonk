@@ -16,7 +16,7 @@ image: /images/health-chocolate01-lg.webp
 featured_image: /images/health-chocolate01-lg.webp
 ---
 
-[![](/images/health-chocolate01-lg-1024x788.webp)](https://americanmonk.org/wp-content/uploads/2018/10/health-chocolate01-lg.webp)
+[{{< img src = "/images/health-chocolate01-lg-1024x788.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/10/health-chocolate01-lg.webp" >}}
 
 Below is a chart comparing special allowances by tradition which is useful for making a decision on where to ordain.  If you need an explanation, read further..
 

@@ -13,7 +13,7 @@ image: /images/television-144961_1280.webp
 featured_image: /images/television-144961_1280.webp
 ---
 
-[![television-144961_1280](/images/television-144961_1280.webp)](/images/2016/11/television-144961_1280.webp)
+[![television-144961_1280](/images/television-144961_1280.webp" >}}](/images/2016/11/television-144961_1280.webp" >}}
 
 I remember when I moved into my new place in Old Greenwich, CT. It was a duplex house and I had the bottom floor. I was within a Frisbee throw into the heart of the charming Old Greenwich village.. (not to be confused with “The Village” of Manhattan). I was also near the train station which would take me to Manhattan if I wanted. I could run to the beach park and back as part of my 4 mile exercise route. It was a nice place, I could afford it, and things were going well as far as lay people are concerned during my life back then.
 

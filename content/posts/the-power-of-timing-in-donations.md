@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=Qy_h71a17Qo
 
 {{< youtube "Qy_h71a17Qo" >}}
 
-![](/images/buddhaglue.webp)
+{{< img src = "/images/buddhaglue.webp" >}}
 
 ### Miracle On 3 or 4 Streets
 

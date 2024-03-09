@@ -16,7 +16,7 @@ image: /images/planc.webp
 featured_image: /images/planc.webp
 ---
 
-[![](/images/planc.webp)](/images/2017/12/planc.webp)
+[{{< img src = "/images/planc.webp" >}}](/images/2017/12/planc.webp" >}}
 
  
 

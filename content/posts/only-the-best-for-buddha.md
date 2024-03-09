@@ -17,7 +17,7 @@ image: /images/buddhist-flag-rotated.webp
 featured_image: /images/buddhist-flag-rotated.webp
 ---
 
-![](/images/buddhist-flag-rotated.webp)
+{{< img src = "/images/buddhist-flag-rotated.webp" >}}
 
 6 Color Buddhist Flag
 

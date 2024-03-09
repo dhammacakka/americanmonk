@@ -18,7 +18,7 @@ image: /images/monkbowl.webp
 featured_image: /images/monkbowl.webp
 ---
 
-![](/images/monkbowl.webp)
+{{< img src = "/images/monkbowl.webp" >}}
 
 This is where I live  
 

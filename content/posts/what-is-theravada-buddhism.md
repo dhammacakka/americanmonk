@@ -13,7 +13,7 @@ image: /images/bodhi-tree-monk-reduce-scaled.webp
 featured_image: /images/bodhi-tree-monk-reduce-scaled.webp
 ---
 
-![](/images/bodhi-tree-monk-reduce-1024x576.webp)
+{{< img src = "/images/bodhi-tree-monk-reduce-1024x576.webp" >}}
 
 Monk at The Bodhi Tree located at International Institute of Theravāda
 
@@ -33,7 +33,7 @@ The Vinaya Piṭaka is "mostly" associated with the rules, but it is also rich w
 
 Theravada is actually spelled Theravāda. The "Th" is pronounced with a hard "T" as in "toothbrush" or "top", with an extra puff of air added to the "T". This is phonically called an "aspirated-t". The first and third syllables are sustained longer than the middle syllable. The Latin vowels are used in all _Roman Pāḷi_ letters. Therefore the first vowel sounds like a long-a as in "hay'" while the second and third vowels are pronounced with an "ah" sound. The first and third vowels are held longer than the others. You can see this link [here](https://americanmonk.org/how-to-pronounce-theravada/) for a recording.
 
-![](/images/theravada-330x195.webp)
+{{< img src = "/images/theravada-330x195.webp" >}}
 
 ### How To Pronounce Theravada
 
@@ -45,7 +45,7 @@ Hinayana means hīna (inferior, weak, lesser)+ yāna (vehicle). It is commonly t
 
 In general, Theravāda promotes the enlightenment process, while Mahayana promotes the Bodhisattva vow which commits people for uncountable eons until they too reach Buddhahood themselves for the sake of saving many beings from suffering related to the seemingly endless rebirth cycle of saṃsāra. Tibetan Buddhism (Vajrayana) is considered to be an extension of Mahayana Buddhism. Nevertheless, Theravāda still has a bodhisatta path available for those who wish to follow that path. The two descriptions are quite different with the Theravāda version being a little more realistic as to what is required to become a Buddha.
 
-![](/images/784056331667827.webp)
+{{< img src = "/images/784056331667827.webp" >}}
 
 ### The Robes of Theravadan, Mahayanan, Tibetan Monks
 
@@ -62,7 +62,7 @@ Bodhisatta----------------Bodhisattva
 
   
 
-![](/images/robepattern-330x195.webp)
+{{< img src = "/images/robepattern-330x195.webp" >}}
 
 ### Buddhist Monks' Robes Information
 
@@ -70,13 +70,13 @@ Few people realize that the Theravāda monk’s robes are actually a piece of re
 
 ## Orthodox School Benefits
 
-![](/images/asoka-carve.webp)
+{{< img src = "/images/asoka-carve.webp" >}}
 
 The Asoka pillar. The 24 spoked wheel below represents the 24 Paṭṭhāna of Abhidhamma and is a common Theravāda symbol. Photo Credit given at bottom of post
 
 As an Orthodox School of Buddhism, one is able to find monks who still stay true to the rules originally laid down by the Buddha. Although it is difficult to find monks who do not use money _and_ also follow this rule strictly as defined by the commentaries, one still can find thousands of monks who strictly follow these rules today. Furthermore, the style of dress and various practices, such as going for alms and deep meditation techniques are still easily found today throughout the Theravāda countries and the texts.
 
-![](/images/extra-before-meal1.webp)
+{{< img src = "/images/extra-before-meal1.webp" >}}
 
 ### About Piṇḍapāta: Why Do Monks Go For Alms in a Village?
 
@@ -90,7 +90,7 @@ Early Buddhist Texts (EBT) is a practice of giving an importance on non-Pāli te
 
 In contrast to EBT, the Katthāvatthu is considered to be a very important book for defining Orthodox Theravāda Buddhism still followed by the vast majority of monks found in South East Asia today. The book and commentary are found in the Abhidhamma Piṭaka. It is often translated as "Points of Controversy" as it covers over 200 points of controversy throughout its content. Much of the controversial or heretical points can also be directly or indirectly tied to the original source texts found within the EBT sources.
 
-![](/images/1024px-Buddhist_money_tree_with_toilet_paper.webp)
+{{< img src = "/images/1024px-Buddhist_money_tree_with_toilet_paper.webp" >}}
 
 ### Are Buddhist Monks Allowed To Use Money?
 

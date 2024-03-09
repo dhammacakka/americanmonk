@@ -20,6 +20,6 @@ From Wikipedia: [https://en.wikipedia.org/wiki/Bodhi\_Tree](https://en.wikipedia
 
 _The term "Bodhi Tree" is also widely applied to currently existing trees, particularly the Sacred Fig growing at the Mahabodhi Temple in Bodh Gaya, which is a direct descendant planted in 288 BC from the original specimen. This tree is a frequent destination for pilgrims, being the most important of the four main Buddhist pilgrimage sites. Other holy Bodhi trees which have a great significance in the history of Buddhism are the Anandabodhi tree in Sravasti and the Bodhi tree in Anuradhapura, Sri Lanka. Both are believed to have been propagated from the original Bodhi tree._
 
-[![subhutibodhi](/images/subhutibodhi.webp)](/images/2015/08/subhutibodhi.webp)
+[![subhutibodhi](/images/subhutibodhi.webp" >}}](/images/2015/08/subhutibodhi.webp" >}}
 
-[![devabodhi](/images/devabodhi.webp)](/images/2015/08/devabodhi.webp)
+[![devabodhi](/images/devabodhi.webp" >}}](/images/2015/08/devabodhi.webp" >}}

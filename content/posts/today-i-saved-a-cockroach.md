@@ -14,7 +14,7 @@ image: /images/640px-Amerikanische_Grosschabe_1.webp
 featured_image: /images/640px-Amerikanische_Grosschabe_1.webp
 ---
 
-![](/images/640px-Amerikanische_Grosschabe_1.webp)
+{{< img src = "/images/640px-Amerikanische_Grosschabe_1.webp" >}}
 
 https://commons.wikimedia.org/wiki/File:Amerikanische\_Gro%C3%9Fschabe\_1.webp
 

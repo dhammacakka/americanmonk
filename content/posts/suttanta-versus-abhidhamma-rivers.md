@@ -20,7 +20,7 @@ image: /images/me-bagan-river.webp
 featured_image: /images/me-bagan-river.webp
 ---
 
-![](/images/me-bagan-river-1024x768.webp)
+{{< img src = "/images/me-bagan-river-1024x768.webp" >}}
 
 Irrawaddi River, Bagan, 2015
 

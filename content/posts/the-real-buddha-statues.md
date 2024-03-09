@@ -15,7 +15,7 @@ image: /images/parinibbana-Polonnaruwa.webp
 featured_image: /images/parinibbana-Polonnaruwa.webp
 ---
 
-![](/images/parinibbana-Polonnaruwa.webp)
+{{< img src = "/images/parinibbana-Polonnaruwa.webp" >}}
 
 ## What qualities make up the real Buddha Statues?
 
@@ -57,9 +57,9 @@ The bump on top of the head is called **_uṇhīsasīso_** in the Pāḷi langua
 
 I recently asked my brother Adam for a picture of his hair.  According to vinaya (the monk's rules) the hair should be cut every month or when it reaches the length of 2 finger breadths (or sooner).  We would probably make Adam shave his head regardless of his Buddha-like hair qualities.  Sorry, Adam!
 
-![](/images/adam-good-hair-day.webp)
+{{< img src = "/images/adam-good-hair-day.webp" >}}
 
-![](/images/adam-real-hair-length.webp)
+{{< img src = "/images/adam-real-hair-length.webp" >}}
 
 Here you will see a Buddha store in Yangon.  The photo below the Buddha store is a closeup view of Buddhas with combed hair.  While some of the first historical Buddhas ever produced had the hair in a bun, this was a wrong interpretation without research. Why would they knowingly sell the wrong Buddhas? Because people liked them with hair and requested it.  After a while, they just made them because they sell.  Money talks... and that is often the reason why we get the wrong Dhamma. On a side note.. did you know that the 3-foot marble Buddhas are only about $500 locally?
 
@@ -69,9 +69,9 @@ The Thai Buddhas almost always have a pointy head yet still has the proper "snai
 > 
 > https://en.wikipedia.org/wiki/Ushnisha
 
-![](/images/buddhastore.resized.webp)
+{{< img src = "/images/buddhastore.resized.webp" >}}
 
-![](/images/buddha-hair.webp)
+{{< img src = "/images/buddha-hair.webp" >}}
 
 Nope.. Sorry.. this hair doesn't cut it.
 
@@ -85,21 +85,21 @@ It was difficult to find a reliable source for the reclining Buddhas. However, V
 
 One small side note: Last year, in the fall of 2019, I was in a car with a donor and I was speaking about the Parinibbāna toes. My phone was on like most people and Google Assistant jumped into the conversation and said, "That is very interesting. How do you know that?" I swear, it totally freaked me out. I didn't answer, although I should have asked.. "Who summoned you?"
 
-![](/images/recliningbuddha.resized.webp)
+{{< img src = "/images/recliningbuddha.resized.webp" >}}
 
 Don't worry, Buddha is alive and his eyes are open too. Look at his feet.
 
-![](/images/1024px-049_Reclining_Buddha.webp)
+{{< img src = "/images/1024px-049_Reclining_Buddha.webp" >}}
 
 Sleeping (cc Ven Anandajoti https://www.flickr.com/photos/64337707@N07/39755915614)
 
-![](/images/parinibbana-Polonnaruwa.webp)
+{{< img src = "/images/parinibbana-Polonnaruwa.webp" >}}
 
 Parinibbana Buddha. The toes are slightly off by a nudge.
 
 Some other mentions are that the fingers should be long and all four of the fingers should be the same length. The feet should be flat-footed and the legs of the meditating Buddha should also be folded in a [full lotus position](https://en.wikipedia.org/wiki/Lotus_position). That said, most statues in Sri Lanka, have the half lotus posture.
 
-![](/images/wp-1608279208032-edited-1.webp)
+{{< img src = "/images/wp-1608279208032-edited-1.webp" >}}
 
 Proper legs feet and hands at Pa-Auk POL
 

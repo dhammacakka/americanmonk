@@ -12,11 +12,11 @@ image: /images/me-earliest.webp
 featured_image: /images/me-earliest.webp
 ---
 
-![](/images/me-earliest.webp)
+{{< img src = "/images/me-earliest.webp" >}}
 
 One of my earliest photos with messy robes
 
-![](/images/pa-auk-Ordination-Certificate-2001.webp)
+{{< img src = "/images/pa-auk-Ordination-Certificate-2001.webp" >}}
 
 My original ordination certificate
 
@@ -24,7 +24,7 @@ Exactly twenty years ago today (February 7, 2001), I followed through with my de
 
 Today, I not only have the monk name Bhikkhu Subhūti, but I also have an actual legal passport name of Bhante Bhikkhu Subhuti as well as other essential ID's too. I remember when I came to Pa-Auk still dressed in white anagārika robes that I got at Wat Pah Nanachat in Thailand when Myanmar was still an embargo state. There were about 120 monks total at Pa-Auk and just a handful of foreigners. Today, (without a pandemic) that number has grown in Mawlamyine to a rolling average of 600 monks in addition to the monks at 60 or so branch monasteries.
 
-![](/images/bhantepassport-no-num-758x1024.webp)
+{{< img src = "/images/bhantepassport-no-num-758x1024.webp" >}}
 
 New Passport 2019
 
@@ -34,7 +34,7 @@ Sayadaw replied and said, "Awe! That day is very busy."
 
 For me, it was like a wedding day. I wanted it to be special, so I responded with the magic words that my grandmother taught me, "Please?" and the deal was settled. Little did I know that this was the Pa-Auk Maha-dāna day and also when the annual meeting of teachers occurs. The Full-Moon Day of February is the busiest day for Pa-Auk each year. However, I said the magic words and Sayadaw made the arrangements.
 
-![](/images/1440px-Venerable_Pa-Auk_Tawya_Sayadaw_Bhaddanta_Aciṇṇa.webp)
+{{< img src = "/images/1440px-Venerable_Pa-Auk_Tawya_Sayadaw_Bhaddanta_Aciṇṇa.webp" >}}
 
 I ordained on the Full-Moon Day of February 7th, 2001. A Bhikkhu ordination is a two step process. The first step was to become a novice monk and then later that day, I would become a full monk. Because it was so busy, the first ordination was arranged at 4:00 am early in the morning at the Alms Giving Hall Buddha. (The Dining Hall did not exist then.) I was ordained along with a Singaporean temporary monk who would stay as a novice monk and then disrobe shortly after. Later that day, I would take on the remainder step of full ordination as a bhikkhu right before the recitation of the monk rules in the main meditation/ordination hall. This was a very rare procedure. Normally ordinations are held in smaller ordination halls. However, there was no other time to do it if it were to be done that particular day. I wanted "special" and I certainly got it! There were 198 bhikkhus that day because there were many visitors including the Pa-Auk teachers who had come for the meeting. It was like a long awaited dream come true. Here is an excerpt from my book [Going For Broke](https://americanmonk.org/book-going-for-broke/) that describes how I got my name:
 
@@ -47,7 +47,7 @@ I ordained on the Full-Moon Day of February 7th, 2001. A Bhikkhu ordination is a
 >   
 > I really love this life and I don’t really see any other life for me. I am sort of like a fish out of water. I am one who has always swum against the stream, looking for a place where I can rest.
 
-![](/images/cropped-IMG_20190403_182709.webp)
+{{< img src = "/images/cropped-IMG_20190403_182709.webp" >}}
 
 Kaua'i 2019
 

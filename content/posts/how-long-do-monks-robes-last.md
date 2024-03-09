@@ -15,7 +15,7 @@ image: /images/kathina2021.webp
 featured_image: /images/kathina2021.webp
 ---
 
-![](/images/kathina-2021-1.webp)
+{{< img src = "/images/kathina-2021-1.webp" >}}
 
 Various items for Kaṭhina
 
@@ -27,7 +27,7 @@ The robes will last various lengths of time and it depends on the quality of the
 
 As time has gone by and Pa-Auk has grown in popularity in size, robe manufacturing companies have arisen to meet Pa-Auk vinaya standards. The cloth used from Myanmar can be very good quality and impressed the ladies at the USA fabric stores when I showed them. I think it is the same type of cloth that cotton button-down dress shirts are made from. The first company was good, but some other companies seem to cut corners in the manufacturing process and fold the cloth over to make the 5" borders on the edges instead of cutting the cloth and sewing a separate strip of cloth on top. This separate piece is required for the monk rules. One company cuts all stitching lines and there is no doubt about anything with this extreme practice. Taking a robe out of the package to see the size and vinaya standards is like unfolding a map and then trying to fold it back again (remember those days?). So with so many robes to choose from, I stick with a company I know and trust, or I stitch the robes myself.
 
-![](/images/all_cut_stitch.webp)
+{{< img src = "/images/all_cut_stitch.webp" >}}
 
 Packages that say,"Made to vinaya standards", may or may not have cut borders. The above statement is more accurate.
 
@@ -35,17 +35,17 @@ The robes we get today can last several years if one stays in Pyin Oo Lwin with 
 
 Various chemical dyes exist. Rit dyes are quite famous in the USA, but I have not had great success with them or other companies as well. Natural dyes for monks are often made from tree bark or tree hardwood, and a large pot is needed to cook these natural dyes. However, I suspect the Pa-Auk and Na-Uyana have missed a few steps in making these dyes since the majority of the dye gets washed out the moment you use modern washing detergent How do we wash the robes if we have natural dye? In Sri Lanka, we use boiling water with certain types of leaves to help bring out the oils out from the robes which came from the body. We have special elongated monk-robe-washing-sinks to do this too.
 
-![](/images/modern-dye-chicago-1024x768.webp)
+{{< img src = "/images/modern-dye-chicago-1024x768.webp" >}}
 
 Chemical dying my robes in the USA
 
-![](/images/cookingdye1.webp)
+{{< img src = "/images/cookingdye1.webp" >}}
 
 Natural dye bath made from tree bark
 
 A monk is encouraged to sew his robes if they become damaged. We have rules that a monk must repair his robe immediately that day to avoid minor penalties. A monk is required to carry a needle and thread if he travels more than 4 miles. If 10 dawns pass, then we need to forfeit our robes to a fellow monk, tell him that we were lazy to fix our robes, confess, and then the monk will give the robes back to us. Because of this tedious process, it can be tiresome to make a robe last for years through repeated repair. When I get a hole in one of my robes, I test the cloth by stretching it lightly, if it tears in a new spot, I usually opt for a new robe from the storeroom or start thinking about making new ones. If the cloth looks like it is in good condition, then I will repair it. Below is a robe that I made last for 4 years as a little experiment. The center section has gone through two generations of patches while the outer sections are the original. Because this was covered by my upper robe, this experiment was not obvious to others. After some time, I gave up. It was just too tiresome to keep repairing while there was an abundance of robes available for donation.
 
-![](/images/robe-patch-1024x576.webp)
+{{< img src = "/images/robe-patch-1024x576.webp" >}}
 
 a robe I made last for roughly four years.
 

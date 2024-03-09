@@ -19,7 +19,7 @@ In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of 
 
 https://www.youtube.com/watch?v=Iq7LED3zIJo
 
-![](/images/seedslongago.webp)
+{{< img src = "/images/seedslongago.webp" >}}
 
 ### The Seeds From Long Ago
 

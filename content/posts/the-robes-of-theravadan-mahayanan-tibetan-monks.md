@@ -24,15 +24,15 @@ How do you know what monk is from what tradition?
 
 In Theravada, the monks wear rectangular robes wrapped around their bodies. The robes have a pattern based on the look of rice paddy fields. The colors vary from burgundy-red, yellow, brown, tan, orange. Basically, anything is allowed except white, black, grey, blue and green. The monks usually have the right shoulder exposed when in the Monastery and both shoulders covered when they are outside in the village. If you search for monks, you will often find Theravada monks. Since they are the oldest form of Buddhism, it often brings a natural association with Buddhism.
 
-- ![](/images/paauk.webp)
+- {{< img src = "/images/paauk.webp" >}}
     
     Ven Pa-Auk Sayadaw
     
-- ![](/images/pa-auk-patimokkha.webp)
+- {{< img src = "/images/pa-auk-patimokkha.webp" >}}
     
     Myanmar Pa-Auk
     
-- ![](/images/robes-full.webp)
+- {{< img src = "/images/robes-full.webp" >}}
     
     Various Colors
     
@@ -41,11 +41,11 @@ Theravada Monks
 
 The Mahayana Monks wear matching grey pants and shirts. Sometimes they have yellow pants and shirts as well. It depends on the country. They also have a ceremonial robe that clips on over their shoulder as well. While the lay people usually only see them during ceremonies, these robes are rarely worn and is usually brown or yellow. The Zen monks usually wear this color or black with various things hanging around their neck.
 
-- ![](/images/buddhism-buddha-temple-wallpaper-preview.webp)
+- {{< img src = "/images/buddhism-buddha-temple-wallpaper-preview.webp" >}}
     
     Mahayana nuns with similar dress  
     
-- ![](/images/Monk_korea.webp)
+- {{< img src = "/images/Monk_korea.webp" >}}
     
     Korean Monk  
     
@@ -54,11 +54,11 @@ Mahayana Tradition
 
 Tibetan monks usually have a burgundy set of robes with a yellow and red vest underneath. The colors might be mixed with yellow or all reddish/burgundy. They sling the outer robe over the shoulder or sometimes rarely both shoulders. You can see them with the vest and nothing else over it, or with the outer robe covering them.
 
-- ![](/images/tibetan-monks.webp)
+- {{< img src = "/images/tibetan-monks.webp" >}}
     
     Tibetan Monks
     
-- ![](/images/Dalailama1_20121014_4639_8089285536-wikipedia-867x1024.webp)
+- {{< img src = "/images/Dalailama1_20121014_4639_8089285536-wikipedia-867x1024.webp" >}}
     
     H.H Dalai Lama
     
@@ -69,4 +69,4 @@ Tibetan Tradition
 
 **Photo credits and attribution:**
 
-[https://commons.wikimedia.org/wiki/File:Dalailama1\_20121014\_4639\_(8089285536).webp](https://commons.wikimedia.org/wiki/File:Dalailama1_20121014_4639_(8089285536).webp) [https://en.wikipedia.org/wiki/File:Monk\_seon.webp](https://en.wikipedia.org/wiki/File:Monk_seon.webp) [https://www.pxfuel.com/](https://www.pxfuel.com/) [https://www.flickr.com/photos/wonderlane/8519479073](https://www.flickr.com/photos/wonderlane/8519479073)
+[https://commons.wikimedia.org/wiki/File:Dalailama1\_20121014\_4639\_(8089285536).webp](https://commons.wikimedia.org/wiki/File:Dalailama1_20121014_4639_(8089285536).webp" >}} [https://en.wikipedia.org/wiki/File:Monk\_seon.webp](https://en.wikipedia.org/wiki/File:Monk_seon.webp" >}} [https://www.pxfuel.com/](https://www.pxfuel.com/) [https://www.flickr.com/photos/wonderlane/8519479073](https://www.flickr.com/photos/wonderlane/8519479073)

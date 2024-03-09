@@ -14,7 +14,7 @@ image: /images/spraygun.webp
 featured_image: /images/spraygun.webp
 ---
 
-![](/images/spraygun.webp)
+{{< img src = "/images/spraygun.webp" >}}
 
 **Only In The West, Only In Asia**  
 

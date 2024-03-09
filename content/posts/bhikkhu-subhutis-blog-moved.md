@@ -19,7 +19,7 @@ featured_image: /images/monkseal-wikipedia.webp
 
 > # Bhikkhu Subhuti’s Blog has moved!
 
-\[caption id="attachment\_1406" align="alignnone" width="593"\][![](/images/monkseal-wikipedia.webp)](https://americanmonk.org/wp-content/uploads/2018/08/monkseal-wikipedia.webp) cc-sa-3.0\[/caption\]
+\[caption id="attachment\_1406" align="alignnone" width="593"\][{{< img src = "/images/monkseal-wikipedia.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/08/monkseal-wikipedia.webp" >}} cc-sa-3.0\[/caption\]
 
 ## The blog at https://Subhuti.withmettanet has moved to https://AmericanMonk.org
 

@@ -17,7 +17,7 @@ image: /images/patimokkhabook.webp
 featured_image: /images/patimokkhabook.webp
 ---
 
-[![](/images/patimokkhabook.webp)](/images/2017/10/patimokkhabook.webp)
+[{{< img src = "/images/patimokkhabook.webp" >}}](/images/2017/10/patimokkhabook.webp" >}}
 
 # I Finally Did It!
 

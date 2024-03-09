@@ -29,15 +29,15 @@ https://youtu.be/cwcKWhANc0I
 
 **Find a Bottle (taller is better):** The bottle I used was tall, but had a more narrow-than-normal cap. Because of this, I needed to saw off the top. This is not necessary with most bottles and I discourage you from doing this. The top needs very little space to let the scented smoke out.
 
-[![mybottle](/images/mybottle.webp)](/images/2016/07/mybottle.webp)
+[![mybottle](/images/mybottle.webp" >}}](/images/2016/07/mybottle.webp" >}}
 
 **Clothes-pin to hold the incense stick:** There are several styles of clothes pins. The one shown here, has a flat base to grip the incense with some surface area, like two fingers. Other clips that bite, like upper and lower teeth, have less surface area and will not hold the stick as well.  Notice in the picture below that there is about an eighth to one quarter of an inch of gripper surface area.
 
-[![insenseclip](/images/insenseclip.webp)](/images/2016/07/insenseclip.webp)
+[![insenseclip](/images/insenseclip.webp" >}}](/images/2016/07/insenseclip.webp" >}}
 
 **Make a breather hole:** You will need an air-hole to help give fresh air for combustion (to keep the incense going). Get something metal and round like a big nail and heat heat it until it gets really hot. You may need to hold the red-hot object with a cloth to prevent burning yourself. Poke a hole in the bottle a few inches from the bottom with the hot nail or whatever you use. I actually used the file that is connected to a nail clipper. About 1/8 of an inch is fine.
 
-[![breatherhole](/images/breatherhole.webp)](/images/2016/07/breatherhole.webp)
+[![breatherhole](/images/breatherhole.webp" >}}](/images/2016/07/breatherhole.webp" >}}
 
 **Get some rocks for ballast:**  Rocks are shown above.  Find some small rocks and fill your bottle with about one inch of them. You could use water, if you wanted too (better fire proofing), but it might spill and make a mess. I used rocks. This stop is actually optional but recommended.
 

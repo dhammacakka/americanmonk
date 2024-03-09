@@ -14,11 +14,11 @@ Today, as I was washing my bowl, I saw a local Myanmar monk with a swastika tatt
 
 Was the monk a racist? No. It is an ancient symbol which often means conducive to well being.\[mfn\]Says wikipedia.\[/mfn\] The Monier Williams Sanskrit English Dictionary says that most scholars attribute it to represent the Sun, yet Cunningham, a famous scholar attributes it to one of the 24 marks of The Buddha which are found on his footprint. In this case, it is often associated with the Dhamma Wheel or the endless cycles of rebirth.
 
-![](/images/FootprintYale-1024x746.webp)
+{{< img src = "/images/FootprintYale-1024x746.webp" >}}
 
 [https://artgallery.yale.edu/collections/objects/112686](https://artgallery.yale.edu/collections/objects/112686)
 
-![](/images/image-1.webp)
+{{< img src = "/images/image-1.webp" >}}
 
 A scholar and friend of mine, Venerable Anandajoti, said:
 
@@ -38,7 +38,7 @@ A scholar and friend of mine, Venerable Anandajoti, said:
 
 It is an ancient symbol and is rooted in Sanskrit as "Svastika" There are right and left facing Svastikas. While I had once heard that the Nazi took the original one and reversed it, that is not true. The Nazi's used the proper right facing Svastika emblem but they rotated it 45 degrees. This is where the confusion comes. It is slightly different, but not reversed. They wanted prosperity too, but went about it in the wrong way. It was actually the Mahayana and Tantric Path that uses the reversed emblem. In short, it is not a racist symbol in Asia and it is still used today. Do not be alarmed and try to reflect on the original meaning. It is an ancient symbol used in all parts of the world before Nazi Germany. It is even seen in the ancient Jewish Kabbalah. You can read more on this topic at: [https://en.wikipedia.org/wiki/Swastika](https://en.wikipedia.org/wiki/Swastika)
 
-![](/images/image.webp)
+{{< img src = "/images/image.webp" >}}
 
 taken from [https://en.wikipedia.org/wiki/Swastika](https://en.wikipedia.org/wiki/Swastika)
 

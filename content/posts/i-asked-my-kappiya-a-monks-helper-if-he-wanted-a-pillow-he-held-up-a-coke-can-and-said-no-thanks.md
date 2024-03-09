@@ -10,6 +10,6 @@ featured_image: /images/ukhinzaw-can.webp
 I asked my Kappiya (a monk's helper) if he wanted a pillow. He held up a Coke can and said, "No thanks."  
 After this picture was taken, he was soundly sleeping!
 
-![](/images/ukhinzaw-can.webp)
+{{< img src = "/images/ukhinzaw-can.webp" >}}
 
 U Khin Zaw with a pillow

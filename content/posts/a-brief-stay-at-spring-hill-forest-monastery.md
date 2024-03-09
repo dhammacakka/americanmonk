@@ -14,53 +14,53 @@ image: /images/meditation-hall.resized-1.webp
 featured_image: /images/meditation-hall.resized-1.webp
 ---
 
-![](/images/meditation-hall.resized-1.webp)
+{{< img src = "/images/meditation-hall.resized-1.webp" >}}
 
 ## The Wootens
 
 One of the few places I have been to in Sri Lanka besides Na-Uyana and [The International Institute of Theravāda](https://americanmonk.org/international-institute-of-theravada/) (IIT) is Spring Hill Forest Monastery located in the Hantanna Mountains above Kandy. My two donors from Kaua'i, John and Nandini Wooten were visiting Kandy and I decided it would be good to take a break from the IIT scenery and climate with a great inspirational place for the Wootens to visit me.
 
-![](/images/wootens.resized-170x300.webp)
+{{< img src = "/images/wootens.resized-170x300.webp" >}}
 
 ## About Spring Hill Monastery
 
 The monastery is located in the misty mountains alongside the tea plantations and it has a very cool climate, which is something that I really needed to escape the heat of IIT. Not only that, there are very few trees at IIT, but this monastery has an abundance of tall trees. While IIT gives a nice panoramic view across the fields, there is no comparison to the lush, misty and temperate forest that surrounds me now.
 
-![](/images/sweep.resized-169x300.webp)
+{{< img src = "/images/sweep.resized-169x300.webp" >}}
 
 The monastery was started by two brothers (of the same family) who are monks (Ven. Santamanasa and Rev. Ariyagavesi) along with their parents. The mother cooked most of the food while the father managed most of the construction. The brothers spend most of their time near Colombo but visit their monastery from time to time. During my visit to Spring Hill then, their whole family was visiting India so I didn't get a chance to say hello. However, I was given a warm reception upon my arrival by the current resident monks. There were six monks when I arrived and one recently left. The monastery is quite full these days, but since I planned well in advance and my desired dates were right after the Buddhist Rainy Season, I was able to get short-term accommodation. Below are some scenes from the monastery landscape.
 
-- ![](/images/anthurium.resized-1.webp)
+- {{< img src = "/images/anthurium.resized-1.webp" >}}
     
-- ![](/images/spring-hill-path.resized-1.webp)
+- {{< img src = "/images/spring-hill-path.resized-1.webp" >}}
     
-- ![](/images/spring-hillwalkway.resized-1.webp)
+- {{< img src = "/images/spring-hillwalkway.resized-1.webp" >}}
     
 
 ## The Discovery
 
 I first found out about this place shortly after my [re-ordination](https://americanmonk.org/why-i-ordained-twice/) in Sri Lanka during a Doctor's visit, probably to see the ear nose and throat doctor who was "friendly" to the monks at that time. When you go for a doctor's visit in the Na-Uyana van, it is often packed with 8-10 monks who have separate and different things to do. Normally we wait in the van while each monk does his task, but there was this one time when it was arranged for us to comfortably wait at Spring Hill Forest Monastery while the other monks did their tasks. The drive up the mountain was so picturesque and the actual monastery was also equally good. I was so impressed with the tall trees and views when I first came that I vowed to come back, and that is what I have done over the years. Every once in a while, when the time was right, I took my clergy bus coupons and went to Sprint Hill Forest Monastery. Below is a picture from maybe 2009 when my brother visited me at this same monastery. There are pictures of the library below too.
 
-![](/images/mehantanna.webp)
+{{< img src = "/images/mehantanna.webp" >}}
 
-- ![](/images/library-inside.resized-1.webp)
+- {{< img src = "/images/library-inside.resized-1.webp" >}}
     
-- ![](/images/library-inside-2floor.resized-1.webp)
+- {{< img src = "/images/library-inside-2floor.resized-1.webp" >}}
     
-- ![](/images/library-outside.resized-1.webp)
+- {{< img src = "/images/library-outside.resized-1.webp" >}}
     
 
 These days I am more senior and Ven Maggavihari was so kind to arrange transport for me. The trip was fast and comfortable. Upon my arrival, I was greeted well and assigned a nice kuti which was a double barrel kuṭi design with two rooms on each side of a mini meditation hall. The other monk, Ven Dhammalankara, is a longtime resident which I have known over the years during the course of my visits. We get along well and we rarely notice each other. Below are interior pictures of my kuti.
 
-- ![](/images/kuti-center-area.resized.webp)
+- {{< img src = "/images/kuti-center-area.resized.webp" >}}
     
     Mini meditation hall
     
-- ![](/images/interior-kuti.webp)
+- {{< img src = "/images/interior-kuti.webp" >}}
     
     view of room
     
-- ![](/images/mistyview-dusk.resized.webp)
+- {{< img src = "/images/mistyview-dusk.resized.webp" >}}
     
     Misty view at dusk
     
@@ -73,16 +73,16 @@ Every monastery has its faults. One of the faults is leeches, and many of them t
 
 The climate is very cold here, especially at night. I tend to stay away from blankets. I learned in the Boy Scouts that thin layers work well for keeping warm and I still use that technique today. I use my folded upper robe, extra lower robe, and folded double robe, and I keep warm quite well if I have a foam mattress. This is also true for Pyin Oo Lwin, Myanmar where the temperature gets down to 12 C at night. Besides the cold temperatures, the climate is also very rainy here. There is not much sunlight that comes in through the mountain and trees, so it gets mossy and damp both inside and outside quite quickly. Never the less, it feels so remote here and I welcome such climate compared to IIT. Below are pictures of some of the exterior kutis.
 
-- ![](/images/another-spring-hill-kuti.resized-1.webp)
+- {{< img src = "/images/another-spring-hill-kuti.resized-1.webp" >}}
     
-- ![](/images/another-spring-hill-kuti2.resized-1.webp)
+- {{< img src = "/images/another-spring-hill-kuti2.resized-1.webp" >}}
     
-- ![](/images/another-spring-hill-kuti3.resized-1.webp)
+- {{< img src = "/images/another-spring-hill-kuti3.resized-1.webp" >}}
     
 
 The meals are well prepared and there is now a stable helper who helps prepare the meals. There were times when the helper was not always available. Below is a picture of the breakfast table.
 
-![](/images/breakfast-1024x576.webp)
+{{< img src = "/images/breakfast-1024x576.webp" >}}
 
 ## Dhamma Talk On The First Day
 

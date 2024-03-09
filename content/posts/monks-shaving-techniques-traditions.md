@@ -24,7 +24,7 @@ When it comes to shaving heads, Theravāda Buddhist Monks might be the authority
 
 For those of you in the layperson world (man or woman) who aspire to become monks but cannot plunge into a monastery just yet, you might want to try cutting your hair very short before shaving it. The first and foremost advice is don't pay anyone to shave or buzz your head. If you are getting your haircut so short that a buzz cut would not be much different, an electric trimmer would cost the same or less than a single visit. In the late 90's I used to do that myself or had another person do it. It is really easy to do. First try it with the attachments, and as your Buddhist Renunciation grows, you can try to get rid of the attachments.\[mfn\]yes that was an intentional pun\[/mfn\]. It is difficult to find the real reason why monks shave their heads, but as you can see for yourself, it is a step towards simplicity in life and one's looks. Below is a picture of a buzz cutter. In my lay person days, I used a $20 corded device. It is good to see that they still sell for the same price. It should be noted that scissors are not allowed for monks. It has been judged by some, that electric razors are indeed modern scissors because they are two blades rubbing against each other.
 
-![](/images/buzz-cutter-1024x605.webp)
+{{< img src = "/images/buzz-cutter-1024x605.webp" >}}
 
 From amazon. Many exist. I do not know the quality of this one.
 
@@ -48,7 +48,7 @@ The vinaya explains that the monk must shave at least every two months or when t
 
 In the Sri Lankan Forest Tradition, the monks are supposed to shave the face and the beard at the same time. This is because of the pāḷi language compound "_kesamassu_" which means HairAndBeard in the same word. (_kesa_ \= hair, _massu_ \= beard). Because the monks are not supposed to care about their appearance, you will see quite a few forest monks with scruffy faces. This is most common in the Sri Lankan Forest Tradition (Galduwa). If one shaves the face only, one can be accused of beautification and caring about one's own appearance.
 
-![](/images/hairbeardmonk.webp)
+{{< img src = "/images/hairbeardmonk.webp" >}}
 
 Venerable Vijitānandābhivaṁsa from IIT
 
@@ -64,7 +64,7 @@ The Thai traditions (which are also found in Laos, Cambodia and part of Sri Lank
 
 Because of the meme of "King's Order" for shaving the eyebrows still exists today especially among the native Thais, plus the two listed Myanmar cultural items above, we can say this story of exposing spies actually existed. Thereafter, it has become a "tradition", even of the "Thai Forest Tradition".
 
-![](/images/aj-jayasaro2-1024x534.webp)
+{{< img src = "/images/aj-jayasaro2-1024x534.webp" >}}
 
 Ajahn Jayasāro. A well known monk in the Thai Forest Tradition. Pulled from YouTube without seeking permission. My respect to this Ajahn who ordained me as an anagārika in 2000 and allowed me to travel to Myanmar without giving up my anagārika robes, bag and stainless steel mixing bowl.
 
@@ -89,11 +89,11 @@ It is common for monks to shave without a mirror. One can justify if it is a hea
 
 The razors that we use vary. In Myanmar, we often use the single double sided blades. They are quite old fashioned and might be a bit odd for you. But that is the most commonly used razor from monks. The razor normally comes with two safety bars that go over the razor's edges to protect one from "accidents". We normally cut one of the safety edges off so that it does not clog when shaving growth that is long. We often refer to it as the dangerous side and the safety side (!) When a new candidate is getting his head shaved, we need to use the dangerous side. Otherwise, the blade will clog up. After the initial ordination shave, he can use the safety side if he doesn't let his hair and beard grow so much.
 
-![](/images/razor1-1024x768.webp)
+{{< img src = "/images/razor1-1024x768.webp" >}}
 
-![](/images/razorapart.webp)
+{{< img src = "/images/razorapart.webp" >}}
 
-![shaving brush](/images/shaving-brush.webp)
+![shaving brush](/images/shaving-brush.webp" >}}
 
 American Kusaladhamma holding his kit in the center picture.
 
@@ -107,7 +107,7 @@ If someone has a well todo donor and you have permission to shave every 3 days, 
 
 For the first 8 years, I used Gillette double blades and later the Mach 3 for my face while using the old single blade kit shown above for my head (using the dangerous side). When I was in the USA in 2009, I asked my mother to pick me up some single blades for my shaving kit. She bought me CVS branded blades that were guaranteed to be just as sharp as the other brands. When I came back to Sri Lanka, I used those CVS blades and could not finish my head because they were so bad. I had to finish with my Gillette and I pretty much never went back. When I was in Hawai'i a donor bought me a Fusion 5 blade which I objected to because of price. However, I must admit, they are much better than the Mach 3. The downside is you need to shave at least every 3 days. Otherwise it clogs up easily.
 
-![](/images/Gillette-razors-1024x576.webp)
+{{< img src = "/images/Gillette-razors-1024x576.webp" >}}
 
 Plastic razor as well as Fusion razor. The top one is used for the face. 2nd one is retired and used for the head. #3 is not used anymore. You can tell by the usage strip which is newer.
 
@@ -117,9 +117,9 @@ For the majority of my first 15 years as a monk, I have used nothing but regular
   
 In Sri Lanka there is a difference between shaving cream and shaving foam. While living at IIT, Sri Lanka there was an abundance of shaving cream readily available in the store room, so I started using it. I must admit, it is a step up from regular soap. However, one day we ran out and I asked for some shaving cream. Apparently, there is a difference between shaving cream and the stuff that comes in a can. Shaving cream must have been the stuff in use during the early 1900's before canned items with compressed air were sold to the general public. In short, I got a "tube" of shaving cream, just as requested. A picture of the brush and shaving cream are below:
 
-![](/images/shaving-cream.webp)
+{{< img src = "/images/shaving-cream.webp" >}}
 
-![shaving brush](/images/shaving-brush.webp)
+![shaving brush](/images/shaving-brush.webp" >}}
 
 shaving brush
 

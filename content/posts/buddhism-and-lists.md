@@ -16,7 +16,7 @@ image: /images/buddha-number2.webp
 featured_image: /images/buddha-number2.webp
 ---
 
-![](/images/buddha-number2-724x1024.webp)
+{{< img src = "/images/buddha-number2-724x1024.webp" >}}
 
 Buddha by Numbers
 
@@ -48,14 +48,14 @@ The list you see above can encompass the whole of the teachings of Buddhism. How
 
 The second noble truth is often referred to as craving or desire (taṇhā) as being the cause of suffering. However, the real origin of the noble truths is referring to paṭiccasamuppāda or Dependent Origination. It is very wrong to say there is only one cause for suffering. Suffering is existing in the rounds of saṃsāra, rebirths. With dependent origination there is a list, as pictured below:
 
-![](/images/mmwheel.webp)
+{{< img src = "/images/mmwheel.webp" >}}
 
-![](/images/wheel-1.webp)
+{{< img src = "/images/wheel-1.webp" >}}
 
   
 Most of you have seen the "Tibetan Wheel" before. While picturesque, you will see the word version of that wheel above. It is often called the Wheel of Saṃsāra because it explains how rebirth occurs. This wheel contains the 6 sense bases (saḷāyatana), 6 contacts (phassa), and the 3 types of feelings (vedanā). Or, since birth or life is considered suffering, it explains how that all happens. I discuss that in more detail in this article below:
 
-![](/images/hand-candle.webp)
+{{< img src = "/images/hand-candle.webp" >}}
 
 ### Buddhism: What Happens After Death?
 
@@ -65,7 +65,7 @@ A long but clear and interesting religious post on what happens after death acco
 
 The Third Noble truth is explaining that there is a way out. This is Nibbāna. While there are many different religions and terms for enlightenment, this is the real enlightenment for the Theravāda Buddhist religion. When one merely knows this truth, just for a moment, he always knows this truth. It is like knowing the Earth is round by going in a spaceship and seeing that just for a moment with your own eyes. Different classes of defilements get permanently destroyed along the way as one progresses to the last of the Four Stages of Enlightenment called Arahant\[mfn\]2nd stage only reduces them.\[/mfn\] When an Arahant dies, there is no more rebirth and the goal has been achieved. There is nothing further, and he dies without remainder or any new creation. He does not exist or live any further than that according to Theravāda teachings. Westerners often have difficulties with that, and I explain this in my article "Does the Buddha Live In Nibbāna?"  
 
-![](/images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590-330x195.webp)
+{{< img src = "/images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590-330x195.webp" >}}
 
 ### Does The Buddha live in Nibbana
 

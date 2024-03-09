@@ -13,7 +13,7 @@ image: /images/prayer-india.webp
 featured_image: /images/prayer-india.webp
 ---
 
-![](/images/prayer-india-1024x718.webp)
+{{< img src = "/images/prayer-india-1024x718.webp" >}}
 
 India 2011
 

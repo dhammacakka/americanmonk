@@ -21,4 +21,4 @@ We will give a Dhammatalk in . on November 28th 6 to 8 pm This will likely be ou
 
 We might return one day temporary or longterm and continue what we have been doing. We get appreciation from the locals all of the time even though most of the people who personally thank us and give their appreciation do not know we are collecting food to eat. It is not uncommon for cars to pull over and say how much they appreciate us and then ask to take a picture. We also get many thank-yous from the houses as well. The happy car beeps and "Hang loose" signs flowing from the windows are so common they are difficult to count on a daily basis. (A better and more complete report will come soon)
 
-We will miss our Happy Spiritual Island. [![Screenshot_2015-11-12-20-31-18](/images/Screenshot_2015-11-12-20-31-18.webp)](/images/2015/11/Screenshot_2015-11-12-20-31-18.webp)
+We will miss our Happy Spiritual Island. [![Screenshot_2015-11-12-20-31-18](/images/Screenshot_2015-11-12-20-31-18.webp" >}}](/images/2015/11/Screenshot_2015-11-12-20-31-18.webp" >}}
