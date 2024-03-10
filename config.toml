@@ -1,9 +1,0 @@
-baseURL = 'https://americanmonk.org/'
-languageCode = 'en-us'
-title = 'American Monk: Life with Buddha, Dhamma, and Saṅgha'
-theme = 'ananke'
-[permalinks]
-  posts = "/:filename/"
-
-[params]
-paginate = 50

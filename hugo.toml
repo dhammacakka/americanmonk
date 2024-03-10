@@ -28,7 +28,7 @@ enableRobotsTXT = true
   filename = 'sitemap.xml'
 
 [params]
-  paginate = 100
+  paginate = 50
   text_color = ""
   author = ""
   favicon = ""
