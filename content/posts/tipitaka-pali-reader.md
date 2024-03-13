@@ -17,24 +17,29 @@ featured_image: /images/TPR-billboard.webp
 
 {{< img src = "/images/TPR-billboard-1024x577.webp" >}}
 
-Tiptkata Pali Reader
+## Tiptkata Pali Reader
+
 
 A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 ## Download:
-[](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms) [(Windows Store)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms)
+[{{< simpleimg src="images/Windows_10_logo.webp" width="50" alt="Windows Store Logo" >}}](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms) [(Windows Store)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms)
 
-[](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
+[{{< simpleimg src="images/200px-MacOS_logo_2017.svg_.webp" width="50" alt="MacOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
 
-[](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) [(Flathub Store)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)
+[{{< simpleimg src="images/flathub-logo-toolbar.svg" width="50" alt="Flathub Store Logo" >}}](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) [(Flathub Store)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)
+
 
 [](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) [TPR-AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)
 
 `sudo apt install libfuse2 libsqlite3-dev`
 
-[](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/s?id=com.paauk.tipitakapalireader)
+[{{< simpleimg src="images/480px-Android-logo.webp" width="50" alt="Google Play Store Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/s?id=com.paauk.tipitakapalireader)
 
-[(Apple Store)](https://apps.apple.com/us)
+
+[{{< simpleimg src="images/App_Store_iOS_11_Custom_size.webp" width="50" alt="iOS Store Logo" >}}](https://apps.apple.com/us) [(iOS Store)](https://apps.apple.com/us)
+
+
 
 ## What is new?
 

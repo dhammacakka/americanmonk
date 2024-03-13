@@ -1,0 +1,12 @@
+{{/* simpleimg.html */}}
+{{ $src := .Get "src" }}
+{{ $width := .Get "width" | default "100" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $style := printf "width: %spx" $width }} <!-- Create an inline style for width -->
+{{ $image := resources.Get $src }} <!-- Get the image resource -->
+{{ if $image }}
+  <img src="{{ $image.Permalink }}" alt="{{ $alt }}" style="{{ $style }}" />
+{{ else }}
+  <p>Image not found: {{ $src }}</p>
+{{ end }}
+
