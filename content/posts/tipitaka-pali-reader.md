@@ -23,7 +23,7 @@ featured_image: /images/TPR-billboard.webp
 A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 ## Download:
-[{{< simpleimg src="images/Windows_10_logo.webp" width="50" alt="Windows Store Logo" >}}](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms) [(Windows Store)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms)
+[{{< resizeimg src="/images/Windows_10_logo.webp" width="50" >}}](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms) [(Windows Store)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms)
 
 [{{< simpleimg src="images/200px-MacOS_logo_2017.svg_.webp" width="50" alt="MacOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
 
