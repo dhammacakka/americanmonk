@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <!-- Inside <head> section -->
   <link rel="canonical" href="{{ .Permalink }}" />
+  {{ partial "og-image.html" . }}
 
   {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
   <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>

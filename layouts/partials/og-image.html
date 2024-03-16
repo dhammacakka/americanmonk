@@ -1,0 +1,11 @@
+{{/* Define the default site-wide image */}}
+{{ $defaultImage := "path/to/your/default/site-image.jpg" }} <!-- Adjust path as needed -->
+
+{{/* Attempt to fetch the featured image from the page's front matter */}}
+{{ $featuredImage := .Params.featured_image | default $defaultImage }}
+
+{{/* Resolve the image path to an absolute URL */}}
+{{ $ogImage := cond (hasPrefix "http" $featuredImage) $featuredImage (printf "%s%s" $.Site.BaseURL $featuredImage) }}
+
+{{/* Output the OG image meta tag */}}
+<meta property="og:image" content="{{ $ogImage }}" />
