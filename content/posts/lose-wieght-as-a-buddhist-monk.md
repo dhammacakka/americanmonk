@@ -25,7 +25,9 @@ description: "I recently lost about 10 Kg which is over 20 pounds.  I'd like to 
 
 
 ## Introduction
-I recently lost about 10 Kg which is over 20 pounds.  I'd like to share with you how I gained weight and how I also lost it.  It is common for senior monks to gain weight, perhaps due in part to aging, as seniority implies being older. Even though we don't eat after Solar Noon, gaining weight still can happen.  However, if we really want to, we can all easily lose weight...*"if we want to"*.
+I recently lost about 10 Kg which is over 20 pounds.  I'd like to share with you how I gained weight and how I also lost it.  It is common for senior monks to gain weight, perhaps due in part to aging, as seniority implies being older. Even though we don't eat after Solar Noon, gaining weight still can happen.  However, if we really want to, we can all easily lose weight...*"if we want to"*.  A 36 minute video version of this post is found at this link below.  It is different from this written post, and you migth like to read and watch both.
+
+ {{< youtube MCKvog08RCc>}} 
 
 ## No Mountains to Climb
 My weight has been fairly stable for the past 23 years at about 74 Kg.  It would fluctuate maybe +- 3 or 4 Kg but it started to creep up to 75 or 76 Kg.  However, when I moved to {{< url-out "international-institute-of-theravada" "The International Institute of Theravada" >}} (IIT), in Sri Lanka, things started to change.  At Pa-Auk and Na-Uyana we had literal mountains to climb each day, several times per day to get to the meditation hall.  However, at IIT, we don't have any mountains in this rice-paddy-area.  
