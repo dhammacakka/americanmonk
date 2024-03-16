@@ -104,7 +104,7 @@ We have many rules regarding food and not eating.  For instance we are not allow
 - Once the food is renounced (I'm finished eating), I don't eat that food again.
 - The food needs to be given to me by lay people or novice monks and is a difficult task outside of mealtimes and before Solar Noon.   
 
-WWhile these rules and benefits can help one lose weight or maintain an ideal weight, it's notable that I managed to gain some weight regardless. However, these rules can be useful in managing weight.
+While these rules and benefits can help one lose weight or maintain an ideal weight, it's notable that I managed to gain some weight regardless. However, these rules can be useful in managing weight.
 
 ## Using Dhamma: Impermanence of Eating
 No matter how great something can taste.  You cannot stay in that state of enjoyment for any great length of time.  So what is the point of eating something fattening and great tasting for 5 minutes over 1 minute?  There is really not much of a difference.  But it is not just one or five minutes.  Each individual taste only lasts for a split second.  Eating is a stream of individual drops hitting the tongue's taste buds.  It is just like drinking that last bit of drink through a straw that makes that slurp noise which does not amount to anything.  Try to reflect on this and things get easier.  In fact, when you think of it that way, it is easier to do without completely.
