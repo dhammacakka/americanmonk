@@ -4,3 +4,14 @@
     background-color: #430909;
     /* Replace with your chosen maroon hex code */
 }
+
+figure {
+    margin: 0;
+}
+
+.standard-image-size img {
+    width: 100%;
+    /* or any specific width you want */
+    height: auto;
+    margin: 0;
+}
