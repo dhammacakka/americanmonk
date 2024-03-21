@@ -21,7 +21,7 @@ description: "I recently lost about 10 Kg which is over 20 pounds.  I'd like to 
 
 {{< img src = "/images/fat-thin-me.webp" >}}
 
-(Left: May, 2023,  Right: Feb, 2024)
+{{< image-with-caption src="/images/fat-thin-me.webp" alt="fat and thin" caption="Left: May, 2023,  Right: Feb, 2024." >}}
 
 
 ## Introduction
@@ -95,6 +95,8 @@ I have lost weight slowly and steadily for almost a year now.  We all know that 
 The first thing I did was tell the monk who makes the tray of extra food to limit what is given to me.  Over the course of almost a year, I have gradually dropped things I don't need such as afternoon juice, and plain tea (with sugar), for lunch and breakfast.  If there is yogurt, I ask for just a few spoons and without syrup. I still eat snacks everyday, like cakes and biscuits but smaller amounts.
 
 Of course there is a reduction in the normal food I eat at breakfast and lunch. Breakfast is just a smoothie and a small snack to raise my blood sugar in the morning. I’ve recently brought back milk tea, which I should probably give up again. However, it is there and not doing much harm. As for tray food, I can make the determination that once I put a dish down, and put the cover over it, then I won’t take it again. In this way, I can take a few bites of this or that on the tray in front of me without taking too much. The easy part as a monk is not having food around us outside of our meal times.
+
+Our daily chants have content on how we should use the four requisites.  Below is the one that deals with food.  Here it is below:
 
 > Wisely reflecting, I use alms-food not for fun, not for pleasure, not for fattening, not for beautification, only for the maintenance and nourishment of this body, for keeping it healthy, for helping with the Holy Life; thinking thus, I will allay hunger without overeating, so that I may continue to live blamelessly and at ease.
 
