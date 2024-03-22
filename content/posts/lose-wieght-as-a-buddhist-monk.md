@@ -19,7 +19,6 @@ featured_image: /images/fat-thin-me.webp
 description: "I recently lost about 10 Kg which is over 20 pounds.  I'd like to share with you how I gained weight and how I also lost it. "
 ---
 
-{{< img src = "/images/fat-thin-me.webp" >}}
 
 {{< image-with-caption src="/images/fat-thin-me.webp" alt="fat and thin" caption="Left: May, 2023,  Right: Feb, 2024." >}}
 
