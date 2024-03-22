@@ -8,6 +8,10 @@ featured_image = '/images/cropped-IMG_20190403_182709.webp'
 +++
 
 
+## contact 
+> My email is bksubhuti using gmail
+
+## about
 Originally a contract computer programmer by trade, Bhante Subhūti is an American Buddhist Monk with roots in the Sri Lanka and Myanmar Forest Traditions. He was ordained in 2001 under The Most Venerable Pa-Auk Sayadawgyi as his preceptor, a monk who is known for his strict practice of meditation and following the full list of monks’ rules which is very rare in the world today.
 {{< img src = "/images/cropped-IMG_20190403_182709.webp" >}}
 

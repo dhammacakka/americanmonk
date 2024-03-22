@@ -6,6 +6,20 @@ publishDir = 'docs'
 [[params.ananke_socials]]
 name = 'twitter'
 url = 'https://twitter.com/GoHugoIO'
+
+[[params.ananke_socials]]
+name = 'facebook'
+url = 'https://facebook.com/bhante.subhuti.1'
+
+[[params.ananke_socials]]
+name = 'github'
+url = 'https://github.com/bksubhuti/'
+
+[[params.ananke_socials]]
+name = 'youtube'
+url = 'https://www.youtube.com/@BhanteSubhuti'
+
+
 googleAnalytics = "G-ES5VJRZTGT"
 environment = "production"
 
@@ -39,7 +53,6 @@ enableRobotsTXT = true
   background_color_class = 'bg-maroon'
   recent_posts_number = 40
 
-[[params.ananke_socials]]
 [[menu.main]]
     identifier = "home"
     name = "Home"
