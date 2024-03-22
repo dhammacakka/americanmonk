@@ -19,7 +19,7 @@ featured_image: /images/monkseal-wikipedia.webp
 
 > # Bhikkhu Subhuti’s Blog has moved!
 
-\[caption id="attachment\_1406" align="alignnone" width="593"\][{{< img src = "/images/monkseal-wikipedia.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/08/monkseal-wikipedia.webp" >}} cc-sa-3.0\[/caption\]
+{{<image-with-caption src="/images/monkseal-wikipedia.webp" caption="monk seal from wikipedia">}}
 
 ## The blog at https://Subhuti.withmettanet has moved to https://AmericanMonk.org
 
@@ -29,7 +29,7 @@ featured_image: /images/monkseal-wikipedia.webp
 
 ## Why change The Domain Address?
 
-The reason why I changed the name of the domain was to streamline my verbal website announcements to let them known how to find the monk in Kauai. Usually a conversation will start up with some new person in Kauai and then I say, “Hey, you can check out my blog at subhuti.withmetta.net .” I was in the Buddhist world when I picked that name and never realized it until now.  When I spit out such a long name like that, the typical American will give me a confused look because they won’t know how to spell or remember the Pāḷi Language words. To solve this problem, AmericanMonk.org was available. I chose the .org over .net because that seems to be the proper way to do things even though there are many new Top Level Domains available. There are .blog and even .guru choices for one’s website name. While I am not an organization, I sort of fit into the noncommercial realm.
+The reason why I changed the name of the domain was to streamline my verbal website announcements to let them known how to find the monk in Kauai. Usually a conversation will start up with some new person in Kauai and then I say, “Hey, you can check out my blog at americanmonk.org .” I was in the Buddhist world when I picked that name and never realized it until now.  When I spit out such a long name like that, the typical American will give me a confused look because they won’t know how to spell or remember the Pāḷi Language words. To solve this problem, AmericanMonk.org was available. I chose the .org over .net because that seems to be the proper way to do things even though there are many new Top Level Domains available. There are .blog and even .guru choices for one’s website name. While I am not an organization, I sort of fit into the noncommercial realm.
 
 While I am the only Theravāda Buddhist Kauai Monk, kauaimonk.org is too specific. I also recognize that am not the only American Monk in the world.  However, that name describes me, it was available, and so I grabbed it. There are other reasons too, but being accessible is the main reason. Now if you forget my specific web address, you can just ask Google about the “American monk in Kauai.” If you do, **AmericanMonk.org** will show up.
 

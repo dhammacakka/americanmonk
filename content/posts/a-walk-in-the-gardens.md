@@ -35,8 +35,11 @@ Currently, I am still at the Garden.  it is a beautiful and some pictures are b
 
 [{{< img src = "/images/IMG_20180606_190345-1024x576.webp" >}}](/images/2018/06/IMG_20180606_190345.webp" >}}
 
-\[caption id="attachment\_1318" align="alignnone" width="708"\][{{< img src = "/images/IMG_20180531_163228-768x1024.webp" >}}](/images/2018/06/IMG_20180531_163228.webp" >}} Garden Meditation Place\[/caption\]
 
-\[caption id="attachment\_1316" align="alignnone" width="708"\][{{< img src = "/images/IMG_20180606_190629-1024x768.webp" >}}](/images/2018/06/IMG_20180606_190629.webp" >}} Garden View\[/caption\]
+{{<image-with-caption src="/images/IMG_20180531_163228-768x1024.webp" caption="Garden Meditation Place.">}}
 
-\[caption id="attachment\_1319" align="alignnone" width="708"\][{{< img src = "/images/IMG_20180605_075327-1024x768.webp" >}}](/images/2018/06/IMG_20180605_075327.webp" >}} Rainbow\[/caption\]
+
+{{<image-with-caption src="/images/IMG_20180606_190629-1024x768.webp" caption="Garden View.">}}
+
+
+{{<image-with-caption src="/images/IMG_20180605_075327-1024x768.webp" caption="Rainbow">}}

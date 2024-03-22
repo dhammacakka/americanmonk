@@ -10,7 +10,7 @@ image: /images/cpanelstats2020.webp
 featured_image: /images/cpanelstats2020.webp
 ---
 
-This past year has been very fruitful for AmericanMonk.org. In this post, we will discuss the 2020 page view stats. Originally, the name of the website was subhuti.withmetta.net but can you remember that website url? Trying to think of an easy meaningful and descriptive name for Westerners to remember was not easy, but AmericanMonk.org was available and I took it.
+This past year has been very fruitful for AmericanMonk.org. In this post, we will discuss the 2020 page view stats. Originally, the name of the website was americanmonk.org but can you remember that website url? Trying to think of an easy meaningful and descriptive name for Westerners to remember was not easy, but AmericanMonk.org was available and I took it.
 
 So how did things go in the year 2020? Below is a chart of the years up to today.
 

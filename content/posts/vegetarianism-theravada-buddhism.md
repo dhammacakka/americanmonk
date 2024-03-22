@@ -156,4 +156,4 @@ Well, as Porky Pig said, “That’s all folks!”
 
 May all beings be happy and free from getting killed!
 
-**If you liked what you read, you might want to [subscribe](https://subhuti.withmetta.net/subscribe/) to get this delivered to your email address.  Click [here](https://subhuti.withmetta.net/subscribe/).**
+**If you liked what you read, you might want to [subscribe](https://americanmonk.org/subscribe/) to get this delivered to your email address.  Click [here](https://americanmonk.org/subscribe/).**

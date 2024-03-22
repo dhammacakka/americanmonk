@@ -20,7 +20,7 @@ featured_image: /images/meinbagan.webp
 
 [{{< img src = "/images/meinbagan.webp" >}}](/images/2017/01/meinbagan.webp" >}}
 
-To receive this by email, sign up at [https://subhuti.withmetta.net/subscribe/](https://subhuti.withmetta.net/subscribe/)
+To receive this by email, sign up at [https://americanmonk.org/subscribe/](https://americanmonk.org/subscribe/)
 
 Last year, this picture (without the writing) went viral. The viral post seems to makes its rounds from time to time and every so often, someone tells me they saw my picture. It started when I was in Bagan for an 8 day trip with my friend Ashin Pannyagavesaka. We did a slow and thorough excursion and walked a good chunk of Bagan when rides were not provided. We were happy. I liked to roam about and my Bhante friend liked to take pictures.. often many candid pictures were taken of me too. We hit just about every major and medium sized pagoda. As we would enter each pagoda, a routine would settle in. I would walk in the compound and the vendors would try to get me to buy something. I learned the phrase, “Paisan ma khainboo” which means “I don’t deal with money (because it is bad).” I would say that and the vendors would respectfully stop their sales pitches to me, often with hands in prayer position (anjali). Going ahead of my friend, and into the pagodas, my friend would be asked many questions about me by the vendors. “Who is he, what country, how many years as a monk?”
 

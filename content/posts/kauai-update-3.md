@@ -63,6 +63,8 @@ In October, my brother arranged for me to meet his new husband and my parents. Â
 
 \[caption id="attachment\_1627" align="alignnone" width="300"\][{{< img src = "/images/viewpuupoa-300x300.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/11/viewpuupoa.webp" >}} View from condo balcony\[/caption\]
 
+{{<image-with-caption src="/images/viewpuupoa.webp" caption="View from condo balcony.">}}
+
 \[caption id="attachment\_1625" align="alignnone" width="300"\][{{< img src = "/images/puupoacomplex-300x169.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/11/puupoacomplex.webp" >}} Pu'u Poa\[/caption\]
 
 \[caption id="attachment\_1626" align="alignnone" width="300"\][{{< img src = "/images/puupoafam-300x225.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/11/puupoafam.webp" >}} Family at balcony of Pu'u Poa\[/caption\]

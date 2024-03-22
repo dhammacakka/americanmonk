@@ -39,4 +39,4 @@ You will want to focus on the breath in the same way, using the tactile data tha
 
 So even when you get to the point where you see shape and color, you still want to know it only as breath. If it is a nimitta and the touch of the breath is unified with the image of the breath, existing in the same place where it is felt, and it is consistent, the breath should be easy for you to know. Remember, do not pay attention to shape and color at this stage. Only pay attention to it as “breath.”
 
-For information on the light, please see [https://subhuti.withmetta.net/2018/05/25/when-to-look-at-the-light/](https://subhuti.withmetta.net/2018/05/25/when-to-look-at-the-light/)
+For information on the light, please see [https://americanmonk.org/2018/05/25/when-to-look-at-the-light/](https://americanmonk.org/2018/05/25/when-to-look-at-the-light/)

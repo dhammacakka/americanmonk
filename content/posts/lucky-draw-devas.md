@@ -17,7 +17,7 @@ image: /images/lucky-draw-odds.webp
 featured_image: /images/lucky-draw-odds.webp
 ---
 
-\[caption id="attachment\_902" align="alignnone" width="948"\][![lucky draw calc](/images/lucky-draw-odds.webp" >}}](/images/2016/09/lucky-draw-odds.webp" >}} Calculation of odds.\[/caption\]
+{{<image-with-caption src="/images/lucky-draw-odds.webp" caption="Calculation of odds.">}}
 
  
 

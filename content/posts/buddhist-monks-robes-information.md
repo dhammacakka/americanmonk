@@ -16,7 +16,7 @@ image: /images/robepattern.webp
 featured_image: /images/robepattern.webp
 ---
 
-\[caption id="attachment\_1367" align="alignnone" width="708"\][{{< img src = "/images/robepattern-998x1024.webp" >}}](/images/2018/08/robepattern.webp" >}} Sewing pattern from BMC 1 (creative-commons, Thanissaro Bhikkhu)\[/caption\]
+{{<image-with-caption src="/images/robepattern.webp" caption="Sewing pattern from BMC 1 (creative-commons, Thanissaro Bhikkhu)">}}
 
 # Robe Information
 

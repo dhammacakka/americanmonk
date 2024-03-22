@@ -31,7 +31,7 @@ In Pāḷi this is: **_Na hi verena verāni sammantīdha kudācanaṃ_** **_Ave
 
 **In short**, do not fight hate with hate, only fight with love.
 
-I have said this with my actions of [inviting Muslims to Pa-Auk](https://subhuti.withmetta.net/2015/11/17/some-wish-for-peace/) to serve rice for my Jewish parents in 2014. I have said this in my [open letter to Ma Ba Tha](https://subhuti.withmetta.net/2016/06/08/open-letter-ma-ba-tha/). I hope that the Sri Lankans can relate this to their past troubles with the Tamil People. I hope that the Myanmar people can relate this to their current troubles with the Muslims. I hope the West can relate this to ISIS. And I hope that ISIS can relate this to the West.
+I have said this with my actions of [inviting Muslims to Pa-Auk](https://americanmonk.org/2015/11/17/some-wish-for-peace/) to serve rice for my Jewish parents in 2014. I have said this in my [open letter to Ma Ba Tha](https://americanmonk.org/2016/06/08/open-letter-ma-ba-tha/). I hope that the Sri Lankans can relate this to their past troubles with the Tamil People. I hope that the Myanmar people can relate this to their current troubles with the Muslims. I hope the West can relate this to ISIS. And I hope that ISIS can relate this to the West.
 
 One quote from “The Grateful Dead”…(Uncle John's Band)\*
 
