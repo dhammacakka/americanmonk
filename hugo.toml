@@ -73,3 +73,8 @@ enableRobotsTXT = true
     identifier = "Subscribe"
     url = "/subscribe/"
     weight = 4
+[[menu.main]]
+    name = "Search"
+    identifier = "Search"
+    url = "/search/"
+    weight = 5
