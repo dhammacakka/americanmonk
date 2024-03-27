@@ -10,7 +10,7 @@ image: /images/meAtItbmu.webp
 featured_image: /images/meAtItbmu.webp
 ---
 
-[{{< img src = "/images/meAtItbmu-768x1024.webp" >}}](/images/2018/02/meAtItbmu.webp" >}}
+{{< img src = "/images/meAtItbmu.webp" >}}
 
 It seems like that time has come up again. Time surely does happen and so does my anniversary. Now it is 17 years! As usual, for the disclaimer, I am only 11 Vassa in official years. But Wow! Now it is finally starting to seem like a long time!
 

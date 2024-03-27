@@ -18,7 +18,7 @@ image: /images/Jeremy-Glick.webp
 featured_image: /images/Jeremy-Glick.webp
 ---
 
-[![Jeremy Glick (picture)](/images/Jeremy-Glick.webp" >}}](/images/2018/07/Jeremy-Glick.webp" >}}September 11th and Jeremy Glick
+{{<image-with-caption src="/images/Jeremy-Glick.webp" caption="September 11th and Jeremy Glick">}}
 
 I have a personal story I want to tell you about Jeremy Glick and September 11, 2001.  The short story is that my name is Jeremy Glick and I was a computer programmer.  However, I had left my regular world in 1999 and people who have lost track of me remembered me when 9/11 happened.  About seven months after I ordained as a Buddhist Monk in 2001, the famous 9/11 or September 11th event happened. During that time, I was living in Myanmar which was one of the 6 countries that were embargoed. Myanmar was specifically embargoed for Human Rights Violations and they were one or two slots above North Korea for human rights. There were full on malaria warnings (by the locals) and I had just given up a career in the computer field that used to pay me loads of cash to do a job I loved with passion.
 

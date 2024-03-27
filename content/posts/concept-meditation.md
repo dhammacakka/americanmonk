@@ -15,7 +15,7 @@ image: /images/concept.webp
 featured_image: /images/concept.webp
 ---
 
-[{{< img src = "/images/concept-1024x683.webp" >}}](/images/2018/06/concept.webp" >}}
+{{< img src = "/images/concept.webp" >}}
 
 # The Concept in Breath Meditation
 

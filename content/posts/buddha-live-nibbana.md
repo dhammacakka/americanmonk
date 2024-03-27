@@ -13,7 +13,8 @@ image: /images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-C
 featured_image: /images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp
 ---
 
-[{{< img src = "/images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590-768x1024.webp" >}}](/images/2017/09/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp" >}}
+{{< img src = "/images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp" >}}
+
 
 The Buddha in the clouds
 
