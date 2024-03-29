@@ -15,7 +15,7 @@ image: /images/no-facebook.webp
 featured_image: /images/no-facebook.webp
 ---
 
-[{{< img src = "/images/no-facebook.webp" >}}](/images/2018/01/no-facebook.webp" >}}
+{{< img src = "/images/no-facebook.webp" >}}
 
 # Inspire Means To Leave Facebook
 

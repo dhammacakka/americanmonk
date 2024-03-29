@@ -15,7 +15,7 @@ image: /images/couple.webp
 featured_image: /images/couple.webp
 ---
 
-[{{< img src = "/images/couple.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/09/couple.webp" >}}
+{{< img src = "/images/couple.webp" >}}
 
 NOTE: This is a very brief version of the 25 page PDF on the subject. The free 25 page pdf download on the third precept is here.  [Theravada Buddhism and Sex (extended)](assets/Theravada-Buddhism-and-Sex-extended.pdf)
 

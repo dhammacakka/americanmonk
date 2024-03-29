@@ -16,7 +16,7 @@ image: /images/cross-argue.webp
 featured_image: /images/cross-argue.webp
 ---
 
-[{{< img src = "/images/cross-argue-300x200.webp" >}}](https://americanmonk.org/wp-content/uploads/cross-argue.webp" >}}
+{{< img src = "/images/cross-argue-300x200.webp" >}}
 
 Every so often on my alms rounds, or here and there, I encounter Christians who approach me.  Usually within the first sentence, they announce themselves as Christians to me as if they were holding a cross near to my face.  However, I listen to their questions and give them answers.   Many times they are trying to convince me my path is wrong and since it is a predictable pattern for them, I can anticipate what they will say, and put logic into their own path.  It took a while, but I'm getting better at speaking with them because I get a lot of practice as a stand out from the rest of the crowd.  If they know the Bible and they are true to their religion, we can have an intelligent religious debate.  Last week I was approached in this way at Ha'ena State Park by a Christian couple.  The husband was very nice.
 

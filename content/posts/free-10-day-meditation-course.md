@@ -14,7 +14,7 @@ image: /images/goenka.webp
 featured_image: /images/goenka.webp
 ---
 
-[{{< img src = "/images/vipassana-site.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/11/vipassana-site.webp" >}}
+{{< img src = "/images/vipassana-site.webp" >}}
 
 I often recommend a free 10-day vipassana meditation course found at [https://dhamma.org](https://dhamma.org) .  Is it possible that there would be a 10-day meditation retreat that gives you food and lodging for free?  Not only that, but would they refuse to accept money prior to taking such a 10-day meditation course?  Is that possible?  Of course it is possible!  You see, they refuse to accept payments before you attend the course but allow you to donate for the next group after you finish.  _You may donate any amount or nothing at all_ and still come back for another visit next time.  In this way, you are attending the course supported from the gifts of others, and you are helping the next group of students.  You never pay for yourself and that is what is so beautiful about this system.  S.N Goenka says that when someone pays for you, you only have gratitude.  This is why you never pay for yourself.
 
@@ -32,4 +32,4 @@ There are courses all over the world.  A course is scheduled for **Hawaii on M
 
 Many thanks to the late creator of the courses, S.N. Goenka.  I do not think it is 100% perfect, but it is a good place for most people to start their learning of the Dhamma.
 
-[{{< img src = "/images/goenka-300x232.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/11/goenka.webp" >}}
+{{< img src = "/images/goenka-300x232.webp" >}}

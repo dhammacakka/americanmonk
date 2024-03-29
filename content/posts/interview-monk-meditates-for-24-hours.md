@@ -20,7 +20,7 @@ image: /images/theravada-monk-free-pic.webp
 featured_image: /images/theravada-monk-free-pic.webp
 ---
 
-[{{< img src = "/images/theravada-monk-free-pic.webp" >}}](https://americanmonk.org/wp-content/uploads/theravada-monk-free-pic.webp" >}} Downloaded from https://www.needpix.com
+{{< img src = "/images/theravada-monk-free-pic.webp" >}} Downloaded from https://www.needpix.com
 
 # Interview 1 of 2
 
@@ -398,9 +398,9 @@ So..Like er...I just accepted Venerable’s invitation as if it would help … e
 
 sādhu sādhu sādhu!
 
-[{{< img src = "/images/cushion2-300x225.webp" >}}](https://americanmonk.org/wp-content/uploads/cushion2.webp" >}} Similar type of pillow he used. Firm rubber foam.
+{{< img src = "/images/cushion2-300x225.webp" >}} Similar type of pillow he used. Firm rubber foam.
 
-[{{< img src = "/images/cushion1-300x225.webp" >}}](https://americanmonk.org/wp-content/uploads/cushion1.webp" >}}
+{{< img src = "/images/cushion1-300x225.webp" >}}
 
 Above are meditation pillows used at the same meditation center.  Firm rubber foam with an angle is preferred.  Monks are not allowed to sit on kapok or cotton which is most commonly used for meditation pillows.  Buckwheat pillows are also at this center.  Laypeople may sit on anything they wish and are not held accountable for the special monks' rules or higher training (_adhisīla_).
 

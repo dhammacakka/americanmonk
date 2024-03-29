@@ -18,7 +18,7 @@ image: /images/meinbagan.webp
 featured_image: /images/meinbagan.webp
 ---
 
-[{{< img src = "/images/meinbagan.webp" >}}](/images/2017/01/meinbagan.webp" >}}
+{{< img src = "/images/meinbagan.webp" >}}
 
 To receive this by email, sign up at [https://americanmonk.org/subscribe/](https://americanmonk.org/subscribe/)
 

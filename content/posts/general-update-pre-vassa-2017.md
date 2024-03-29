@@ -14,7 +14,7 @@ image: /images/smallpackofNovices.webp
 featured_image: /images/smallpackofNovices.webp
 ---
 
-[{{< img src = "/images/smallpackofNovices.webp" >}}](/images/2017/06/smallpackofNovices.webp" >}}
+{{< img src = "/images/smallpackofNovices.webp" >}}
 
 **Update Aug 5:**  I am back at Varansi Monastery , Mingaladone as pictured.
 

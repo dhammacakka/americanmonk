@@ -14,7 +14,7 @@ image: /images/Going-for-broke-cover.webp
 featured_image: /images/Going-for-broke-cover.webp
 ---
 
-[{{< img src = "/images/Going-for-broke-cover-198x300.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/10/Going-for-broke-cover.webp" >}}
+{{< img src = "/images/Going-for-broke-cover-198x300.webp" >}}
 
 **Downloads:**
 

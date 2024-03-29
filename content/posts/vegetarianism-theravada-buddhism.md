@@ -19,7 +19,7 @@ image: /images/nomeatbuddha.webp
 featured_image: /images/nomeatbuddha.webp
 ---
 
-[{{< img src = "/images/nomeatbuddha.webp" >}}](/images/2018/01/nomeatbuddha.webp" >}}
+{{< img src = "/images/nomeatbuddha.webp" >}}
 
 # **Vegetarianism and Theravada Buddhism**
 

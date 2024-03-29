@@ -16,12 +16,12 @@ image: /images/acapellainertia-story.webp
 featured_image: /images/acapellainertia-story.webp
 ---
 
-# [{{< img src = "/images/acapellainertia-story-768x1024.webp" >}}](/images/2018/02/acapellainertia-story.webp" >}}
 
 # A Tale of Love and Samādhi Explained:
 
 # A’capella Inertia
 
+{{< img src = "/images/acapellainertia-story.webp" >}}
  
 
 A little Valentines story for all of you. The topside title is just a description of what the story is generally about. However, the real title of the story is called, “A’capella Inertia.” This is not a short one, but I think you will like this one very much. It has received high marks and it will take about 30 minutes to read. Those who have successfully subscribed to the blog should already have this formatted story in their email inbox for offline reading. Written in my verbose yet lucid story telling style with a few usual side tracks in between, it tells the story of the first time I fell in love while the end of the story explains why I have decided to write it down as a monk for the general public. In short, there are similar meditation experiences that one can have like the one mentioned in this story. However, this particular “meditative” experience does not happen often no matter how hard you try. You just sort of “fall” into it. Meditation is recommended instead because it is more reliable, sustainable, repeatable, and perhaps, easier to live with. So, here is the story.

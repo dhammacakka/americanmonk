@@ -13,7 +13,7 @@ image: /images/theravada.webp
 featured_image: /images/theravada.webp
 ---
 
-# [{{< img src = "/images/theravada-300x151.webp" >}}](https://americanmonk.org/wp-content/uploads/2018/10/theravada.webp" >}}
+# {{< img src = "/images/theravada-300x151.webp" >}}
 
 # How to Pronounce Theravāda
 

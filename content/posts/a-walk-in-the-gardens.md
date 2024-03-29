@@ -33,7 +33,7 @@ Currently, I am still at the Garden.  it is a beautiful and some pictures are b
 
  
 
-[{{< img src = "/images/IMG_20180606_190345-1024x576.webp" >}}](/images/2018/06/IMG_20180606_190345.webp" >}}
+{{< img src = "/images/IMG_20180606_190345.webp" >}}
 
 
 {{<image-with-caption src="/images/IMG_20180531_163228-768x1024.webp" caption="Garden Meditation Place.">}}
@@ -42,4 +42,5 @@ Currently, I am still at the Garden.  it is a beautiful and some pictures are b
 {{<image-with-caption src="/images/IMG_20180606_190629-1024x768.webp" caption="Garden View.">}}
 
 
-{{<image-with-caption src="/images/IMG_20180605_075327-1024x768.webp" caption="Rainbow">}}
+{{<img src="/images/IMG_20180605_075327.webp">}}
+Rainbow

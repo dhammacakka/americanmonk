@@ -18,7 +18,7 @@ image: /images/bowl-sink.webp
 featured_image: /images/bowl-sink.webp
 ---
 
-[{{< img src = "/images/bowl-sink.webp" >}}](/images/2017/09/bowl-sink.webp" >}}
+{{< img src = "/images/bowl-sink.webp" >}}
 
 **When should you give to Saṅgha?**
 

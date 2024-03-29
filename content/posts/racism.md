@@ -15,7 +15,7 @@ image: /images/We_want_white_tenants.webp
 featured_image: /images/We_want_white_tenants.webp
 ---
 
-[{{< img src = "/images/We_want_white_tenants.webp" >}}](/images/2017/09/We_want_white_tenants.webp" >}}
+{{< img src = "/images/We_want_white_tenants.webp" >}}
 
 # Racism in Asia, Myanmar and Monasteries
 

@@ -10,7 +10,7 @@ image: /images/acapellainertia-mp3.webp
 featured_image: /images/acapellainertia-mp3.webp
 ---
 
-# [{{< img src = "/images/acapellainertia-mp3-724x1024.webp" >}}](/images/2018/02/acapellainertia-mp3.webp" >}}
+# {{< img src = "/images/acapellainertia-mp3.webp" >}}
 
 # A’capella Inertia
 

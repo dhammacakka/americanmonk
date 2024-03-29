@@ -13,7 +13,7 @@ image: /images/emabassy-Myanmar.webp
 featured_image: /images/emabassy-Myanmar.webp
 ---
 
-[{{< img src = "/images/emabassy-Myanmar.webp" >}}](/images/2018/05/emabassy-Myanmar.webp" >}}
+{{< img src = "/images/emabassy-Myanmar.webp" >}}
 
 ## New Update and Summary:
 
