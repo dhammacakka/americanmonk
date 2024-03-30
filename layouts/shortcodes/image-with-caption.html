@@ -1,5 +1,14 @@
-<!-- layouts/shortcodes/image-with-caption.html -->
+{{/* image-with-caption.html */}}
 <figure>
-    <img src="{{ .Get "src" | absURL }}" alt="{{ .Get "src" }}">
+    {{ $src := .Get "src" }}
+    {{/* Try to fetch the image as a page resource */}}
+    {{ $image := resources.Get $src }}
+    {{ if $image }}
+        {{/* If found, it's an asset that can be processed */}}
+        <img src="{{ $image.Permalink }}" alt="{{ .Get "caption" }}">
+    {{ else }}
+        {{/* Fallback to using absURL for static images */}}
+        <img src="{{ $src | absURL }}" alt="{{ .Get "caption" }}">
+    {{ end }}
     <figcaption>{{ .Get "caption" }}</figcaption>
 </figure>
