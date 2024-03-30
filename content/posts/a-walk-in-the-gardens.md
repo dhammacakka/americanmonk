@@ -41,6 +41,4 @@ Currently, I am still at the Garden.  it is a beautiful and some pictures are b
 
 {{<image-with-caption src="/images/IMG_20180606_190629-1024x768.webp" caption="Garden View.">}}
 
-
-{{<img src="/images/IMG_20180605_075327.webp">}}
-Rainbow
+{{<image-with-caption src="/images/IMG_20180605_075327.webp" caption="Rainbow">}}
