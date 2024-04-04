@@ -17,6 +17,9 @@ featured_image: /images/paaukdentistandme1041610561518977198.webp
 
 {{< img src = "/images/paaukdentistandme1041610561518977198-768x1024.webp" >}}
 
+(Republished from June, 2015)
+
+
 **Having Fun At The Pa-Auk Dentist Clinic** (Repost/refurbish from June, 2015\*)  
 Because dentists are very expensive in America and the Pa-Auk dental clinic has pretty good sanitary conditions (for Myanmar), I went for a checkup before my trip to Hawai'i. Usually in Asia, you only go to a dentist when there is pain but I had some sensitivity I wanted to get checked and I waited for the Saturday dentist who is known on the street as "the old retired dentist who takes his time and does a good job." He is a volunteer like the other two dentists and two medical doctors who visit our in-house monastery clinic.
 
