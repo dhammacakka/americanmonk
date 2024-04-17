@@ -24,8 +24,16 @@ This is Ven Indavimala. {{< url-out "why-i-ordained-twice" "During my re-ordinat
 {{< img src="/images/year2007-monks-iit.webp" >}}
 (Left to Right) Ven Devānanda, myself, Ven. Indavimala, Ven. Dhammanissanti, Ven. Maggavihāri are all ordained from June 18 & 19, 2007.
 
-## More On Ordering
-There were three monks in each group and a few groups were re-ordaining. Ven Dewananda was in the first group of three because he has many many years of ordination beforehand.  Ven. Devananda is 3 hours senior to me.  I was in the third group of 3. In our group of three, Ven Indavimala was the one who came after me. He is roughly one second junior to me and I am roughly one second senior to him. He is sitting next to me. There is nobody else who who can be between us in seniority.  When a monk is senior, it does not matter "how much senior he is", we respect him all the same, especially when we ourselves are senior.  We give the top respect, even for a few hours of seniority.  This ordering is explained in my article, {{< url-out "the-order-of-monks-how-seniority-shapes-the-buddhist-monastic-life" "The Order Of Monks: How Seniority Shapes The Buddhist Monastic Life" >}}.
+## Why Do Monks Ordain In Groups of Threes?
+Monks can be ordained either alone, in a group of two, or a group of three.  The largest group allowed is three.  If the ordination were to be four or more, this is what we call saṅgha ordaining a saṅgha.  This is because 4 monks is called saṅgha (community of monks).  If more than three candidates are ordained in the same group, the ordination will be not counted as valid.
+
+The ordination ceremony takes about 30 minutes to perform for a single ordination and maybe 35 minutes for a group of three.  There are some pāḷi statements that are made and chanted very carefully by skilled recitation monks.  When the statements come to the place where the name of the candidate is needed, the other names can be slipped in one after the other.  This saves a lot of time, especially if there are limited or popular days when people want to ordain.  In Myanmar, April is a high season for ordaining temporary monks for the New Year, or Water Festival.  In our Sri Lankan forest organization, all monks are ordained on June 18th or June 19th (maybe even June 20th if there are too many to do in 2 days).  
+
+## More On The Ordering Of Monks 
+In 2007, there were three monks in each group and a few groups were re-ordaining.  That means they had some doubt about their ordination, or they wanted to start fresh in a tradition that follows the rules. Ven Dewananda was in the first group of three because he has many many years of ordination beforehand.  Ven. Devananda is 3 hours senior to me.  I was in the third group of 3. In my group of three, Ven Indavimala was the one whose name came after my name. He is roughly one second junior to me and I am roughly one second senior to him. He is sitting next to me. There is nobody else who who can be between us in seniority.  When a monk is senior, it does not matter "how much senior he is", we respect him all the same, especially when we ourselves are senior.  We give the top respect, even for a few hours of seniority.  This ordering is explained in my article, {{< url-out "the-order-of-monks-how-seniority-shapes-the-buddhist-monastic-life" "The Order Of Monks: How Seniority Shapes The Buddhist Monastic Life" >}}.
 When he went to India for a pilgrimage, he needed a bowl bag. I gave him my own personal knitted bowl bag so he would have a good trip. It was nice to see him after all of these years .
 
 Ven Indavimala is now an abbot of his own monastery in the Kandy mountains
+
+{{< img src="/images/bouyana2.webp"  >}}
+{{< img src="/images/bouyana.webp"  >}}
