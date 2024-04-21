@@ -1,0 +1,8 @@
+<!-- layouts/shortcodes/img.html -->
+{{ $src := .Get "src" }}
+{{ $image := resources.Get $src }}
+{{ if $image }}
+<img src="{{ $image.RelPermalink }}" alt="{{ .Get " alt" }}">
+{{ else }}
+<p>Image not found.</p>
+{{ end }}
