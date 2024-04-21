@@ -67,7 +67,7 @@ Yes.  Ajahn Brahm has been known to be open to ordaining homosexuals in his mona
 
 
 ## Ancient Speculation of Homosexual Dangers
-While only the last type of type of paṇḍaka is absolutely prohibited from ordaining (and invalid if done), the origin of why paṇḍakas are not allowed to ordain seems to implicate that homosexuals can be a very big problem if they ordain.  The story is found here:
+While only the last three types of the five types of paṇḍakas is absolutely prohibited from ordaining (and invalid if done), the origin of why paṇḍakas are not allowed to ordain seems to implicate that homosexuals can be a very big problem if they ordain.  The story is found here:
 
 > In the origin story for this prohibition, a paṇḍaka who had received full ordination unsuccessfully propositioned some bhikkhus and novices, and then succeeded in propositioning some horse-and-elephant-trainers, who spread it about, "These
 Sakyan-son monks are paṇḍakas. And those among them who are not paṇḍakas molest paṇḍakas."  (BMC Vol. 2, page 187)
