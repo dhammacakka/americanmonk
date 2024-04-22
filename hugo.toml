@@ -41,6 +41,10 @@ enableRobotsTXT = true
   priority = 0.5
   filename = 'sitemap.xml'
 
+[services]
+  [services.disqus]
+    shortname = 'americanmonk-org'
+
 [params]
   paginate = 50
   text_color = ""
