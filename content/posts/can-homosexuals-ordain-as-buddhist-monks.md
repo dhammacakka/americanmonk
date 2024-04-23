@@ -29,7 +29,7 @@ Why?  The short answer is that the monastic environment is specifically designed
 Nevertheless, while I have not counted or confirmed who is who in the monasteries, I would imagine that there are some good monks who are homosexual and doing very well.  Generally speaking, there is a "Don't ask don't tell" policy.  It is best to focus on the spiritual life instead.
 
 ## Perception Of Uncontrollable Lust
-The senior monks will assume that the monks who are homosexual have uncontrollable lust because their exposure is related to  cases in their own monastery or neighboring ones where a monk has engaged in this behavior and perhaps with multiple monks.  It destroys the life of that monk as well as the monks involved. It is for this reason that this perception exists because lust went beyond the mind and contol was lost.  Is this a representation of all homosexuals?  No, but I'm explaining why the perception exists.   
+The senior monks will assume that the monks who are homosexual have uncontrollable lust because their exposure is related to  cases in their own monastery or neighboring ones where a monk has engaged in this behavior and perhaps with multiple monks.  It destroys the life of that monk as well as the monks involved. It is for this reason that this perception exists because lust went beyond the mind and control was lost.  Is this a representation of all homosexuals?  No, but I'm explaining why the perception exists.   
 
 ## Environment for celibacy
 In a monastic environment, most potential dangers are removed through segregation of men and women.  Most monasteries prohibit women from visiting after hours, let alone sleeping in a monastery.  In short, if there are no women then there is no possibility for sex with women.  For this reason, that danger does not exist.  However, when it comes to homosexuals, that segregation cannot happen.
@@ -82,7 +82,7 @@ There is a don't ask don't tell policy and there are definitely monks already or
 
 Of course we have compassion towards all beings and wish to give the monastic opportunity to everyone.  If the homosexual is the only one in very small monastery, then it might not be such an issue.  Nevertheless, I have heard that Ajahn Brahm has some extra "check-ins" with such monks to see if everything is working out okay.  Even still, lust will arise and even in a small monastery.  The monks might be topless when the lay people are not around, give massages to senior monks, etc.  This is just not appropriate for homosexuals to be doing while practicing extreme celibacy.  While a small monastery might work, travel is common and should we restrict such monks from going to larger unsupervised monasteries?  It would be awkward and difficult to restrict.  
 
-## Rules on Speaking Lewed Words And Touching The Opposite Sex
+## Rules on Speaking Lewd Words And Touching The Opposite Sex
 Besides automatic expulsion for any type of sexual activity, we have two rules about direct and indirect lewd speech spoken to the opposite gender. We also have a rule about lustful physical contact with the opposite gender. If a monk breaks these saṅghādisesa rules, he must seek penance and probation for a minimum of six nights in front of his peers. Even the slightest lewd words or lustful touches entail full punishment. It is a serious matter and helps prevent the more severe rule on expulsion from being invoked. There is one exception: there are no strong consequences for interactions between monks or between nuns.  
 
 ## Incidents
