@@ -1,9 +1,9 @@
 ---
 title: What Is Buddhist Vesak?
 description: ""
-date: 2024-04-28T15:05:51.238Z
+date: 2024-04-28
 preview: ""
-draft: true
+draft: false
 tags:
     - bodhi-tree
     - vesak
