@@ -45,6 +45,12 @@ enableRobotsTXT = true
   [services.disqus]
     shortname = 'americanmonk-org'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows HTML in Markdown files
+
+
 [params]
   paginate = 50
   text_color = ""
