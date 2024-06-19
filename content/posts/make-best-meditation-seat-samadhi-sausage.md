@@ -76,7 +76,7 @@ If we were to take a nail which has a surface area of .01” and we put 20 lbs o
 
 The answer is 2000 PSI with a mere 20 lbs of force!!! I think my mother could hammer a nail into a piece of wood if I asked her to do so! So if the contact point is small, then a lot of pressure can build up quickly. My ankles are usually the first to get painful, even though there is very little weight on them. The reason is that a ball, or the ball of your ankle only has a very small contact point. If it sometimes feels like someone is driving a nail into your ankle it might be because you have a similar contact point as a nail.
 
-{{<image-with-caption src="/images/ball-plain-only.png" caption="A ball has a single contact point on a plane.">}}
+{{<image-with-caption src="/images/ball-plain-only.webp" caption="A ball has a single contact point on a plane.">}}
 
  
 
@@ -92,19 +92,19 @@ Indian style is not recommended either because your ankles will be underneath yo
 
 In the Burmese-style, no part of your body is resting on top of another part of the body. If there is a situation like this, then it is adding force and pressure on these parts. It makes sense not to do it, but people do and then complain about pain or accept the pain. Often, yogis complain about pain, and the teacher says this or that but does not say, “Show me your sitting posture.” This is a very important question to ask! What if someone was complaining about pain, but was sitting in full lotus posture because he read that it was a good thing to do but had good potential to get samādhi?
 
-{{<image-with-caption src="/images/ankle-towel.jpg" caption="Burmese posture and ankle-towel.">}}
+{{<image-with-caption src="/images/ankle-towel.webp" caption="Burmese posture and ankle-towel.">}}
 
  
 
 **What You Knee to Know** You should not have your knees dangling in the air. If your knees (or the fleshy leg part just before the knee joints) are not flat on the ground, then you are having your tendons (that are not stretched yet), hold your knees in the air. It is just like holding your arm stretched out in front of you. It will make you tired after five minutes and your knees will also get tired if they are not supported. So get a pillow and stick it underneath one or both knees. Although it seems weird, one pillow under one knee will cause the other knee to fall down to the floor. If you feel unbalance, you can have one pillow for each knee. But only one is necessary.
 
-{{<image-with-caption src="/images/knee-pillow.jpg" caption="Knee pillow.">}}
+{{<image-with-caption src="/images/knee-pillow.webp" caption="Knee pillow.">}}
 
 Having a pillow under your rear-end can help get the knees down as well.  If you still want to use a pillow for your rear-end, you can do so instead of, or in addition to knee pillows.  The higher the pillow for your rear-end, the more your knees will go down. Take note that this is just a way of speaking.  It is not really the knees that need to touch the floor, but the thigh-meat right before the knee joints.  However, a pillow can cause the knee joint to rest the floor and that might cause knee pain. This is a disadvantage of using a pillow for the rear-end.  Not only that, your weight distribution will be reduced which will cause more pressure.  However, the Samādhi-Sausage can solve all the problems, so try this before you try all of the alternatives.
 
 **Who’s On First?** Make yourself a base.  You can buy a zabuton, for a huge amount money, but I prefer a folded blanket.  They are easy to find anywhere.  Sometimes too much fluff will cause pain, so try to experiment with different size blankets and fluffiness.  Some people use carpet padding from a carpet store.  Others use these rubber puzzle squares found in many meditation centers.  A camping mat or yoga mat can work too.  Some use rubber foam cushions which are available in the East, but maybe difficult to find outside of furniture upholsterers.   Tired of suggestions?  A blanket is easy and usually readily available wherever you are.  It is usually the right amount of cushion too.  Not too much, not too little.  If you need to buy a blanket, they are cheap and available at any good-will or thrift store (a used clothing store).  A yoga mat was used as a base for these pictures because it was in the room where the pictures were taken.  Sit on the floor and pay attention to the contact points.  Then sit on a soft blanket-base and pay attention again.  You will notice that there are more contact points or wider contact points.  That is why a cushion helps relieve pressure.
 
-{{<image-with-caption src="/images/ballcushion.jpg" caption="Contact area of a ball on hard surface versus cushion.">}}
+{{<image-with-caption src="/images/ballcushion.webp" caption="Contact area of a ball on hard surface versus cushion.">}}
 
  
 
@@ -116,44 +116,44 @@ You can also fold your blanket into a staircase and sit on that. (no picture giv
 
 **Wedge Method** Because my knees are not raised in the air and I like to be portable.  I often use a piece of folded or rolled cloth (often my robe) and lean forward and place it into the space created by leaning forward.  This props up my back, but because I am still partially on the floor, the weight is nicely distributed.  Even the smallest amount of cloth can help keep your back straight and reduce back pain.  Picture of small angle cloth below.
 
-{{<image-with-caption src="/images/liftup-rear.jpg" caption="Lifting up, before insertion.">}}
+{{<image-with-caption src="/images/liftup-rear.webp" caption="Lifting up, before insertion.">}}
 
-{{<image-with-caption src="/images/insert-wedge.jpg" caption="Insert wedge.">}}
+{{<image-with-caption src="/images/insert-wedge.webp" caption="Insert wedge.">}}
 
-{{<image-with-caption src="/images/small-tilt-blanket.jpg" caption="Final posture.">}}
+{{<image-with-caption src="/images/small-tilt-blanket.webp" caption="Final posture.">}}
  
 
 **Ankle Pain** Your ankles should be turned in as much as possible so that the top of your feet are touching the floor or close to it. This will turn the ball of your ankle away from being perpendicular to the floor and relieve much of the pressure. If your ankles cannot do this and you experience pain before one hour, try to fold a small towel just two or three times and put it underneath your shin (not the ankle). This quarter inch of height can do wonders for your ankle. It should not lift your shin up in the air, it should just reduce the pressure on your ankle. Too much height for the shin can just cause pain problems in your shins. A small blanket was used instead (because that’s what was in the room). The ankle is not positioned correctly, but the shin support can help reduce the pressure on the ankle ball. The pictures below show the wrong and right ankle posture. The correct one (if possible) is on the second picture.
 
-{{<image-with-caption src="/images/straight-ankle.jpg" caption="Wrong ankle position.">}}
+{{<image-with-caption src="/images/straight-ankle.webp" caption="Wrong ankle position.">}}
 
-{{<image-with-caption src="/images/tilted-ankle.jpg" caption="Right ankle position (tilted).">}}
+{{<image-with-caption src="/images/tilted-ankle.webp" caption="Right ankle position (tilted).">}}
 
-{{<image-with-caption src="/images/ankle-towel.jpg" caption="Burmese posture and ankle-towel.">}}
+{{<image-with-caption src="/images/ankle-towel.webp" caption="Burmese posture and ankle-towel.">}}
  
 
 **The Samādhi-Sausage** Before you set anything up other than your “base-blanket” or “base-cushion,” try making a Samādhi-Sausage. Yes, you’ve guessed it. I made this term up. I was going to call it the Cosmic-Sausage, but Cosmic is already trademarked for meditation cushions and I was familiar with their Cosmic Cushion because I used to buy them for other yogis at cost when I was a lay person. A Cosmic Cushion / Zabuton set will cost you over $115 today. The owner / creator is a nice guy and works right near a Goenka center in Shelburne Falls, MA. He was a licensed massage therapist and developed this cushion so he could sit longer. His invention eventually developed into a company and has been copied by many. (see http://www.sunandmoonoriginals.com). The Samādhi-Sausage hopes to accomplish the same effect for a fraction of the price.
 
 To make a Samādhi-Sausage, fold a thick blanket a few times to attain a 3.5 to 4 feet long length.  It should be the same size or slightly larger as the two corners of your knees in a sitting posture. Then roll your blanket into a sausage.
 
-{{<image-with-caption src="/images/rolled-sausage.jpg" caption="Rolled sausage and approximate size proportion.">}}
+{{<image-with-caption src="/images/rolled-sausage.webp" caption="Rolled sausage and approximate size proportion.">}}
 
  
 
 Sit on the floor in Burmese style and put the center of the sausage behind your rear-end.
 
-{{<image-with-caption src="/images/sausage-lift.jpg" caption="Sausage lift.">}}
+{{<image-with-caption src="/images/sausage-lift.webp" caption="Sausage lift.">}}
 
  
 
 Then lean forward so that your rear-end is partially, but not fully in the air.  Then take the ends of the sausage and pull it into your rear-end to fill and support that angle you just made.  Wrap the ends of the sausage around your body and then lift up your thighs and put them underneath.  _**If possible, sit on the inside edge of the sausage, so that you are tilted forward just a little bit.**_   If you can, imagine being a 200 foot giant sitting inside of half of a football stadium.  That is how you should sit on your sausage.    If you want to sit squarely on the sausage to give you more height, you can use the wedge method mentioned previously by putting the wedge on top of the sausage.  In both cases, you need to be tilted forward to protect your back.
 
-{{<image-with-caption src="/images/put-under-knee.jpg" caption="Placing the sausage under the left thigh.">}}
+{{<image-with-caption src="/images/put-under-knee.webp" caption="Placing the sausage under the left thigh.">}}
 
 
 You can adjust the height of the legs by how much sausage you put underneath them.  In the picture below, you can see that there is only a fraction of the sausage under the legs.  This brings the knee lower to the ground to increase the contact points for the lower part of the leg.  The less flexible you are, the higher your knees should be.
 
-{{<image-with-caption src="/images/sitting-sausage.jpg" caption="Samādhi-Sausage in action.">}}
+{{<image-with-caption src="/images/sitting-sausage.webp" caption="Samādhi-Sausage in action.">}}
 
  
 
