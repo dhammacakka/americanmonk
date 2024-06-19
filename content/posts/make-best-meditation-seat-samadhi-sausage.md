@@ -1,5 +1,5 @@
 ---
-title: "Make The Best Meditation Seat:  The Samadhi-Sausage"
+title: "Make The Best Free Meditation Seat:  The Samadhi-Sausage"
 date: 2016-08-26
 categories: 
   - interesting-things
@@ -18,11 +18,9 @@ image: /images/sitting-sausage.webp
 featured_image: /images/sitting-sausage.webp
 ---
 
-<!-- 
-![pdficon](/images/pdficon.webp) [Download Free A4 format PDF](assets/samadhi-sausage.pdf)
+[Download Free A4 format PDF](/samadhi-sausage.pdf)
 
-[Download Free A5 format PDF](assets/samadhi-sausage-A5.pdf)
--->
+[Download Free A5 format PDF](/samadhi-sausage-A5.pdf)
 
 
 **Tutorial on How to Sit** Many times I have given advice to yogis on how to sit properly and I have received raving success. In fact, I asked one fellow student to model for the pictures you will see in this article and he was absolutely amazed at how comfortable he was as soon as he sat down. He spoke loudly with joy and excitement as soon as he was seated in the Samādhi-Sausage, which prompted other people to peek inside the room to see what all of the commotion was about. This document is long. The short answer is to roll up a blanket and curve it around your body as shown below. However, the rest of the document gives a full explanation on how it works so you are able to make the perfect seat, sit in it properly, and modify it for your own needs. (Note: The shirt was raised up and tied to reveal his posture and it is not normal for him to be like that!)
