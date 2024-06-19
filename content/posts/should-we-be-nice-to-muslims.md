@@ -17,7 +17,7 @@ image: /images/IMG_20141008_104709-e1522319106715.webp
 featured_image: /images/IMG_20141008_104709-e1522319106715.webp
 ---
 
-{{< image-with-caption src="/images/IMG_20141008_104709-e1522319106715.jpg" caption="Muslim Imam giving dana." >}}
+{{< image-with-caption src="/images/IMG_20141008_104709-e1522319106715.webp" caption="Muslim Imam giving dana." >}}
  
 
 The short answer is, "Yes."  Of course we should be nice to Muslims, Christians, Atheist, animals, snakes and all beings.  Sabbe Satta means all beings.  In this long winded article, I speak about how the Muslims will win a majority in Myanmar and how Buddhism is already falling down in quality and quantity.  Any "evil" actions like parochial schools, or large families were actually practiced in Myanmar by Buddhists only 20 or 30 years ago.   They have continued with this practice, while Buddhism has slacked off.
@@ -100,4 +100,4 @@ If the Myanmar people really want to protect Buddhism, it will have to retain it
 
 In this sutta, there were robbers who were cutting off the limbs of their victim slowly with a saw. The Buddha told us that we should develop loving-kindness towards these thieves until the very end of our lives. This is the advice of our Lord Buddha and this is the way we shall protect Buddhism.
 
-{{< image-with-caption src="/images/IMG_20141008_104709-e1522319106715.jpg" caption="Muslim Imam giving dana." >}}
+{{< image-with-caption src="/images/IMG_20141008_104709-e1522319106715.webp" caption="Muslim Imam giving dana." >}}

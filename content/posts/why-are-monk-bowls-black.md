@@ -33,9 +33,9 @@ Above:  A newly baked bowl.  Below are pictures of monks firing their bowls to
 
  
 
-{{<image-with-caption src="/images/IMG_20171004_202508-1024x768.jpg" caption="All-focus.">}}
+{{<image-with-caption src="/images/IMG_20171004_202508-1024x768.webp" caption="All-focus.">}}
 
-{{<image-with-caption src="/images/IMG_20171004_202538-1024x768.jpg" caption="All-focus.">}}
+{{<image-with-caption src="/images/IMG_20171004_202538-1024x768.webp" caption="All-focus.">}}
 
  
 

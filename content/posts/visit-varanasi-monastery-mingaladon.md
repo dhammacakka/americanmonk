@@ -12,7 +12,7 @@ image: /images/monkline.webp
 featured_image: /images/monkline.webp
 ---
 
-{{< image-with-caption src="/images/sima3.jpg" caption="Sima of Varanasi Monastery." >}}
+{{< image-with-caption src="/images/sima3.webp" caption="Sima of Varanasi Monastery." >}}
 
  
 
@@ -32,12 +32,12 @@ The pictures you see below are:
 
 2.The three story Dorm and learning building
 
-{{< image-with-caption src="/images/3story.jpg" caption="3 Story Building." >}}
+{{< image-with-caption src="/images/3story.webp" caption="3 Story Building." >}}
 
 3\. The new Mahabodhi styled pagoda (which has approx 36 meditation cells “Goenka Style”)  (also inside view too)
 
-{{< image-with-caption src="/images/pagoda.jpg" caption="pagoda" >}}
-{{< image-with-caption src="/images/pagodainside.jpg" caption="pagodainside" >}}
+{{< image-with-caption src="/images/pagoda.webp" caption="pagoda" >}}
+{{< image-with-caption src="/images/pagodainside.webp" caption="pagodainside" >}}
 
 4. The monks in line
 
@@ -45,6 +45,6 @@ The pictures you see below are:
 
 5\.  Servers donating the meal
 
-{{< image-with-caption src="/images/servers.jpg" caption="servers" >}}
+{{< image-with-caption src="/images/servers.webp" caption="servers" >}}
 
 To get to Varanasi, simply take a taxi or bus to “Tiger Beer Factory” and look for the red Varanasi sign on the village side of the road. Then follow the signs about 1 mile inside.

@@ -10,7 +10,7 @@ image: /images/godd-topview2_modified-1024x1024.webp
 featured_image: /images/godd-topview2_modified-1024x1024.webp
 ---
 
-{{<image-with-caption src="/images/godd-topview2_modified-1024x1024.jpg" caption="Drone View.">}}
+{{<image-with-caption src="/images/godd-topview2_modified-1024x1024.webp" caption="Drone View.">}}
 
 A Brief Return to Pa-Auk Maymyo (pyin oo lwin).
 

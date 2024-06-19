@@ -62,7 +62,7 @@ I have not done other routes thoughh, like I did three years before, but I still
 In October, my brother arranged for me to meet his new husband and my parents.  I have not seen my brother since 2011 and my parents since 2013. However, we do Skype often.  Usually we make an appointment for Skype and do an hour long conversation. My father has sworn that he will never go on an airplane again, but for this occasion and a little arm twisting, he did.  My brother rented a wonderful condo that had a really nice view in a Princeville complex called Pu’u Poa. Despite the climate change which has given us nearly constant rain since I arrived in April, it was pretty much clear for a week straight during my parents visit.  That was just too awesome, because my mother does not like the rain. (I like the rain that falls in Kauai).  Below are pictures of the complex and views from the balcony:
 
 
-{{<image-with-caption src="/images/viewpuupoa.jpg" caption="View from condo balcony.">}}
+{{<image-with-caption src="/images/viewpuupoa.webp" caption="View from condo balcony.">}}
 
 {{< image-with-caption src="/images/puupoacomplex-300x169.webp" caption="Pu'u Poa." >}}
 {{< image-with-caption src="/images/puupoafam-300x225.webp" caption="Family at balcony of Pu'u Poa." >}}
@@ -72,7 +72,7 @@ For my birthday, I was able to get a helicopter ride and in exchange, I got them
 
  
 
-{{< image-with-caption src="/images/sukhothaimeeting.jpg" caption="Sukhothai Cafe Thursdays." >}}
+{{< image-with-caption src="/images/sukhothaimeeting.webp" caption="Sukhothai Cafe Thursdays." >}}
 
 <!-- [video width="426" height="240" mp4="https://americanmonk.org/wp-content/uploads/2018/11/Helicopter.mp4" preload="auto"][/video] -->
 

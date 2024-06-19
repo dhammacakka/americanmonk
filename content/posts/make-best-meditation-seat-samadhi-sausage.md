@@ -33,7 +33,7 @@ featured_image: /images/sitting-sausage.webp
 **Meditation Cushions are Expensive** You can pay a small fortune for meditation pillows (zafu, or cosmic cushion) and a base (zabuton) to sit on. A set might run you well over $115 USD. Not only that, you will need to travel with a beast of a setup whenever you want to sit. It is best to use what is around you wherever you are. Do you really think that the monks of the Buddha’s time traveled with meditation cushions and bases? Did you know it is against the Buddhist monastic rules to sit on cotton/kapok stuffed pillows? As an alternative, or a first-ative, I suggest using a folded or rolled blanket for a cushion and base. I recommend the blankets that are thick and heavy, but not so big in square footage, that has a furry material that is similar to rug. These blankets are about $5 USD in Myanmar, often have designs with pictures on them, but any blanket will do. I do not recommend shopping for a blanket, and suggest one to use the blanket that is available at the place your are living at or visiting. The blanket shown below is slightly too bulky, but it works. Don’t try to search for the perfect blanket. Instead, just set one up and use it.
 
 
-{{<image-with-caption src="/images/folded-blanket.jpg" caption="Base blanket">}}
+{{<image-with-caption src="/images/folded-blanket.webp" caption="Base blanket">}}
 
 
 Before we get into how to make your own “Samādhi-Sausage” from a blanket, we should understand some important things.

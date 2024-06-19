@@ -17,7 +17,7 @@ image: /images/mabathaopenletter.webp
 featured_image: /images/mabathaopenletter.webp
 ---
 
-{{<image-with-caption src="/images/mabathaopenletter.jpg" caption="Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness.">}}
+{{<image-with-caption src="/images/mabathaopenletter.webp" caption="Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness.">}}
 
  
 
@@ -101,7 +101,7 @@ In this sutta, there were robbers who were cutting off the limbs of their victi
 
  
 
-{{<image-with-caption src="/images/muslimgiverice.jpg" caption="Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.">}}
+{{<image-with-caption src="/images/muslimgiverice.webp" caption="Muslim Imam serving rice at Pa-Auk Forest Monastery on behalf of U Subhuti's Family.">}}
 
 
 \*Note: Many numbers are assumed and not accurate, but it is enough to give the point across.
