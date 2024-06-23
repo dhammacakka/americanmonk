@@ -1,5 +1,5 @@
 ---
-title: alms-is-never-a-sure-thing
+title: Alms Is Never A Sure Thing
 description: A journal entry on going for alms during times of scarcity and abundance.
 date: 2024-06-23T05:37:01.029Z
 preview: ""
