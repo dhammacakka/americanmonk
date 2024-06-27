@@ -70,7 +70,7 @@ My Family has a family reunion every year the weekend after Mother's day.  That 
 
 ## Back to West Hartford and To Orlando
 {{< img src="/images/me-with-sister.webp" >}}
-I went back to West Hartford, and stayed another 5 days and then went to Orlando for the last leg of the trip.  I should give an honorable mention to my sister who cooked up a storm for me during the two legs of my West Hartford trip.  She was able to spend many nights during my visit.  Since I was in the sunroom, it was fine for her to sleep in the main house.
+I went back to West Hartford, and stayed another 5 days and then went to Orlando for the last leg of the trip.  I should give an honorable mention to my sister who cooked up a storm for me during the two legs of my West Hartford trip.  She was able to spend many nights during my visit.  Since I was in the sunroom, it was fine for her to sleep in the main house.  We had many nice visits together.
 
 I flew to Orlando from Tweed Airport which is an extremely small airport.  It is so small, the residents have been trying to stop the commercial flights from there but lost.  The airport was so nice and easy to fly from.  Everyone was really nice and it was the first place I didn't get body searched.  If you didn't notice, I look a little suspicious!
 
