@@ -1,11 +1,15 @@
 ---
 title: My Trip To America In 2024
-description: ""
+description: A small entry about my trip to Chicago, Boston, West Hartford, Orlando
 date: 2024-06-27
 preview: ""
 draft: false
-tags: []
-categories: []
+tags:
+    - chicago
+    - family
+    - alms
+categories:
+    - monk-life
 image: /images/family-2024.webp
 featured_image: /images/family-2024.webp
 ---
