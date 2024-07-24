@@ -16,9 +16,16 @@ image: /images/buddhist_sun_logo4.webp
 featured_image: /images/buddhist_sun_logo4.webp
 ---
 
-{{< img src = "/images/buddhist_sun_logo4.webp" >}}
 
- [![Play Store](/images/google-play-badge.webp" >}}](https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun) [ ![iOS App Store](/images/app-store.webp" >}} ](https://apps.apple.com/us/app/buddhist-sun/id1585091207) 
+{{< resizeimg src="/images/buddhist_sun_logo4.webp" width="150" >}}
+
+
+{{< extlink "https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun" "Download Android App" >}}
+<BR>
+
+{{< extlink "https://apps.apple.com/us/app/buddhist-sun/id1585091207" "Download iOS App" >}}
+
+
 
 Recently I made a mobile app to help me know when the Solar Noon is approaching and past.
 
@@ -30,7 +37,7 @@ If you are a monk, nun or a practicing yogi who has vowed to not eat after Noon,
 
 This app calculates the Dawn times based on different methods you can select. It also calculates the Solar Noon with a speech countdown timer. It uses GPS to calculate the Solar Noon and Dawn times. Myanmar, Sinhala, and Chinese language are supported. It was created for monks, but those who follow the Buddhist 8 precepts will find this useful. It has a default safety set to one minute which can be increased or disabled. Astronomical Algorithms, are based on calculations by [Jean Meeus](https://en.wikipedia.org/wiki/Jean_Meeus) and accurate within one minute within normal geographical locations.
 
-https://youtu.be/\_3yICBp5rWo
+{{< youtube \_3yICBp5rWo>}}
 
 ## About:
 
