@@ -13,13 +13,13 @@ tags:
   - names
 authors: 
   - bksubhuti
-image: /images/monkseal-wikipedia.webp
-featured_image: /images/monkseal-wikipedia.webp
+image: /images/Hawaiian_monk_seal.jpg
+featured_image: /images/Hawaiian_monk_seal.jpg
 ---
 
 > # Bhikkhu Subhuti’s Blog has moved!
 
-{{<image-with-caption src="/images/monkseal-wikipedia.webp" caption="monk seal from wikipedia">}}
+{{<image-with-caption src="/images/Hawaiian_monk_seal.jpg" caption="pub domain monk seal from wikipedia">}}
 
 ## The blog at https://Subhuti.withmettanet has moved to https://AmericanMonk.org
 
