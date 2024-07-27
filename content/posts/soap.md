@@ -45,4 +45,4 @@ Carbolic Soap
 
 Below is a video on the above information:
 
-https://www.youtube.com/watch?v=c6ixYAM93DM
+{{< youtube c6ixYAM93DM >}}

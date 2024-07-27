@@ -21,7 +21,7 @@ Probably the #1 question we get is, "Why did you become a monk?" That question h
 
 Here is a video recording of that story. Below that is an excerpt from my book [Going For Broke](https://americanmonk.org/book-going-for-broke/):  
 
-https://www.youtube.com/watch?v=AMsxTyRnml4
+{{< youtube AMsxTyRnml4 >}}
 
 Below is an excerpt from [Going For Broke](https://americanmonk.org/book-going-for-broke/) which explains the second of three tipping points for me.  The first tipping point was to leave my job because of an animal rights issue came to light with the blood analyzer I was working on.  The last tipping point was when I came to terms with the "deal" I made below, and knew in my heart that it was the right decision.
 

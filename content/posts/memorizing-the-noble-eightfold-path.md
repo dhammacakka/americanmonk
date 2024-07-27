@@ -27,4 +27,4 @@ I took a small poll among seasoned Buddhists to see who could list all eight fac
 > 
 > AN8.78
 
-https://www.youtube.com/watch?v=GBgT6\_rJ1bQ
+{{< youtube GBgT6_rJ1bQ >}}

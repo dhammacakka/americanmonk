@@ -3,3 +3,5 @@ pali project
 free pali books
 leaving on a jetplane (monks money clip mp4)
 blog has moved.  change monk seal to webp later
+all youtube .. need to change with regex
+

@@ -23,4 +23,4 @@ In America, the [Rote Method](https://en.wikipedia.org/wiki/Rote_learning) of le
 
 Click on the YouTube [link](https://www.youtube.com/watch?v=LusSdfc_bpA) below to start learning now!
 
-https://www.youtube.com/watch?v=LusSdfc\_bpA
+{{< youtube LusSdfc_bpA >}}

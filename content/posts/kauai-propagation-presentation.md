@@ -28,8 +28,8 @@ A 2 part Powerpoint presentation about what two monks did in Kauai, Hawaii durin
 
  
 
-https://www.youtube.com/watch?v=xguRak-kd-k
+{{< youtube xguRak-kd-k >}}
 
 and
 
-https://www.youtube.com/watch?v=\_zOOsw9FSEM
+{{< youtube \_zOOsw9FSEM >}}

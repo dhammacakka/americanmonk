@@ -60,7 +60,7 @@ There are 13 Saṅghādisesā rules. The ones that usually come up in actual mon
 
 The Nissaggiya-pācittiyā rules are 30 in number. They mostly consist of keeping extra robes, or bowls beyond 10 days, not being within an arm's reach of the 3 robes at dawn time, not asking for things (robes) within the proper conditions, and keeping medicinal tonics for more than 7 days. **_In addition to that, one is [not allowed to use money](https://americanmonk.org/are-buddhist-monks-allowed-to-use-money/) or items bought with monk-owned-money._** All of these items are considered _Nissaggi_ and must be forfeited. As long as the monk has not fully relinquished or still has mental possession of these items, he will not be pure. If this persists as a daily practice, the monk's life is counterproductive towards self salvation and it is said he will be born in the lower realms for this if practiced until death.\[mfn\]"sāpattikassa, bhikkhave, nirayaṃ vā vadāmi tiracchānayoniṃ vā"ti\[/mfn\] Unfortunately, more than 95% of all monks engage in breaking this class of rules, usually by accepting and handling money. A video explains this below:
 
-https://www.youtube.com/watch?v=7LfvDocA3fI
+{{< youtube 7LfvDocA3fI >}}
 
 Short video of why using money is bad.
 

@@ -15,4 +15,4 @@ The video includes stories on how alms works, the blessings that I give and how 
 
 Here is the video at this link: [https://www.youtube.com/watch?v=YApvayx-Jfk](https://www.youtube.com/watch?v=YApvayx-Jfk)
 
-https://www.youtube.com/watch?v=YApvayx-Jfk
+{{< youtube YApvayx-Jfk >}}

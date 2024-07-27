@@ -19,5 +19,3 @@ Recently, I have been making more posts in video format.  I share personal stori
 This Dhammatalk explores the Dhammapada verse 53 and the different aspects of making merit
 I think you will like it.
 {{< youtube KRbTk2ZXevc>}}
-
-https://www.youtube.com/watch?v=KRbTk2ZXevc

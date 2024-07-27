@@ -11,4 +11,4 @@ Recently, I was interviewed from an old friend who was previously a monk with me
 
 Below is a link : [https://www.youtube.com/watch?v=gUtj\_LgSCTM](https://www.youtube.com/watch?v=gUtj_LgSCTM)
 
-https://www.youtube.com/watch?v=gUtj\_LgSCTM
+{{< youtube gUtj_LgSCTM >}}

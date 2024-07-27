@@ -21,6 +21,6 @@ A little while ago, I was asked what was the most important lesson learned and w
 
 The first video gives a very technical answer, yet in very simple English that everyone can understand.  However those who are into the deepest Dhamma and Abhidhamma will still appreciate what is said and how it is said.
 
-https://www.youtube.com/watch?v=JCziinmnxCI
+{{< youtube JCziinmnxCI >}}
 
-https://www.youtube.com/watch?v=ciq7teey4-4
+{{< youtube ciq7teey4-4 >}}

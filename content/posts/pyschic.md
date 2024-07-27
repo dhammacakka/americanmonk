@@ -20,7 +20,7 @@ Accused of Being Psychic
 
 A brief video describing this story has been added to this post below. The longer story is below that.
 
-https://www.youtube.com/watch?v=lhizElsBbtI
+{{< youtube lhizElsBbtI >}}
 
 I think it was in 2003 or 2004 when I was at Pa-Auk Meditation Center when this event happened to me. I was at the mountain meditation hall during the meditation break and I saw a yogi dressed in white yogi clothes. His outfit basically looked like pajamas to most Westerners, but if you know the meditation scene and you know how the foreigners usually dress at Pa-Auk, then you would know that he was a serious yogi. He was wearing the white yogi clothes and it was clear that he has been to other meditation places. Pa-Auk was not his first stop of on his spiritual journey.
 

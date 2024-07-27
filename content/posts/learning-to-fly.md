@@ -13,7 +13,7 @@ featured_image: /images/hang-glider.webp
 
 [![hang-glider](/images/hang-glider.webp" >}}](/images/2016/09/hang-glider.webp" >}} Below is a Wrigley’s TV commercial from the 80s which started my lifelong dream to hang-glide and a genuine excuse to get educated.  Whenever I saw this commercial as a child, my jaw was to the floor.  It was something I had always wanted to do. Thanks to youtube, I can trace it all back.
 
-https://www.youtube.com/watch?v=fJ87pBjQt0k
+{{< youtube fJ87pBjQt0k >}}
 
 I was never really college material, I took the SAT’s once and bombed on them. Luckily, there was a trend during that time to ignore the SAT scores because there was some evidence that it discriminated against some people who could perform well at school.  Because of that short lived trend, I had a window of opportunity and I got into the only two colleges I applied to. I guess the trend was correct, because I graduated with a 3.54 cumulative average. My grades soared, (probably due to meditation) and I was able to literally soar through the air.
 
@@ -27,4 +27,4 @@ While it would be nice to start jumping off of cliffs the very first day, you ca
 
 The video below is from someone stranger on youtube who posted his flights from Morningside Flight Park.  That is the same hill I flew from. You only need to see a few take offs and landings from this video to get the point.. The rest are all the same.
 
-https://www.youtube.com/watch?v=-kRPgJkiReM
+{{< youtube -kRPgJkiReM >}}
