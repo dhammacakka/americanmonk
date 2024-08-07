@@ -1,14 +1,18 @@
 ---
 title: Dhammapada 118 Giving Again And Again
-description: ""
-date: 2024-08-07T10:57:53.110Z
-preview: ""
-draft: true
-tags: []
-categories: []
-type: default
-image: "/images/alms-again-again.webp"
-featured_image: "/images/alms-again-again.webp"
+description: Two videos describing the spirit of Dhammapada verse 118
+date: 2024-08-07
+authors:
+    - bksubhuti
+tags:
+    - alms
+    - dana
+    - donation
+    - pa-auk
+categories:
+    - monk-life
+image: /images/alms-again-again.webp
+featured_image: /images/alms-again-again.webp
 ---
 
 Below are two talks based on the Dhammapada verses 49 and 118
