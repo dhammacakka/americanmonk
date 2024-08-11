@@ -39,7 +39,7 @@ You can find some translated versions of the Dhammapada text here (as shown in t
 - {{< extlink "https://www.buddhanet.net/pdf_file/dhammapadatxt1.pdf" "Treasury of Truth, Ven Sarada Thero" >}}  
 - {{< extlink "https://readingfaithfully.org/dhammapada-translated-by-ven-narada-pdf/" "Ven. Narada" >}}  
 
-The Commentary stories (explained below) can be at:
+The Commentary stories (explained below) can be found at:
 - {{< extlink "https://ancient-buddhist-texts.net/English-Texts/Buddhist-Legends/index.htm" "Buddhist Legends" >}}  
 
 
