@@ -1,12 +1,17 @@
 ---
 title: New Belt And Pocket
-description: "A monk made me a new belt and pocket"
+description: A monk made me a new belt and pocket
 preview: "preview: A monk made me a new belt and pocket"
 date: 2024-09-08
-categories: 
+categories:
   - monk-life
-tags: []
-authors: 
+tags:
+  - 8 requisites
+  - bhikkhu
+  - monk-robes
+  - robes-and-bowl
+  - sewing
+authors:
   - bksubhuti
 image: /images/belt_and_pocket_wearing.webp
 featured_image: /images/belt_and_pocket_wearing.webp
