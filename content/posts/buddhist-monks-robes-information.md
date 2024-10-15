@@ -24,7 +24,7 @@ Few people realize that the Theravāda monk’s robes are actually a piece of re
 
 In general, the robe should cover both shoulders and arms (up to the wrists) during the time when the monk is outside his monastery or living area.  This is called "wearing full robes."  While you might see monks in South East Asian Countries **_not_** wearing “full robes” outside of the food collection times, a monk really should wear full robes any time he is outside of the monastery or living space. It is a rule and it is an easy way to distinguish between the monks who care about the patimokkha and those who don't.  Never the less, monks who dress properly outside of their monasteries, are not always monks who do not touch money, but, they have some respect for the 227 rules and patimokkha.
 
-{{< img src = "/images/IMG-3406-1024x768.webp" >}}
+{{< img src = "/images/IMG-3406.webp" >}}
 
 **Why are there pictures of me not wearing full robes in Kauai?** I was living in the park and that boundary is considered to be my living area.  BTW, that picture was taken the day after the April floods.
 
@@ -32,7 +32,7 @@ A monk usually has a set of three robes.  A lower robe, an upper robe and a dou
 
 ## Why do monks' robes have so many seams?
 
-{{< img src = "/images/Pattern-of-rice-paddies-1024x732.webp" >}}\[mfn\]The robe is folded in half on the clothes line.  Picture taken from https://udithawijesena.blogspot.com/2011/07/normal-0-false-false-false-en-us-x-none.html, no copyright is mentioned.\[/mfn\]
+{{< img src = "/images/Pattern-of-rice-paddies.webp" >}}\[mfn\]The robe is folded in half on the clothes line.  Picture taken from https://udithawijesena.blogspot.com/2011/07/normal-0-false-false-false-en-us-x-none.html, no copyright is mentioned.\[/mfn\]
 
 Theravāda robes have lots of seams and are quite tedious to make. While it would be nice to obtain a queen sized bed sheet and a twin size bed sheet and just throw them on, real robes would never be like that. The monks were once nicknamed “rag-robe wearers.” In the time of the Buddha and actually not so long ago respectively, cloth was difficult to come by. The width of the cloth was also not very wide and even today is usually limited to 48 inches although some loom sizes are bigger.
 
