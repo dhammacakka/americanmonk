@@ -185,7 +185,7 @@ Here is a list of the dialog that takes place for the ordination:
 There are very few differences.  The monk shaves the head and also must inform the saṅgha that a head shaving will take place on that day.  The robes are given to the preceptor, and Pāḷi is recited as previously stated.  The precepts are taken and only end with "veramaṇī".  It is missing "sikkhāpadaṃ samādiyāmi".  This means that at the end of the 10 precepts, all precepts are taken as a group as a whole.  That is the only difference. We intentionally make it slightly different to avoid confusion between sāmaṇerī and sayalay ordination. Ordaining sāmaṇerīs is generally a stepping stone to bhikkhunī ordination.  The whole issue of bhikkhunis has caused disharmony in the saṅgha and we don't want to cause waves.
 
 ## Why Do The Sayalay Ordination Instead?
-This ordination is a way that females can ordain and get all of the benefits of becoming a monastic without the politics of bringing back an official extinct lineage. This new lineage enables nuns to receive support and practice in a similar way. Furthermore, bhikkhunis do indeed have many restrictive rules. Even those who insist on going against the senior teachers and getting such an ordination, choose to ignore some very heavy rules. In this way, we could say that a Sayalay ordination is more conducive to enlightenment. Since controversy, politics and breaking precepts are hindrances to progress
+This ordination is a way that females can ordain and get all of the benefits of becoming a monastic without the politics of bringing back an official extinct lineage. This new lineage enables nuns to receive support and practice in a similar way. Furthermore, bhikkhunis do indeed have many restrictive rules. Even those who insist on going against the senior teachers and getting such an ordination, choose to ignore some very heavy rules. In this way, we could say that a Sayalay ordination is more conducive to enlightenment since controversy, politics and breaking precepts are hindrances to progress.
 
 {{< img src = "/images/newly-ordained.webp" >}}
 
@@ -202,4 +202,4 @@ With virtue pure, she meets her goal.
 Threefold Refuge, precepts ten,  
 A life of calm, renouncing then.  
 In Myanmar’s way, her heart set free,  
-A Sayalay—delighting, called *"Dhammarati"*.  
+A Sayalay—delighting, named *"Dhammarati"*.  
