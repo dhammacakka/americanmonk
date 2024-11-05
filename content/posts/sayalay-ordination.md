@@ -1,7 +1,7 @@
 ---
 title: What Is An Ordained Sayalay?
 description: What Is An Ordained Sayalay?
-date: 2024-08-11
+date: 2024-11-05
 preview: What Is An Ordained Sayalay?
 tags:
     - bhikkhuni
