@@ -34,10 +34,10 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 `sudo apt install libfuse2 libsqlite3-dev`
 
-[{{< simpleimg src="images/480px-Android-logo.webp" width="50" alt="Google Play Store Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/s?id=com.paauk.tipitakapalireader)
+[{{< simpleimg src="images/480px-Android-logo.webp" width="50" alt="Google Play Store Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader)
 
 
-[{{< simpleimg src="images/App_Store_iOS_11_Custom_size.webp" width="50" alt="iOS Store Logo" >}}](https://apps.apple.com/us) [(iOS Store)](https://apps.apple.com/us)
+[{{< simpleimg src="images/App_Store_iOS_11_Custom_size.webp" width="50" alt="iOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone) [(iOS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone)
 
 
 
