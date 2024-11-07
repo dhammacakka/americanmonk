@@ -43,55 +43,12 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 ## What is new?
 
-**Build 62 Release** Nov 20, 2023 for Win, Mac, Flathub, Appimage, Android (iOS package in App store review)
+**Build 82+ Release** November, 2024 for Win, Mac, Flathub, Appimage, Android (iOS package in App store review)
 
-- Faster initial startup with visible steps and some bug fixes.
-
-- Searchable TOC with Fuzzy Search
-
-- MAT buttons and better logic to find linked books/paragraphs
-
-- Export Bookmarks to disk
-
-- Faster setup with displayed steps to finish
-
-- New Material 3 Theme option
-
-- Better international typing input
-
-- You can undo the Velthuis typing
-
-- New PEU Dictionary Update with 200,000 dictionary entries and 71% edited by humans
-
-- Flashcards and export working better
-
-- New DPD Deconstructor for better dictionary lookup
-
-- Various bug fixes
-
-This 2022 year-end release .
-
-- Extensions which allow for English and Pāḷi to be imported line by line.
-
-- Extensions which allow for dictionary updates such as; DPD and PEU updates
-
-- Multi-window capabilities in Desktop and Tablet Mode with visible and invisible buttons
-
-- General Settings has a Downloader which can download Pali/English books and other dictionaries (be patient and let the whole download/install process finish)
-
-- Adjust size of panel and dictionary size
-
-- Better Dictionary Lookup
-
-- Adjustable dictionary size and panel
-
-- Persistence on Search Filter
-
-- Other bugs and features
+This release is our most stable release yet.  It also includes many of the dpd extra features.  Be sure to install the DPD Extras extension to see what is in store for you.  This release has all of the features as before, but everything is polished and working smooth.  If you had problems with the text jumping when switching tabs, that has been fixed.  The overal user experience has improved.  We still have problems with copying text from multiple pages.  If you do, please use another app (for now).
 
 ## Purpose of Application:
 
-  
 This app is useful for reading Pāḷi texts. It is similar to [TPP](https://americanmonk.org/tipitaka-pali-projector/). Total feature migration is planned in the future. If you read pāḷi and use a reading app, you will most likely prefer this as your pāḷi reading app on the phone or desktop. However, at the moment some features are better in TPP.
 
 {{< img src = "/images/mettasearch-1024x611.webp" >}}
