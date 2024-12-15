@@ -59,7 +59,7 @@ My yogi would collect the food and since I did not touch the food, it could be s
 ## Some visitors
 Although there were just a handful of visitors from the small Myanmar Community that invited me, there were some people that I have known from Pa-Auk Monastery in Myanmar who happened to be in Florida.
 
-There was a Jamaican Yogi I knew from Pyin Oo Lwin and Mawlamyine who normally lives in South Korea.  He visited for a day while visiting his mother near Orlando.  Strangely enough, another person I knew, a former monk Pa-Auk, Mawlamyine also visited me.  He lives in Kentucky, but was visiting his future in-laws in Florida during the same time.  He also lived in South Korea for some time and speaks Korean.  Although I thought they should meet, they missed each other at the monastery by one single day.  Nevertheless, I had a great visit with both of them.  
+There was a Jamaican Yogi I knew from Pyin Oo Lwin and Mawlamyine who normally lives in South Korea.  He visited for a day while visiting his mother near Orlando.  Strangely enough, another person I knew, a former monk at Pa-Auk, Mawlamyine also visited me.  He lives in Kentucky, but was visiting his future in-laws in Florida during the same time.  He also lived in South Korea for some time and speaks Korean.  Although I thought they should meet, they missed each other at the monastery by one single day.  Nevertheless, I had a great visit with both of them (separately).  
 
 Lastly, my cousin who grew up with me in West Hartford lives near Orlando and works as a golf pro. We had a great visit; he brought some family-favorite treats.
 
@@ -82,7 +82,7 @@ When I was at ITBMU, I used to eat breakfast and lunch with a Vietnamese America
 I invited Ashin Punna to come to my monastery with three monks he knew and I chanted a short version of the 227 rules.  We had so much fun, we agreed to do another one two weeks later.  The monks were also interested in walking for alms with me.  I agreed and we all went together before the ceremony.  The donors of the monastery were very happy.  On the second chanting of the rules, there were approximately 30 visitors who came to celebrate this occasion. 
 
 ## Saying Goodbye
-There was talk of selling the monastery and relocating to Jacksonville, but since my visit, the place has come alive. Visitors from Vietnamese and Sri Lankan communities have come, showing its potential to serve more than just the Myanmar community. They will hold off on selling and eagerly await my return.
+There was talk of selling the monastery and relocating it to Jacksonville, but since my visit, the place has come alive. Visitors from Vietnamese and Sri Lankan communities have come, showing its potential to serve more than just the Myanmar community. They will hold off on selling and eagerly await my return.
 
 I am currently at the International Institute of Theravāda and plan to stay at Spring Hill Monastery next year while pursuing an online Master’s in Buddhist Studies. Despite the nice visit, I still enjoy Sri Lanka’s culture very much.
 
