@@ -9,4 +9,3 @@ During the kitchen preparation time, the females were meditating in their separa
 Pa-Auk Meditation Center, Mawlamyine, Mon State, Myanmar.﻿  
 Photos by Yogi Bram (Belgium)﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/XvumPirXnQv)
