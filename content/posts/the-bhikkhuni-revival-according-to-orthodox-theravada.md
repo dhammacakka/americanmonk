@@ -17,6 +17,5 @@ Pa-Auk has well over 200 nuns who can meditate all they want. Na-uyana has Dhamm
   
 Sadhu for Venerable Aggacitta for explaining this issue long ago and for providing a recent updated version for free distribution.﻿
 
-![](https://lh4.googleusercontent.com/-9AMWfboVAl4/U9t-rZRvxII/AAAAAAAAJ_c/AveOz6a4Ts8/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/jMkgGPqaVCL)

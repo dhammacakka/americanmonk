@@ -10,6 +10,5 @@ A common ineffective way to cool tea is to pour the tea back and forth into two 
   
 At Pa-Auk, the monks are not allowed coffee or tea after Solar Noon and this cooling method can come in handy when 12:00 is around the corner! This rule is often believed to be a Pa-Auk/ Myanmar only rule because pickled green tea, called "lapet," is eaten as a food. However, the rule is in effect at Pa-Auk because it is a Bhikkhu Rule in the Monastic Code. ﻿
 
-![](https://lh5.googleusercontent.com/-EBw6NTzA4So/U_3e35h0ebI/AAAAAAAAKKc/BxSLVzdeGlM/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/gjxMsxBbenZ)

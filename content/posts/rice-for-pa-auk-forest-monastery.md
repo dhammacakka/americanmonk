@@ -12,4 +12,3 @@ Last picture is washing more rice (for another round?)
 Mawlamyine Mon State, Myanmar  
 Yogi Bram and my photos too.﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/PXRNQZ4fCr9)

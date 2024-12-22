@@ -22,6 +22,5 @@ Whatever it is, the most important thing is to do what you can to keep the body 
 Chapter VII of The Path of Purification p187 has this recollection. It is called Recollection on Deities (A very small description).  
 ﻿
 
-![](https://lh3.googleusercontent.com/-BOXHn8K0KRg/U4-0YLLPuhI/AAAAAAAAJo8/kLGwbZnzdGM/w506-h750/14%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/61FccThF1Yb)
+

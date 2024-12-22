@@ -21,4 +21,3 @@ Update: kuti #1 and #15 are umbrella kuties. U Thee is not here anymore but the 
 The green piece if plastic on my umbrella is a broken clothes-pin for marking it. Since everyone has the same labels, my umbrella can be identified with a quick glance.  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/a5DeUGNNK3a)

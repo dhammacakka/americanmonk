@@ -10,4 +10,3 @@ Because there are so many pillars and a rear view photo would either put me off 
 Taken with my tablet. This particular drumming was for the preparation of the Patimokkha meeting (recitation of the rules). It can be heard clearly all the way from my kuti. The drum is struck 15 minutes before every meditation session and at 3:30 AM for waking up.  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/1A5iNcRAJJe)

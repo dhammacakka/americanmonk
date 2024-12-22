@@ -12,6 +12,5 @@ This site looks like it was created by Thai Devotees
 another site [http://www.bhikkhu-revata-paauk.com](http://www.bhikkhu-revata-paauk.com) looks like it was created by Myanmar Devotees.  
 Sayadaw U Revata is currently in Thailand by invitation doing a meditation retreat for two weeks.﻿
 
-![](https://lh4.googleusercontent.com/-zEAXnluQa5Y/UxZuhFaZYXI/AAAAAAAAIaQ/YMafzp4OUDo/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/QbAnk3NqSvK)

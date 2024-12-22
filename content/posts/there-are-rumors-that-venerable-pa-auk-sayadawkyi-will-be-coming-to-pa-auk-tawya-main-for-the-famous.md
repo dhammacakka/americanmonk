@@ -13,6 +13,5 @@ The Buddha was hoisted onto the floor when it was finished. Then the rest of the
   
 ﻿
 
-![](https://lh5.googleusercontent.com/-R1o0spx33RE/VMy72xNx8kI/AAAAAAAAK9U/BxKnzmZiQu4/w506-h750/15%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/HSLU23auodS)

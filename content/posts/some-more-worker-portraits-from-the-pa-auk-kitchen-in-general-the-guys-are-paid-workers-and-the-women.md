@@ -13,4 +13,3 @@ Mawlamyine, Mon State, Myanmar
 Photos by Yogi Bram (Belgium)  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/1G9VPdWmpLd)

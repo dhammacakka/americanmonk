@@ -26,6 +26,5 @@ In This American Life, "Less is More," a previous VP or CEO of an insurance comp
 The distorted propaganda about imported medicines being counterfeit might be true if you are looking to buy cheap GSK pills in the USA sent from India over EBay. You might wonder who does these studies and who sponsors them? However, "counterfeit" does not mean they are sugar pills. It just means they have a counterfeit company name on the box. At $0.05 per 200 mg, sugar pills might cost more to put in an expensive fake GSK box than the real thing made by a legit Indian pharmaceutical company. When Big Pharma says they donate millions of dollars of medicine to Third World Countries, and charge high prices in America to offset their costs, you might wonder what they are donating and if actual cash might be more efficient; to buy Asian produced medicines at a fraction of the cost. Not only that, it will lower the carbon footprint from shipping costs and help the Asian economy.  
 ﻿
 
-![](https://lh5.googleusercontent.com/-MrNXksxCn4w/VPOvJVQ4msI/AAAAAAAALDo/HzUVRpZvj2o/w506-h750/15%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/PaTZt1v81Hx)

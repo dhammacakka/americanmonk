@@ -43,6 +43,5 @@ Bus picture is from:
   
 ﻿
 
-![](https://lh3.googleusercontent.com/-w3_ed5Fpbog/U_a0aUgDybI/AAAAAAAAKIk/G3tV-S9PMtE/w506-h750/14%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/b64Bp6zdZoK)
+

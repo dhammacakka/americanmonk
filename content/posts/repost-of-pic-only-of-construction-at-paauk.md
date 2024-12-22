@@ -7,4 +7,3 @@ authors:
 
 Repost of pic only of construction at paauk.﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/YTZzFza9fP2)

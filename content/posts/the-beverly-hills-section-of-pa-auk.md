@@ -12,6 +12,5 @@ This neighborhood is quite old now and some other kuti donor/builders have reall
   
 Kuti #93 recently burned down. It was a wood kuti painted with old engine oil for bugs and weather protection, a fire hazard in itself. A "black kuti" as we now call them. They go back to 2001 or earlier. A battery charger was blamed for the fire.﻿
 
-![](https://lh6.googleusercontent.com/--TDpLQDoQAo/VCQX6psnOWI/AAAAAAAAKXQ/vPBEdihueJM/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/5gLEEQ1bDhN)

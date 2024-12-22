@@ -11,4 +11,3 @@ authors:
 
 Wide And Shining Eyes. It was in 2011 when I came with my ex-wife to Myanmar. In Yangon, there are many begging children that sell postcards on the streets and near the tourist areas. Knowing this beforehand, I used to carry some sweets with me to give them instead of money.
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/aqLJWp9hcBZ)

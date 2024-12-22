@@ -56,6 +56,5 @@ Sadhu!
 
 Update: Everything went well. They came happy, they left happy and I was happy too! Some monks approached me and told me that it was a good idea I had. I think some misunderstandings were changed about the Muslim community because of this act. I wish for hate and violence to end in this world. I am glad I did something more than just wishing.
 
-![](https://lh4.googleusercontent.com/-ClhYmNQHgxw/VDPd5ixOEZI/AAAAAAAAKdk/XpzkNHJQHUs/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/9fcxWopEMZS)

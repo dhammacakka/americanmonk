@@ -37,4 +37,3 @@ Sometimes, if the time is right, we may use the robes for ourselves, give them t
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/Y1R4bRNc9um)

@@ -15,8 +15,4 @@ Ivan Fernandez Anaya, a Basque runner of 24 years who is considered an athlete w
   
 He said at the beginning: “unfortunately, very little has been said of the gesture. And it’s a shame. In my opinion, it would be nice to explain to children, so they do not think that sport is only what they see on TV: violent kicks in abundance, posh statements, fingers in the eyes of the enemy …” - via @Graduate Fasttrack﻿
 
-[Ivan Fernandez Anaya, Spanish Runner, Intentionally Loses Race So Opponent Can Win](https://plus.google.com/+BhikkhuSubhuti/posts/285CogNAe1Y)
-
-[![](https://lh3.googleusercontent.com/proxy/4F_o_gZXsPoXpyfMhqHzFsjVbJOzLRD55_7ltbV_dymlNKKjNNBc2U20FtBIFbECb1INW8GbCM6MC8apZs8l9g=w506-h284-n)](https://plus.google.com/+BhikkhuSubhuti/posts/285CogNAe1Y)
-
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/285CogNAe1Y)
+Ivan Fernandez Anaya, Spanish Runner, Intentionally Loses Race So Opponent Can Win

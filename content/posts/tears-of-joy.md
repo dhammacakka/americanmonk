@@ -28,6 +28,5 @@ May he be healthy for many yogis to learn the True Dhamma from him.
   
 ﻿
 
-![](https://lh3.googleusercontent.com/-0aF-I4yPAKY/U-1_flePyQI/AAAAAAAAKF4/BYRWMwHpH70/w506-h750/14%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/1YJQ5K3ieGn)
+

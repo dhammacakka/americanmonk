@@ -10,6 +10,5 @@ Without a concrete truck, you need many volunteers to work in a concrete fire-li
   
 ﻿
 
-![](https://lh3.googleusercontent.com/-aHnUCvxJRJQ/VR3Ujqf9mWI/AAAAAAAALN4/PNXUAIBWDrA/w506-h750/15%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/1KgizjQZSbM)
+

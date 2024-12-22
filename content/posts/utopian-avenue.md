@@ -30,6 +30,5 @@ Photo of The Pa-Auk Road by Belgium Yogi Bram
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-I9yTmpHwkP0/VHaafFdXG6I/AAAAAAAAKs0/QwA0QYIcSnU/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/1rAVbv9CRKx)

@@ -9,6 +9,5 @@ Today, February 7th, is my ordination anniversary from 2001. I ordained under Ve
 In 1999, I left home to travel the world and possibly following my dream of becoming a monk, and that is exactly what I did.  
 (I reset my ordination in 2007, so I am only 7 monk years old) ﻿
 
-![](https://lh4.googleusercontent.com/-CUdV71uPmCo/UvRV2eYS7uI/AAAAAAAAIMk/LUJ8XLIuuAk/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/1DFDgELhzfx)

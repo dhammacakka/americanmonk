@@ -13,6 +13,5 @@ The hall was designed by "Bobby," who ordained after the project's completion. H
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-x9imUN4RW5w/VJYV-qSBaqI/AAAAAAAAKxY/ULD45ZEplUU/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/buCJPnhFMzb)

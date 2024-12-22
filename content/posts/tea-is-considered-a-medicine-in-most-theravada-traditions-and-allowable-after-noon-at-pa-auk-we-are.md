@@ -9,6 +9,5 @@ Tea is considered a medicine in most Theravada traditions and allowable after NO
 Note: The bottles are recycled.  
 2nd note:  Notice the stray dogs in the road.  I estimate about 50-80 canine residents.  Dogs can survive very well on vegetarian people food.  People can survive very well on vegetarian people food too :)﻿
 
-![](https://lh5.googleusercontent.com/-Pd6FyVVZrlg/UnCbhbI7koI/AAAAAAAAHlQ/A8yArgrjezc/w506-h750/13%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/HMkBaiGB7Zq)

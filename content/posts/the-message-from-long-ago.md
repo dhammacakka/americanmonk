@@ -27,6 +27,5 @@ On my way out from the interview, the offline TV crew chased me down and caught 
 In the end, the networks were at it again, with the same message my friend saw from long ago.  
 ﻿
 
-![](https://lh3.googleusercontent.com/-q8KGAanJ5S8/VCYJiIuYMJI/AAAAAAAAKX4/tbZ39NTAwzg/w506-h750/14%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/dYSsqusgYvL)
+

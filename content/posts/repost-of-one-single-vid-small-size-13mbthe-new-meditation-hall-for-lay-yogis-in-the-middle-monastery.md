@@ -15,10 +15,5 @@ Concrete an "burn" the skin if not rinsed quickly.
 photos and videos are enclosed.  
 ﻿
 
-[2/23/14 - 1](https://plus.google.com/+BhikkhuSubhuti/posts/CjEsQ32QwiJ)
-
-[![](https://lh5.googleusercontent.com/-s7hCh_n9DmE/Uwnvvyx85JI/AAAAAAAAIYE/GYkHSrXxxqk/w506-h379-n-o/14%2B-%2B1)](https://plus.google.com/+BhikkhuSubhuti/posts/CjEsQ32QwiJ)
-
 Repost of one single bid small size. The new Meditation Hall for Lay Yogis in The Middle Monastery o
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/CjEsQ32QwiJ)
