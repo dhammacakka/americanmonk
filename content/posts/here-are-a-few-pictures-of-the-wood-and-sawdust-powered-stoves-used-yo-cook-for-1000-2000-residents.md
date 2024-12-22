@@ -8,4 +8,3 @@ authors:
 Here are a few pictures of the wood and sawdust powered stoves used yo cook for 1000-2000 residents at Pa-Auk Monastery.  
 Photos by Yogi Bram (Belgium)﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/D2U8YYnr6Lv)

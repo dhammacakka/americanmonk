@@ -81,6 +81,5 @@ I wish for the Theravada Buddhists to practice what Theravada Buddhism preaches 
   
 ﻿
 
-![](https://lh5.googleusercontent.com/-h1hxWmyiPAE/VEeqGEB9KcI/AAAAAAAAKgE/Z7Oc_kRwNrE/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/MEFZy5aPqhE)

@@ -18,4 +18,3 @@ Myanmar was once known as a place where you could still see ox and pony carts, b
   
 3\. Evidence of embargo state..recycling..﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/ACQHmSWK3x6)

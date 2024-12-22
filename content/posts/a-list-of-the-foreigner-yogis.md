@@ -16,6 +16,5 @@ I think that the nuns who identify as "Theravada bhikkhuni/samaneri" are grouped
   
 ﻿
 
-![](https://lh4.googleusercontent.com/-k3hdxNi1KEM/U_a0sGvRaSI/AAAAAAAAKI0/SuJ6kwtZbgY/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/MA8h64q3BFV)

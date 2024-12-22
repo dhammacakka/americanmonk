@@ -20,6 +20,5 @@ Abhidhamma Post #2
 [https://plus.google.com/+BhikkhuSubhuti/posts/UXMGTdWrvnm](https://plus.google.com/+BhikkhuSubhuti/posts/UXMGTdWrvnm)  
 ﻿
 
-![](https://lh3.googleusercontent.com/-1Glnem7Jy6M/U36Jrdt_ZZI/AAAAAAAAJMQ/X-YY0i5kzjQ/w506-h750/14%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/PteZPTSy8vL)
+

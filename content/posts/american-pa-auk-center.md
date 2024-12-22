@@ -18,4 +18,3 @@ I hope I can help under the right conditions. I am an expert in getting vinaya m
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/dgNMEDW8rFu)

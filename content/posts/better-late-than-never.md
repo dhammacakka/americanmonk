@@ -11,6 +11,5 @@ Some people believe they are too old to become a monk. Venerable Ashin Nandasara
 Attached photo taken 16th July, 2014 in his kuti by Ashin U PannyaGavesaka (a bhikkhu on his 9th rains who also ordained later in life, known as the Assistant Librarian and designer/architect of Mettavihari Meditation Hall (for the female side).  
 ﻿
 
-![](https://lh5.googleusercontent.com/-VEUAp-qtYwc/U8xi2Kb0B0I/AAAAAAAAJ6M/v7MfPYsjUYM/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/8jacR5M5HaR)

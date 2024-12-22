@@ -11,6 +11,5 @@ Monks cannot eat food that has not been personally offered by a donor. This food
 Photos by Yogi Bram (Belgium)  
 ﻿
 
-![](https://lh4.googleusercontent.com/-TOUXRShGBXQ/U7nr5kUYzoI/AAAAAAAAJ1w/IE_xdklTVsg/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/417JVhNvA6U)

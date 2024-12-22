@@ -18,6 +18,5 @@ The Vietnam group uses a mic twice per week.
 **The Best Part**: _The microphones cost about $7 each._ :-)  
 ﻿
 
-![](https://lh6.googleusercontent.com/-QbMRwTEnXTI/U0tST0fTcoI/AAAAAAAAIrA/-4988vEu_ao/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/VAPY2Cj3omM)

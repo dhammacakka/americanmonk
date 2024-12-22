@@ -31,4 +31,3 @@ Currently, there are roughly:
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/Fv32UPPDA75)

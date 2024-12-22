@@ -59,6 +59,5 @@ until he attained the paths one after the other and reached destruction of canke
   
 My note: The teeth can be an easier way to see the scull-face skeleton because the skull-face is much smaller than the external skin-face. The teeth can help one see that smaller portion and then the rest of the skeleton can appear.﻿
 
-![](https://lh3.googleusercontent.com/-Ax-txtJZA6I/VVk-bKU7MUI/AAAAAAAALWc/tMc8wOZNsbM/w506-h750/15%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/DdnCcHaweTK)
+

@@ -17,6 +17,5 @@ Rupa (materiality) as groups (Kalapa) p. 354
   
 ﻿
 
-![](https://lh4.googleusercontent.com/-fee3Arma8TA/U4p3cgwfLnI/AAAAAAAAJg4/6ZqI2NAUTPo/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/Ufpf3KGakgr)

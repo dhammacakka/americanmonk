@@ -16,7 +16,7 @@ image: /images/buddhist_compass-1.webp
 featured_image: /images/buddhist_compass-1.webp
 ---
 
-![](https://play-lh.googleusercontent.com/RLdLjTdLL7lUZijOYgJzXU0iw_8GGkUJx7khyOLQE1hsliPdG5tDVQv4VKKK6uc0-bR0)
+!
 
 ### Buddhist Compass - Apps on Google Play
 

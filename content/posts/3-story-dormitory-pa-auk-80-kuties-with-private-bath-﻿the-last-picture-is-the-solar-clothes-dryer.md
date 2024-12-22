@@ -11,4 +11,3 @@ authors:
 80 kuties with private bath.﻿  
 The last picture is the Solar Clothes Dryer (no carbon credit)﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/gZkDThoJKVj)

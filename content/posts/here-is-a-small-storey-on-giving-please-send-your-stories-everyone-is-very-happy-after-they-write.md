@@ -11,4 +11,3 @@ Here is a small storey on giving. Please send your stories! Everyone is very hap
 
 December 26, 2014. I want to share something that happened to me here this morning. I went to the dining hall as usual for breakfast. Lots of people today for tambun ( donating to the Sangha). I walked the lines of lay supporters getting rice and then got the rest of my food.
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/EeHoiCJmqjA)

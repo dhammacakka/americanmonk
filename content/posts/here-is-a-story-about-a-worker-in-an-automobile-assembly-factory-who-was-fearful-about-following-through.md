@@ -10,8 +10,7 @@ Here is a story about a worker in an automobile assembly factory who was fearful
 
 [The Vote Was Nay | With Metta](http://withmetta.net/the-vote-was-nay/)
 
-[![](https://lh3.googleusercontent.com/proxy/K3UoPv8MaUhRM58qZy2FXZeU6IBALAfGLo5g7cH89Y4xLJk08rzDJAJ7-QW4XY5yQcOxoxy54LPvYXMUAF-u6DbqrLIPXfsoax_i=w120-h120)](http://withmetta.net/the-vote-was-nay/)
+[](http://withmetta.net/the-vote-was-nay/)
 
 “The Vote Was Nay”. By Randy, The Auto Worker. For many years I have wanted to see Myanmar (Burma). I have never travelled outside of North America, and in my daily life, I am for the most part a homebody/recluse. In fact, fear has kept me from doing many things I would like to do in life.
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/E4B9WUJbFju)

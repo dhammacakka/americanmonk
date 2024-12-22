@@ -12,6 +12,5 @@ Take a listen to what the room sounds like. Here... [https://archive.org/details
 I have tried practicing in this room. It his quite intense and yes...probably better progress than doing it quietly alone.﻿  
 Ps. That is just a water bottle..not soda!﻿
 
-![](https://lh3.googleusercontent.com/-W1LjtkpeO80/VLIovUlD8SI/AAAAAAAAK34/1BwfACida3Y/w506-h750/15%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/92fDRbWJuxk)
+

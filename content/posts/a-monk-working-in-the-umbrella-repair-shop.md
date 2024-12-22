@@ -19,6 +19,5 @@ U Thee is a real pro. He can do anything with your umbrella, and there are plent
 [#monastery](https://plus.google.com/s/%23monastery) [#myanmar](https://plus.google.com/s/%23myanmar) [#umbrella](https://plus.google.com/s/%23umbrella) [#recycle](https://plus.google.com/s/%23recycle)  
 ﻿
 
-![](https://lh3.googleusercontent.com/-YdIiNqFSGak/VMbYmRQDdZI/AAAAAAAAK8g/lC3P9Gwt86I/w506-h750/15%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/CT8vUpNidnL)
+
