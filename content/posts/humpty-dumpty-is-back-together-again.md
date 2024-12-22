@@ -11,6 +11,5 @@ authors:
   
 ﻿
 
-![](https://lh5.googleusercontent.com/-ncDtynGC4TU/VCwDS0aB5SI/AAAAAAAAKbk/VG6yMD-wwOU/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/UjEh3nnXfbC)

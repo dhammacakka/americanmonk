@@ -15,9 +15,6 @@ Did it wear as expected? I am not sure. The paint now is a little darker from th
   
 Pa-Auk Main, Mawlamyine, Mon State, Myanmar  
   
-  
-[#art](https://plus.google.com/s/%23art) [#sculpture](https://plus.google.com/s/%23sculpture) [#ashoka](https://plus.google.com/s/%23ashoka) [#monastery](https://plus.google.com/s/%23monastery)﻿
 
-![](https://lh5.googleusercontent.com/-MS4zeOuOqnI/VOHUky7MyoI/AAAAAAAALBA/XIqggz6FuhQ/w506-h750/15%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/fnvnDtFDA9d)

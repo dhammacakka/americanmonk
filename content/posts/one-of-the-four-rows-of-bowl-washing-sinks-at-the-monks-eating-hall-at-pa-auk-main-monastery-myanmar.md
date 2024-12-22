@@ -9,4 +9,3 @@ One of the four rows of bowl washing sinks at the monk's eating hall at Pa-Auk M
 Photos by Yogi Bram (Belgium)  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/fyuKuEZob5j)

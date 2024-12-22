@@ -12,6 +12,5 @@ Kauai has a wonderful and flexible beach park system, legal for camping, and I h
 The strung flowers on my alter look differently these days.  
 ????﻿
 
-![](https://lh3.googleusercontent.com/-dD6qEbx1Hqs/VRU2tHJnmuI/AAAAAAAALMM/ZVu3u5kRa3A/w506-h750/15%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/CMkmHH62QHe)
+

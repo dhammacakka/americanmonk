@@ -9,4 +9,3 @@ I forget how many rainbows I have seen this month. Maybe 7 or 8? This one was ov
 
 [![IMG_20150721_071616](/images/IMG_20150721_071616.webp" >}}](/images/2015/08/IMG_20150721_071616.webp" >}}
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/U6cHhu3V77P)

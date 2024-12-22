@@ -7,4 +7,3 @@ authors:
 
 Path at Pa-auk.﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/4JW6QCna8Z8)

@@ -10,6 +10,5 @@ A kitchen worker makes an aspiration after delivering the day's meal to the Pa-A
 Photos by Yogi Bram (Belgium)  
 ﻿
 
-![](https://lh4.googleusercontent.com/-Ui6taXL_R44/U7Yam9p6dTI/AAAAAAAAJzU/Lzz-68lncrU/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/9YvL2Qa11Gi)

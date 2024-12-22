@@ -12,6 +12,5 @@ Anguttara Nikāya (A.11:16) Translated by: Ven. Anandajoti
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-QF3IuiVVK7o/U9XDDPMwRuI/AAAAAAAAJ8w/uHgQw-nyeSU/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/GCr5app31j1)

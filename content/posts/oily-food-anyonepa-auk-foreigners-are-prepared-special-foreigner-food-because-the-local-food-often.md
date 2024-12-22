@@ -19,4 +19,3 @@ According to the Ancient Commentary, "proper proportion" means no more than one-
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/daYdtM7KZKo)

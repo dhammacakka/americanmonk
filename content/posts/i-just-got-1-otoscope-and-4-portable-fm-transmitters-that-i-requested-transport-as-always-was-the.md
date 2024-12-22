@@ -16,6 +16,5 @@ May those who will actively and passively use these devices all benefit and real
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-nTp8JJQMpWY/VGgZIlfnZqI/AAAAAAAAKpg/gIXoUAE1_Rg/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/YYHzvC2VDth)

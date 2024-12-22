@@ -36,6 +36,5 @@ From BMC 2
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-VlqcWvK8Nts/VDEtgtU-laI/AAAAAAAAKdA/FGT49ATyfDk/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/JZeepkwebp7)

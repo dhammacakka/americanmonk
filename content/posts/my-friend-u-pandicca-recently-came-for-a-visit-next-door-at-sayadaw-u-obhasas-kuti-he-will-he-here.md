@@ -14,4 +14,3 @@ Sayadaw U Obhasa attracts high-loving-kindness bhikkhus and I am happy to have h
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/H2NF4TPtBK4)

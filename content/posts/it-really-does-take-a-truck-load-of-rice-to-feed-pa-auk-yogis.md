@@ -9,4 +9,3 @@ authors:
 Two large cargo trucks deliver truck loads of rice to the Pa-Auk rice storage building.  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/iMJW7ABraa9)

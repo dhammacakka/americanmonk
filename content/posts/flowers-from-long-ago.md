@@ -39,6 +39,5 @@ Evam-eva kho sabbe saṇkhārā aniccā, sabbe saṇkhārā dukkhā, sabbe dhamm
 (It was a long time ago and my memory may have varied a bit. This was the hybrid version that came to my mind)  
 ﻿
 
-![](https://lh6.googleusercontent.com/-vSt5c1l_gKM/U-V3AJwkOAI/AAAAAAAAKDI/u3x_2SqNG3E/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/EG6y7oyDTK5)

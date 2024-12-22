@@ -12,4 +12,3 @@ New batches are made daily for the monastery's 500+ monks.
 If anybody knows about mordants, especially iron infused water and how to make it please let me know.  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/ce5G2zYunyt)

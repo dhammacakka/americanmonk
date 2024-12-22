@@ -21,6 +21,5 @@ Picture credit.
 [http://www.google.com.mm/search?newwindow=1&biw=1280&bih=278&tbm=isch&sa=1&ei=y-y5U9\_jE4jOkwWL24AQ&q=singing+with+headphones+man&oq=singing+with+headphones+man&gs\_l=tablet-gws.3...5403.6011.0.6569.4.4.0.0.0.0.0.0..0.0.ernk\_qsrb...0...1.1.48.tablet-gws..4.0.0.u4vjgkVM3to#facrc=\_&imgrc=5v0tN3Mb1HJtoM%253A%3BMSXi18QCus6sPM%3Bhttp%253A%252F%252Fwww.musicappblog.com%252Fwp-content%252Fuploads%252F2012%252F11%252Fscreaming-man-with-headphones.webp%3Bhttp%253A%252F%252Fwww.musicappblog.com%252Fwhat-audio-interface%252F%3B1000%3B1000](http://www.google.com.mm/search?newwindow=1&biw=1280&bih=278&tbm=isch&sa=1&ei=y-y5U9_jE4jOkwWL24AQ&q=singing+with+headphones+man&oq=singing+with+headphones+man&gs_l=tablet-gws.3...5403.6011.0.6569.4.4.0.0.0.0.0.0..0.0.ernk_qsrb...0...1.1.48.tablet-gws..4.0.0.u4vjgkVM3to#facrc=_&imgrc=5v0tN3Mb1HJtoM%253A%3BMSXi18QCus6sPM%3Bhttp%253A%252F%252Fwww.musicappblog.com%252Fwp-content%252Fuploads%252F2012%252F11%252Fscreaming-man-with-headphones.webp%3Bhttp%253A%252F%252Fwww.musicappblog.com%252Fwhat-audio-interface%252F%3B1000%3B1000)  
 ﻿
 
-![](https://lh6.googleusercontent.com/-JxoDPED6HFM/U73Ijh8OiOI/AAAAAAAAJ3g/VmoWEvhX-uk/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/5CB31U3AhG1)

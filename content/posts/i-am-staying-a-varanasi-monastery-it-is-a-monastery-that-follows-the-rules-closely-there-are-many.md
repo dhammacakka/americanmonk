@@ -16,4 +16,3 @@ Today I went to chanting even though I was discouraged not to go. I knew most of
 It was very fun to chant with the group of monks. In the front were the senior monks chanting calmly and peacefully while the little monks in the back were shouting as loud as they could. The contrast in chanting styles was amusing and beautiful. Just what I needed after a really-really rough day in the city trying to get some correctly done diagnostic tests.  
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/MwHdBei1mPj)

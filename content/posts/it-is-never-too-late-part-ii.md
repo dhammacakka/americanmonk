@@ -13,6 +13,5 @@ He is now working on his 9th year as a monk.
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-Z3HH5F6apD0/U-lllNHAwwI/AAAAAAAAKEg/BWJQ58lhjDY/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/WurPiL7XCpo)

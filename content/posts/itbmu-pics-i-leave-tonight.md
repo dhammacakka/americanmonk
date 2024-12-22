@@ -7,4 +7,3 @@ authors:
 
 Itbmu pics. I leave tonight.﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/EX14hvjvQkQ)

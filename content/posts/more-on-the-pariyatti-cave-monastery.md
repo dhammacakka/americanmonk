@@ -7,4 +7,3 @@ authors:
 
 More on the pariyatti cave monastery.﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/dZes4Lq5Yq3)

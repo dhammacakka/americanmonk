@@ -30,4 +30,3 @@ There are 3 food banks per week in our area alone and we have emergency food at 
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/UMPMSpdWx88)

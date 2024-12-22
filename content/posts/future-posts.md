@@ -26,6 +26,5 @@ Lastly, I hope to upload a video of the kitchen after all of Yogi Brahm's kitche
 PDF download for 4 lessons. [https://docs.google.com/viewer?a=v&pid=explorer&srcid=0B8Uv4wlWLt9rZDZRX3h6eFc0Vms](https://docs.google.com/viewer?a=v&pid=explorer&srcid=0B8Uv4wlWLt9rZDZRX3h6eFc0Vms) This post is from my personal G+ Page.  
 ﻿
 
-![](https://lh4.googleusercontent.com/-6t8mGiyGJrY/U6T44sQdkfI/AAAAAAAAJu4/jMJPcjF8NrU/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/iDE13RPcfDT)

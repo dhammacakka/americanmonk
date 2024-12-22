@@ -14,6 +14,5 @@ That was a great discussion!
 Bhikkhu U Dhaminda also wrote _A Life Free From Money_, A free vinaya PDF on the rules concerning money (ie. not handling it) which I recommend all monks to read. Easy to find on Google.  
 ﻿
 
-![](https://lh5.googleusercontent.com/-pvitH_WpbHc/U-wtEYNP-bI/AAAAAAAAKFI/yGLOj6G2W3o/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/QhC9RXGHS5q)

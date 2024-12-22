@@ -20,10 +20,9 @@ A very heavy but recoverable offence is when a monk intentionally touches a woma
 
 [Ultra-Orthodox Men Cause Flight Delay, Again](http://www.huffingtonpost.com/2014/12/29/orthodox-jewish-men-flight-delay_n_6391104.html)
 
-[![](https://lh4.googleusercontent.com/proxy/RS1qEz2z3UNOXxhapnjQeBa4e3DoES89D66PYinlxbohnRy4L1fA5euU7hCufT8J6BPzH119NqY9vqS1Fl-DUdQj5nqW2NjVBkUvtxn7I8Kr4Psp2Mk=w506-h303)](http://www.huffingtonpost.com/2014/12/29/orthodox-jewish-men-flight-delay_n_6391104.html)
+](http://www.huffingtonpost.com/2014/12/29/orthodox-jewish-men-flight-delay_n_6391104.html)
 
 An international Delta Airlines flight was reportedly delayed for roughly half an hour when several ultra-Orthodox Jewish men refused to sit next to female passengers.
 
 Israel Radio first reported that Delta Flight 468, bound for Tel Aviv's Ben Gur...
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/VLQbGHw2TPs)

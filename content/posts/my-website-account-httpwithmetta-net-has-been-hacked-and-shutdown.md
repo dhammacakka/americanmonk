@@ -7,4 +7,3 @@ authors:
 
 My website account [http://withmetta.net](http://withmetta.net) has been hacked and shutdown. ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/CiuYUVACDFY)

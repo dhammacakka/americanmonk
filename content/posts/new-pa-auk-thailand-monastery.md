@@ -18,4 +18,3 @@ Pa-Auk USA is not a real monastery. It is privately run by a Chinese Singaporean
 I lost count, but there are maybe 40+ paauk branches locally and maybe 10 or so abroad. Mostly, Malaysia, Taiwan, Indonesia, Thailand, Vietnam, Singapore, Nepal.  
 Nauyana, Sri Lanka is a separate monastery, but teaches Pa-Auk Method.﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/B1VRBRYyjA2)

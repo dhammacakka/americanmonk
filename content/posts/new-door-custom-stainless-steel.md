@@ -7,4 +7,3 @@ authors:
 
 New door. Custom Stainless steel. ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/jbac4HvZ9Uv)

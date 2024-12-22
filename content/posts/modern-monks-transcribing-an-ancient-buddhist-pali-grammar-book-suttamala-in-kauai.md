@@ -11,4 +11,3 @@ Modern monks transcribing an ancient Buddhist Pali Grammar book (suttamala) in K
 
 [![IMG_20150703_133241~2](/images/IMG_20150703_1332412.webp" >}}](/images/2015/08/IMG_20150703_1332412.webp" >}}
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/AAL3BAZiZRz)

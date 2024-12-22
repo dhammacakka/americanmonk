@@ -11,6 +11,5 @@ My dream to be a monk and live in Hawaii, which specifically changed to Kauai, t
 No, I will not go alone. So if the visa fails, or I cannot find another monk to come with me, the whole thing gets cancelled.  
 I will go to Yangon quite soon to start arrangements.????﻿
 
-![](https://lh3.googleusercontent.com/-YsIQqser1lE/VShkMV4lmHI/AAAAAAAALQ4/NhVYDmBN1tQ/w506-h750/15%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/HvVMQC7hrWJ)
+

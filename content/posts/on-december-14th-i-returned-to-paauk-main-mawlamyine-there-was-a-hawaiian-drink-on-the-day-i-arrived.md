@@ -11,4 +11,3 @@ There was a Hawaiian drink on the day I arrived; Noni.  In Hawaii, this fruit, 
 
 {{< img src = "/images/Noni.webp" >}}
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/cnPvb2NPqjk)

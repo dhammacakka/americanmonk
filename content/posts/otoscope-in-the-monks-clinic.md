@@ -13,6 +13,5 @@ Btw: An otoscope is the standard device doctors use to look inside your ears. I 
   
 ﻿
 
-![](https://lh6.googleusercontent.com/-wetpRnHAshs/VJ-exopowuI/AAAAAAAAKyc/GuJeTU_YDCE/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/8LK4n73u7Ui)

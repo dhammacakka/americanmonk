@@ -21,6 +21,5 @@ It reminds me of the old a capella "Mercedes Benz" Janis Joplin Song, but maybe 
 Previous story about "Little Wing"  
 [https://plus.google.com/112888403041928548256/posts/61FccThF1Yb](https://plus.google.com/112888403041928548256/posts/61FccThF1Yb) ﻿
 
-![](https://lh3.googleusercontent.com/-uJBdg2s7Qrw/VAey2p9B-II/AAAAAAAAKN8/X0c0AMiLk1c/w506-h750/14%2B-%2B1)
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/dEb1hLrLUQe)
+

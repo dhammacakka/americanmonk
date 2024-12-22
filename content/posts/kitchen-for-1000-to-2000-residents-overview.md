@@ -15,6 +15,5 @@ Some nun's work in the kitchen, but most nuns and laywomen are free to meditate 
 This is just one picture from my tablet. Most pictures were taken by a layperson in still and or video with a high quality camera.  
 ﻿
 
-![](https://lh6.googleusercontent.com/-pmFWZfd4ewM/U4EyDQtHieI/AAAAAAAAJO4/WbrWPtmKrZY/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/QnhmaewCuW2)

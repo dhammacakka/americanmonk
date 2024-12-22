@@ -32,6 +32,5 @@ I was happy to have my lay Nepal friend arrange this microphone because he reall
 I wish my friend continued associations with sangha.  
 ﻿
 
-![](https://lh5.googleusercontent.com/-17t7k1Rvqts/VBGkSammGlI/AAAAAAAAKQY/n2NaaxBkyAc/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/TmsCC1dnuqy)

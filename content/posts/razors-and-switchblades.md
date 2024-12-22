@@ -18,4 +18,3 @@ At Nauyana, sometimes a nice gift would be arranged for all of the monks at Nauy
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/ZUwTRPVT7ye)

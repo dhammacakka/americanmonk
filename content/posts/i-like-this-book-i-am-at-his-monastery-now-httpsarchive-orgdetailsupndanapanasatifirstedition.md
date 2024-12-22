@@ -9,4 +9,3 @@ authors:
 I like this book. I am at his monastery now.  
 [https://archive.org/details/UPNDAnapanasatifirstEdition](https://archive.org/details/UPNDAnapanasatifirstEdition)﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/QyvPLVLLzuM)

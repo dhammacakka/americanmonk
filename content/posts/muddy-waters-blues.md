@@ -12,6 +12,5 @@ Maymyo area has calcium carbonate in its water.
 Nauyana, Sri Lanka has a mountain water spring....ahhh!  
 ﻿
 
-![](https://lh5.googleusercontent.com/-bFmJypMIBng/VHPc8kQ38hI/AAAAAAAAKsM/rOT_ZZ5sXrs/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/YTuGMLqJMFL)

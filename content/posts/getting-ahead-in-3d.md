@@ -29,8 +29,7 @@ Open Source films at.
 
 [Head made with Blender](https://plus.google.com/+BhikkhuSubhuti/posts/apfwFAyJh5M)
 
-[![](https://lh4.googleusercontent.com/proxy/xnyNWnXkYMwV8WMQmoGdNKXv-T4N9r4dFmpnd-Dx8Ja5mIizgLMMKExU0cQmqlcEO8CyvdTNOlgaFFloI2FeEQskiUQ=w506-h284-n)](https://plus.google.com/+BhikkhuSubhuti/posts/apfwFAyJh5M)
+](https://plus.google.com/+BhikkhuSubhuti/posts/apfwFAyJh5M)
 
 This is a self portrait, made with Blender 2.74, in Cycles render of course. It is still a WIP but a
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/apfwFAyJh5M)

@@ -36,6 +36,5 @@ I tried to do some work with stackexchange in attempt to counter some controvers
   
 ﻿
 
-![](https://lh4.googleusercontent.com/-KstTkmcfqqs/VAJt6xU2lfI/AAAAAAAAKMg/KLz3h5uatRM/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/aXMxGJmhzV5)
