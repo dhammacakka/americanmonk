@@ -17,4 +17,3 @@ There were some special insulated cups too. I gave those away to Varanasi Monast
   
 ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/9fCTaKToChT)

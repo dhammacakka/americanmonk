@@ -12,8 +12,7 @@ A simple story where a donation to a beggar on a New York City subway turned int
 
 [Dinner For One](http://withmetta.net/giving-metta/dinner-for-one.html)
 
-[![](https://lh5.googleusercontent.com/proxy/64ZrxzhcPhO8W-_UAQv5Eld96edqpADAvmXJ13l0uVRAMp7uIKpyNDH3wf07xpJEXQu2lViFWPGBsnSH4hhdS1EyQnA=w120-h120)](http://withmetta.net/giving-metta/dinner-for-one.html)
+](http://withmetta.net/giving-metta/dinner-for-one.html)
 
 Dinner For One. I remember when I was taking Pāli Language lessons at The American Burmese Buddhist Association in Brooklyn, New York some time in 1998. The monastery was virtually unknown to the local Americans at that time and I would go there on Fridays and leave on Sundays for my private ...
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/LVzRcTCvSEg)

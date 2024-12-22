@@ -18,6 +18,5 @@ During my travels, I was being evacuated from Fiji during the uprising of 2000 b
   
 Photo by Kappiya Thinh (Vietnam) and heavily doctored by me with Google Photos app.﻿
 
-![](https://lh5.googleusercontent.com/-mL42Hu2lIgk/U9w7gBvkdRI/AAAAAAAAKAQ/860rE44RBdc/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/LLfXAq5C2Bh)

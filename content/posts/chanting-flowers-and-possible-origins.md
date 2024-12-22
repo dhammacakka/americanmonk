@@ -23,6 +23,5 @@ I have posted the chanting book on my website.
   
 ﻿
 
-![](https://lh4.googleusercontent.com/-8tcud02gQmk/U_PrdrnSsbI/AAAAAAAAKHA/6zYMBCiJyGI/w506-h750/14%2B-%2B1)
+!
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/XbMpAUW3Rhv)

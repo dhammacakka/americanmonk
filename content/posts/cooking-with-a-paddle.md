@@ -11,4 +11,3 @@ authors:
   
 [#Photography](https://plus.google.com/s/%23Photography)﻿ ﻿#Cooking [#Food](https://plus.google.com/s/%23Food) [#Catering](https://plus.google.com/s/%23Catering) [#Pa-Auk](https://plus.google.com/s/%23Pa-Auk)﻿ ﻿
 
-[This was posted on Google+](https://plus.google.com/+BhikkhuSubhuti/posts/DhtU2rhzwiw)
