@@ -64,6 +64,17 @@
   </script>
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/custom.css">
+  <script>
+    const pathname = window.location.pathname;
+    if (pathname.startsWith("/tag/")) {
+      const newPath = pathname.replace("/tag/", "/tags/");
+      window.location.replace(newPath);
+    } else if (pathname.startsWith("/category/")) {
+      const newPath = pathname.replace("/category/", "/categories/");
+      window.location.replace(newPath);
+    }
+  </script>
+
 </head>
 
 <body class="ma0 {{ $.Param " body_classes" | default "avenir bg-near-white" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{
