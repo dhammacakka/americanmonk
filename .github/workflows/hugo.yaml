@@ -58,14 +58,10 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"   
-      - name: Debug Hugo Output
-        run: ls -la ./docs 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./docs
-      - name: List Uploaded Artifacts
-        run: ls -la /home/runner/work/_temp/
 
   # Deployment job
   deploy:
