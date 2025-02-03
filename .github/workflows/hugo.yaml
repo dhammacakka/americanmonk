@@ -2,10 +2,10 @@
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches:
-      - main
+      - main  # Runs automatically when changes are pushed to main
+  workflow_dispatch:  # Allows manual trigger
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -61,7 +61,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./docs
 
