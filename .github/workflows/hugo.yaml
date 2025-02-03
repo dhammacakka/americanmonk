@@ -64,6 +64,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./docs
+      - name: List Uploaded Artifacts
+        run: ls -la /home/runner/work/_temp/
 
   # Deployment job
   deploy:
@@ -75,4 +77,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
