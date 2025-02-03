@@ -27,10 +27,15 @@ environment = "production"
 enableRobotsTXT = true
 
 [outputs]
-  home = ['html', 'rss']
-  section = ['html', 'rss']
-  taxonomy = ['html']
-  term = ['html']
+  home = ['html', 'rss']          # Generates HTML and RSS for the homepage
+  section = ['html', 'rss']       # Generates HTML and RSS for sections (e.g., /blog/)
+  taxonomy = ['html', 'rss']      # Generates HTML and RSS for all taxonomies (e.g., /tags/ and /categories/)
+  term = ['html', 'rss']          # Generates HTML and RSS for individual terms (e.g., /tags/example/ or /categories/news/)
+
+[taxonomies]
+  tag = "tags"                    # Defines the "tag" taxonomy with URLs under /tags/
+  category = "categories"         # Defines the "category" taxonomy with URLs under /categories/
+
 
 [permalinks]
   posts = "/:filename/"
@@ -41,9 +46,10 @@ enableRobotsTXT = true
   priority = 0.5
   filename = 'sitemap.xml'
 
-[services]
-  [services.disqus]
-    shortname = 'americanmonk-org'
+# [services]
+#   [services.disqus]
+#     shortname = 'americanmonk-org'
+
 
 [markup]
   [markup.goldmark]
