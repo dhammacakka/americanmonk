@@ -1,6 +1,6 @@
 ---
 title: Does Buddhism Have A Creator
-date: 2025-2-3
+date: 2025-02-03
 categories:
     - interesting-things
     - teaching
