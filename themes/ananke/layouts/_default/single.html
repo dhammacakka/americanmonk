@@ -40,14 +40,10 @@
       </div>
 
       {{- partial "tags.html" . -}}
-      <div class="mt6 instapaper_ignoref">
-        {{ if .Site.Config.Services.Disqus.Shortname }}
-          {{ template "_internal/disqus.html" . }}
-        {{ end }}
-        {{ if .Site.Params.commentoEnable }}
-          {{- partial "commento.html" . -}}
-        {{ end }}
-      </div>
+<div class="mt6 instapaper_ignoref">
+  {{ partial "comments.html" . }} <!-- ✅ Add Giscus comments here -->
+</div>
+
     </div>
 
     <aside class="w-30-l mt6-l">
