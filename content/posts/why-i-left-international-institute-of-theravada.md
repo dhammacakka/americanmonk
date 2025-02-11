@@ -21,7 +21,7 @@ featured_image: /images/why-i-left-iit.webp
 ---
 
 ## Introduction
-On January 2nd, 2025, I left The International Institute of Theravāda (IIT). It was something I had planned since late September 2024 and something I had wanted to do within the first few months of first attending in December 2022. I patiently waited for things to change. The main reason I left was that it was just a little too intensive for me and different from what I originally signed up for. I signed up to learn the Pāḷi language and also to fulfill the requirements of **Nissaya Muttaka**.  
+On January 2nd, 2025, I left {{< extlink "https://americanmonk.org/international-institute-of-theravada/" "The International Institute of Theravāda (IIT)" >}}. It was something I had planned since late September 2024 and something I had wanted to do within the first few months of first attending in December 2022. I patiently waited for things to change. The main reason I left was that it was just a little too intensive for me and different from what I originally signed up for. I signed up to learn the Pāḷi language and also to fulfill the requirements of **Nissaya Muttaka**.  
 
 **Nissaya Muttaka** refers to the list of items needed by a student to be free from a teacher who gives dependence. If you do not have these qualities fulfilled at one time or another (not required to have all at once), then you need to repeatedly ask a teacher to watch over you, and you need to ask them for permission when you want to do many things, like shaving, cutting nails, or even leaving the monastery. There are different interpretations of what is needed to be considered "independent." Some monasteries allow independence simply by the ability to "read" the **bhikkhu pātimokkha**, but the official Pāḷi text commentary provides a more detailed list:
 
@@ -37,21 +37,35 @@ I have recited the **pātimokkha** for the **saṅgha** in its entirety from mem
 ## Catubhāṇavāra
 Another major list item is the **catubhāṇavāra**. This means that one needs to recite by memory, at one time or another, a total of **four measures of 8,000 syllables** of anything in the Sutta Piṭaka. While 32,000 syllables are required, I have done a little bit more than that.  Below is a chart of what I have memorized:
 
-| Section                                      | Syllables |
-|----------------------------------------------|-----------|
-| **Saḷāyatanavaggasaṃyutta** Cha 4 5 (20 suttas total) | 21,236    |
-| Extra missing intro "Evaṃ me sutaṃ" (72 * 20) | 1,440     |
-| **Dhammapada** 1-251 verses                  | 9,017     |
-| **Khuddaka** (except Kumārapañhā)            | 3,327     |
-|                                              |           |
-| **Total**                                    | **35,020** |
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+</style>
+
+| **Section**                                     | **Syllables** |
+|-------------------------------------------------|-------------:|
+| **Saḷāyatanavaggasaṃyutta** Cha 4 5 (20 suttas total) | 21,236 |
+| Extra missing intro “Evaṃ me sutaṃ” (72 * 20)  | 1,440  |
+| **Dhammapada** 1-251 verses                     | 9,017  |
+| **Khuddaka** (except Kumārapañhā)               | 3,327  |
+| **Total**                                       | **35,020**  |
 
 ## Other List Items
 Generally speaking, I have some understanding of the other list items. *(One does not need attainments, but must technically know how they are achieved.)* I also need to study some of the **vinayakammas**, but we usually read these statements from a book. Therefore, I have fulfilled the general requirements.
 
 ### **The Time Commitment of IIT**  
 
-The **6-Year Program** at IIT is not only called **"Nissaya Muttaka"**, but it is primarily an **academic program** with the **Nissaya Muttaka requirements** as a **secondary focus**. The program demands a **significant time investment**, with approximately **6 hours of classes per day, four days per week**. Additionally, students undergo **recitation exams every Wednesday** and **written exams on most Fridays**.  
+The **6-Year Program** at IIT is not only called **"Nissaya Muttaka"**, but it is primarily an academic program with the Nissaya Muttaka requirements as a secondary focus. The program demands a significant time investment, with approximately 6 hours of classes per day, four days per week. Additionally, students undergo recitation exams every Wednesday and written exams on most Fridays.  
 
 The **final exam period** is particularly intensive. Each subject’s final exam consists of **a two-hour morning session** (multiple-choice and short-answer questions) and **a three-hour afternoon session** (essay-based questions). With **seven different courses**, students face rigorous testing that requires deep focus, memorization, and strong analytical skills.
 
@@ -66,7 +80,7 @@ I am now studying another **Pāḷi language** course, which is designed to buil
 While I can retain the general background information to look things up again, retaining the details and granularity of what I studied was difficult after completing the exams. Because of this, I felt I was wasting my time. I would rather study to remember how to look things up rather than study for detailed granularity on exams that would later be forgotten.
 
 ## Kelaniya University
-One of my motivations for leaving was the opportunity to pursue a **Master's Degree in Buddhist Studies** at **Kelaniya University**. The workload is six hours of classes every Saturday.  It appears to be only **25%** of what we were doing at IIT, and after just one year, I will have an **M.A. degree**. I believe this will be useful if I decide to teach a **free AP Buddhist Course in America** later on. I think this would attract people who are casually interested in Buddhism but are more motivated by the opportunity to earn **university applied credit**. I myself was introduced to Buddhism while taking a **World Religions** course in 1990, so I feel this is an important propagation tool.
+One of my motivations for leaving was the opportunity to pursue a **Master's Degree in Buddhist Studies** at **Kelaniya University**. The workload is six hours of classes every Saturday.  It appears to be only 25% of what we were doing at IIT, and after just one year, I will have an M.A. degree. I believe this will be useful if I decide to teach a free AP Buddhist Course in America later on. I think this would attract people who are casually interested in Buddhism but are more motivated by the opportunity to earn university applied credit. I myself was introduced to Buddhism while taking a World Religions course in 1990, so I feel this is an important propagation tool.
 
 ## A Summary Poem
 I came to learn, to chant, to grow,  
