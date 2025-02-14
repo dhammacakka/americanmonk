@@ -21,10 +21,8 @@ featured_image: "images/selective-attention.webp"
 
 
 {{< img src = "/images/selective-attention.webp" >}}
-{{< img src = "/images/selective-attention.webp" >}}
 
 ### Training the Mind to not notice things:
-
 It seems strange that mindfulness would be used to not notice things. However, there’s a famous psychological experiment—one that’s only 1 minute and 21 seconds long—that has surprised people for years. I won’t spoil it for you, but if you haven’t seen it yet, watch it first and let me know how many times the ball was passed by the players wearing the white shirts:
 
 {{< youtube vJG698U2Mvo >}}
