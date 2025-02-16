@@ -1,6 +1,6 @@
 baseURL = 'https://americanmonk.org/'
 languageCode = 'en-us'
-title = 'American Monk:  Life with Buddha, Dhamma and Saṅgha'
+title = 'American Monk'
 theme = 'ananke'
 publishDir = 'docs'
 [[params.ananke_socials]]
