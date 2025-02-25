@@ -84,5 +84,21 @@ Visit here: {{< extlink "https://americanmonk.org" "AmericanMonk.org" >}}
 
 Each of these projects is discussed in detail, including how they arose and what gaps they fill. Watch the full video below to see how they all come together!"
 
+### Summary Poem:
+> From texts of old to screens so bright,  
+> Pāḷi words shine in modern light.  
+> A reader swift, a timekeeper wise,  
+> Guiding minds where wisdom lies.  
+>  
+> A dictionary vast, both deep and grand,  
+> Built with scholars, hand in hand.  
+> Forums thrive with voices strong,  
+> In Theravāda, pure and long.  
+>  
+> These tools I’ve shaped, both great and small,  
+> To serve the Dhamma, to aid us all.  
+> Watch the video, take a look,  
+> A modern bridge to the ancient book. 
+
 ### Here is the video that explains all of the different projects:
 {{< youtube Uy11wQLahj4 >}}
