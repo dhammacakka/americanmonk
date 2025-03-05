@@ -1,5 +1,5 @@
 ---
-title: "Ajahn Brahmavamso's Dark Jhāna"
+title: "Ajahn Brahm's Dark Jhāna"
 date: 2020-11-19
 categories: 
   - meditation
@@ -22,9 +22,9 @@ featured_image: /images/anzotti.com_.webp
 
 {{< img src = "/images/anzotti.com_-1024x566.webp" >}}
 
-## Does Ajahn Brahmavamso Jhāna Have a Nimitta?
+## Does Ajahn Brahm Jhāna Have a Nimitta?
 
-Ajahn Brahmavamso ("Ajahn Brahm") teaches about a samādhi nimitta. However, during jhāna, he says that there is no perception of light. He says that "The nimitta is the gateway to jhāna, but not the object of jhāna itself. Pīti or sukha are the objects of jhāna".
+Ajahn Brahm ("Ajahn Brahmavamso") teaches about a samādhi nimitta. However, during jhāna, he says that there is no perception of light. He says that "The nimitta is the gateway to jhāna, but not the object of jhāna itself. Pīti or sukha are the objects of jhāna".
 
 If you follow Ajahn Brahm, this article will help you follow his teachings better. If you follow another method, this article will help you distinguish the difference. Ajahn Brahm's method does not follow the commentary texts of classical Buddhism, and Ajahn Brahm is quite open about his non-belief in such texts. If there is anything wrongly said about his method, please have the monastery of Ajahn Brahm [contact](https://americanmonk.org/contact/) me, or provide source references from recordings or books. _Update: Nothing has been said since first published on November 19th, 2020._
 
@@ -49,7 +49,7 @@ Does this really mean no light at all? He does say, "mental image" at the end of
 > 
 > The Jhanas, Ajahn Brahmavamso,Page 13 , and several other books
 
-If you still cannot believe that there is no light in Ajahn Brahm's version of "jhāna", I encourage you to write Ajahn Brahmavamso and ask him about this yourself. He will confirm what is said here in his book quotations and in the talk when he was in Sri Lanka. The email and telephone contact information is located at [https://bswa.org/location/bodhinyana-monastery/](https://bswa.org/location/bodhinyana-monastery/)
+If you still cannot believe that there is no light in Ajahn Brahm's version of "jhāna", I encourage you to write Ajahn Brahmavamso and ask him about this yourself. He will confirm what is said here in his book quotations and in the talk when he was in Sri Lanka. The email and telephone contact information is located at [https://bswa.org/location/bodhinyana-monastery/](https://bswa.org/location/bodhinyana-monastery/).  I encourage you to contact them and ask questions on this.  If you do, get back to me on this and send me screenshots of the emails or recordings.  If they are different, ask to qualify based on the views he had in 2009.
 
 ## The Pītisukha As Object
 
