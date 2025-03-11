@@ -3,7 +3,7 @@ title: Are Monks Allowed To Use Uber, And Gift Cards?
 description: Is it allowable for monks to use Uber or ride services?  We discuss below
 date: 2025-03-10T04:54:07.587Z
 preview: ""
-draft: true
+draft: false
 tags:
     - money
     - requisite-slips
