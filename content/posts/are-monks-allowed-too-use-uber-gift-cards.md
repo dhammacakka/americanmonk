@@ -37,7 +37,7 @@ Here Greg, has made such an arrangement for me. Here is his invitation statement
 > **Kappiya Greg**
 > "Bhante Subhuti, I have arranged everything with PickMe or Uber so that you can go anywhere you want. The settings are already set up to use the card. They will deduct my Visa debit card and I will cover the charges. Please use the app to arrange the rides as per the videos. I will cover up to 90,000 LKR. If your PickMe or Uber settings change, please select the card 'Visa... 1090'. This is my kappiya arrangement with the ride-hailing company which arranges with your driver. Enjoy the rides, and if they are good, please give them a tip or pre-tip for me for whatever amount you feel is appropriate and share some light of kindness in the world. Please let me know how this works out or if you have any trouble."
 
-Here you can see that this invitation keeps everything as an allowable arrangement. I simply use the app to request a ride, and when the ride arrives, I provide a code to the driver to identify myself.  When I use this app, there is no direct exchange of money everything is handled through the kappiya's pre-arranged system.  It should be noted that he logged into my account (I gave him the SMS code), and set everything up.  Would it be allowable for him to invite me to use the app and ask me to enter his card information myself? Possibly — but I prefer to avoid going that far.
+Here you can see that this invitation keeps everything as an allowable arrangement. I simply use the app to request a ride, and when the ride arrives, I provide a code to the driver to identify myself.  When I use this app, there is no direct exchange of money and everything is handled through the kappiya's pre-arranged system.  It should be noted that he logged into my account (I gave him the SMS code), and set everything up.  Would it be allowable for him to invite me to use the app and ask me to enter his card information myself? Possibly — but I prefer to avoid going that far.
 
 {{< img src = "/images/uberpickme_apps.webp" >}}
 
@@ -48,7 +48,7 @@ Here you can see that this invitation keeps everything as an allowable arrangeme
 
 It is crucial to note that this arrangement is only allowable because Greg invited me to use the service. The invitation is what makes the difference. **If Kappiya Greg had merely added his card to my app without directly inviting me to use it, it would not be allowed.**
 
-In Vinaya, we must always be invited by the donor.  I explain this with my post on {{< extlink "https://americanmonk.org/how-do-monks-live-without-money/" "How do monks live without money?" >}}.  When someone gives money to the kappiya, they must invite the monk correctly.  If they do not, then the requisites cannot be used.  To simplify this process and always be consistent, a small donation form with the correct wording is mentioned and given to the monk. The same must be done for Uber etc.  In fact, I told the kappiya what to say in the invitation.  He modified it himself, but he was a monk and knows vinaya.  Other people should be careful about modifying things.  The kappiya, made the arrangement with the vendor.  In Kaua'i I was invited to go to the Hanalei Bakery and mention so and so's name if I ever needed food.  Afterwards, he would pay.  In Niantic, CT, my father gave an envelope to the manager at a food store and invited me to ask the store for a helper to get me anything I needed.  In this case of Uber, Greg’s invitation tells me that he transferred his kappiya duties to the Uber or PickMe service and to use it.  When the ride is finished, Greg Card gets a bill.  Eventually, it is automatically paid. I think you can see similarities.   **The most important part is that the kappiya must invite us to use the app / service and specify how it should be done. Without this, the arrangement would not be allowable.**
+In Vinaya, we must always be invited by the donor.  I explain this with my post on {{< extlink "https://americanmonk.org/how-do-monks-live-without-money/" "How do monks live without money?" >}}.  When someone gives money to the kappiya, they must invite the monk correctly.  If they do not, then the requisites cannot be used.  To simplify this process and always be consistent, a small donation form with the correct wording is mentioned and given to the monk. The same must be done for Uber etc.  In fact, I told the kappiya what to say in the invitation.  He modified it himself, but he was a monk and knows vinaya.  Other people should be careful about modifying things.  The kappiya, made the arrangement with the vendor.  In Kaua'i I was invited to go to the Hanalei Bakery and mention so and so's name if I ever needed food.  Afterwards, he would pay.  In Niantic, CT, my father gave an envelope to the manager at a food store and invited me to ask the store for a helper to get me anything I needed.  In this case of Uber, Greg’s invitation tells me that he transferred his kappiya duties to the Uber or PickMe service and to use it.  When the ride is finished, Greg's Card gets a bill.  Eventually, it is automatically paid. I think you can see similarities.   **The most important part is that the kappiya must invite us to use the app / service and specify how it should be done. Without this, the arrangement would not be allowable.**
 
 
 
@@ -76,31 +76,34 @@ This brings to mind the teaching from the Dasadhamma Sutta:
 >
 > *"I am bound to others for my livelihood",*
 >
-> *pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.*
+> **pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.**
 >
-> *"One who has gone forth should frequently reflect on this."*"*
+> *"One who has gone forth should frequently reflect on this."*
 
 This reminder encourages us to reflect on the value of relying on others and maintaining a healthy balance between independence and community support.  The Buddha made several rules which makes us dependent on lay people.
 
-- not to use money  
-- not to engage in trade  
-- not to store food  
-- not to cook  
-- not to eat anything that has not been offered  
+**Actual Theravāda Buddhist monk rules:**
+- Monks are not allowed to **use money**  
+- Monks are not allowed to **engage in trade**  
+- Monks are not allowed to **store food**  
+- Monks are not allowed to **cook**  
+- Monks are not allowed to **eat anything that has not been offered**  
 
-When you look at those rules, you can understand that the Buddha did not want us to be fully independent.  We are not independent though.  The app is set up with the Kappiya and the donors.  However, if you feel the warmth is gone, I must agree.
+When you look at those rules, you can understand that the Buddha did not want us to be fully independent.  We are not independent though.  The app is set up with the Kappiya and the donors.  However, if you feel the warmth is diminished, I must agree.
 
 #### The Dangers of Convenience
 
 As things become more convenient, we naturally become less dependent on others. This can have spiritual downsides. When donors actively support monks, they cultivate wholesome intentions and strengthen their connection with the Saṅgha. Many more mind moments are spent with such acts of giving.
 
-Convenience services like Uber and Amazon start to resemble the functionality of money itself. The more seamless the system becomes, the more we must reflect on why we became monks in the first place — to cultivate simplicity and dependence on lay support, which nurtures both humility and generosity in the world.
+Convenience services like Uber and Amazon start to resemble the functionality of money itself. The more seamless the system becomes, the more we must reflect on why we became monks in the first place — to attain liberation Nibbāna, which requires the monk to follow Buddha's rules.  The Buddha intends for us to cultivate simplicity and dependence on lay support, which nurtures both humility and generosity in the world.  If it was not required, The Buddha would not lay down the rules.
 
-For this reason, the Vinaya emphasizes sticking to single-vendor systems like phone credit, stamps, or meal coupons. These limit excessive convenience while still remaining manageable for donors. By contrast, ride-hailing apps connect with multiple drivers, which blurs the line and requires careful thought. Amazon, for example, opens up limitless options, making it feel even closer to directly using money, even though it is technically not using money and still an arrangement with a "store".
+For this reason, the Monastic Elders have emphasized sticking to single-vendor systems like phone credit, stamps, or meal coupons to avoid the use of "currency". These limit excessive convenience while still remaining manageable for donors. By contrast, ride-hailing apps connect with multiple drivers, which blurs the line and requires careful thought. Amazon, for example, opens up limitless options, making it feel even closer to directly using money, even though it is technically not using money and still an arrangement with a "store".  
+
+The ancient definition of money is when it is used as currency or common in business or trade.  That means it is valid and accepted across all vendors.  The use cases are being extended by many monks now.  When does the line get crossed?  This is for you or those monks to decide for themselves.
 
 #### A Practical Compromise
 
-For the time being, I have chosen to use Uber and PickMe primarily to manage my transportation to Kelaniya for my university classes two Saturdays a month. While I could arrange these rides through the local monastery that lets me stay there the night before, this makes things less of a burden to my host. But as we said before, there is less love with this convenience.  A wife and kids are burdens, but you love them and you are willing to help them even though you might not have time.  Where would you draw the line for your kids to use Uber?
+For the time being, I have chosen to use Uber and PickMe primarily to manage my transportation to Kelaniya for my university classes two Saturdays a month. While I could arrange these rides through the local monastery that lets me stay there the night before, this makes things less of a burden to my host. But as we said before, there is less love with this convenience.  A wife and kid are a burden, but you love them and you are willing to help them even though you might not have time.  Where would you draw the line for your kids to use Uber?
 
 The key is to remain mindful of the purpose behind such arrangements. As monks, we rely on donors not just to fulfill physical needs but to provide opportunities for them to cultivate merit. By making conscious choices about convenience, we can maintain this balance while still living practically in the modern world.
 
