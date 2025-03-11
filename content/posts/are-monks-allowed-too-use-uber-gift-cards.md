@@ -19,7 +19,7 @@ featured_image: /images/3wheeler_simulation_ulpathkanda.webp
 ### Monks Using Uber and Gift Cards: Allowable as a Kappiya Arrangement
 
 ### Summary
-Yes Uber and giftcards are allowable, but they must have a specific invitation to use it by the donor or kappiya.  Although it gives independence, that also comes with a price.  See below for the full discussion.
+Yes, Uber and gift cards are allowable, but they must have a specific invitation to use them by the donor or kappiya. Although they provide independence, that also comes with a price. See below for the full discussion.
 
 {{< img src = "/images/3wheeler_simulation_ulpathkanda.webp" >}}
 
