@@ -19,7 +19,9 @@ featured_image: /images/golden-market-me-and-donor.webp
 ## Introduction
 Going for alms (pindapata) is certainly possible in the USA.  There are different methods such as house by house alms, farmer's market alms, visiting known donor's houses, and supermarket alms.   While house by house can take time to grow faith in a community, supermarkets can be quite easy to develop, even on the first day.  
 
-<iframe src="https://archive.org/embed/received_413259934977855" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+{{< extlink "https://archive.org/details/received_413259934977855" "Watch the video on Archive.org" >}}
+
 
 ## Obtaining Permission
 When the supermarket is part of a shopping complex, you will need permission from both the store manager, and also the shopping center property manager.  These days, it can be difficult to get permission from most large corporate owned shopping centers.  However, when I was in Kaua'i, Hawai'i, Ching Young Village was more than happy to let me "hang out" in front of Big Save which also gave permission for me to go.  Princevilled shopping center told me, "Not even the Boy Scouts are allowed on the property."  Below is a picture of me hanging out with permission while the other is me pacing on the public sidewalk.
