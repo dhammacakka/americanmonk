@@ -1,0 +1,10 @@
+User-agent: *
+{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+Disallow: /wp-json/
+Disallow: /wp-content/
+Disallow: /wp-admin/
+Disallow: /*?ak_action=
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{ else }}
+Disallow: /
+{{ end }}

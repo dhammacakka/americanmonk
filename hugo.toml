@@ -23,11 +23,11 @@ url = 'https://www.youtube.com/@BhanteSubhuti'
 googleAnalytics = "G-ES5VJRZTGT"
 environment = "production"
 
-#paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
+#paginate = 100 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
 [outputs]
-  home = ['html', 'rss']          # Generates HTML and RSS for the homepage
+  home = ['html', 'rss', 'robots.txt']          # Generates HTML and RSS for the homepage
   section = ['html', 'rss']       # Generates HTML and RSS for sections (e.g., /blog/)
   taxonomy = ['html', 'rss']      # Generates HTML and RSS for all taxonomies (e.g., /tags/ and /categories/)
   term = ['html', 'rss']          # Generates HTML and RSS for individual terms (e.g., /tags/example/ or /categories/news/)

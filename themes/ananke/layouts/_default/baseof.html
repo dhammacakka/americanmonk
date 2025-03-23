@@ -79,12 +79,20 @@
 
 <body class="ma0 {{ $.Param " body_classes" | default "avenir bg-near-white" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{
   end }}">
-
   {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-  <main class="pb7" role="main">
-    {{ block "main" . }}{{ end }}
-  </main>
+<main id="main-content" class="pb7" role="main">
+  <div id="progress-circle">
+    <div id="progress-text">0%</div>
+  </div>
+
+
+{{ block "main" . }}{{ end }}
+</main>
   {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+
+<script src="{{ "js/progress.js" | relURL }}"></script>
+
+
 </body>
 
 </html>

@@ -21,3 +21,38 @@ figure {
     margin: auto;
     padding: 20px;
 }
+
+
+
+#progress-percentage {
+    position: fixed;
+    top: 5px;
+    right: 10px;
+    color: #d48806;
+    font-weight: bold;
+    z-index: 9999;
+}
+
+#progress-circle {
+    position: fixed;
+    top: 30%;
+    /* Position 30% from the top of the viewport */
+    left: 20px;
+    /* Keep it a bit away from the left edge */
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: conic-gradient(#d48806 0%, #eee 0%);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+
+#progress-text {
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+}
