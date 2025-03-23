@@ -27,7 +27,7 @@ environment = "production"
 enableRobotsTXT = true
 
 [outputs]
-  home = ['html', 'rss', 'robots.txt']          # Generates HTML and RSS for the homepage
+  home = ['html', 'rss']          # Generates HTML and RSS for the homepage
   section = ['html', 'rss']       # Generates HTML and RSS for sections (e.g., /blog/)
   taxonomy = ['html', 'rss']      # Generates HTML and RSS for all taxonomies (e.g., /tags/ and /categories/)
   term = ['html', 'rss']          # Generates HTML and RSS for individual terms (e.g., /tags/example/ or /categories/news/)
