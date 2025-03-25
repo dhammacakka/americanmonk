@@ -22,6 +22,117 @@ figure {
     padding: 20px;
 }
 
+.db.grow img {
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    /* Stronger default shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.db.grow img:hover,
+.db.grow img:focus,
+.db.grow img:active {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+    /* Stronger hover shadow */
+}
+
+.f3.fw1.athelas.mt0.lh-title {
+    font-size: 2rem;
+    /* Balanced size for readability */
+    font-weight: 600;
+    /* Medium-bold for emphasis */
+    color: #222;
+    /* Darker tone for readability */
+    letter-spacing: -0.5px;
+    /* Slightly tighter spacing for a cleaner look */
+    line-height: 1.3;
+    /* Improved vertical spacing */
+    margin-bottom: 10px;
+    /* Space beneath the title */
+    position: relative;
+    /* Required for underline positioning */
+    padding-bottom: 10px;
+    /* Space between text and underline */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.f3.fw1.athelas.mt0.lh-title a {
+    color: #333;
+    /* Soft black for visual comfort */
+    text-decoration: none;
+    /* No underline for a cleaner look */
+    transition: color 0.3s ease, text-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.f3.fw1.athelas.mt0.lh-title a:hover,
+.f3.fw1.athelas.mt0.lh-title a:focus {
+    color: #8b0000;
+    /* Deep red or maroon for contrast */
+    text-shadow: 2px 2px 8px rgba(139, 0, 0, 0.3);
+    /* Elegant glow effect */
+    transform: translateY(-1px) scale(1.05);
+    /* Slight lift AND growth effect */
+}
+
+.f3.fw1.athelas.mt0.lh-title::after {
+    content: "";
+    display: block;
+    width: 100%;
+    /* Full-width underline */
+    height: 3px;
+    /* Thickness of the underline */
+    background-color: #8b0000;
+    /* Deep red for emphasis */
+    margin-top: 5px;
+    /* Space above the line */
+    border-radius: 2px;
+    /* Smooth rounded corners */
+    position: absolute;
+    bottom: 0;
+    /* Aligns the line directly beneath the text */
+    left: 0;
+    /* Ensures it starts from the left */
+    transition: width 0.3s ease;
+    /* Smooth animation */
+}
+
+.f3.fw1.athelas.mt0.lh-title:hover::after {
+    width: 110%;
+    /* Slightly expands underline on hover */
+}
+
+a.ba.b--moon-gray.bg-light-gray.br2 {
+    display: inline-block;
+    /* Ensures proper button-like behavior */
+    padding: 8px 20px;
+    /* Larger padding for a prominent button */
+    border-radius: 30px;
+    /* Rounded corners for the pill shape */
+    background-color: #8b0000;
+    /* Deep red for emphasis */
+    color: #ffffff;
+    /* White text for contrast */
+    font-weight: 600;
+    /* Medium-bold for stronger text */
+    text-transform: uppercase;
+    /* Modern touch */
+    letter-spacing: 0.5px;
+    /* Slightly wider text for readability */
+    text-decoration: none;
+    /* No underline */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+a.ba.b--moon-gray.bg-light-gray.br2:hover,
+a.ba.b--moon-gray.bg-light-gray.br2:focus {
+    background-color: #a52a2a;
+    /* Slightly lighter red on hover */
+    transform: translateY(-2px);
+    /* Slight lift effect */
+    box-shadow: 0 4px 12px rgba(139, 0, 0, 0.4);
+    /* Soft shadow for depth */
+}
 
 
 #progress-percentage {
