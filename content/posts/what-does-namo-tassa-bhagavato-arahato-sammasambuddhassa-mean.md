@@ -80,4 +80,4 @@ On your path to Nibbāna may this show you the light.
 
 ## YouTube Video:
 
-https://www.youtube.com/watch?v=\_pypoXxQmR8
+{{< youtube \_pypoXxQmR8>}}
