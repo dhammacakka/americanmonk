@@ -63,9 +63,9 @@ figure {
         /* Remove top positioning */
         bottom: 10px;
         /* Position 10px from the bottom */
-        right: 10px;
+        right: auto;
         /* Align with the right side */
-        left: auto;
+        left: 10;
         /* Remove left positioning */
         width: 50px;
         /* Optional: Slightly reduce size for mobile */
