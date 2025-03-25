@@ -5,7 +5,7 @@
         {{ .Content }}
     </section>
     <aside class="flex-ns flex-wrap justify-around mt5">
-        {{ $paginator := .Paginate (.Pages.ByDate.Reverse) 50 }}
+        {{ $paginator := .Paginate (.Pages.ByDate.Reverse) 509 }}
         {{ range $paginator.Pages }}
         <div class="relative w-100 w-30-l mb4 bg-white">
             {{ .Render "summary-with-image" }}
