@@ -56,3 +56,24 @@ figure {
     color: #333;
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    #progress-circle {
+        top: auto;
+        /* Remove top positioning */
+        bottom: 10px;
+        /* Position 10px from the bottom */
+        right: 10px;
+        /* Align with the right side */
+        left: auto;
+        /* Remove left positioning */
+        width: 50px;
+        /* Optional: Slightly reduce size for mobile */
+        height: 50px;
+    }
+
+    #progress-percentage {
+        display: none;
+        /* Optionally hide text since the circle will have it */
+    }
+}
