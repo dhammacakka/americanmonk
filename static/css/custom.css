@@ -212,12 +212,21 @@ nav ul li a {
     transition: all 0.3s ease;
 }
 
-/* Hover Effect */
 nav ul li a:hover,
 nav ul li a:focus {
-    background-color: #8b0000;
     color: #ffffff;
+    background-color: #a30000;
     transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(139, 0, 0, 0.6);
+    /* ← red tone, matches active */
+}
+
+nav a.active:hover,
+nav a.active:focus {
+    background-color: #a30000;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.65);
+    /* <-- even more for hover */
 }
 
 /* General active style for all links */
