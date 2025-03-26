@@ -364,3 +364,18 @@ nav a.active:focus {
         /* Optionally hide text since the circle will have it */
     }
 }
+
+/* Force long URLs or text to wrap properly */
+.summary,
+.post-content,
+.photo-credit,
+p {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.nested-links {
+    word-break: break-word;
+    overflow-wrap: anywhere;
+}
