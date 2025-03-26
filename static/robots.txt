@@ -1,6 +1,3 @@
 User-agent: *
-Disallow: /wp-json/
-Disallow: /wp-content/
-Disallow: /wp-admin/
-Disallow: /*?ak_action=
+Allow: /
 Sitemap: https://americanmonk.org/sitemap.xml
