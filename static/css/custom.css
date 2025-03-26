@@ -274,6 +274,7 @@ nav a.active:focus {
 /* Mobile-Specific Styling */
 @media (max-width: 768px) {
     nav ul {
+        width: 100%;
         flex-direction: column;
         /* Stack items vertically */
         gap: 10px;
@@ -290,12 +291,23 @@ nav a.active:focus {
     }
 
     nav ul li a {
-        padding: 10px 20px;
-        /* Slightly smaller padding */
-        font-size: 1.2rem;
-        /* Smaller font size for mobile */
-        width: 100%;
-        /* Ensure full clickable area */
+        display: block;
+        width: 80%;
+        margin: 5px auto;
+        border-radius: 40px;
+        padding: 12px 0;
+        font-size: 1.3rem;
+        background-color: transparent;
+    }
+
+    nav ul li a.active {
+        background-color: #8b0000;
+        box-shadow: 0 4px 10px rgba(139, 0, 0, 0.4);
+    }
+
+    nav ul li a:hover {
+        background-color: #a30000;
+        box-shadow: 0 6px 15px rgba(139, 0, 0, 0.5);
     }
 }
 
