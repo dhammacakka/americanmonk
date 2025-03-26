@@ -134,6 +134,161 @@ a.ba.b--moon-gray.bg-light-gray.br2:focus {
     /* Soft shadow for depth */
 }
 
+/* Ensure the site name link doesn't get active-like styles */
+nav a.f3.fw2 {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    font-size: 1.5rem;
+    /* Adjust as needed */
+}
+
+/* Red pill style on hover */
+nav a.f3.fw2:hover {
+    background-color: #8b0000;
+    /* Red background */
+    color: #ffffff;
+    padding: 10px 28px;
+    /* Match the active menu item padding */
+    border-radius: 50px;
+    /* Oval shape */
+    box-shadow: 0 4px 12px rgba(139, 0, 0, 0.5);
+    /* Shadow for depth */
+    transform: translateY(-2px);
+    /* Slight lift effect */
+}
+
+/* Red pill style on click (active state) */
+nav a.f3.fw2:active {
+    background-color: #a30000;
+    /* Slightly lighter red for click feedback */
+    color: #ffffff;
+    padding: 10px 28px;
+    border-radius: 50px;
+    box-shadow: 0 2px 8px rgba(139, 0, 0, 0.4);
+    /* Slightly smaller shadow on click */
+    transform: translateY(0);
+    /* Remove lift to show "press" effect */
+}
+
+/* Ensure the active class doesn't interfere (already removed from template) */
+nav a.active {
+    background-color: #8b0000;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 10px 28px;
+    border-radius: 50px;
+    box-shadow: 0 4px 12px rgba(139, 0, 0, 0.5);
+}
+
+/* General Navigation Styling */
+nav ul {
+    display: flex;
+    gap: 25px;
+    /* Slightly increased spacing between items */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 12px 25px;
+    /* Increased padding for a bigger clickable area */
+    font-size: 1.4rem;
+    /* Larger font size for improved readability */
+    font-weight: 600;
+    /* Balanced weight */
+    border-radius: 30px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+/* Hover Effect */
+nav ul li a:hover,
+nav ul li a:focus {
+    background-color: #8b0000;
+    color: #ffffff;
+    transform: translateY(-2px);
+}
+
+/* General active style for all links */
+nav a.active {
+    background-color: #8b0000;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 10px 28px;
+    border-radius: 50px;
+    box-shadow: 0 4px 12px rgba(139, 0, 0, 0.5);
+}
+
+/* Specific adjustments for menu items inside ul li */
+nav ul li a.active {
+    font-size: 1.4rem;
+    /* Slightly smaller for menu items */
+    padding: 10px 25px;
+    /* Match the non-active padding */
+}
+
+/* Hover effect for all active links */
+nav a.active:hover,
+nav a.active:focus {
+    background-color: #a30000;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(139, 0, 0, 0.6);
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    nav a.active {
+        font-size: 1.3rem;
+        padding: 8px 20px;
+        border-radius: 40px;
+    }
+
+    nav ul li a.active {
+        font-size: 1.2rem;
+        /* Match mobile menu item size */
+        padding: 8px 20px;
+    }
+}
+
+/* Mobile-Specific Styling */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        /* Stack items vertically */
+        gap: 10px;
+        /* Reduce gap for mobile */
+        align-items: center;
+        /* Center items */
+    }
+
+    nav ul li {
+        width: 100%;
+        /* Full width for each item */
+        text-align: center;
+        /* Center text */
+    }
+
+    nav ul li a {
+        padding: 10px 20px;
+        /* Slightly smaller padding */
+        font-size: 1.2rem;
+        /* Smaller font size for mobile */
+        width: 100%;
+        /* Ensure full clickable area */
+    }
+}
 
 #progress-percentage {
     position: fixed;
