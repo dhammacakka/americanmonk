@@ -43,9 +43,15 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 ## What is new?
 
-**Build 82+ Release** November, 2024 for Win, Mac, Flathub, Appimage, Android (iOS package in App store review)
+**Build 85+ Release** — May 2025 for Linux AppImage, Android, and Windows:
 
-This release is our most stable release yet.  It also includes many of the dpd extra features.  Be sure to install the DPD Extras extension to see what is in store for you.  This release has all of the features as before, but everything is polished and working smooth.  If you had problems with the text jumping when switching tabs, that has been fixed.  The overal user experience has improved.  We still have problems with copying text from multiple pages.  If you do, please use another app (for now).
+This release includes AI integration. You will need an AI API key from {{< extlink "https://openrouter.ai/" "OpenRouter" >}}, but you can get one without a credit card and use the free API engines, which work reasonably well. However, GPT-4o or GPT-4.1 offer better performance.
+
+Simply add the key in the settings and save it. Then, go to the book, highlight some text, right-click (or long-press), and select **AI Context**. This will send a request to OpenRouter with the selected text and chosen prompt.
+
+You can also temporarily modify the prompts. The feature works with multiple languages and scripts out of the box.
+
+
 
 ## Purpose of Application:
 
