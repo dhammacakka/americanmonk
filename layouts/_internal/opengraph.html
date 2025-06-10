@@ -1,0 +1,10 @@
+{{ $image := .Params.featured_image | default .Params.image }}
+{{ $absImage := $image | absURL }}
+
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ if $absImage }}
+<meta property="og:image" content="{{ $absImage }}">
+{{ end }}
