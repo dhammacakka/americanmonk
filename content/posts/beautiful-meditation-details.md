@@ -85,15 +85,16 @@ There’s nothing hidden in Theravāda. The commentaries and Abhidhamma lay it a
 A beautiful mind is not a feeling.  Instead it is a specific mental structure we can recognize and refine.  Understanding and cultivating these beautiful factors leads to concentration, then insight, and ultimately liberation.  
 
 ## Summary Poem
-Abhidhamma can show the way for you,
-The mental ingredients like making a stew.
-From faith to an upright mind so straight,
-Not separate, included in all wholesome states.
+> &nbsp;&nbsp;&nbsp;&nbsp;Abhidhamma can show the way for you,  
+> &nbsp;&nbsp;&nbsp;&nbsp;The mental ingredients like making a stew.  
+> &nbsp;&nbsp;&nbsp;&nbsp;From faith to an upright mind so straight,  
+> &nbsp;&nbsp;&nbsp;&nbsp;Not separate, included in all wholesome states.  
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;These factors rise with every thought  
+> &nbsp;&nbsp;&nbsp;&nbsp;When wholesomeness is rightly sought.  
+> &nbsp;&nbsp;&nbsp;&nbsp;Not mystical, but with details so clear  
+> &nbsp;&nbsp;&nbsp;&nbsp;Abhidhamma clears the path right here.  
 
-These factors rise with every thought
-When wholesomeness is rightly sought.
-Not mystical, but with details so clear
-Abhidhamma clears the path right here.
 
 A video of this brief description is below:
 
