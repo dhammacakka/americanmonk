@@ -69,8 +69,6 @@ Take some water and add it to dry cake mixture of flour, baking soda, salt, etc.
 
 They are inseparable — every citta always arises with a set of cetasikas — but they play distinct roles:
 
-Think of citta as the central lightbulb that illuminates an object, and the cetasikas as the color of the light, the angle, the warmth, and how it moves. The bulb and its light effects are part of one system, but they are not the same.
-
 Some cetasikas (like lahutā, passaddhi) appear twice — once to affect the kāya (the mental body of factors), and once to affect the citta as a single ingredient.
 
 
