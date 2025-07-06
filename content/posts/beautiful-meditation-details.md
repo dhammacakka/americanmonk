@@ -1,5 +1,5 @@
 ---
-title: "What Is a Beautiful Mind in Meditation?"
+title: "The Beautiful Mind in Meditation?"
 date: 2025-07-06
 categories: 
   - teaching
@@ -83,6 +83,17 @@ Note: *Sukha* (pleasant feeling) or *vedanā* is separate from this list. Beauty
 There’s nothing hidden in Theravāda. The commentaries and Abhidhamma lay it all out—clear, structured, technical. The beauty of meditation is knowable and cultivable. It's not about what you “feel,” but what factors are *present*.
 
 A beautiful mind is not a feeling.  Instead it is a specific mental structure we can recognize and refine.  Understanding and cultivating these beautiful factors leads to concentration, then insight, and ultimately liberation.  
+
+## Summary Poem
+Abhidhamma can show the way for you,
+The mental ingredients like making a stew.
+From faith to an upright mind so straight,
+Not separate, included in all wholesome states.
+
+These factors rise with every thought
+When wholesomeness is rightly sought.
+Not mystical, but with details so clear
+Abhidhamma clears the path right here.
 
 A video of this brief description is below:
 
