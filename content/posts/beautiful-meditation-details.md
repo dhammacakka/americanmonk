@@ -21,7 +21,7 @@ What does it *technically* mean to have a “beautiful mind” in meditation—b
 
 ### Defining the Beautiful Mind
 
-When modern teachers describe deep *samatha* (concentration) meditation as “beautiful,” they speak in mystical mediphores. However, real Theravāda Buddhism involves the Abhidhamma. The Abhidhamma is not for scholarly proliferation.  It is for knowing how the mind works and applying the mind in that way.  The Abhidhamma provides a precise definition: *sobhāna cetasikā*, or beautiful mental factors.
+When modern teachers describe deep *samatha* (concentration) meditation as “beautiful,” they speak in mystical metaphors. However, real Theravāda Buddhism involves the Abhidhamma. The Abhidhamma is not for scholarly proliferation.  It is for knowing how the mind works and applying the mind in that way.  The Abhidhamma provides a precise definition: *sobhāna cetasikā*, or beautiful mental factors.
 
 These mental factors arise in every wholesome state of mind and are part of a streamlined series of consciousness mind moments that arise and pass with a high refresh rate.  It is similar to viewing a photograph on a screen.  If the screen is 120 Hz, then it is arising and passing 120 times per second on the same object.  If it is a movie, the screen is still refreshing 120 times per second.  However, while both refresh at 120 Hz, only the still image reflects a calm and stable mind. The movie, full of changes, resembles distraction—even though the rate is the same.  This is why we need Abhidhamma for practice.  It is technical but clear.  
 
