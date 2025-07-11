@@ -49,7 +49,7 @@ The Buddha allowed for **two entry points** into the rains residence:
 - **Purimikā** (first vassa) begins the day after the Āsāḷha full moon.
 - **Pacchimikā** (second vassa) begins one month later.  Sometimes refered to as "Second vassa."
 
-This allowance for two vassas shows the Buddha’s practical wisdom and compassion because not everything goes right the first time as we will discuss later.  It should be noted that the determination to stay in the monastery for three months is actually the day after the Full Moon Day.  This is when the new month starts.  Although most monasteries have the Vassa ceremony on the Full Moon Day and it is a time for a large gathering, that is just for lay people because they have that day off.  We really make the official determination the next day.  Most of the lay poeple will probably never know it really happens on the next day.
+This allowance for two vassas shows the Buddha’s practical wisdom and compassion because not everything goes right the first time as we will discuss later.  It should be noted that the determination to stay in the monastery for three months is actually the day after the Full Moon Day.  This is when the new month starts.  Although most monasteries have the Vassa ceremony on the Full Moon Day and it is a time for a large gathering, that is just for lay people because they have that day off.  We really make the official determination the next day.  Most of the lay people will probably never know it really happens on the next day.
 
 ### Leaving During Vassa: Seven-Day Business Rule
 
