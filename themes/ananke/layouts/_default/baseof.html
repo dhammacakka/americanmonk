@@ -80,17 +80,34 @@
 <body class="ma0 {{ $.Param " body_classes" | default "avenir bg-near-white" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{
   end }}">
   {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-<main id="main-content" class="pb7" role="main">
-  <div id="progress-circle">
-    <div id="progress-text">0%</div>
-  </div>
+  <main id="main-content" class="pb7" role="main">
+    <div id="progress-circle">
+      <div id="progress-text">0%</div>
+    </div>
 
 
-{{ block "main" . }}{{ end }}
-</main>
+    {{ block "main" . }}{{ end }}
+  </main>
   {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
 <script src="{{ "js/progress.js" | relURL }}"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const images = document.querySelectorAll(".fancy-img");
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("reveal");
+        } else {
+          entry.target.classList.remove("reveal"); // allow fade-out when leaving view
+        }
+      });
+    }, { threshold: 0.1 });
+
+    images.forEach(img => observer.observe(img));
+  });
+</script>
 
 
 </body>

@@ -1,7 +1,7 @@
 {{ $src := .Get "src" }}
 {{ $image := resources.Get $src }}
 {{ if $image }}
-<img src="{{ $image.RelPermalink }}" alt="{{ .Get " alt" }}">
+<img src="{{ $image.RelPermalink }}" alt="{{ .Get " alt" }}" class="fancy-img">
 {{ else }}
 <p>Image not found.</p>
 {{ end }}
