@@ -18,6 +18,7 @@ tags:
     - ottappa
     - shame
     - fear of wrongdoing
+    - abhidhamma
 authors: 
     - bksubhuti
 type: ""
@@ -36,7 +37,7 @@ They are indeed beautiful mental factors, but for many, especially those raised 
 
 ## Hiri and Ottappa — The Two Bright Dhammas
 
-### 📜 Sutta — *Aṅguttara Nikāya 2.8*
+### Sutta — *Aṅguttara Nikāya 2.8*
 
 > **“Dve me, bhikkhave, dhammā sukkā. Katame dve?**  
 > **Hiri ca  ottappañca.**  
@@ -47,7 +48,7 @@ They are indeed beautiful mental factors, but for many, especially those raised 
 > These two, bhikkhus, are bright things.”
 
 
-### 🧘 Commentary 
+### Commentary 
 
 > **On the eighth (verse):** “Bright” does not mean brightness in terms of color; rather, they are called “bright” because they lead to brightness through moral purity — that is, they are bright in the sense of productive purity.  
 > In essence, all wholesome states are indeed bright, because with their arising, the mind becomes radiant.  
@@ -59,6 +60,7 @@ They are indeed beautiful mental factors, but for many, especially those raised 
 ## Definitions from the Visuddhimagga
 
 Let’s look at the classical breakdown from the commentaries:
+(Taken from Pa-Auk Manuals)
 
 ### Hiri (Moral Shame)
 - **Characteristic**: Disgust at evil
@@ -140,5 +142,6 @@ May you develop them in your practice and may they protect your path.
 A video of this brief description is below:
 {{< youtube 1bKbUz1a8Nw >}}
 
-🛎️ *Want more? Try the [My Time Schedule App](mytimeschedule.github.io) to support your self-retreat practice.*  
-📺 *Subscribe to my [YouTube channel](https://youtube.com/@bhantesubhuti) for new Dhamma talks.*
+ *Want more? Try the [My Time Schedule App](mytimeschedule.github.io) to support your self-retreat practice.*  
+ 
+ *Subscribe to my [YouTube channel](https://youtube.com/@bhantesubhuti) for new Dhamma talks.*
