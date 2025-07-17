@@ -1,4 +1,4 @@
-import 'dart:io';
+/*import 'dart:io';
 import 'package:path/path.dart' as path;
 
 Future<void> main() async {
@@ -46,3 +46,4 @@ Future<void> main() async {
     print('All images are used.');
   }
 }
+*/
