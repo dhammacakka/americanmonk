@@ -49,6 +49,18 @@
       <!-- Optional episode-level image -->
       <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
     </item>
-
+    <item>
+      <title>Shame Good for Meditation?</title>
+      <description>Exploring how hiri (moral shame) and ottappa (fear of wrongdoing) support meditation as beautiful mental factors.</description>
+      <link>https://archive.org/details/shame_good_for_meditation</link>
+      <guid>https://archive.org/details/shame_good_for_meditation</guid>
+      <enclosure url="https://ia902903.us.archive.org/25/items/shame_good_for_meditation/shame_good_for_meditation2.mp3"
+                 length="38963125"
+                 type="audio/mpeg"/>
+      <pubDate>Mon, 4 Aug 2025 12:00:00 GMT</pubDate>
+      <itunes:duration>00:40:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ia802903.us.archive.org/25/items/shame_good_for_meditation/shame_good_for_meditation2.jpg"/>
+    </item>
   </channel>
 </rss>
