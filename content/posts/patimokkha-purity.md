@@ -11,6 +11,9 @@ tags:
   - pātimokkha
   - purity
   - monastic-life
+  - magic
+  - bhikkhu
+  - theravada
 image: "/images/mystical_patimokkha.webp"
 featured_image: "/images/mystical_patimokkha.webp"
 ---
@@ -33,6 +36,15 @@ Lay people often offer donations right after the recitation because they believe
 Confession purifies most offenses. But if a monk has unallowable items like money, bank accounts or things bought with money, he must give them up before becoming pure. That’s tricky, because money is “sticky.” If a monk uses money to buy robes, electronics, or books, those items become unallowable too. Some monks do give these things up, but many don’t, which complicates their participation in the Pātimokkha.
 
 This is why some monasteries shorten the recitation to skip sections about forfeitable items (things related to the money rules). The full Pātimokkha can take 50–60 minutes, but the short version can be done in 15–20 minutes. However, shortening it for convenience, without a valid reason, undermines the purpose.
+
+## Listen To The Pātimokkha
+Click the play button to hear the *full* Pātimokkha Recitation (by memory) in Katana, Sri Lanka on July 25, 2025 
+
+<audio controls>
+  <source src="https://ia803108.us.archive.org/20/items/patimokkha-25-7-2025/Patimokkha%20%2025-7-2025.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
 
 ### Nothing Mystical—Just Vinaya
 At its core, the Pātimokkha is about:
