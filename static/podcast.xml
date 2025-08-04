@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
     <title>American Monk Podcast</title>
@@ -26,17 +28,26 @@
       <itunes:category text="Buddhism"/>
     </itunes:category>
 
+    <!-- Self-referencing Atom link -->
+    <atom:link href="https://americanmonk.org/podcast.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Optional Podcasting 2.0 tags -->
+    <podcast:locked>yes</podcast:locked>
+    <podcast:guid>americanmonk-org-podcast</podcast:guid>
+
     <item>
       <title>Mystical Purification?</title>
       <description>Exploring the meaning of Pāṭimokkha purity in Theravāda Buddhism.</description>
       <link>https://archive.org/details/patimokkha-purity-edit</link>
       <guid>https://archive.org/details/patimokkha-purity-edit</guid>
       <enclosure url="https://dn720702.ca.archive.org/0/items/patimokkha-purity-edit/Patimokkha_purity_edit.mp3"
-           length="27521910"
-           type="audio/mpeg"/>
+                 length="27521910"
+                 type="audio/mpeg"/>
       <pubDate>Sun, 3 Aug 2025 12:00:00 GMT</pubDate>
       <itunes:duration>00:28:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <!-- Optional episode-level image -->
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
     </item>
 
   </channel>
