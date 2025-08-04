@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>American Monk Podcast</title>
+    <link>https://americanmonk.org/</link>
+    <language>en-us</language>
+    <copyright>© 2025 Bhante Subhūti</copyright>
+    <itunes:author>Bhante Subhūti</itunes:author>
+    <itunes:summary>Talks and reflections from Bhante Subhūti, a Theravāda Buddhist monk.</itunes:summary>
+    <description>Talks and reflections from Bhante Subhūti, a Theravāda Buddhist monk.</description>
+    <itunes:owner>
+      <itunes:name>Bhante Subhūti</itunes:name>
+      <itunes:email>bhante@americanmonk.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
+    <image>
+      <url>https://americanmonk.org/images/podcast-cover.jpg</url>
+      <title>American Monk Podcast</title>
+      <link>https://americanmonk.org/</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Buddhism"/>
+    </itunes:category>
+
+    <item>
+      <title>Mystical Purification?</title>
+      <description>Exploring the meaning of Pāṭimokkha purity in Theravāda Buddhism.</description>
+      <link>https://archive.org/details/patimokkha-purity-edit</link>
+      <guid>https://archive.org/details/patimokkha-purity-edit</guid>
+      <enclosure url="https://archive.org/download/patimokkha-purity-edit/Patimokkha_purity_edit.mp3"
+                 length="27521910"
+                 type="audio/mpeg"/>
+      <pubDate>Sun, 3 Aug 2025 12:00:00 GMT</pubDate>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
