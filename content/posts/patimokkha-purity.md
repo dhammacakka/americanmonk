@@ -27,6 +27,10 @@ During the Pātimokkha, the recitation of the 227 rules, lay people are often ke
 ### Who Can Enter?
 In some traditions, lay people aren’t allowed to enter the hall during the meeting. But according to Vinaya, it’s okay for lay people to be inside as long as they stay at least about 10 feet away from the group of monks. In this way, it is permissible.  Often, the exclusion is just tradition or misunderstanding of the rules.
 
+Below is a picture where the novice monk is far away from the group of monks while the pātimokkha is being recited.
+{{< img src = "/images/patimokkh_and_novice.webp" >}}
+
+
 ### Why Monks Are “Pure” Afterward
 Before the Pātimokkha, monks confess offenses—both known and unknown. This confession is the key to the idea of “purity.” The reciter of the Pātimokkha asks three times during each section, *“Are you pure?”* Silence means agreement: yes, we’re pure.
 
