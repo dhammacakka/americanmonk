@@ -63,15 +63,15 @@
       <itunes:image href="https://ia802903.us.archive.org/25/items/shame_good_for_meditation/shame_good_for_meditation2.jpg"/>
     </item>
     <item>
-      <title>What is Vassa (Rainy Season)</title>
-      <link>https://archive.org/details/what_is_vassa</link>
-      <description><![CDATA[Explanation of the Buddhist rainy season (Vassa) in Theravāda tradition.]]></description>
-      <enclosure url="https://ia801801.us.archive.org/0/items/what_is_vassa/what_is_vassa_edit.mp3" length="16775895" type="audio/mpeg"/>
-      <guid isPermaLink="false">what_is_vassa_2025-08-05</guid>
-      <pubDate>Tue, 05 Aug 2025 13:28:05 GMT</pubDate>
-      <itunes:duration>00:17:28</itunes:duration>
-      <itunes:image href="https://ia801801.us.archive.org/0/items/what_is_vassa/What%20is%20Rainy%20Season.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>   
+      <title>What is Vassa (rainy season)</title>
+      <description>what is buddhist rainy season</description>
+      <pubDate>Sun, 20 Jul 2025 14:39:49 +0530</pubDate>
+      <guid isPermaLink="false">https://ia801801.us.archive.org/0/items/what_is_vassa/what_is_vassa_edit.mp3</guid>
+      <enclosure url="https://ia801801.us.archive.org/0/items/what_is_vassa/what_is_vassa_edit.mp3" length="16775895" type="audio/mpeg" />
+      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:image href="https://ia801801.us.archive.org/0/items/what_is_vassa/What%20is%20Rainy%20Season.jpg" />
+      <itunes:keywords>theravada, rainy, season, vassa</itunes:keywords>
+    </item>
+
   </channel>
 </rss>
