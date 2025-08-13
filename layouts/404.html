@@ -4,7 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <title>404 – Page Not Found</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <style>
+        :root {
+            --space: .3em;
+        }
+
         body {
             display: flex;
             flex-direction: column;
@@ -14,6 +20,7 @@
             min-height: 100vh;
             margin: 0;
             font-family: sans-serif;
+            padding: 0 1rem;
         }
 
         h1,
@@ -21,38 +28,67 @@
         h3,
         p,
         blockquote {
-            margin-top: 0.3em;
-            margin-bottom: 0.3em;
+            margin: var(--space) 0;
+        }
+
+        h1 {
+            font-size: clamp(1.8rem, 5vw, 2.4rem);
+        }
+
+        h2 {
+            font-size: clamp(1.2rem, 4.2vw, 1.8rem);
+        }
+
+        h3 {
+            font-size: clamp(1.05rem, 3.8vw, 1.6rem);
         }
 
         img {
-            max-width: 150px;
+            width: clamp(150px, 40vw, 240px);
             height: auto;
-            margin: 0.5em 0;
+            margin: .7em 0;
         }
 
         blockquote {
             font-style: italic;
+            font-size: clamp(1rem, 3.6vw, 1.2rem);
+            line-height: 1.4;
         }
 
         .pali {
             font-weight: bold;
+            font-size: clamp(1.1rem, 4vw, 1.5rem);
+            display: block;
+        }
+
+        .links {
+            margin-top: 0.8em;
+            display: flex;
+            flex-direction: column;
+            gap: 0.4em;
         }
     </style>
 </head>
 
 <body>
     <h1>404 – Page Not Found</h1>
-    <br>
     <h2>Lost in Saṃsāra?</h2>
-    <h2>Or trying to find an Arahant?</h2>
+    <h3>Or trying to find an Arahant?</h3>
+
     <img src="/images/lost_in_samsara.webp" alt="Lost in Saṃsāra illustration">
+
     <blockquote>
-        <p class="pali">Ākāse va sakuntānaṃ, gati tesaṃ durannayā.</p>
-        <p>Like the path of birds in the sky, their track cannot be traced.</p>
+        <span class="pali">Ākāse va sakuntānaṃ,</span>
+        <span class="pali">gati tesaṃ durannayā.</span>
+        <p>Like the path of birds in the sky,<br>their track cannot be traced.</p>
     </blockquote>
-    <p>This page may have existed before, but it has now passed away.</p>
-    <p><a href="/">Return to the homepage</a> or check the <a href="/sitemap.xml">sitemap</a>.</p>
+
+    <p>This page may have existed before, <br>but it has now passed away.</p>
+
+    <div class="links">
+        <a href="/">Return to the homepage</a>
+        <a href="/sitemap.xml">Check the sitemap</a>
+    </div>
 </body>
 
 </html>
