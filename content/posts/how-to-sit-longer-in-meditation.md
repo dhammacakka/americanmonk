@@ -89,5 +89,5 @@ I hope this tip helps you. May you sit for a long time comfortably. And...
 
 ## Video
 
-Watch the full video here:  
+Watch the five-minute video here:  
 {{< youtube 72Gl6uqZtnc >}}
