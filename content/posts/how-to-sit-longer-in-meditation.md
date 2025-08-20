@@ -57,6 +57,9 @@ When you sit on the floor, remember: **don’t wear your shoes inside**.  If you
 
 In Asia, almost nobody wears shoes inside the house. The same is done in the Aloha Land of Hawai‘i.  Most people remove their shoes and most people have signs at the front door informing the guests.  After doing this for a while, it will start to feel dirty to bring shoes into the house.  I like to leave the outside world outside my kuṭi. 
 
+{{< img src="/images/aloha_slippers_remove.jpg" >}}
+
+
 So keep your meditation space clean. It makes your space more sacred, whether you’re sitting on the floor for work or meditation.
 
 ---
