@@ -1,5 +1,5 @@
 ---
-title: "Buddhist Compass App: Made 90% With Chat GPT"
+title: "Buddhist Compass App"
 date: 2023-06-04
 categories: 
   - monk-life
