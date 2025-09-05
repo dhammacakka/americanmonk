@@ -1,6 +1,6 @@
 ---
 title: "Buddhist Compass App"
-date: 2023-06-04
+date: 2025-09-05
 categories: 
   - monk-life
   - software
@@ -12,27 +12,67 @@ tags:
   - qibla
 authors: 
   - bksubhuti
-image: /images/buddhist_compass-1.webp
-featured_image: /images/buddhist_compass-1.webp
+image: /images/compass_on_target.png
+featured_image: /images/compass_on_target.png
 ---
 
-!
 
-### Buddhist Compass - Apps on Google Play
+## Install Buddhist Compass Now
+{{< download-badges 
+     android_id="com.paauk.buddhistcompass" 
+     ios_url="https://apps.apple.com/us/app/buddhist-compass/id6751797857" 
+>}}
 
-An App For locating the Buddhist Locations
+## How to Make Your Worship More Powerful
+
+If you know the direction of Bodh Gaya and align yourself with it when you pray, your devotion naturally becomes stronger. You don’t have to take my word for it—try and see for yourself.  
+
+Muslims have known this principle for centuries through the practice of facing Mecca (*qibla*). Until recently, Buddhists did not have such a tool. Buddhist Compass makes it possible with just a simple app.
+
+---
+
+## Buddhist Compass
+
+An app for locating Buddhist holy sites so that your worship of the Buddha can be more powerful.
+
+---
+
 
 ## Why Another App?
 
-While traveling in Thailand, I had an idea where I would like to know and face the direction where Bodh Gaya is similar to Qibla, and how Muslims like to face Mecca wherever they are. I find it very wholesome to know where Bodh Gaya is in reference to my room and where I live and maybe you will too. So I made an app called Buddhist Compass. It was made almost entirely with the free ChatGPT and then a friend rewrote and improved the bearing algorithm. He re-wrote it the algorithm from scratch (using his mind) and now the app is quite functional. I have also added the reference locations for Swe Dagon Pagoda (Myanmar), and The Maha Cetiya (Sri Lanka). Although this is the first version, it is quite functional. Coincidentally and conveniently, the headboard (where my head is pointed) nearly points in that very same direction as Bodh Gaya. Venerable Ananda lied down in the Lion's Posture while keeping his mind on the face of the Buddha in the Mahāparinibbāna Sutta. In the same way, you can the direction of the Bodhi Tree in Bodh Gaya when chanting or falling asleep.
+While traveling in Thailand, I wished to know where Bodh Gaya was located so I could face that direction—just as Muslims face Mecca wherever they are. I found it inspiring to align myself with the place of the Buddha’s Awakening, and I wanted others to benefit from this as well.  
 
-Other items, like the artwork, screens, multi language and themes, etc. may change, but the current and basic functionality will probably remain the same. It is only [available on Android](https://play.google.com/store/apps/details?id=com.paauk.buddhistcompass) but later there will be an Apple iOS version made from my Sri Lankan volunteer. The app was made with Flutter/Dart so it can be reproduced in iOS with virtually no code changes. ChatGpt knows this language and framework quite well.
+That is why I created **Buddhist Compass**.
 
-## How To Use Buddhist Compass
+---
 
-When the app first starts, it will ask you for permission to use the location services. Give it permission\[mfn\]We do not collect or save any location or user data other than what the app store gives for general statistics. You can read the [Buddhist Compass Privacy Policy](https://americanmonk.org/privacy-policy-for-buddhist-compass-app/)\[/mfn\]. After that, simply select the location you wish to use (default is Bodh Gaya, India) and wait a few seconds for it to register the location and figure things out. Then you just point yourself and the phone in the right direction until **the arrow turns green**. It will always be at the top of the screen. The bearing and current direction should be aligned. Then you will know the general direction of Bodh Gaya, the location where The Buddha attained His Enlightenment. For fun, I also added haptic feedback. I find the app very useful and I hope you do too. You can share this with others. Later, I will announce when iOS is available.
+## How to Use Buddhist Compass
 
-https://www.youtube.com/watch?v=kXF0N64RBs4
+1. When the app first starts, it will ask permission to use your location. Allow access.  
+2. Select the Buddhist site you wish to face (default is Bodh Gaya, India). Wait a few seconds for it to register.  
+3. Hold your phone parallel to the ground and slowly turn until the compass aligns with your chosen site.  
+4. When you are facing the right direction, **the compass will become bright**.  
+5. Pray in that direction.  
+6. Optionally, enable vibration mode for haptic feedback.
+
+---
+
+I find this app very useful, and I hope you will too. May it help make your worship more powerful. Please share it with others.  
+
+
+## About Privacy
+We do not collect or save any location or user data other than what the app store gives for general statistics. You can read the [Buddhist Compass Privacy Policy](https://americanmonk.org/privacy-policy-for-buddhist-compass-app/).
+
+## Install Buddhist Compass Now
+{{< download-badges 
+     android_id="com.paauk.buddhistcompass" 
+     ios_url="https://apps.apple.com/us/app/buddhist-compass/id6751797857" 
+>}}
+
+
+
+{{< youtube kXF0N64RBs4>}}
+
 
 You can find other software I such as [Buddhist Sun](https://americanmonk.org/buddhist-sun-app/) or [Tipitaka Pali Reader](https://americanmonk.org/tipitaka-pali-reader/) which I project manage.
 
@@ -42,7 +82,7 @@ You can find other software I such as [Buddhist Sun](https://americanmonk.org/bu
 
 A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
-{{< img src = "/images/buddhist_sun.webp" >}}
+{{< img src = "/images/buddhist_sun_logo4.webp" >}}
 
 ### Buddhist Sun App
 
