@@ -71,19 +71,24 @@ We do not collect or save any location or user data other than what the app stor
 
 
 
-{{< youtube kXF0N64RBs4>}}
+{{< youtube "JPacyba6rqk">}}
 
+
+# Other Buddhist Apps
 
 You can find other software I such as [Buddhist Sun](https://americanmonk.org/buddhist-sun-app/) or [Tipitaka Pali Reader](https://americanmonk.org/tipitaka-pali-reader/) which I project manage.
 
-{{< img src = "/images/TPR-billboard.webp" >}}
+
 
 ### Tipitaka Pali Reader
 
 A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
-{{< img src = "/images/buddhist_sun_logo4.webp" >}}
+{{< image_link "https://americanmonk.org/tipitaka-pali-reader/" "/images/TPR-billboard.webp" "Tipitaka Pali Reader" >}}
 
 ### Buddhist Sun App
 
 If you are a monk, nun or a practicing yogi who has vowed to not eat after Noon, you will benefit from this app.
+
+{{< image_link "https://americanmonk.org/buddhist-sun-app/" "/images/buddhist_sun_logo4.webp" "Buddhist Sun App" >}}
+
