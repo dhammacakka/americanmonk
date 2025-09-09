@@ -37,6 +37,27 @@ An app for locating Buddhist holy sites so that your worship of the Buddha can b
 
 ---
 
+## It's In The Buddhist Texts:
+>### 9. sāriputtattheravatthu (Dhp Commentary)
+> 
+>So, it is said that from the time when the venerable Sāriputta heard the Dhamma from the elder Assaji and attained the fruit of stream-entry, whenever he heard “In such-and-such a direction the elder dwells,” he would raise his hands in reverence, lay his head that way, and lie down.
+>
+>The monks said, “Sāriputta holds wrong view; even now he goes about worshipping the directions.” They reported this matter to the Blessed One.
+>
+>The Teacher summoned the elder and asked, “Is it true, Sāriputta, that you go about worshipping the directions?”
+>
+>He replied, “Bhante, whether I worship the directions or not, you yourself know.”
+>
+>Then the Blessed One said, “Monks, Sāriputta does not worship the directions. Having heard the Dhamma from the elder Assaji and attained the fruit of stream-entry, he reveres his own teacher.”
+
+>  **Afterwards, The Buddhas said this Dhammapada verse:**
+>
+>392. **"yamhā dhammaṃ vijāneyya, sammāsambuddhadesitaṃ,** 
+> **sakkaccaṃ taṃ namasseyya, aggihuttaṃva brāhmaṇo"ti.**
+>392. Just as a brahmin priest reveres his sacrificial fire, even so should one devoutly revere the person from whom one has
+learned the Dhamma taught by the Supreme Buddha. 
+>
+>(Ven. Buddharakkhita , BPS)
 
 ## Why Another App?
 
@@ -63,6 +84,11 @@ I find this app very useful, and I hope you will too. May it help make your wors
 ## About Privacy
 We do not collect or save any location or user data other than what the app store gives for general statistics. You can read the [Buddhist Compass Privacy Policy](https://americanmonk.org/privacy-policy-for-buddhist-compass-app/).
 
+
+## Instructional Video
+{{< youtube "JPacyba6rqk">}}
+
+
 ## Install Buddhist Compass Now
 {{< download-badges 
      android_id="com.paauk.buddhistcompass" 
@@ -70,8 +96,6 @@ We do not collect or save any location or user data other than what the app stor
 >}}
 
 
-
-{{< youtube "JPacyba6rqk">}}
 
 
 # Other Buddhist Apps
