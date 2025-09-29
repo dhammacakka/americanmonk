@@ -27,7 +27,7 @@ A Sayalay is an ordained nun in the Myanmar Theravāda Tradition. It is similar 
 
 In the Myanmar Theravāda tradition, ordaining as a Sayalay provides women with a distinct path to practice the Dhamma formally without stepping into the roles traditionally reserved for monks or fully ordained bhikkhunīs. The Sayalay lineage honors the essence of monastic life, allowing women to embody the teachings while maintaining harmony within the Theravāda structure.
 
-On November 3, 2024, I ordained my first Sayalay. Her name is Sayalay Dhammarati, which means "one who delights in the Dhamma." We will talk about what it means to be a Sayalay.
+On November 3, 2024, I ordained my first Sayalay at a {{< extlink "https://floridabuddhistmonastery.org" "very small monastery" >}}. Her name is Sayalay Dhammarati, which means "one who delights in the Dhamma." We will talk about what it means to be a Sayalay.
 
 
 ## Preliminary Procedure
