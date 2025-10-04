@@ -88,6 +88,11 @@ enableRobotsTXT = true
     url = "/about/"
     weight = 3
 [[menu.main]]
+    identifier = "Videos"
+    name = "Videos"
+    url = "/youtube/"
+    weight = 3
+[[menu.main]]
     name = "Subscribe"
     identifier = "Subscribe"
     url = "/subscribe/"
