@@ -21,7 +21,7 @@ featured_image: /images/patimokkh_and_novice.webp
 {{< img src = "/images/patimokkh_and_novice.webp" >}}
 
 ## Introduction
-During the month of November, I stayed in Geneva, Florida, at a {{< extlink "https://floridabuddhistmonastery.org" "very small monastery" >}}  —or what you might call a typical small three-bedroom house. Normally, the place is dormant and empty, but I was able to awaken this once-dormant monastery by going for alms, as I did in Kaua’i, ordinations, visitors and with my enthusiasm for teaching.
+During the month of November, I stayed in Geneva, Florida, at a {{< extlink "https://floridabuddhistmonastery.org" "very small florida buddhist monastery" >}} near Orlando —or what you might call a typical small three-bedroom house. Normally, the place is dormant and empty, but I was able to awaken this once-dormant monastery by going for alms, as I did in Kaua’i, ordinations, visitors and with my enthusiasm for teaching.
 
 ## About The Place:
 The three-bedroom house is supported by a very small group of Myanmar people on roughly 4 acres of land.  About 5-8 families are involved with the support but only one family lives within a suitable driving distance.  Because there are no property taxes and the annual costs are low to keep, this place was kept alive. I was introduced to this virtually unknown place in May 2024 by Czech Ashin Sarana. We were supposed to live together at this monastery for one week, but due to circumstances, he had business elsewhere during that time, and I was left alone. Ashin Sarana eventually disrobed with the aspiration of pursuing a career in counseling, along with other personal reasons, and he is now a layman. During that week alone, I had many opportunities to teach, and I was invited back.
