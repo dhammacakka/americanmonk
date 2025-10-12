@@ -1,12 +1,18 @@
 ---
-title: "Triple Gem and Einstein"
-description: "Explaining the Triple Gem to Westerners through a modern analogy with Einstein and the laws of physics."
+title: Triple Gem and Einstein
+description: Explaining the Triple Gem to Westerners through a modern analogy with Einstein and the laws of physics.
 date: 2025-10-08
-authors: ["Bhante Subhūti"]
-categories: ["Dhamma Talk"]
-tags: ["Triple Gem", "Einstein", "Dhamma", "Buddha", "Analogy"]
-image: "/images/einstein_triple_gem.png"
-featured_image: "/images/einstein_triple_gem.png"
+authors:
+    - Bhante Subhūti
+categories:
+    - teaching
+tags:
+    - buddha
+    - einstein
+    - tisarana
+    - atheist
+image: /images/einstein_triple_gem.png
+featured_image: /images/einstein_triple_gem.png
 ---
 
 I explain the Triple Gem to Westerners who know nothing about Buddhism in an unconventional way.  I use an analogy that helps them understand what the Buddha, the Dhamma, and the Saṅgha really mean — through something they already respect: **Einstein and the laws of physics**.

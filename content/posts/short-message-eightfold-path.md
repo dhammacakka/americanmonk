@@ -1,12 +1,17 @@
 ---
-title: "A Short Message About The Eightfold Noble Path"
-description: "Clarifying the relationship between the Four Noble Truths and the Noble Eightfold Path."
+title: A Short Message About The Eightfold Noble Path
+description: Clarifying the relationship between the Four Noble Truths and the Noble Eightfold Path.
 date: 2025-10-11
-authors: ["Bhante Subhūti"]
-categories: ["Dhamma"]
-tags: ["Four Noble Truths", "Eightfold Path", "Magga Sacca", "Ariya Sacca"]
-image: "/images/buddha8foldpath.webp"
-featured_image: "/images/buddha8foldpath.webp"
+authors:
+    - Bhante Subhūti
+categories:
+    - teaching
+tags:
+    - eightfold
+    - four-noble-truths
+    - buddha
+image: /images/buddha8foldpath.webp
+featured_image: /images/buddha8foldpath.webp
 ---
 
 
