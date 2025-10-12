@@ -1,0 +1,20 @@
+{{ $related := .Site.RegularPages.Related . | first 6 }}
+{{ with $related }}
+<div class="related-sidebar">
+    <h3 class="sidebar-title">{{ i18n "related" }}</h3>
+    <ul class="related-list">
+        {{ range . }}
+        <li class="related-card">
+            <a href="{{ .RelPermalink }}" class="related-card-link">
+                {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="related-thumb">
+                {{ end }}
+                <div class="related-text">
+                    <h4 class="related-title">{{ .Title }}</h4>
+                </div>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
