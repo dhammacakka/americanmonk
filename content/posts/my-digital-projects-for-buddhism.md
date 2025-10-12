@@ -11,11 +11,12 @@ tags:
     - tipitaka pali reader
     - tpr
     - video
+    - software
 categories:
     - interesting-things
 type: ""
-image: images/my-digital-projects.webp
-featured_image: images/my-digital-projects.webp
+image: /images/my-digital-projects.webp
+featured_image: /images/my-digital-projects.webp
 ---
 
 

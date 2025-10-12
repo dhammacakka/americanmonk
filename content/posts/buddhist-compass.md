@@ -1,16 +1,16 @@
 ---
-title: "Buddhist Compass App"
+title: Buddhist Compass App
 date: 2025-09-05
-categories: 
-  - monk-life
+categories:
   - software
-tags: 
+tags:
   - android
-  - bodh-gaya
   - buddhist-compass
-  - location
+  - buddhist-sun
   - qibla
-authors: 
+  - tipitaka-pali-reader
+  - software
+authors:
   - bksubhuti
 image: /images/compass_on_target.png
 featured_image: /images/compass_on_target.png

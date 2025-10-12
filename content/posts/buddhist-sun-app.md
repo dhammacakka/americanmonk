@@ -1,16 +1,17 @@
 ---
-title: "Buddhist Sun App"
+title: Buddhist Sun App
 date: 2021-09-13
-categories: 
+categories:
   - interesting-things
-tags: 
+tags:
   - app
   - buddhist
   - buddhist-sun
   - solar-noon
   - sun
   - zenith
-authors: 
+  - software
+authors:
   - bksubhuti
 image: /images/buddhist_sun_logo4.webp
 featured_image: /images/buddhist_sun_logo4.webp

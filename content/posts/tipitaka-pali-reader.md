@@ -1,15 +1,16 @@
 ---
-title: "Tipitaka Pali Reader"
+title: Tipitaka Pali Reader
 date: 2022-09-29
-categories: 
+categories:
   - software
-tags: 
+tags:
   - language
   - pali
   - software
   - tipitaka-pali-reader
   - tpr
-authors: 
+  - android
+authors:
   - bksubhuti
 image: /images/TPR-billboard.webp
 featured_image: /images/TPR-billboard.webp
