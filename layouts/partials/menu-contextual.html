@@ -33,18 +33,21 @@
 {{ with $related }}
   <div class="related-sidebar">
     <h3>Related Posts</h3>
-    <ul class="related-list">
-      {{ range . }}
-        <li class="related-card">
-          <a href="{{ .RelPermalink }}" class="related-card-link">
-            {{ with .Params.image }}
-              <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="related-thumb" loading="lazy">
-            {{ end }}
-            <span class="related-title">{{ .Title }}</span>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
+<ul class="related-list">
+  {{ range . }}
+    <li class="related-card">
+      <a href="{{ .RelPermalink }}" class="related-card-link">
+        <div class="related-card-inner">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="related-thumb">
+          <div class="related-card-content">
+            <h4 class="related-title">{{ .Title }}</h4>
+          </div>
+        </div>
+      </a>
+    </li>
+  {{ end }}
+</ul>
+
   </div>
 {{ end }}
 
