@@ -15,8 +15,8 @@ categories:
     - teaching
     - meditation
 type: ""
-image: "images/selective-attention.webp"
-featured_image: "images/selective-attention.webp"
+image: "/images/selective-attention.webp"
+featured_image: "/images/selective-attention.webp"
 ---
 
 

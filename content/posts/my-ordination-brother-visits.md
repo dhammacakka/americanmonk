@@ -16,7 +16,7 @@ featured_image: /images/indavimala-me.webp
 description: "The monk who ordained in my group 17 years ago is 1 second junior to me. "
 ---
 
-{{< img src="images/indavimala-me.webp" >}}
+{{< img src="/images/indavimala-me.webp" >}}
 
 
 This is Ven Indavimala. {{< url-out "why-i-ordained-twice" "During my re-ordination in 2007" >}}, the ones who were previously ordained got to go first by previous seniority. This is to preserve previous order of seniority to those who lost it before, but the seniority only resides in our year of ordination (if that makes sense). Technically we are all the same monk age in years. We are all 17 years or vassa.  However, the monk with the most experience will be ordained before the other and he will be senior sometimes by a day, an hour, or even by a mere second.  It is sort of like twins, if they know who was "born" first. Ven Maggavihari is the baby of our year and was in the very last group to ordain with a Chinese monk in the next day. He has only ordained once which is how it should be.

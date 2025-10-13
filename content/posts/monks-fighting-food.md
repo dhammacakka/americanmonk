@@ -17,7 +17,7 @@ featured_image: /images/durianfight.webp
 
  
 
-{{< img src="images/durianfight.webp" >}}
+{{< img src="/images/durianfight.webp" >}}
 
 I cannot believe that I am writing an article that explains how the monks are fighting over food. It is very awkward to hear isn’t it? On the other hand human nature is human nature. We have six monks who sit at each table and sometimes there is not enough of the special items to go around. And that is when the fighting begins...
 
