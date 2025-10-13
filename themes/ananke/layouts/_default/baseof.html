@@ -63,8 +63,9 @@
     gtag('config', 'G-ES5VJRZTGT');
   </script>
   <!-- Custom CSS -->
-{{ $custom := resources.Get "css/custom.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $custom.RelPermalink }}">
+{{ $style := resources.Get "css/custom.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
 
   <script>
     const pathname = window.location.pathname;
