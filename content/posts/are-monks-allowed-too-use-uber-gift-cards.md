@@ -12,7 +12,7 @@ tags:
 categories:
     - vinaya
 type: ""
-image: ""
+image: "/images/3wheeler_simulation_ulpathkanda.webp"
 featured_image: /images/3wheeler_simulation_ulpathkanda.webp
 ---
 
