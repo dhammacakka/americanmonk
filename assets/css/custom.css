@@ -319,7 +319,7 @@ p {
 /* Container */
 .related-sidebar {
   background: #f9f9f9;
-  padding: 1.5rem;
+  padding: 0.5rem;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }

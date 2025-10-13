@@ -1,20 +1,51 @@
-{{ $related := .Site.RegularPages.Related . | first 6 }}
-{{ with $related }}
-<div class="related-sidebar">
-    <h3 class="sidebar-title">{{ i18n "related" }}</h3>
-    <ul class="related-list">
-        {{ range . }}
-        <li class="related-card">
-            <a href="{{ .RelPermalink }}" class="related-card-link">
-                {{ with .Params.image }}
-                <img src="{{ . }}" alt="{{ $.Title }}" class="related-thumb">
-                {{ end }}
-                <div class="related-text">
-                    <h4 class="related-title">{{ .Title }}</h4>
-                </div>
-            </a>
+{{/*
+  Use Hugo's native Table of contents feature. You must set `toc: true` in your parameters for this to show.
+  https://gohugo.io/content-management/toc/
+*/}}
+{{- if .Params.toc -}}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">{{ i18n "whatsInThis" . }}</p>
+      {{ .TableOfContents }}
+  </div>
+{{- end }}
+
+{{/* Display Categories */}}
+{{ if .Params.categories }}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <p class="f5 b mb3">Categories</p>
+  <ul class="pa0 list">
+      {{ range .Params.categories }}
+        <li class="mb2">
+          <a href="{{ `categories/` | relLangURL }}{{ . | urlize }}">
+            {{ . }}
+          </a>
         </li>
-        {{ end }}
+      {{ end }}
     </ul>
-</div>
+  </div>
 {{ end }}
+
+{{/*
+  Use Hugo's native related content feature to pull in content that may have similar parameters, like tags, etc.
+  https://gohugo.io/content-management/related/
+*/}}
+{{ $related := .Site.RegularPages.Related . | first 15 }}
+{{ with $related }}
+  <div class="related-sidebar">
+    <h3>Related Posts</h3>
+    <ul class="related-list">
+      {{ range . }}
+        <li class="related-card">
+          <a href="{{ .RelPermalink }}" class="related-card-link">
+            {{ with .Params.image }}
+              <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="related-thumb" loading="lazy">
+            {{ end }}
+            <span class="related-title">{{ .Title }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+
+{{ partial "sidebar-subscribe.html" . }}
