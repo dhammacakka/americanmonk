@@ -290,7 +290,7 @@ nav a.f3.fw2:hover {
 }
 
 /* ==========================================================================
-   TEXT WRAPPING & CONTENT
+   TEXT WRAPPING & CONTENT some more info
    ========================================================================== */
 .summary,
 .post-content,
@@ -319,7 +319,7 @@ p {
 /* Container */
 .related-sidebar {
   background: #f9f9f9;
-  padding: 0.5rem;
+  padding: 0.6rem;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
