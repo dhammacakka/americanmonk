@@ -9,21 +9,27 @@
   </div>
 {{- end }}
 
-{{/* Display Categories */}}
 {{ if .Params.categories }}
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-  <p class="f5 b mb3">Categories</p>
-  <ul class="pa0 list">
+  <div class="related-sidebar">
+    <h3>Categories</h3>
+    <ul class="related-list">
       {{ range .Params.categories }}
-        <li class="mb2">
-          <a href="{{ `categories/` | relLangURL }}{{ . | urlize }}">
-            {{ . }}
+        <li class="related-card">
+          <a href="{{ `categories/` | relLangURL }}{{ . | urlize }}" class="related-card-link">
+            <div class="related-card-inner">
+              <img src="/images/format_list_bulleted.png" alt="{{ . }}" class="related-thumb">
+              <div class="related-card-content">
+                <h4 class="related-title">{{ . }}</h4>
+              </div>
+            </div>
           </a>
         </li>
       {{ end }}
     </ul>
   </div>
 {{ end }}
+
+
 
 {{/*
   Use Hugo's native related content feature to pull in content that may have similar parameters, like tags, etc.
