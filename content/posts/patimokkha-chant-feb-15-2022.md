@@ -48,7 +48,7 @@ The full text can be found [here](assets/PatimokkhaRomanOnly.pdf):
 
 Below is the whole thing in audio. Feel free to jump around to different parts of the audio to understand what it is about. The first 4 minutes are both Pāḷi and English while the remainder is in Pāḷi only. If you have no social life, feel free to listen to the whole thing. If you like it, consider becoming a monk or nun 😊 :
 
-\[archiveorg id=patimokkha-feb-15-2022\]
+{{< archiveorg id="patimokkha-feb-15-2022" >}}
 
 https://americanmonk.org/i-finally-did-it/
 

@@ -40,7 +40,7 @@ Below is a recording of the finger nail meditation talk I gave.
 
 **December 23rd** 2018 Fingernail Meditation
 
-\[archiveorg id=BhanteSubhuti2018Dec23 width=520 height=140\]
+{{< archiveorg id="BhanteSubhuti2018Dec23" >}}
 
 Other recordings may be found at [https://americanmonk.org/recordings-by-bhante-subhuti/](https://americanmonk.org/recordings-by-bhante-subhuti/)
 

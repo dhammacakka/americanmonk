@@ -29,7 +29,7 @@ But it is not just any tree. It is [The Bodhi Tree](https://en.wikipedia.org/wik
 
 It may seem strange to you that bottled drinking water is used to water a Bodhi tree, and that is why I took some pictures. That is a major purpose of this website, to show you things about the Buddhist monastic life that you might not already know about. Below is a video of giving water:
 
-\[archiveorg id=waterbodhitree\]
+{{< archiveorg id="waterbodhitree" >}}
 
 It reminds me of the first time I went to a house donation in one of the villages near Pa-Auk (Pa-Auk is a village name, and the monastery and teacher are [named after that village](https://americanmonk.org/pa-auk-monastery-and-sayadaw-shared-names/) and not the other way around). I went to a small house invitation with Sayadaw U Revata when he was just a few years old in monk years. I was one year younger than him. He gave a dhamma talk and then the donors took our bowls and returned them filled with our meals just before we went back to the monastery to eat. When I got back, I went to the saṅgha office where Sayadaw U Kuṇḍadhāna was. The bowl was filled to the brim with special coconut rice and many different curries.
 

@@ -25,7 +25,7 @@ During the Buddhist Rainy season, I was invited to go to Cambodia as part of a g
 
 We didn't need to go beyond the airport to understand that things were going to be much different because we got quite the welcome at Cambodia airport. Before reaching the immigration counter, we were greeted with flowers, and an immigration officer collected our group’s passports. Our arrival seemed to draw attention, with some officers taking personal photos of the event. Without getting our passports back, we were told to go ahead and exit the airport to meet the crowd waiting for us. There must have been 150 people waiting for our arrival. The random travelers on the plane were in for a cultural treat to see all the welcoming going on. Later, our stamped passports were given to us on the bus. It was the biggest aloha welcome I have ever had... but was it for us? (Video below).
 
-\[archiveorg id=nagaboat-edit/cambodia-airport.mpeg4\]
+{{< archiveorg id="nagaboat-edit/cambodia-airport.mpeg4" >}}
 
 ## Relics
 
@@ -78,7 +78,7 @@ The next day was somewhat of a blur. My sickness was in full throttle with a str
 
 Words and even videos cannot describe what this was like to be on the leading nāga boat with the Buddha relics. There were maybe 5,000 in front of us, and maybe 20,000 behind us, while causing a shower of flower petals to rain on us. The video does not show all of this, but it is the best one so far. This was not even 1/1000 of what we ever imagined when we were invited. And it is difficult to even measure. And this is the power of the Buddha. Merit that is immeasurable. Below is a video showing the arrival of the relics to the shrine room.
 
-\[archiveorg id=nagaboat-edit/nagaboat-edit.mpeg4\]
+{{< archiveorg id="nagaboat-edit/nagaboat-edit.mpeg4" >}}
 
 - {{< img src = "/images/skylanterns-1024x682.webp" >}}
     

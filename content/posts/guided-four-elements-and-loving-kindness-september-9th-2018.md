@@ -19,4 +19,4 @@ featured_image: /images/me-guided-fourelements.webp
 
 Here is a dhamma talk with a very brief instruction for Four Elements.  It is not complete, but gives a small taste of four elements.  Loving-kindness is also included as usual.  The recording is cleaner using some post processing with the same recorder.
 
-\[archiveorg id=BhanteSubhuti2018Sept9 width=520 height=140\]
+{{< archiveorg id="BhanteSubhuti2018Sept9" >}}

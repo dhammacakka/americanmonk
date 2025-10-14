@@ -22,7 +22,7 @@ featured_image: /images/Telecommunication-Tower-Wave-Radio-Broadcast-.webp
 
 Here is the link to the 2015 KKCR radio show. We were interviewed on Kauai Community Radio for about one hour instead of the scheduled 20 minutes. We all had fun doing it.  It will give you a good taste of what we did on the island in 2015 and what I am doing now. I often enjoy revisiting this recording, and I hope you do too.
 
-\[archiveorg id=oasis111518-2\]
+{{< archiveorg id="oasis111518-2" >}}
 
 Archive page: [https://archive.org/details/oasis111518-2](https://archive.org/details/oasis111518-2)
 

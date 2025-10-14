@@ -13,7 +13,8 @@ Dear Friends,
 
 Here is the link to the kkcr radio show where we were interviewed on Kauai Community Radio for about one hour.  It gives a good taste of what we did on the island:
 
-\[archiveorg id=oasis111518-2\] We will be on the radio on Sunday at 11:00 am Hawaii time.
+{{< archiveorg id="oasis111518-2" >}}
+We will be on the radio on Sunday at 11:00 am Hawaii time.
 
 The radio station is kkcr and can be streamed at the main page below. [http://www.kkcr.org](http://www.kkcr.org) Program 10am -12pm [http://www.kkcr.org/djs/kamran.htm](http://www.kkcr.org/djs/kamran.htm) We will come on at 11am island time.
 

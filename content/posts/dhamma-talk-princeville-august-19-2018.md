@@ -27,6 +27,6 @@ As the only Theravada Monk in Kauai, I have been giving Dhamma Talks every month
 
 You may download the mp3 for off-line listening (recommended) at [https://archive.org/download/bhSubhuti-Aug-19-2018/bhSubhuti-Aug-19-2018.mp3](https://archive.org/download/bhSubhuti-Aug-19-2018/bhSubhuti-Aug-19-2018.mp3)
 
-**\[archiveorg id=bhSubhuti-Aug-19-2018\]**
+{{< archiveorg id="bhSubhuti-Aug-19-2018" >}}
 
 I hope you enjoyed it.

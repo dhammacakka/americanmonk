@@ -16,7 +16,7 @@ featured_image: /images/acapellainertia-mp3.webp
 
 Audio Story (free [MP3 download](https://archive.org/download/acapellainertia/acapellainertia.mp3))
 
-**\[archiveorg id=acapellainertia\]**
+{{< archiveorg id="acapellainertia" >}}
 
 I have decided to make an audio version of this story. I started off by having a computer read this for the purpose of proofreading. Then I started reading it out loud. As I read it out loud with my own natural expressions, I thought that it might be better if an audio version were available.
 
