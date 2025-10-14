@@ -1,8 +1,10 @@
 {{ $id := .Get "id" }}
-<iframe
-  src="https://archive.org/embed/{{ $id }}"
-  frameborder="0"
-  webkitallowfullscreen="true"
-  mozallowfullscreen="true"
-  allowfullscreen>
-</iframe>
+<div style="max-width: 720px; margin: auto;">
+  <iframe
+    src="https://archive.org/embed/{{ $id }}"
+    style="width:100%; aspect-ratio:16/9; border:0;"
+    allowfullscreen
+    webkitallowfullscreen
+    mozallowfullscreen>
+  </iframe>
+</div>
