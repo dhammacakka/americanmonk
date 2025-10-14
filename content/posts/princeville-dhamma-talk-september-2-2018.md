@@ -26,4 +26,4 @@ For those who missed it and want to hear, here it is.  It is best to use head/e
 
 You may download the MP3 [here](https://archive.org/details/BhanteSubhutiSept022018ed)
 
-**\[archiveorg id=BhanteSubhutiSept022018ed\]**
+{{< archiveorg id="BhanteSubhutiSept022018ed" >}}
