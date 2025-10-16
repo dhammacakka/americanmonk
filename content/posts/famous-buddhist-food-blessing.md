@@ -52,4 +52,4 @@ Therefore, the monk who practices humility and respect gains these four qualitie
 **May this help you realize Nibbāna safely and quickly.**
 
 ## YouTube Video Below
-{{< youtube 3OaTroisSkI >}}
+{{< youtube tniHC7qAlf0 >}}
