@@ -35,6 +35,20 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>The Famous Buddhist Blessing</title>
+      <description>Bhante Subhūti explains the meaning and background of one of the most famous Buddhist blessings, often chanted after a meal offering to the Saṅgha.</description>
+      <link>https://archive.org/details/famous-chant</link>
+      <guid>https://archive.org/details/famous-chant</guid>
+      <enclosure url="https://ia800307.us.archive.org/9/items/landscape-copy/famous-chant.mp3"
+                 length="0"
+                 type="audio/mpeg"/>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://americanmonk.org/images/dana-lady-rice.webp"/>
+      <itunes:keywords>abhivādanasīlissa, blessing, buddhism, dhamma, meal offering, bhante subhūti</itunes:keywords>
+   </item>
+    <item>
       <title>Einstein and the Triple Gem</title>
       <description>How I explain the Triple Gem to Westerners by relating it to Albert Einstein.</description>
       <link>https://archive.org/details/einstein-triple-gem</link>
