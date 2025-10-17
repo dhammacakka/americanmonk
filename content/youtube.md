@@ -6,7 +6,9 @@ description: "Complete collection of Dhamma talks and reflections by Bhante Subh
 # Please wait 30 seconds for 80 thumbnails to load
 
 ## All Videos
-{{< youtube wEgayiA2azM>}}
+{{< youtube tniHC7qAlf0 >}}
+{{< youtube mSLaclIFhK0 >}}
+{{< youtube wEgayiA2azM >}}
 {{< youtube JPacyba6rqk >}}
 {{< youtube 72Gl6uqZtnc >}}
 {{< youtube P0RTAuCNcSQ >}}
