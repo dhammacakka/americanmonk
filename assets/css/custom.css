@@ -466,3 +466,14 @@ p {
   color: #222;
 }
 
+/* ==========================================================================
+   YouTube Embed Rounded Corners
+   ========================================================================== */
+.youtube-wrapper,
+iframe[src*="youtube.com"],
+iframe[src*="youtu.be"] {
+  border-radius: 20px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: block;
+}
