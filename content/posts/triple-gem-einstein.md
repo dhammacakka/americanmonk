@@ -46,6 +46,10 @@ Then I explain the Saṅgha through the example of **elite researchers**.  Anyon
 That’s why we say refuge is not just in any community, but in the **Noble Saṅgha** — the four pairs and eight individuals who have attained Nibbāna.
 
 ---
+## YouTube Video
+
+{{< youtube wEgayiA2azM>}}
+---
 
 ## The Poster on the Wall
 
@@ -81,8 +85,5 @@ So may this reflection help you develop right view and right understanding, so y
 > The Buddha lives, when Dhamma is loved.  
 
 ---
-## YouTube Video
-
-{{< youtube wEgayiA2azM>}}
 
 {{< img src="/images/einstein_triple_gem.webp" >}}
