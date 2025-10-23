@@ -3,7 +3,7 @@ title: "All YouTube Videos"
 description: "Complete collection of Dhamma talks and reflections by Bhante Subhuti."
 ---
 
-# Please wait 30 seconds for 83 thumbnails to load
+# Please wait 30 seconds for 84 thumbnails to load
 
 ## All Videos
 {{< youtube c4TO2GKr8Hs >}}
