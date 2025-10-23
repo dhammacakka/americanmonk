@@ -12,8 +12,8 @@ tags:
   - software
 authors:
   - bksubhuti
-image: /images/compass_on_target.png
-featured_image: /images/compass_on_target.png
+image: /images/compass_on_target.webp
+featured_image: /images/compass_on_target.webp
 ---
 
 

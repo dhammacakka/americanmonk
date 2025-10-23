@@ -11,8 +11,8 @@ tags:
     - einstein
     - tisarana
     - atheist
-image: /images/einstein_triple_gem.png
-featured_image: /images/einstein_triple_gem.png
+image: /images/einstein_triple_gem.webp
+featured_image: /images/einstein_triple_gem.webp
 ---
 
 I explain the Triple Gem to Westerners who know nothing about Buddhism in an unconventional way.  I use an analogy that helps them understand what the Buddha, the Dhamma, and the Saṅgha really mean — through something they already respect: **Einstein and the laws of physics**.
@@ -85,4 +85,4 @@ So may this reflection help you develop right view and right understanding, so y
 
 {{< youtube wEgayiA2azM>}}
 
-{{< img src="/images/einstein_triple_gem.png" >}}
+{{< img src="/images/einstein_triple_gem.webp" >}}
