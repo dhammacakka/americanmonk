@@ -27,8 +27,7 @@ only to ward off the cold, to ward off the heat,
 to ward off contact with gadflies, mosquitoes, wind, the heat (of the sun), and serpents,
 
 **yāvad-eva utuparissayavinodanapaṭisallānārāmatthaṁ.**  
-only to dispel the trouble of the (varying) seasons, and so as to delight in seclusion. \[mfn\] from [https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/00-Daily-1-Morning-Chants.htm](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/00-Daily-1-Morning-Chants.htm) \[/mfn\]
-
+only to dispel the trouble of the (varying) seasons, and so as to delight in seclusion.[^1]
 This chant is something we must reflect on every day. With this, it should not matter so much where we stay or even the quality, however sometimes we get spoiled. But wherever we stay, we should be happy. Many of the places shown here are places I have actually stayed at. Below is kuti #123 in Pa-Auk Forest Monastery in Mawlamyine. I lived in this kuti pretty much from 2001-2005. This picture was taken much later and another person is living there now. Kuti #123 and others are some of the original kutis of the monastery which has grown quite a lot. They call these kutis, black kutis, because they are painted with old engine oil to keep the bugs away. Does it work? Sort of, but the kuti smells like a car repair shop for a few days after they treat it. After the smell goes away, the bugs come back. The newer kutis have oil moats around the pillars.
 
 {{< img src = "/images/k123.webp" >}}
@@ -117,3 +116,5 @@ While the kutis look quite nice. I can stay in many different places. When I was
 - {{< img src = "/images/aninitent2-768x1024.webp" >}}
     
 - {{< img src = "/images/AniniTent-576x1024.webp" >}}
+
+[^1]: from [https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/00-Daily-1-Morning-Chants.htm](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/00-Daily-1-Morning-Chants.htm)

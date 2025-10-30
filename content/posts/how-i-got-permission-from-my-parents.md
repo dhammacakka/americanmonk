@@ -19,7 +19,7 @@ Here is a post with a video link on how I got permission from my parents. In ear
 
 I have discussed this event with my parents and told them that I'm glad I had permission. Otherwise I would have never seen them again if I held my promise. Likewise, it would have been very bad for my state of mind for the rest of my life. Why? Every chance I had to speak, meet or contact my parents, I would be acting or not acting based on a grudge. This can be very dangerous for the person. That is why it is very important not to hold a grudge.
 
-I hope you enjoy this post. It is one of my classic stories from the past. The story took place more than 23 years ago and my monk life started shortly after that. On February 7th, 2024, I will be celebrating a total of 23 years in robes.\[mfn\] Officially, my age in monk years is 17 since I changed nikaya\[/mfn\]
+I hope you enjoy this post. It is one of my classic stories from the past. The story took place more than 23 years ago and my monk life started shortly after that. On February 7th, 2024, I will be celebrating a total of 23 years in robes.[^1]
 
 https://www.youtube.com/watch?v=c2JQjhwdsxA
 
@@ -30,3 +30,5 @@ https://www.youtube.com/watch?v=c2JQjhwdsxA
 ### Why did you become a monk?
 
 Probably the #1 question we get is, "Why did you become a monk?" That question has many factors and answers. However, a better question is, "How did I actually get the nerve to become a monk?" Read More
+
+[^1]: Officially, my age in monk years is 17 since I changed nikaya

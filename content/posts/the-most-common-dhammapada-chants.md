@@ -110,7 +110,7 @@ https://commons.wikimedia.org/wiki/File:Nava\_Jetavana\_Temple\_-_Shravasti_\-_0
 This verse has so much information in it. However, it is often attributed to the Abhidhamma and mental states preceding all speech or action. Furthermore, it also refers to the law of kamma, past lives and how they affect current lives. The [story](https://www.ancient-buddhist-texts.net/English-Texts/Buddhist-Legends/01-01.htm) of [Cakkhupāla Thera](https://www.youtube.com/watch?v=LE_cgtIGfAE) references this verse because he was a doctor in a past life who caused a lady to become blind because she pretended the doctor didn't cure her illness to avoid paying a lifelong debt to him. In his future life during the time of the Buddha, he was born as Venerable Cakkhupāla. Although he was an Arahant, he became blind during the process. The story goes on further to explain that the mind is required to do harmful things. There were dead insects along Venerable Cakkhupāla's walking path, but since he could not see them when he stepped on them, there was no kamma that would follow him.  
   
 
-## Summary Poem\[mfn\]written by chatgpt edited by me\[/mfn\]
+## Summary Poem
 
 In pursuit of truth, Cakkhupāla tread,  
 A path of dedication, where enlightenment spread.  

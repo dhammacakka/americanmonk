@@ -42,7 +42,7 @@ Twenty years later, in 2010, I visited Ulpathkanda, Hantanna, (Spring Hill Monas
 
 I looked up my old friend on the Internet. When we were in college together, he had changed his major from Philosophy to whatever you needed to become a Spanish teacher. It looked as though he had really lived the Spanish lifestyle and moved all over the globe to Spanish and Portuguese speaking countries. The Internet kept track of all the different countries he lived in. It was true that "Big Brother is watching," and so could I with an Internet connection. After all of that globe trotting, he settled down in a Connecticut town not too far from where he originally taught me how to meditate. I picked up the monastery phone, and dialed the codes for my phone card, and then I dialed his number. The phone rang and a woman's voice answered the phone.  
 "Hello?"  
-"Hello, my name is Bhikkhu Subhūti, and I was wondering if a Brett J\[mfn\]name has been withheld\[/mfn\] . lives here?"  
+"Hello, my name is Bhikkhu Subhūti, and I was wondering if a Brett J[^1] . lives here?"  
 "Yes, he does."  
 "May I speak with him please?"  
 "...uh..OK?" She said in a cautious voice to me as a stranger. Perhaps I was a telemarketer to them. They did not know what to expect. There were muffled voices coming through the phone's speaker, and then eventually the phone was passed to Brett.  
@@ -65,3 +65,5 @@ If you ever have a chance to thank someone that has affected your life, I highly
 "We never know what will happen to the seeds we have planted long ago ."
 
 Originally posted in 2014 on Google Plus
+
+[^1]: His last name has been withheld.

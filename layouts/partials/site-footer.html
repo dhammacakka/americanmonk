@@ -1,0 +1,65 @@
+<style>
+.footnote-popup {
+  position: absolute;
+  background: #fefefe;
+  color: #222;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 8px 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  max-width: 320px;
+  font-size: 0.9em;
+  line-height: 1.4;
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: auto;
+}
+.footnote-popup.show {
+  opacity: 1;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const popup = document.createElement("div");
+  popup.className = "footnote-popup";
+  document.body.appendChild(popup);
+
+  let hideTimer = null;
+
+  function showPopup(ref, note) {
+    popup.innerHTML = note.innerHTML;
+    const rect = ref.getBoundingClientRect();
+    popup.style.left = `${rect.left + window.scrollX}px`;
+    popup.style.top = `${rect.bottom + window.scrollY + 6}px`;
+    popup.classList.add("show");
+  }
+
+  function hidePopup() {
+    popup.classList.remove("show");
+  }
+
+  document.querySelectorAll("a.footnote-ref").forEach(ref => {
+    const id = ref.getAttribute("href").substring(1);
+    const note = document.getElementById(id);
+    if (!note) return;
+
+    ref.addEventListener("mouseenter", () => {
+      clearTimeout(hideTimer);
+      showPopup(ref, note);
+    });
+
+    ref.addEventListener("mouseleave", () => {
+      hideTimer = setTimeout(hidePopup, 200);
+    });
+  });
+
+  popup.addEventListener("mouseenter", () => {
+    clearTimeout(hideTimer);
+  });
+  popup.addEventListener("mouseleave", () => {
+    hideTimer = setTimeout(hidePopup, 200);
+  });
+});
+</script>

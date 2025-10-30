@@ -122,7 +122,7 @@ The mission is to train monks in the classical Theravāda training to be indepen
 
 {{< img src = "/images/iit_pali_books-1024x768.webp" >}}
 
-> Following things should learn and skilled by the one who completed five rains and to be freed from dependence. \[mfn\]tasmā nissayamuccanakena (pāci. aṭṭha. 145-147) upasampadāya pañcavassena sabbantimena paricchedena dve mātikā paguṇā vācuggatā kattabbā, pakkhadivasesu dhammassavanatthāya suttantato cattāro bhāṇavārā, sampattānaṃ parisānaṃ parikathanatthāya andhakavinda(a. ni. 5.114) mahārāhulovāda(ma. ni. 2.113 ādayo) ambaṭṭha(daī. ni. 1.254 ādayo) sadiso eko kathāmaggo, saṅghabhattamaṅgalāmaṅgalesu anumodanatthāya tisso anumodanā, uposathapavāraṇādijānanatthaṃ kammākammavinicchayo, samaṇadhammakaraṇatthaṃ samādhivasena vā vipassanāvasena vā arahattapariyosānamekaṃ kammaṭṭhānaṃ, ettakaṃ uggahetabbaṃ.\[/mfn\]
+> Following things should learn and skilled by the one who completed five rains and to be freed from dependence. [^1]
 > 
 > - Two (sets) of pātimokkha rules (bhikkhu and bhikkhuni) should be learned by heart \[at least\].
 > 
@@ -155,3 +155,5 @@ For a place that has just opened 3 years ago, 78 residents is quite an astoundin
 {{< img src = "/images/iit_dana_sala_night.webp" >}}
 
 {{< img src = "/images/iit_buddha-1024x768.webp" >}}
+
+[^1]: tasmā nissayamuccanakena (pāci. aṭṭha. 145-147) upasampadāya pañcavassena sabbantimena paricchedena dve mātikā paguṇā vācuggatā kattabbā, pakkhadivasesu dhammassavanatthāya suttantato cattāro bhāṇavārā, sampattānaṃ parisānaṃ parikathanatthāya andhakavinda(a. ni. 5.114) mahārāhulovāda(ma. ni. 2.113 ādayo) ambaṭṭha(daī. ni. 1.254 ādayo) sadiso eko kathāmaggo, saṅghabhattamaṅgalāmaṅgalesu anumodanatthāya tisso anumodanā, uposathapavāraṇādijānanatthaṃ kammākammavinicchayo, samaṇadhammakaraṇatthaṃ samādhivasena vā vipassanāvasena vā arahattapariyosānamekaṃ kammaṭṭhānaṃ, ettakaṃ uggahetabbaṃ.

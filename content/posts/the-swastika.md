@@ -12,7 +12,7 @@ featured_image: /images/swastika-wikipedia.webp
 
 Today, as I was washing my bowl, I saw a local Myanmar monk with a swastika tattoo on his arm. As an American and someone with Jewish bloodlines, I am still not used to this no matter how much I know. However, it is important topic for all of you who are new to Buddhism or even for some seasoned Buddhists.
 
-Was the monk a racist? No. It is an ancient symbol which often means conducive to well being.\[mfn\]Says wikipedia.\[/mfn\] The Monier Williams Sanskrit English Dictionary says that most scholars attribute it to represent the Sun, yet Cunningham, a famous scholar attributes it to one of the 24 marks of The Buddha which are found on his footprint. In this case, it is often associated with the Dhamma Wheel or the endless cycles of rebirth.
+Was the monk a racist? No. Wikipedia says it is an ancient symbol which often means conducive to well being. The Monier Williams Sanskrit English Dictionary says that most scholars attribute it to represent the Sun, yet Cunningham, a famous scholar attributes it to one of the 24 marks of The Buddha which are found on his footprint. In this case, it is often associated with the Dhamma Wheel or the endless cycles of rebirth.
 
 {{< img src = "/images/FootprintYale-1024x746.webp" >}}
 

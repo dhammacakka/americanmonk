@@ -42,13 +42,11 @@ may there be no obstacles for you, may you be happy and live long!
 For one in the habit of constantly worshipping respectable elders,
 
 **cattāro dhammā vaḍḍhanti: āyu, vaṇṇo, sukhaṁ, balaṁ.**  
-four things increase: length of life, beauty, happiness, and strength.\[mfn\]Modified from [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/08-Parittam-Atanatiyasuttam.htm)\[/mfn\]
-
-[](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/08-Parittam-Atanatiyasuttam.htm)  
+four things increase: length of life, beauty, happiness, and strength.[^1]
 
 I usually hear a heartfelt "thank you," after the blessing and it is fulfilling to me. I am a prop for people to make merit, and if I have such an attitude, then I also make merit too. When it is all finished, we are both wondering who is doing who the favor even though we know they helped me out when I was in need. Not only that, I have counted 7 people to date who have cried after I had said this or portions of the loving-kindness sutta. I'm pretty sure there were a couple more too, but I cannot recall all of them and that is why I'm keeping a list now. It always feels really good to my heart when tears come based on the dhamma.
 
-Just last week, one lady was moving off the island soon and she asked for a blessing. I told her that normally people give food or rides and they get a blessing because they make their own blessing by doing acts of merit. However, I told her I could give her a teaching on loving-kindness and chant the "Loving-kindness Sutta" for her\[mfn\]See this lin https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/03-Parittam-Mettasuttam.htm\[/mfn\]. I continued and said that if she puts the teachings into practice, then that would be her real blessing. After I finished chanting, tears were rolling down her face. She explained she had always followed these teachings, but never heard anyone say this to her. My teaching and chant confirmed that she was doing the right thing. It made her so happy and determined that the tears started to roll. The tears were purifying for her too.
+Just last week, one lady was moving off the island soon and she asked for a blessing. I told her that normally people give food or rides and they get a blessing because they make their own blessing by doing acts of merit. However, I told her I could give her a teaching on loving-kindness and chant the "Loving-kindness Sutta" for her.[^2] I continued and said that if she puts the teachings into practice, then that would be her real blessing. After I finished chanting, tears were rolling down her face. She explained she had always followed these teachings, but never heard anyone say this to her. My teaching and chant confirmed that she was doing the right thing. It made her so happy and determined that the tears started to roll. The tears were purifying for her too.
 
 I make merit by being in Hawaii. Every so often, maybe once per month, profound tears reveal themselves to me. Other times, I get daily sincere "thank-yous" from those who have helped me out. I have also been teaching and you can hear some of the dhamma talks I have recorded at this link [here](https://americanmonk.org/recordings-by-bhante-subhuti/) . I know with my heart that I am doing the right thing. I am not wasting my time, even if I were to fly back to Asia today. In other words, I am satisfied and what a great day to express that feeling.
 
@@ -57,3 +55,8 @@ May you share in the merit that I have done.
 Aloha,
 
 Bhante Subhuti
+
+[^1]: Modified from [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/08-Parittam-Atanatiyasuttam.htm)
+
+[^2]: See this link https://www.ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/03-Parittam-Mettasuttam.htm
+

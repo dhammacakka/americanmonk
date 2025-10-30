@@ -29,7 +29,7 @@ On March 17, 2022, Pa-Auk Pyin Oo Lwin literally started to live with COVID. On 
 
 {{< img src = "/images/testing.webp" >}}
 
-On April 1, 2022, we will "celebrate" 2 years of strict lockdown. We started earlier, but that was when things got really serious and the 200 or so construction workers with their families were asked to leave. Time has gone by very quickly and the population of the monastery has slowly been reduced to about half its size. Visas have been shut down by the government\[mfn\]There is a report that visas will open again in mid April, 2022\[/mfn\], so if you leave the country, you cannot come back. Furthermore, if you have medical needs and leave the monastery for a local visit to the doctor or dentist, you must spend 3 weeks in strict quarantine upon returning, [which I had to do for my doctor's visit](https://americanmonk.org/super-quarantine-inside-pa-auk/). One monk needed all of his wisdom teeth pulled and since he had to do each tooth separately, he opted to just go back to Vietnam rather than do three months of quarantine periods.
+On April 1, 2022, we will "celebrate" 2 years of strict lockdown. We started earlier, but that was when things got really serious and the 200 or so construction workers with their families were asked to leave. Time has gone by very quickly and the population of the monastery has slowly been reduced to about half its size. Visas have been shut down by the government[^1], so if you leave the country, you cannot come back. Furthermore, if you have medical needs and leave the monastery for a local visit to the doctor or dentist, you must spend 3 weeks in strict quarantine upon returning, [which I had to do for my doctor's visit](https://americanmonk.org/super-quarantine-inside-pa-auk/). One monk needed all of his wisdom teeth pulled and since he had to do each tooth separately, he opted to just go back to Vietnam rather than do three months of quarantine periods.
 
 We don't know exactly how COVID came into the monastery. We did have some breaches of the lockdown in the past, and it is very likely it has happened again. Other theories exist with some food, package or construction deliveries. The lockdown was not perfect, but it worked for 2 years when variants and conditions were much worse for Myanmar.
 
@@ -68,3 +68,5 @@ Indian Monk and myself
 Our Sayadawgyi who is susceptible for complications has tested negative and he is in a separate quarantine group with those who take care of him. Hopefully, we will get through this without any problems and things will get back to normal. Will Pa-Auk have a real "Living with COVID policy" after this all blows over? I doubt it. For now, the lockdown continues.
 
 {{< img src = "/images/spreadKaruna.webp" >}}
+
+[^1]: There is a report that visas will open again in mid April, 2022\

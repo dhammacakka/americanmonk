@@ -51,7 +51,7 @@ Rules Regarding Communal Donations
 **“yo pana bhikkhu jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmeyya, nissaggiyaṁ pācittiyan”ti.‘  
 **If a monk diverts to himself material support that he knows was intended for the sangha, he commits an offense entailing relinquishment and confession.’”
 
-The Nepal monk was hoping to take food from the new monk, but he could not. The group bowl that is not donated to Saṅgha and meant for anyone was nearly empty. I quickly poured all of the contents of that bowl into the Nepal monk's bowl. Not only that, I was able to get the Nepal monk to take even more food from me.. and I was even happier. That was the time when I took a bag of that best curry and poured it all in his bowl.\[mfn\]Later before sitting down, I told him that I should have a small amount of that green curry to taste it since it was given to me. He put a spoon of the curry in my bowl.\[/mfn\] I had cake, I broke it in half, and gave the bigger piece to him. It made me so happy to give him a full meal based on what I collected. It was already a good day, and it was only 7:45 am.
+The Nepal monk was hoping to take food from the new monk, but he could not. The group bowl that is not donated to Saṅgha and meant for anyone was nearly empty. I quickly poured all of the contents of that bowl into the Nepal monk's bowl. Not only that, I was able to get the Nepal monk to take even more food from me.. and I was even happier. That was the time when I took a bag of that best curry and poured it all in his bowl.[^1] I had cake, I broke it in half, and gave the bigger piece to him. It made me so happy to give him a full meal based on what I collected. It was already a good day, and it was only 7:45 am.
 
 ## 5 Qualities of Giving Donation
 
@@ -126,3 +126,5 @@ So in each bowl of rice, in every banana's peel,
 Lies a lesson of compassion, so profoundly real.  
 In Theravāda's path, in Buddha's gentle guide,  
 In acts of giving, our hearts reside.
+
+[^1]: Later before sitting down, I told him that I should have a small amount of that green curry to taste it since it was given to me. He put a spoon of the curry in my bowl.

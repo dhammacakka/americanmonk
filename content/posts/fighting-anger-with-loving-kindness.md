@@ -45,8 +45,10 @@ I truly believe that going on real-village-alms in America is only possible by p
 
 1.  Loving-kindness 
 
-2.  Monks should be without money (Basic Monastic Sīla\[mfn\]There are 10 precepts that novice monks take before they become fully ordained monks. The 10th of these precepts is to be free from handling money.  All monks are expected to follow these rules, yet less than 1% of Myanmar monks actually respect the Buddha's rules for his monks.\[/mfn\]). 
+2.  Monks should be without money (Basic Monastic Sīla)[^1]. 
 
 Afterwards, we said goodbye and I continued to go down the road, one by one, facing the houses _with my eyes closed_, wishing loving-kindness to each house.
 
 Update: July 3rd, 2019.. I went for alms 3 weeks later and the same man came out again with smiles ear to ear. "Bhante I have not seen you for some time." We spoke for a little bit longer until another neighbor in a pickup-truck pulled on the side of the road to offer me a package of food.
+
+[^1]: There are 10 precepts that novice monks take before they become fully ordained monks. The 10th of these precepts is to be free from handling money.  All monks are expected to follow these rules, yet less than 1% of Myanmar monks actually respect the Buddha's rules for his monks.

@@ -41,7 +41,7 @@ Below is an excerpt from [Going For Broke](https://americanmonk.org/book-going-f
 > 
 > Standing in front of my watch, I thought of the impossible “If I find my watch...” promise I’d made, which I thought I would never be held accountable for. Nobody would ever know if I just kept on walking, but finding the watch was just too much of a coincidence to let this moment of truth simply drift away. I lowered myself down to pick up the watch. I had to be true to who I was, or what I was to become.  As I picked it up, I felt it was one of the heaviest things I had ever picked up. Change and destiny, especially my own, bore a lot of weight. After this, the only question was when I would become a monk, and that was only a matter of time.
 
-The third tipping point happened at Sai Babba's Ashram.  It is also from the book [Going For Broke](https://americanmonk.org/book-going-for-broke/)\[mfn\]This quote has been slightly modified to give more detail\[/mfn\].
+The third tipping point happened at Sai Babba's Ashram.  It is also from the book [Going For Broke](https://americanmonk.org/book-going-for-broke/).[^1]
 
 > ...It was an experience to go see Sai Baba, and during this experience I finally made up my mind about when I would end up in Thailand.
 > 
@@ -52,3 +52,5 @@ The third tipping point happened at Sai Babba's Ashram.  It is also from the bo
 > After a few days of putting my shoes is places that would be less likely to be stolen,  I challenged myself that I would go straight to Thailand the next time my shoes got stolen. I became fearless concerning my shoes. I started to leave them neatly together near the entrance of everywhere I went. Eventually I was putting them right in front of the exit and facing the right direction so that one only needed to slip his feet into them and walk away.  “Go ahead and take ‘em,” I would say to myself. When I would come back and find them still there, I sensed some disappointment. Later, I realized becoming a monk was now in my heart.  I could make a decision finally under my own power.  With this in mind, I made up my mind to rush through India and Nepal and then fly directly to Thailand before my 30th birthday. For the first time in 11 Months (has it been that long?) I have an itinerary! I’m now a tourist rather than a traveler. I recently gave my compass as a gift to my camel driver. I no longer needed my compass at this stage since I finally had a clear direction in my life.
 
 And so that is what happened.  I ended up in the monastery on October 5th, only one day before my 30th birthday.
+
+[^1]: This quote has been slightly modified to give more detail.

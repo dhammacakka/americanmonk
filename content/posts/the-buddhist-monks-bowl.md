@@ -39,7 +39,7 @@ The shape tends to be a wide shape usually similar to the one pictured above. Th
 
 ### Size:
 
-Typically the bowls are sized from 6" to 9" bowls with 8" being the most standard and most popular. New monks in Thailand often have huge 9" bowls. The size is dictated by the vinaya. Some would argue that the 8" is the proper size while the 6" would be way too small and the 9" too big. We really cannot know for sure what is the proper size and it was heavily researched once by the legendary high scholar\[mfn\]I originally used the wrong word to describe this highly respected monk. It was unintentional. My English skills have dropped over the years and even my editor did not pick up on this.\[/mfn\] "Greek Bhante" who can answer any question ... but this one.
+Typically the bowls are sized from 6" to 9" bowls with 8" being the most standard and most popular. New monks in Thailand often have huge 9" bowls. The size is dictated by the vinaya. Some would argue that the 8" is the proper size while the 6" would be way too small and the 9" too big. We really cannot know for sure what is the proper size and it was heavily researched once by the legendary high scholar,[^1] "Greek Bhante" who can answer any question ... but this one.
 
 > Size. The Vibhaṅga contains a discussion of three proper sizes for a bowl — the medium size containing twice the volume of the small, and the large twice the volume of the medium — but they are based on measurements that are not known with any precision at present.
 > 
@@ -124,3 +124,5 @@ The bowl will last a very long time and the forest monks usually eat from their 
 ### Conclusion:
 
 There is a lot to know about monk bowls. I have covered the main points to give you the basic information. It is not recommended to use a monk's bowl without being ordained. However, when I was a lay person in the 90's, especially when I was first starting out on my own, I used a single square-shaped CorningWare dish. I cooked in it and I also ate with it. If you can, go a few days, a week, months or years with such a bowl, or mixing bowl. Only then will you understand for yourself more about the simplicity of the monk's life.
+
+[^1]: I originally used the wrong word to describe this highly respected monk. It was unintentional. My English skills have dropped over the years and even my editor did not pick up on this.
