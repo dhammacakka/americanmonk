@@ -32,7 +32,7 @@ I am an American Buddhist monk who has been living in Myanmar for many years. I 
 
 ## No Politics Meant No Danger
 
-First of all, let me clarify that being a monk is independent from the political climate. As monks, we follow the Buddha’s teachings and we do not get involved in politics or worldly affairs. We live by a set of 227 rules called the Pātimokkha that guides our conduct and discipline. We also promise not to harm any living beings and strive to promote Buddhism in ourselves and others. Furthermore, our visa agreement forms put us in contract not to get involved with politics.\[mfn\]I will do my best in this article to keep my promise and politics are something I want to stay out of by my own free will. I also have not voted since maybe 1996. While some monks have spoken out against the government after they leave the country, I don't think that is appropriate for monks to do.\[/mfn\]
+First of all, let me clarify that being a monk is independent from the political climate. As monks, we follow the Buddha’s teachings and we do not get involved in politics or worldly affairs. We live by a set of 227 rules called the Pātimokkha that guides our conduct and discipline. We also promise not to harm any living beings and strive to promote Buddhism in ourselves and others. Furthermore, our visa agreement forms put us in contract not to get involved with politics.[^1]
 
 Therefore, our monastery and residents were not affected by the political situation in Myanmar much. We were aware of what was happening, but we did not take sides nor participate in any protests or movements. We respected the authorities and followed their orders and they did not violate our principles or harm us. We were also welcome to use their military hospital when medical or dental needs arose, and our visas were still being renewed and the government fees were usually gratis for monastics. Our biggest ongoing fear was being told we could no longer stay in Myanmar.
 
@@ -112,3 +112,5 @@ I am happy with my decision to leave Myanmar and join this program because it is
 I hope this article gives you some insight into my life as a monk in Myanmar during COVID and also the government change . If you are interested in learning more about Theravada Buddhism or becoming a monk yourself, you can visit [americanmonk.org](http://americanmonk.org) where you can find more articles, videos, interviews, and resources on these topics.
 
 ##
+
+[^1]: I will do my best in this article to keep my promise and politics are something I want to stay out of by my own free will. I also have not voted since maybe 1996. While some monks have spoken out against the government after they leave the country, I don't think that is appropriate for monks to do.

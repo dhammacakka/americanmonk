@@ -37,7 +37,7 @@ I have kept in contact with him a few times a year and contacted him again when 
 
 Venerable Visarada and Venerable Samita oiling bowls
 
-During our exchanges, one thing led to another, and he started thinking Kauai might be a good place to visit.  Normally, the Hawaii Summer is the best time to visit and most Americans think that is a waste since they want to travel to Hawaii to escape the cold Winter.  However, since Ian lives in Perth, Australia, our seasons are flipped Down Under and Hawaii is a nice break from old man Winter (in July).  Within a few weeks, he made reservations to come and visit with his wife.  He was the same person, but of course a lot different.  He still keeps 5 precepts and believes in cause and effect, and is still a vegetarian which is not required by Theravada Buddhism, but a good thing to do nonetheless\[mfn\]see my link [Vegetarianism and Theravada Buddhism](https://americanmonk.org/vegetarianism-theravada-buddhism/) \[/mfn\]. He seems to enjoy his lay life, and disrobed directly into a retired life.  He is very lucky to do that, and it is because of his past merit in this life and before.
+During our exchanges, one thing led to another, and he started thinking Kauai might be a good place to visit.  Normally, the Hawaii Summer is the best time to visit and most Americans think that is a waste since they want to travel to Hawaii to escape the cold Winter.  However, since Ian lives in Perth, Australia, our seasons are flipped Down Under and Hawaii is a nice break from old man Winter (in July).  Within a few weeks, he made reservations to come and visit with his wife.  He was the same person, but of course a lot different.  He still keeps 5 precepts and believes in cause and effect, and is still a vegetarian which is not required by Theravada Buddhism, but a good thing to do nonetheless.[^1] He seems to enjoy his lay life, and disrobed directly into a retired life.  He is very lucky to do that, and it is because of his past merit in this life and before.
 
 With that I had several photo ops.. and this was an opportunity for me to post a bunch of "otheries." (photos of me taken by others).  So most of this post is more or less a photo frenzy to show how beautiful Kauai is. The one below is of Poipu
 
@@ -66,3 +66,5 @@ Below is Princeville Botanical Garden where I used to live. See [https://america
 {{< img src = "/images/me-pbg-bridge2-1024x768.webp" >}}
 
 Princeville Botanical Gardens where I used to live.
+
+[^1]: see my link [Vegetarianism and Theravada Buddhism](https://americanmonk.org/vegetarianism-theravada-buddhism/) 
