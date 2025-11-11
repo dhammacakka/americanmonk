@@ -80,7 +80,7 @@ Sometimes we feel lazy and I used to get messages on the phone... not bad things
 
 **5 months no nimitta?** 
 
-Yeah yeah, then I read all these \[books\] like Sayalay Dipankara’s book, Ajahn Brahmavamso’s book.  It was always going with each stage. The Sayadaw’s \[teachings\] were definitely helping,..Sayadaw U Kumara and Sayadawgyi.  Before that, these books were with me…video portions and all…...but I never read the whole book, like I would just read only about the breath in the Ajahn Brahm book and Sayalay Dipankara’s book. Another one called “Practicing the jhānas” by two lay yogis…but they are very good..like Sayadawgyi ..I insisted on that book ..  \[NOTE:  Ajahn Brahm's book does not match the nimitta and jhāna stage used by Pa-Auk.. he said he used only the breath (part of the book).\]
+Yeah yeah, then I read all these books like Sayalay Dipankara’s book, Ajahn Brahmavamso’s book.  It was always going with each stage. The Sayadaw’s teachings were definitely helping,..Sayadaw U Kumara and Sayadawgyi.  Before that, these books were with me…video portions and all…...but I never read the whole book, like I would just read only about the breath in the Ajahn Brahm book and Sayalay Dipankara’s book. Another one called “Practicing the jhānas” by two lay yogis…but they are very good..like Sayadawgyi ..I insisted on that book,[^1]
 
 **\[10.41\] Stephan Schneider \[Pa-Auk Sayadawgyi says he no longer associates his name with him.\]**
 
@@ -90,13 +90,13 @@ no no no lady and .another…
 
 Listen listen ...the jhānas. It’s very good…, I still follow it, but Sayadawgyi ... he said….Pa Auk Sayadaw preface... he said this for Westerners this is one of the best that's why I follow it
 
-Then I was just reading…then some of these books say the nimitta should be very bright…and things like that... Then.. suddenly Sayadaw…and one spiritual friend,. Says, “Bhante,  I think you have the nimitta…and Sayadaw says, “I think you have \[a nimitta\]..no?”
+Then I was just reading…then some of these books say the nimitta should be very bright…and things like that... Then.. suddenly Sayadaw…and one spiritual friend,. Says, “Bhante,  I think you have the nimitta…and Sayadaw says, “I think you have a nimitta..no?”
 
 **\[11.45} But you never reported a nimitta?**
 
 I never thought so, no, I thought I would have to meditate until I get old or something . You hear of monks who practiced for many many years. Some very senior, very good teachers who have practiced for many years, ..no..
 
-Then, after that, I didn’t have any confidence, then I was thinking like “outside light”,”inside light”.  Then another Bhante told me ..”Bhante this outside light it doesn’t stay for long, the inside light stays - the nimitta.[^1] Then, but still my mind was not ready. It had the hindrance of doubt.  Then, afterwards, what I did was, I thought I would increase the effort. Then I started four three-hour sittings per day. Then, because of this book, it said, they were practicing here just for 2 months and they have really progressed and they said they had only taken like one hour break every time..or...just after the meal and then they would sit again.They had progressed very fast.  So then I was just following that. I got permission and I went to my kuṭi, and then I found this mat,  then I was walking then sitting again and again. First it was very gross, and then I was in doubt and then I covered all of the curtains with robes just to make it dark.  Then, after that, the \[inner\] light seems to stay. Then the gross pains, of the knees …
+Then, after that, I didn’t have any confidence, then I was thinking like “outside light”,”inside light”.  Then another Bhante told me ..”Bhante this outside light it doesn’t stay for long, the inside light stays - the nimitta.[^2] Then, but still my mind was not ready. It had the hindrance of doubt.  Then, afterwards, what I did was, I thought I would increase the effort. Then I started four three-hour sittings per day. Then, because of this book, it said, they were practicing here just for 2 months and they have really progressed and they said they had only taken like one hour break every time..or...just after the meal and then they would sit again.They had progressed very fast.  So then I was just following that. I got permission and I went to my kuṭi, and then I found this mat,  then I was walking then sitting again and again. First it was very gross, and then I was in doubt and then I covered all of the curtains with robes just to make it dark.  Then, after that, the \[inner\] light seems to stay. Then the gross pains, of the knees …
 
 **\[13:35\].**
 
@@ -562,4 +562,8 @@ End of Recording II
 
 Editor's Note:  A few months after this interview, I received an email saying that he was inspired by the interview and did 48 hours. (!)
 
-[^1]: Nimitta is the breath in visual form light is something separate and different
+[^1]: Ajahn Brahm's book does not match the nimitta and jhāna stage used by Pa-Auk.. he said he used only the breath (part of the book).
+
+[^2]: Nimitta is the breath in visual form light is something separate and different
+
+

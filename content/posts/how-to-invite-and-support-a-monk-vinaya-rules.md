@@ -113,4 +113,7 @@ Good support is not merely a physical structure to live in. It is clear relation
 > “Sandals and shade for the road I tread.”  
 > The king rejoiced — compassion spread.  
 
+You may distribute, translate, or create a booklet if you wish, provided you include a proper link to the original.  
+
+
 [^1]: This article was written after someone asked, “What does this mean?” in reference to the word invitation. It was composed as a general teaching for the benefit of all laypeople who wish to understand.

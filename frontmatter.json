@@ -59,6 +59,50 @@
           "type": "image"
         }
       ]
+    },
+    {
+      "name": "Short How Monks Live Without Money",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": [
+            "bksubhuti"
+          ]
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        },
+        {
+          "title": "featured_image",
+          "name": "featured_image",
+          "type": "image"
+        }
+      ]
     }
   ],
   "frontMatter.framework.id": "hugo",
