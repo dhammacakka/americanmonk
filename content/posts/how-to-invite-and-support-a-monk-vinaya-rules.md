@@ -98,9 +98,9 @@ or
 ---
 
 ## Conclusion  
-When lay supporters understand how invitation works in the Vinaya, and when monks feel safe to ask, the Dhamma flourishes without burden or confusion. It should be seen as an “invitation to ask,” but it is non-binding.
+When lay supporters understand how invitations work in the Vinaya, and when monks feel safe to ask, the Dhamma flourishes without burden or confusion. It should be seen as an “invitation to ask,” but it is non-binding.
 
-Good support is not merely a physical structure to live in. It is clear relationship, goodwill, and proper invitation.
+Good support is a clear relationship, goodwill, and done with a proper invitation.
 
 > ## Summary of Jātaka 323  
 > In silence the hermit endured through years,  
