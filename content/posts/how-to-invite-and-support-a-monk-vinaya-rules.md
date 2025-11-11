@@ -45,7 +45,7 @@ Note:  If a donor receives a tax deduction, the donation is legally restricted f
 
 - **One-Time Donor**: “I’m visiting soon. Is there anything you need?” The invitation is for that moment only.
 
-- **Beyond Means Donor**: Often for committess or community leaders:  A supporter gives full invitation and also says the monk may ask beyond his personal means. This assumes the donor will organize others to help if needed.  Story below:
+- **Beyond Means Donor**: Often for committees or community leaders:  A supporter gives full invitation and also says the monk may ask beyond his personal means. This assumes the donor will organize others to help if needed.  Story below:
 
 
 > {{< extlink "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/06-05.htm" "Paṇḍita-sāmaṇera-vatthu dhpA80" >}}
