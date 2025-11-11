@@ -82,7 +82,8 @@ Renewal keeps the invitation alive and the monk feels comfortable again.
 > “According to our meeting, if you need anything at any time, anywhere, even beyond our means, please let any of our committee members know. If the request is over $____ according to our bylaws, we will have a meeting about it.”
 
 **Personal or Family Full Invitation**
-> “If you **ever** need anything, please let me (or us) know.”
+> “If you **ever** need anything, please let me (or us) know.”  
+or  
 > “If you **at any time** need anything, please let me (or us) know.”
 
 **Personal Time-Limited Invitation**
