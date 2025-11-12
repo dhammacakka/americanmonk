@@ -1,0 +1,43 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+
+}
+
+.nested-links a{
+  overflow-wrap: break-word;
+}
+
+.tag-link img {
+  border-radius: 10px;
+  max-height: none;
+  width: 100%;
+}
+
+.no-margin-top {
+  
+}
+
+@media only screen and (min-width: 768px) {
+  .tag-link {
+    float: left;
+    margin-right: 20px
+  }
+  .tag-link img {
+    max-height: 123px;
+  }
+  .no-margin-top {
+    margin-top: 0;
+  }
+}
