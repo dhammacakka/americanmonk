@@ -12,7 +12,6 @@ tags:
   - mp3
 authors: 
   - bksubhuti
-image: /images/sept2-2018.webp
 featured_image: /images/sept2-2018.webp
 ---
 

@@ -3,7 +3,6 @@ title: "Modern monks transcribing an ancient Buddhist Pali Grammar book (suttama
 date: 2015-07-03
 authors: 
   - bksubhuti
-image: /images/IMG_20150703_1332412.webp
 featured_image: /images/IMG_20150703_1332412.webp
 ---
 

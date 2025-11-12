@@ -13,7 +13,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/IMG_20141008_104709-e1522319106715.webp
 featured_image: /images/IMG_20141008_104709-e1522319106715.webp
 ---
 

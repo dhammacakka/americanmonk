@@ -12,7 +12,6 @@ tags:
   - tree-bark
 authors: 
   - bksubhuti
-image: /images/rolling1.webp
 featured_image: /images/rolling1.webp
 ---
 

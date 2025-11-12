@@ -18,7 +18,6 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/kauaividcover.webp
 featured_image: /images/kauaividcover.webp
 ---
 

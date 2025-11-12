@@ -12,7 +12,6 @@ tags:
   - tibetan
 authors: 
   - bksubhuti
-image: /images/784056331667827.webp
 featured_image: /images/784056331667827.webp
 ---
 

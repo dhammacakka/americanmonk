@@ -9,7 +9,6 @@ tags:
   - tv
 authors: 
   - bksubhuti
-image: /images/television-144961_1280.webp
 featured_image: /images/television-144961_1280.webp
 ---
 

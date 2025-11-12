@@ -13,7 +13,6 @@ tags:
 categories:
     - teaching
     - vinaya
-image: "/images/vinaya_invitation_watercolor.webp"
 featured_image: "/images/vinaya_invitation_watercolor.webp"
 ---
 

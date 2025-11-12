@@ -11,7 +11,6 @@ tags:
   - vassa
 authors: 
   - bksubhuti
-image: /images/umbrella.webp
 featured_image: /images/umbrella.webp
 ---
 

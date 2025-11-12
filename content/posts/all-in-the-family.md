@@ -7,7 +7,6 @@ tags:
   - family
 authors: 
   - bksubhuti
-image: /images/Glickphoto.webp
 featured_image: /images/Glickphoto.webp
 ---
 

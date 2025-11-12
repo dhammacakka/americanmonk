@@ -14,7 +14,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/fetus.webp
 featured_image: /images/fetus.webp
 ---
 

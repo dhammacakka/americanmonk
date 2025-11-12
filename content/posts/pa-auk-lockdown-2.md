@@ -3,7 +3,6 @@ title: "Pa-Auk Lockdown #2"
 date: 2021-03-22
 authors: 
   - bksubhuti
-image: /images/paauk-lockdown-2.webp
 featured_image: /images/paauk-lockdown-2.webp
 ---
 

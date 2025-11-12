@@ -12,7 +12,6 @@ tags:
   - samyutta-nikaya
 authors: 
   - bksubhuti
-image: /images/PTS-eBooks.webp
 featured_image: /images/PTS-eBooks.webp
 ---
 

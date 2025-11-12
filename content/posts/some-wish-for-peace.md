@@ -5,7 +5,6 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/some-wish-for-peace.webp
 featured_image: /images/some-wish-for-peace.webp
 ---
 

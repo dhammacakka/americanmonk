@@ -10,7 +10,6 @@ tags:
   - visuddhimagga
 authors: 
   - bksubhuti
-image: /images/secretwheel.webp
 featured_image: /images/secretwheel.webp
 ---
 

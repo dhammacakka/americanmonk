@@ -7,7 +7,6 @@ tags:
   - parental-permission
 authors: 
   - bksubhuti
-image: /images/permission3.webp
 featured_image: /images/permission3.webp
 ---
 

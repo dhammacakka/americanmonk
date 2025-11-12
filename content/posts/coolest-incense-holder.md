@@ -13,7 +13,6 @@ tags:
   - plastic-bottle
 authors: 
   - bksubhuti
-image: /images/insertion.webp
 featured_image: /images/insertion.webp
 ---
 

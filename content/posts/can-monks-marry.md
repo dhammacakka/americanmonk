@@ -8,7 +8,6 @@ tags:
   - monk
 authors: 
   - bksubhuti
-image: /images/marry.webp
 featured_image: /images/marry.webp
 ---
 

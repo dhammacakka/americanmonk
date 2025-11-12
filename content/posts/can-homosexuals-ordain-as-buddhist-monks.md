@@ -14,7 +14,6 @@ categories:
     - monk-life
     - vinaya
 type: default
-image: /images/monastery-with-rainbow-in-back.webp
 featured_image: /images/monastery-with-rainbow-in-back.webp
 ---
 

@@ -13,7 +13,6 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/mabathaopenletter.webp
 featured_image: /images/mabathaopenletter.webp
 ---
 

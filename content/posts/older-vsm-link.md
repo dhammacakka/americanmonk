@@ -3,7 +3,6 @@ title: "Older VSM Link"
 date: 2013-10-30
 authors: 
   - bksubhuti
-image: /images/Burmese-Pali_Manuscript.webp
 featured_image: /images/Burmese-Pali_Manuscript.webp
 ---
 

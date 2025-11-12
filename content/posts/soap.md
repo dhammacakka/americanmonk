@@ -11,7 +11,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/subhuttowelsoaptitle.webp
 featured_image: /images/subhuttowelsoaptitle.webp
 ---
 

@@ -15,7 +15,6 @@ tags:
   - sri-lanka
 authors: 
   - bksubhuti
-image: /images/extra-before-meal1.webp
 featured_image: /images/extra-before-meal1.webp
 ---
 

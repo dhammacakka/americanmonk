@@ -10,7 +10,6 @@ tags:
   - vandana
 authors: 
   - bksubhuti
-image: /images/subhutibodhi.webp
 featured_image: /images/subhutibodhi.webp
 ---
 

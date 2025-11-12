@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/kauai-bus-information.webp
 featured_image: /images/kauai-bus-information.webp
 ---
 

@@ -10,7 +10,6 @@ tags:
   - metta
 authors: 
   - bksubhuti
-image: /images/HelmutSchmidt-Day.webp
 featured_image: /images/HelmutSchmidt-Day.webp
 ---
 

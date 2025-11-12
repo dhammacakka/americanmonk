@@ -17,7 +17,6 @@ tags:
   - where-to-ordain
 authors: 
   - bksubhuti
-image: /images/Hall_iit2.webp
 featured_image: /images/Hall_iit2.webp
 ---
 

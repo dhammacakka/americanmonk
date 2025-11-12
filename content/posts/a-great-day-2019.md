@@ -10,7 +10,6 @@ tags:
   - kauai
 authors: 
   - bksubhuti
-image: /images/lunchBell-scaled.webp
 featured_image: /images/lunchBell-scaled.webp
 ---
 

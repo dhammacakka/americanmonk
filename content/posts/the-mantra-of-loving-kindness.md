@@ -8,7 +8,6 @@ tags:
   - meditation
 authors: 
   - bksubhuti
-image: /images/MLK-Title.webp
 featured_image: /images/MLK-Title.webp
 ---
 

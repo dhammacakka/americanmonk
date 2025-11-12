@@ -11,7 +11,6 @@ tags:
   - patimokkha
 authors: 
   - bksubhuti
-image: /images/subhutiMemPalititle.webp
 featured_image: /images/subhutiMemPalititle.webp
 ---
 

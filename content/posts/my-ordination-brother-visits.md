@@ -11,7 +11,6 @@ categories:
 authors: 
   - bksubhuti
 draft: false
-image: /images/indavimala-me.webp
 featured_image: /images/indavimala-me.webp
 description: "The monk who ordained in my group 17 years ago is 1 second junior to me. "
 ---

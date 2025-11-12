@@ -14,7 +14,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/IMG_20190508_201114.webp
 featured_image: /images/IMG_20190508_201114.webp
 ---
 

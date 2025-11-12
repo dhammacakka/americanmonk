@@ -9,7 +9,6 @@ tags:
   - tutorial
 authors: 
   - bksubhuti
-image: /images/needlecase.webp
 featured_image: /images/needlecase.webp
 ---
 

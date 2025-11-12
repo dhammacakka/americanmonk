@@ -14,7 +14,6 @@ tags:
   - na-uyana
 authors: 
   - bksubhuti
-image: /images/koral-fam.webp
 featured_image: /images/koral-fam.webp
 ---
 

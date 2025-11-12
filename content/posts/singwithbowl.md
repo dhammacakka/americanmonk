@@ -7,7 +7,6 @@ categories:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/singingbowl.webp
 featured_image: /images/singingbowl.webp
 ---
 

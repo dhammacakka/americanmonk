@@ -3,7 +3,6 @@ title: "What Halloween is like"
 date: 2014-11-02
 authors: 
   - bksubhuti
-image: /images/halloween.webp
 featured_image: /images/halloween.webp
 ---
 

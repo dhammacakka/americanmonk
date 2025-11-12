@@ -10,7 +10,6 @@ tags:
   - mixing-bowl
 authors: 
   - bksubhuti
-image: /images/twobowls2.webp
 featured_image: /images/twobowls2.webp
 ---
 

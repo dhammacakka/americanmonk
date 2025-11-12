@@ -14,7 +14,6 @@ tags:
   - parajika
 authors: 
   - bksubhuti
-image: /images/monk-knife-art.webp
 featured_image: /images/monk-knife-art.webp
 ---
 

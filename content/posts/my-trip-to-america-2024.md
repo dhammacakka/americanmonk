@@ -10,7 +10,6 @@ tags:
     - alms
 categories:
     - monk-life
-image: /images/family-2024.webp
 featured_image: /images/family-2024.webp
 ---
 

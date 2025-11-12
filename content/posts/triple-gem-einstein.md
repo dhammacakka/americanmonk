@@ -11,7 +11,6 @@ tags:
     - einstein
     - tisarana
     - atheist
-image: /images/einstein_triple_gem.webp
 featured_image: /images/einstein_triple_gem.webp
 ---
 

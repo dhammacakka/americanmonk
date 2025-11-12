@@ -10,7 +10,6 @@ tags:
   - watch-story
 authors: 
   - bksubhuti
-image: /images/Going-for-broke-cover.webp
 featured_image: /images/Going-for-broke-cover.webp
 ---
 

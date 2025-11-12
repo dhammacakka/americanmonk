@@ -13,7 +13,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/patimokkhabook.webp
 featured_image: /images/patimokkhabook.webp
 ---
 

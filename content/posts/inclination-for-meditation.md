@@ -5,7 +5,6 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/grassmeditationfeature.webp
 featured_image: /images/grassmeditationfeature.webp
 ---
 

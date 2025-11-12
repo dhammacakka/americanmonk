@@ -3,22 +3,25 @@ languageCode = 'en-us'
 title = 'American Monk'
 theme = 'ananke'
 publishDir = 'docs'
-[[params.ananke_socials]]
-name = 'twitter'
-url = 'https://twitter.com/GoHugoIO'
+[params.ananke.social]
 
-[[params.ananke_socials]]
-name = 'facebook'
-url = 'https://facebook.com/bhante.subhuti.1'
+  [params.ananke.social.networks]
+  facebook = { label = "Facebook", icon = "facebook", profile = "https://facebook.com/%s" }
+  youtube  = { label = "YouTube",  icon = "youtube",  profile = "https://youtube.com/%s" }
+  github   = { label = "GitHub",   icon = "github",   profile = "https://github.com/%s" }
+  twitter  = { label = "Twitter",  icon = "twitter",  profile = "https://twitter.com/%s" }
 
-[[params.ananke_socials]]
-name = 'github'
-url = 'https://github.com/bksubhuti/'
+  [params.ananke.social.follow]
+  networks = ["facebook", "youtube", "github", "twitter"]
 
-[[params.ananke_socials]]
-name = 'youtube'
-url = 'https://www.youtube.com/@BhanteSubhuti'
-
+  [params.ananke.social.facebook]
+  username = "bhante.subhuti.1"
+  [params.ananke.social.youtube]
+  username = "@BhanteSubhuti"
+  [params.ananke.social.github]
+  username = "bksubhuti"
+  [params.ananke.social.twitter]
+  username = "GoHugoIO"
 
 googleAnalytics = "G-ES5VJRZTGT"
 environment = "production"

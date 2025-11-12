@@ -11,7 +11,6 @@ tags:
   - thailand
 authors: 
   - bksubhuti
-image: /images/wp-1686396381691.webp
 featured_image: /images/wp-1686396381691.webp
 ---
 

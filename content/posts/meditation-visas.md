@@ -9,7 +9,6 @@ tags:
   - meditation-visa
 authors: 
   - bksubhuti
-image: /images/emabassy-Myanmar.webp
 featured_image: /images/emabassy-Myanmar.webp
 ---
 

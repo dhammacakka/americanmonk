@@ -14,7 +14,6 @@ tags:
   - magic
   - bhikkhu
   - theravada
-image: "/images/mystical_patimokkha.webp"
 featured_image: "/images/mystical_patimokkha.webp"
 ---
 

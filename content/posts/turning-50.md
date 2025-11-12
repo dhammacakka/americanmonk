@@ -9,7 +9,6 @@ tags:
   - reflection
 authors: 
   - bksubhuti
-image: /images/me-oct62020.webp
 featured_image: /images/me-oct62020.webp
 ---
 

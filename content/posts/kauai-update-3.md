@@ -17,7 +17,6 @@ tags:
   - sukhothai-cafe
 authors: 
   - bksubhuti
-image: /images/IMG_1771-e1543113014102.webp
 featured_image: /images/IMG_1771-e1543113014102.webp
 ---
 

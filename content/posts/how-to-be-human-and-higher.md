@@ -13,7 +13,6 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/heavenly-sky-from-rawpixel.webp
 featured_image: /images/heavenly-sky-from-rawpixel.webp
 ---
 

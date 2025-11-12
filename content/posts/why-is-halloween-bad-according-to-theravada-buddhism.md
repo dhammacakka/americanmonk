@@ -12,7 +12,6 @@ tags:
   - death
 authors:
   - bksubhuti
-image: /images/oct31-halloween-pexels.webp
 featured_image: /images/oct31-halloween-pexels.webp
 ---
 Updated October 21, 2025 from the original in 2022.

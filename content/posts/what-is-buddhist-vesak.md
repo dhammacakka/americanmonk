@@ -11,7 +11,6 @@ tags:
 categories:
     - teaching
 type: default
-image: /images/bodhi-tree-buddha.webp
 featured_image: /images/bodhi-tree-buddha.webp
 ---
 

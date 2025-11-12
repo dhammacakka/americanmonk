@@ -14,7 +14,6 @@ tags:
   - water-festival
 authors: 
   - bksubhuti
-image: /images/ayerarwady.comthingyan.webp
 featured_image: /images/ayerarwady.comthingyan.webp
 ---
 

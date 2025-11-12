@@ -13,7 +13,6 @@ tags:
   - names
 authors: 
   - bksubhuti
-image: /images/Hawaiian_monk_seal.jpg
 featured_image: /images/Hawaiian_monk_seal.jpg
 ---
 

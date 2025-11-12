@@ -3,7 +3,6 @@ title: "Lumaha'i Beach"
 date: 2015-08-12
 authors: 
   - bksubhuti
-image: /images/IMG_6591.webp
 featured_image: /images/IMG_6591.webp
 ---
 

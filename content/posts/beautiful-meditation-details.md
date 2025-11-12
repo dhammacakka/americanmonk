@@ -13,7 +13,6 @@ tags:
   - abhidhamma
 authors: 
   - bksubhuti
-image: /images/circle-onphone.webp
 featured_image: /images/circle-onphone.webp
 ---
 

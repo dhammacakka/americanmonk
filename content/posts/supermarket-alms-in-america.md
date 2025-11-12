@@ -8,7 +8,6 @@ tags:
 categories:
     - monk-life
 type: default
-image: /images/golden-market-me-and-donor.webp
 featured_image: /images/golden-market-me-and-donor.webp
 ---
 

@@ -3,7 +3,6 @@ title: "Interview 2"
 date: 2019-04-01
 authors: 
   - bksubhuti
-image: /images/interview2.webp
 featured_image: /images/interview2.webp
 ---
 

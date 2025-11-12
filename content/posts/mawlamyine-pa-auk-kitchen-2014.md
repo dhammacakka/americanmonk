@@ -9,7 +9,6 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/2014-paauk-kitchen-youtube.webp
 featured_image: /images/2014-paauk-kitchen-youtube.webp
 ---
 

@@ -16,7 +16,6 @@ tags:
     - bhikkhu pātimokkha
 authors:
     - bksubhuti
-image: /images/why-i-left-iit.webp
 featured_image: /images/why-i-left-iit.webp
 ---
 

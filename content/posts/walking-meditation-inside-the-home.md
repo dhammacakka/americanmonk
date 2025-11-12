@@ -8,7 +8,6 @@ categories:
   - teaching
 authors: 
   - bksubhuti
-image: /images/walkingthumb.webp
 featured_image: /images/walkingthumb.webp
 ---
 

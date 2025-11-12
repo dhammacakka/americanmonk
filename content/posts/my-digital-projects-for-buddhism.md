@@ -15,7 +15,6 @@ tags:
 categories:
     - interesting-things
 type: ""
-image: /images/my-digital-projects.webp
 featured_image: /images/my-digital-projects.webp
 ---
 

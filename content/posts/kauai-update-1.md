@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/birdsanctuary.webp
 featured_image: /images/birdsanctuary.webp
 ---
 

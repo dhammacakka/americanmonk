@@ -11,7 +11,6 @@ tags:
   - last
 authors: 
   - bksubhuti
-image: /images/kathina2021.webp
 featured_image: /images/kathina2021.webp
 ---
 

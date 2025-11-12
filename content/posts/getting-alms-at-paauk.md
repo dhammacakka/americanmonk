@@ -11,7 +11,6 @@ tags:
   - paauk-meal
 authors: 
   - bksubhuti
-image: /images/pa-auk-almsline.webp
 featured_image: /images/pa-auk-almsline.webp
 ---
 

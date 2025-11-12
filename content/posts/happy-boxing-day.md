@@ -10,7 +10,6 @@ tags:
   - gifts
 authors: 
   - bksubhuti
-image: /images/boxingday.webp
 featured_image: /images/boxingday.webp
 ---
 

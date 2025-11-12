@@ -3,27 +3,25 @@
     <div class="flex-ns items-center justify-between">
       <!-- Creative Commons notice -->
       <p class="f6 lh-copy mv0" style="font-size:115%;">
-        © {{ now.Format "2006" }} Bhante Subhūti <BR>All content on this site by Bhante Subhūti is licensed under
+        © {{ now.Format "2006" }} Bhante Subhūti <br>
+        All content on this site by Bhante Subhūti is licensed under
         <a href="https://creativecommons.org/licenses/by-sa/4.0/"
            class="white-80 underline hover-light-gray"
            target="_blank" rel="noopener">
-          CC-Attrib-SA 4.0 
+          CC-Attrib-SA 4.0
         </a>.
       </p>
 
-      <!-- Social icons (from Ananke) -->
-      <div class="mt3 mt0-ns">
-        {{ partial "social-follow.html" . }}
-      </div>
+      <!-- ✅ Modern Ananke social icons -->
+    <div class="mt3 mt0-ns">
+      {{ partial "social/follow.html" . }}
     </div>
 
-    <!-- Optional extra footer content from config (keeps Ananke behavior) -->
+    <!-- Optional extra footer content from config -->
     {{ with .Site.Params.footerContent }}
       <div class="mt3 f6 lh-copy">{{ . | safeHTML }}</div>
     {{ end }}
   </div>
 </footer>
 
-<!-- Footnote hover popup (your script) -->
-{{/* If you put your CSS+JS in layouts/partials/footnotes-popup.html */}}
 {{ partial "footnotes-popup.html" . }}

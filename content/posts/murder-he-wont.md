@@ -9,7 +9,6 @@ tags:
   - murder
 authors: 
   - bksubhuti
-image: /images/HandMadeKnife.webp
 featured_image: /images/HandMadeKnife.webp
 ---
 

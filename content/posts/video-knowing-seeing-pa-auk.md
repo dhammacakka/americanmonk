@@ -10,7 +10,6 @@ tags:
   - video
 authors: 
   - bksubhuti
-image: /images/usubhuti-urevata-interview.webp
 featured_image: /images/usubhuti-urevata-interview.webp
 ---
 

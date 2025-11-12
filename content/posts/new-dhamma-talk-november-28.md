@@ -6,7 +6,6 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/Dhamma-Poster.webp
 featured_image: /images/Dhamma-Poster.webp
 ---
 

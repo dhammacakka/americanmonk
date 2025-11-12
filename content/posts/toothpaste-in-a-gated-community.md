@@ -11,7 +11,6 @@ tags:
   - toothpaste
 authors: 
   - bksubhuti
-image: /images/toothpaste.webp
 featured_image: /images/toothpaste.webp
 ---
 

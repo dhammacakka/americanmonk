@@ -14,7 +14,6 @@ tags:
   - tears-of-faith
 authors: 
   - bksubhuti
-image: /images/monkbowl.webp
 featured_image: /images/monkbowl.webp
 ---
 

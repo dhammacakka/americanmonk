@@ -14,7 +14,6 @@ tags:
   - september-11
 authors: 
   - bksubhuti
-image: /images/Jeremy-Glick.webp
 featured_image: /images/Jeremy-Glick.webp
 ---
 

@@ -13,7 +13,6 @@ tags:
   - patimokkha
 authors: 
   - bksubhuti
-image: /images/lucky-draw-odds.webp
 featured_image: /images/lucky-draw-odds.webp
 ---
 

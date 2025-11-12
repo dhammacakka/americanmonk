@@ -12,7 +12,6 @@ tags:
 categories:
     - monk-life
     - meditation
-image: /images/sit_longer_thumb.jpg
 featured_image: /images/sit_longer_thumb.jpg
 ---
 

@@ -14,7 +14,6 @@ tags:
   - viral
 authors: 
   - bksubhuti
-image: /images/meinbagan.webp
 featured_image: /images/meinbagan.webp
 ---
 

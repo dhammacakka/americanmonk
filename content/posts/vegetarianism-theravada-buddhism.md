@@ -15,7 +15,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/nomeatbuddha.webp
 featured_image: /images/nomeatbuddha.webp
 ---
 

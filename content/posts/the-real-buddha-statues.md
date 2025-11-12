@@ -11,7 +11,6 @@ tags:
   - statue
 authors: 
   - bksubhuti
-image: /images/parinibbana-Polonnaruwa.webp
 featured_image: /images/parinibbana-Polonnaruwa.webp
 ---
 

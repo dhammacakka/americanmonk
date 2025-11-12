@@ -14,7 +14,6 @@ tags:
   - upasako
 authors: 
   - bksubhuti
-image: /images/Pannyasekara-sit-1-scaled.webp
 featured_image: /images/Pannyasekara-sit-1-scaled.webp
 ---
 

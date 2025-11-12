@@ -10,7 +10,6 @@ tags:
   - pindapatta
 authors: 
   - bksubhuti
-image: /images/talk-on-monks-bowl.webp
 featured_image: /images/talk-on-monks-bowl.webp
 ---
 

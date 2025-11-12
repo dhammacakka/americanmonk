@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/oasis-radio.webp
 featured_image: /images/oasis-radio.webp
 ---
 

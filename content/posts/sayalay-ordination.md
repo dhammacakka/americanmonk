@@ -15,7 +15,6 @@ categories:
     - interesting-things
 authors:
     - bksubhuti
-image: /images/newly-ordained.webp
 featured_image: /images/newly-ordained.webp
 keywords: null
 ---

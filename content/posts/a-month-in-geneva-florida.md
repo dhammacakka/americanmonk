@@ -14,7 +14,6 @@ tags:
   - monk
 categories:
   - monk-life
-image: /images/patimokkh_and_novice.webp
 featured_image: /images/patimokkh_and_novice.webp
 ---
 

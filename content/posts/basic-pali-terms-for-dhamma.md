@@ -13,7 +13,6 @@ tags:
   - words
 authors: 
   - bksubhuti
-image: /images/Burmese_Kammavaca_Manuscript.webp
 featured_image: /images/Burmese_Kammavaca_Manuscript.webp
 ---
 

@@ -5,7 +5,6 @@ date: 2025-10-16
 authors:
     - Bhante Subhūti
 featured_image: /images/dana-lady-rice.webp
-image: /images/dana-lady-rice.webp
 tags:
     - Abhivādanasīlissa
     - blessing

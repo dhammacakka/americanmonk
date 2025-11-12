@@ -35,25 +35,38 @@
   Use Hugo's native related content feature to pull in content that may have similar parameters, like tags, etc.
   https://gohugo.io/content-management/related/
 */}}
+
 {{ $related := .Site.RegularPages.Related . | first 15 }}
 {{ with $related }}
   <div class="related-sidebar">
     <h3>Related Posts</h3>
-<ul class="related-list">
-  {{ range . }}
-    <li class="related-card">
-      <a href="{{ .RelPermalink }}" class="related-card-link">
-        <div class="related-card-inner">
-          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="related-thumb">
-          <div class="related-card-content">
-            <h4 class="related-title">{{ .Title }}</h4>
-          </div>
-        </div>
-      </a>
-    </li>
-  {{ end }}
-</ul>
-
+    <ul class="related-list">
+      {{ range . }}
+        {{ $thumb := partial "func/GetFeaturedImage.html" . }}
+        {{ if $thumb }}
+          {{ $img := resources.Get $thumb }}
+          {{ if $img }}
+            {{ $small := $img.Fit "150x150" }}
+            <li class="related-card">
+              <a href="{{ .RelPermalink }}" class="related-card-link">
+                <img src="{{ $small.RelPermalink }}" alt="{{ .Title }}" class="related-thumb">
+                <div class="related-card-content">
+                  <h4 class="related-title">{{ .Title }}</h4>
+                </div>
+              </a>
+            </li>
+          {{ else }}
+            <li class="related-card">
+              <a href="{{ .RelPermalink }}" class="related-card-link">
+                <div class="related-card-content">
+                  <h4 class="related-title">{{ .Title }}</h4>
+                </div>
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </ul>
   </div>
 {{ end }}
 

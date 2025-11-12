@@ -8,7 +8,6 @@ tags:
   - story
 authors: 
   - bksubhuti
-image: /images/slippers-kuti.resized.webp
 featured_image: /images/slippers-kuti.resized.webp
 ---
 

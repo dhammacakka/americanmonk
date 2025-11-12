@@ -13,7 +13,6 @@ tags:
   - vassa
 authors: 
   - bksubhuti
-image: /images/foodLine-052_Bram.webp
 featured_image: /images/foodLine-052_Bram.webp
 ---
 

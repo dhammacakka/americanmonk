@@ -8,7 +8,6 @@ tags:
   - teaching
 authors: 
   - bksubhuti
-image: /images/wheel-1.webp
 featured_image: /images/wheel-1.webp
 ---
 

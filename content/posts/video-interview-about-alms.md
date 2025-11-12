@@ -3,7 +3,6 @@ title: "Video Interview About Alms"
 date: 2019-03-25
 authors: 
   - bksubhuti
-image: /images/alms-interview-youtube.webp
 featured_image: /images/alms-interview-youtube.webp
 ---
 

@@ -6,7 +6,6 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/acapellainertia-mp3.webp
 featured_image: /images/acapellainertia-mp3.webp
 ---
 

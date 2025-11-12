@@ -10,7 +10,6 @@ tags:
     - eightfold
     - four-noble-truths
     - buddha
-image: /images/buddha8foldpath.webp
 featured_image: /images/buddha8foldpath.webp
 ---
 

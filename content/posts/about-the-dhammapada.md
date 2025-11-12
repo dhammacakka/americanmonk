@@ -16,7 +16,6 @@ categories:
   - teaching
 authors:
   - bksubhuti
-image: /images/dhammapada-cover-ai2.webp
 featured_image: /images/dhammapada-cover-ai2.webp
 keywords:
   - Dhammapada

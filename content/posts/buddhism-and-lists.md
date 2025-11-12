@@ -12,7 +12,6 @@ tags:
   - wheel
 authors: 
   - bksubhuti
-image: /images/buddha-number2.webp
 featured_image: /images/buddha-number2.webp
 ---
 

@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/kilaueafarmsdeva.webp
 featured_image: /images/kilaueafarmsdeva.webp
 ---
 

@@ -16,7 +16,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/ajahnandmeelgin.webp
 featured_image: /images/ajahnandmeelgin.webp
 ---
 

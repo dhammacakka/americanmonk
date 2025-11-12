@@ -10,10 +10,6 @@ tags:
   - Buddhism
 authors: 
   - bksubhuti
-image: 
-featured_image: 
-
-image: /images/am-on-hugo.webp
 featured_image: /images/am-on-hugo.webp
 ---
 

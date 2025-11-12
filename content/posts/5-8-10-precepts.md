@@ -14,7 +14,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/Precepts.webp
 featured_image: /images/Precepts.webp
 ---
 

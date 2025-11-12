@@ -466,6 +466,30 @@ p {
   color: #222;
 }
 
+/* Recenter hero background */
+.cover.bg-top {
+  background-position: center center !important;
+}
+
+/* Optional: make sure image fills edge-to-edge smoothly */
+.cover {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Add spacing between footer social icons */
+footer .ananke-social-link {
+  margin: 0 0.4rem !important; /* increase from default 0.2rem */
+}
+
+/* Optional: vertically align with text if needed */
+footer .ananke-socials {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem; /* modern method, replaces manual margin */
+}
+
+
 /* ==========================================================================
    YouTube Embed Rounded Corners
    ========================================================================== */

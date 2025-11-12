@@ -13,7 +13,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/WesternElectric302.webp
 featured_image: /images/WesternElectric302.webp
 ---
 

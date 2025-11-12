@@ -13,7 +13,6 @@ tags:
   - propagation
 authors: 
   - bksubhuti
-image: /images/sukhothaimeeting.webp
 featured_image: /images/sukhothaimeeting.webp
 ---
 

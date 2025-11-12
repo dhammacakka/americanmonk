@@ -16,7 +16,6 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/theravada-monk-free-pic.webp
 featured_image: /images/theravada-monk-free-pic.webp
 ---
 

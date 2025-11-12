@@ -12,7 +12,6 @@ tags:
   - samanera
 authors: 
   - bksubhuti
-image: /images/sabbesatta2.webp
 featured_image: /images/sabbesatta2.webp
 ---
 

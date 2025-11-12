@@ -9,7 +9,6 @@ tags:
   - dāna
 authors: 
   - bksubhuti
-image: /images/about-alms-in-sri-lanka.webp
 featured_image: /images/about-alms-in-sri-lanka.webp
 description:  "Video:  Exploring Alms In Sri Lanka"
 ---

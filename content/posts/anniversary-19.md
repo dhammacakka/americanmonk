@@ -10,7 +10,6 @@ tags:
   - pa-auk-pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/2020020622171000.webp
 featured_image: /images/2020020622171000.webp
 ---
 

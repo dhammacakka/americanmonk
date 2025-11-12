@@ -3,7 +3,6 @@ title: "Where to Ordain?"
 date: 2020-09-04
 authors: 
   - bksubhuti
-image: /images/pabbajja.resized.webp
 featured_image: /images/pabbajja.resized.webp
 ---
 

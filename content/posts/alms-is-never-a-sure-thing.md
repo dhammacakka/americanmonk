@@ -11,7 +11,6 @@ tags:
 categories:
     - monk-life
 type: default
-image: /images/never-a-sure-thing.webp
 featured_image: /images/never-a-sure-thing.webp
 keywords:
     - alms

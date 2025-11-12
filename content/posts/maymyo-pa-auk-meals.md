@@ -10,7 +10,6 @@ tags:
   - pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/Maymyofoodemotyfoodline.webp
 featured_image: /images/Maymyofoodemotyfoodline.webp
 ---
 

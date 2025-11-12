@@ -11,7 +11,6 @@ tags:
   - teaching
 authors: 
   - bksubhuti
-image: /images/MonkSkeleton.webp
 featured_image: /images/MonkSkeleton.webp
 ---
 

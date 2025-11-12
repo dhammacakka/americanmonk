@@ -16,7 +16,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/rainyseason-backhall.webp
 featured_image: /images/rainyseason-backhall.webp
 ---
 

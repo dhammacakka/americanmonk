@@ -12,7 +12,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/1024px-Buddhist_money_tree_with_toilet_paper.webp
 featured_image: /images/1024px-Buddhist_money_tree_with_toilet_paper.webp
 ---
 

@@ -10,7 +10,6 @@ tags:
   - free-pictures
 authors: 
   - bksubhuti
-image: /images/Bodhgaya-Mahabodhi-Thumb-00014.webp
 featured_image: /images/Bodhgaya-Mahabodhi-Thumb-00014.webp
 ---
 

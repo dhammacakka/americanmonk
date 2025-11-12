@@ -13,7 +13,6 @@ tags:
   - sewing
 authors:
   - bksubhuti
-image: /images/belt_and_pocket_wearing.webp
 featured_image: /images/belt_and_pocket_wearing.webp
 ---
 

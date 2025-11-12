@@ -10,7 +10,6 @@ tags:
   - robes
 authors: 
   - bksubhuti
-image: /images/kungfu.webp
 featured_image: /images/kungfu.webp
 ---
 

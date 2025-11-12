@@ -10,7 +10,6 @@ tags:
   - popular-verses
 authors: 
   - bksubhuti
-image: /images/Tipitaka_scripture.webp
 featured_image: /images/Tipitaka_scripture.webp
 ---
 

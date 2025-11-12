@@ -19,7 +19,6 @@ tags:
   - tables
 authors: 
   - bksubhuti
-image: /images/wp-1680002946744.webp
 featured_image: /images/wp-1680002946744.webp
 ---
 

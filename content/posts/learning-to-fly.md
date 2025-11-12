@@ -7,7 +7,6 @@ tags:
   - school
 authors: 
   - bksubhuti
-image: /images/hang-glider.webp
 featured_image: /images/hang-glider.webp
 ---
 

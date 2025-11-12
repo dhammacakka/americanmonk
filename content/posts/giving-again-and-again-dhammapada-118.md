@@ -11,7 +11,6 @@ tags:
     - pa-auk
 categories:
     - monk-life
-image: /images/alms-again-again.webp
 featured_image: /images/alms-again-again.webp
 ---
 

@@ -9,7 +9,6 @@ tags:
   - one-voice
 authors: 
   - bksubhuti
-image: /images/spokenmix.webp
 featured_image: /images/spokenmix.webp
 ---
 

@@ -13,7 +13,6 @@ tags:
   - wtc
 authors: 
   - bksubhuti
-image: /images/WTC_south_tower_9-11.webp
 featured_image: /images/WTC_south_tower_9-11.webp
 ---
 

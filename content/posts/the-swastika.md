@@ -6,7 +6,6 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/swastika-wikipedia.webp
 featured_image: /images/swastika-wikipedia.webp
 ---
 

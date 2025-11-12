@@ -11,7 +11,6 @@ tags:
     - god
 authors:
     - bksubhuti
-image: /images/kamma-creator.webp
 featured_image: /images/kamma-creator.webp
 ---
 

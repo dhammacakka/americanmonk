@@ -11,7 +11,6 @@ tags:
   - jayewardene
 authors: 
   - bksubhuti
-image: /images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.webp
 featured_image: /images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.webp
 ---
 

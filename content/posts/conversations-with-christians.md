@@ -12,7 +12,6 @@ tags:
   - walk-with-jesus
 authors: 
   - bksubhuti
-image: /images/cross-argue.webp
 featured_image: /images/cross-argue.webp
 ---
 

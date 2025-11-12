@@ -10,7 +10,6 @@ tags:
   - new-passport
 authors: 
   - bksubhuti
-image: /images/bhantepassport-no-num.webp
 featured_image: /images/bhantepassport-no-num.webp
 ---
 

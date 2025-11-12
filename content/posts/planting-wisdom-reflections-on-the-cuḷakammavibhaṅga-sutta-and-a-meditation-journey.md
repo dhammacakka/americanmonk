@@ -9,7 +9,6 @@ tags:
   - karma
 authors: 
   - bksubhuti
-image: /images/Planting-Wisdom.webp
 featured_image: /images/Planting-Wisdom.webp
 ---
 

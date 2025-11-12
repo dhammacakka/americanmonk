@@ -6,7 +6,6 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/fb-bless-kilauea.webp
 featured_image: /images/fb-bless-kilauea.webp
 ---
 

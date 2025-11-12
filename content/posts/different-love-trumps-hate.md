@@ -13,7 +13,6 @@ tags:
   - myanmar
 authors: 
   - bksubhuti
-image: /images/pexels-photo-13918.webp
 featured_image: /images/pexels-photo-13918.webp
 ---
 

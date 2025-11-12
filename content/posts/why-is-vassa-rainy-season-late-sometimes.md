@@ -9,7 +9,6 @@ tags:
   - rainy-season
 authors: 
   - bksubhuti
-image: /images/good-night-full-moon-moonlight-night.webp
 featured_image: /images/good-night-full-moon-moonlight-night.webp
 ---
 

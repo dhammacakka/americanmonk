@@ -22,7 +22,6 @@ tags:
 authors: 
     - bksubhuti
 type: ""
-image: "/images/monks_meditating_hiri_ottappa.webp"
 featured_image: "/images/monks_meditating_hiri_ottappa.webp"
 ---
 

@@ -11,7 +11,6 @@ tags:
   - sewing
 authors: 
   - bksubhuti
-image: /images/sunanda-lookup-scaled.webp
 featured_image: /images/sunanda-lookup-scaled.webp
 ---
 

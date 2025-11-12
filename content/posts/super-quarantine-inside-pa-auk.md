@@ -11,7 +11,6 @@ tags:
   - quarantine
 authors: 
   - bksubhuti
-image: /images/4m4view.webp
 featured_image: /images/4m4view.webp
 ---
 

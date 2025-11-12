@@ -11,7 +11,6 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/paaukdentistandme1041610561518977198.webp
 featured_image: /images/paaukdentistandme1041610561518977198.webp
 ---
 

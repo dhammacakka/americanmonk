@@ -16,7 +16,6 @@ tags:
   - paauk
 authors: 
   - bksubhuti
-image: /images/anzotti.com_.webp
 featured_image: /images/anzotti.com_.webp
 ---
 

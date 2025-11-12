@@ -13,7 +13,6 @@ tags:
   - paḷi
 authors: 
   - bksubhuti
-image: /images/Burmese-Pali_Manuscript.webp
 featured_image: /images/Burmese-Pali_Manuscript.webp
 ---
 

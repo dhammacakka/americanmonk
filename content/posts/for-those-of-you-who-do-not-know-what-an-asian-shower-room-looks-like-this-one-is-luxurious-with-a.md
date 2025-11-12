@@ -8,7 +8,6 @@ tags:
   - asian-shower
 authors: 
   - bksubhuti
-image: /images/asian-shower-rotated.webp
 featured_image: /images/asian-shower-rotated.webp
 ---
 

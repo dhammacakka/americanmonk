@@ -11,7 +11,6 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/2016032113164100.webp
 featured_image: /images/2016032113164100.webp
 ---
 

@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/noks-farm-rainbow.webp
 featured_image: /images/noks-farm-rainbow.webp
 ---
 

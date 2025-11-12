@@ -7,7 +7,6 @@ tags:
   - learn-pali
 authors: 
   - bksubhuti
-image: /images/asoka.webp
 featured_image: /images/asoka.webp
 ---
 

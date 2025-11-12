@@ -16,7 +16,6 @@ tags:
   - visa
 authors: 
   - bksubhuti
-image: /images/mm-covid.webp
 featured_image: /images/mm-covid.webp
 ---
 

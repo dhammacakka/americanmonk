@@ -10,7 +10,6 @@ tags:
   - spray-gun
 authors: 
   - bksubhuti
-image: /images/spraygun.webp
 featured_image: /images/spraygun.webp
 ---
 

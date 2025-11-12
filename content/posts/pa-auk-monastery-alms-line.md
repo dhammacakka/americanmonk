@@ -13,7 +13,6 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/gettingfoodmawlamyine.webp
 featured_image: /images/gettingfoodmawlamyine.webp
 ---
 

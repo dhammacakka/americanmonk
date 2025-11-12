@@ -13,7 +13,6 @@ tags:
   - testing
 authors: 
   - bksubhuti
-image: /images/lockdown-lwc.resized.webp
 featured_image: /images/lockdown-lwc.resized.webp
 ---
 

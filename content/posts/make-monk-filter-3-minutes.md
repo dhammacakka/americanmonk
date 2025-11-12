@@ -7,7 +7,6 @@ categories:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/robetocut.webp
 featured_image: /images/robetocut.webp
 ---
 

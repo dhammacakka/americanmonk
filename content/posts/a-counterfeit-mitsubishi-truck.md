@@ -6,7 +6,6 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/fake-mitsubishi-truck.webp
 featured_image: /images/fake-mitsubishi-truck.webp
 ---
 

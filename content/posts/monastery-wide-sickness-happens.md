@@ -10,7 +10,6 @@ tags:
   - sickness
 authors: 
   - bksubhuti
-image: /images/sicknoticeenglish.webp
 featured_image: /images/sicknoticeenglish.webp
 ---
 

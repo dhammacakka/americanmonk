@@ -9,7 +9,6 @@ tags:
   - dāna
 authors: 
   - bksubhuti
-image: /images/making_garlands_of_merit.webp
 featured_image: /images/making_garlands_of_merit.webp
 description:  "Video:  Exploring Dhammapada verse 53 and the different aspects of making merit"
 ---

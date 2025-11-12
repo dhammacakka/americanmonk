@@ -11,7 +11,6 @@ tags:
   - mudon
 authors: 
   - bksubhuti
-image: /images/durianfight.webp
 featured_image: /images/durianfight.webp
 ---
 

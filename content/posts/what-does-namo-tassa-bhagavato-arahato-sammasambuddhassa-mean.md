@@ -12,7 +12,6 @@ tags:
   - sammasambuddhassa
 authors: 
   - bksubhuti
-image: /images/wp-1608279208032-edited.webp
 featured_image: /images/wp-1608279208032-edited.webp
 ---
 

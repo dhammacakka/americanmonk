@@ -12,7 +12,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/robepattern.webp
 featured_image: /images/robepattern.webp
 ---
 

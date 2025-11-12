@@ -6,7 +6,6 @@ tags:
   - top-ten
 authors: 
   - bksubhuti
-image: /images/cpanelstats2020.webp
 featured_image: /images/cpanelstats2020.webp
 ---
 

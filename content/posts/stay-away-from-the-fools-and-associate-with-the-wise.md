@@ -14,7 +14,6 @@ tags:
   - wise
 authors: 
   - bksubhuti
-image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.webp
 featured_image: /images/MaxPixel.net-Parrots-Yellow-Flying-Parrot-Pair-Blue-Red-1612070.webp
 ---
 

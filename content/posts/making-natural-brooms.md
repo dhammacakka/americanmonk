@@ -10,7 +10,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/BhanteWithBroom.webp
 featured_image: /images/BhanteWithBroom.webp
 ---
 

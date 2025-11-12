@@ -13,7 +13,6 @@ tags:
   - theravada-2
 authors: 
   - bksubhuti
-image: /images/angkorwatgroup.webp
 featured_image: /images/angkorwatgroup.webp
 ---
 

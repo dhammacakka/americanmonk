@@ -9,7 +9,6 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/theravada.webp
 featured_image: /images/theravada.webp
 ---
 

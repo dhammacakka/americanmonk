@@ -14,7 +14,6 @@ tags:
   - subhuti
 authors: 
   - bksubhuti
-image: /images/digiheart.webp
 featured_image: /images/digiheart.webp
 ---
 

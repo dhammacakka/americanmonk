@@ -3,7 +3,6 @@ title: "I went to Waimea canyon today"
 date: 2015-07-18
 authors: 
   - bksubhuti
-image: /images/blogcovercanyon.webp
 featured_image: /images/blogcovercanyon.webp
 ---
 

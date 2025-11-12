@@ -8,7 +8,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/monkline.webp
 featured_image: /images/monkline.webp
 ---
 

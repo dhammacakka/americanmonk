@@ -5,7 +5,6 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/bowl.webp
 featured_image: /images/bowl.webp
 ---
 

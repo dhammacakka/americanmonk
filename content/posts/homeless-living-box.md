@@ -12,7 +12,6 @@ tags:
   - travel
 authors: 
   - bksubhuti
-image: /images/cooler.webp
 featured_image: /images/cooler.webp
 ---
 

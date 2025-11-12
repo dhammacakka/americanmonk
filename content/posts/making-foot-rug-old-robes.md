@@ -11,7 +11,6 @@ tags:
   - robes
 authors: 
   - bksubhuti
-image: /images/footrugtitle.webp
 featured_image: /images/footrugtitle.webp
 ---
 

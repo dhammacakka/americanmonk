@@ -12,7 +12,6 @@ tags:
   - paauk
 authors: 
   - bksubhuti
-image: /images/IMG_20141101_173938-e1449872666312.webp
 featured_image: /images/IMG_20141101_173938-e1449872666312.webp
 ---
 

@@ -9,7 +9,6 @@ tags:
   - refrigerator
 authors: 
   - bksubhuti
-image: /images/Walk-In-Fridge_Pa-Auk.webp
 featured_image: /images/Walk-In-Fridge_Pa-Auk.webp
 ---
 

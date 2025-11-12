@@ -14,7 +14,6 @@ tags:
   - sausage
 authors: 
   - bksubhuti
-image: /images/sitting-sausage.webp
 featured_image: /images/sitting-sausage.webp
 ---
 

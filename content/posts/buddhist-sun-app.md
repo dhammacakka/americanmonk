@@ -13,7 +13,6 @@ tags:
   - software
 authors:
   - bksubhuti
-image: /images/buddhist_sun_logo4.webp
 featured_image: /images/buddhist_sun_logo4.webp
 ---
 

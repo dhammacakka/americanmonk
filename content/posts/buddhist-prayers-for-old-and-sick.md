@@ -9,7 +9,6 @@ tags:
   - praying
 authors: 
   - bksubhuti
-image: /images/prayer-india.webp
 featured_image: /images/prayer-india.webp
 ---
 

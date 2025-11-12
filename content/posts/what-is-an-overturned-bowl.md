@@ -15,7 +15,6 @@ tags:
   - vinayakamma
 authors: 
   - bksubhuti
-image: /images/bowlrack.webp
 featured_image: /images/bowlrack.webp
 ---
 

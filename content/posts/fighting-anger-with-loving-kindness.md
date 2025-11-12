@@ -15,7 +15,6 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: /images/sword.webp
 featured_image: /images/sword.webp
 ---
 

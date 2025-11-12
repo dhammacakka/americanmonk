@@ -10,7 +10,6 @@ tags:
   - save
 authors: 
   - bksubhuti
-image: /images/640px-Amerikanische_Grosschabe_1.webp
 featured_image: /images/640px-Amerikanische_Grosschabe_1.webp
 ---
 

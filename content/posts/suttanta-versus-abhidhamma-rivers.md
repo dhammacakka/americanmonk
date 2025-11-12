@@ -16,7 +16,6 @@ tags:
   - water
 authors: 
   - bksubhuti
-image: /images/me-bagan-river.webp
 featured_image: /images/me-bagan-river.webp
 ---
 

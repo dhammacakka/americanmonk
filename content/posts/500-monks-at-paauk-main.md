@@ -8,7 +8,6 @@ tags:
   - pa-auk-meditation-center
 authors: 
   - bksubhuti
-image: /images/Slippersmany.webp
 featured_image: /images/Slippersmany.webp
 ---
 

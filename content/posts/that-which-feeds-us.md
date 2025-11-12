@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/aina.webp
 featured_image: /images/aina.webp
 ---
 

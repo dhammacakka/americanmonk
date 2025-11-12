@@ -10,7 +10,6 @@ tags:
   - vipassana
 authors: 
   - bksubhuti
-image: /images/goenka.webp
 featured_image: /images/goenka.webp
 ---
 

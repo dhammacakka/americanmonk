@@ -6,7 +6,6 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/timeanddatecom.webp
 featured_image: /images/timeanddatecom.webp
 ---
 

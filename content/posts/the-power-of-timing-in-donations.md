@@ -15,7 +15,6 @@ tags:
   - miracle
 authors: 
   - bksubhuti
-image: /images/kaladanasutta3stories.webp
 featured_image: /images/kaladanasutta3stories.webp
 ---
 

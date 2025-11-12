@@ -7,7 +7,6 @@ tags:
   - yakkha
 authors: 
   - bksubhuti
-image: /images/demon.webp
 featured_image: /images/demon.webp
 ---
 

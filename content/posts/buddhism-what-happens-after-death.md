@@ -18,7 +18,6 @@ tags:
   - wheel
 authors: 
   - bksubhuti
-image: /images/hand-candle.webp
 featured_image: /images/hand-candle.webp
 ---
 

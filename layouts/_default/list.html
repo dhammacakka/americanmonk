@@ -1,27 +1,45 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ range .Paginator.Pages }}
-<article>
-    <header>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    </header>
-    <section>
-        {{ .Summary }}
-    </section>
-    <footer>
-        <span>Posted on: {{ .Date.Format "January 2, 2006" }}</span>
-    </footer>
-</article>
-{{ end }}
-<!-- Pagination -->
-{{ if .Paginator.HasPrev || .Paginator.HasNext }}
-<nav class="pagination" role="navigation">
-    {{ if .Paginator.HasPrev }}
-    <a href="{{ .Paginator.Prev.URL }}" rel="prev">&laquo; Newer Posts</a>
+  <main class="mw8 center pa3">
+    <h1 class="f2 lh-title">{{ .Title }}</h1>
+
+    {{ range .Paginator.Pages }}
+      <article class="mb4">
+        <header>
+          <h2 class="f3 mt3 mb1">
+            <a href="{{ .Permalink }}" class="link dark-red hover-dark-gray">
+              {{ .Title }}
+            </a>
+          </h2>
+        </header>
+
+        <section class="lh-copy">
+          {{ .Summary }}
+        </section>
+
+        <footer class="mt2 f6 gray">
+          Posted on {{ .Date.Format "January 2, 2006" }}
+        </footer>
+      </article>
     {{ end }}
-    {{ if .Paginator.HasNext }}
-    <a href="{{ .Paginator.Next.URL }}" rel="next">Older Posts &raquo;</a>
+
+    {{ with .Paginator }}
+      {{ if (or .HasPrev .HasNext) }}
+        <nav class="pagination flex justify-between mt4" role="navigation">
+          {{ if .HasPrev }}
+            <a href="{{ .Prev.URL }}" rel="prev" class="link dark-red hover-dark-gray">
+              &laquo; Newer Posts
+            </a>
+          {{ else }}
+            <span></span>
+          {{ end }}
+
+          {{ if .HasNext }}
+            <a href="{{ .Next.URL }}" rel="next" class="link dark-red hover-dark-gray">
+              Older Posts &raquo;
+            </a>
+          {{ end }}
+        </nav>
+      {{ end }}
     {{ end }}
-</nav>
-{{ end }}
+  </main>
 {{ end }}

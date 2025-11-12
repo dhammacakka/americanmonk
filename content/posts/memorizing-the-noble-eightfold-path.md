@@ -12,7 +12,6 @@ tags:
   - youtube
 authors: 
   - bksubhuti
-image: /images/8foldpath.webp
 featured_image: /images/8foldpath.webp
 ---
 

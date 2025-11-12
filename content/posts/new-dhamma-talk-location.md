@@ -6,7 +6,6 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/Old-School-Buddhism-Dhamma-Series.webp
 featured_image: /images/Old-School-Buddhism-Dhamma-Series.webp
 ---
 

@@ -6,7 +6,6 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.webp
 featured_image: /images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.webp
 ---
 

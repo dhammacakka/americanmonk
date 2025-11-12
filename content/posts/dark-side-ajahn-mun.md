@@ -11,7 +11,6 @@ tags:
   - thailand
 authors: 
   - bksubhuti
-image: /images/cover_venerable-acariya-mun-bhuridatta-thera.webp
 featured_image: /images/cover_venerable-acariya-mun-bhuridatta-thera.webp
 ---
 

@@ -13,7 +13,6 @@ tags:
   - pali
 authors: 
   - bksubhuti
-image: /images/important-lesson-subhuti.webp
 featured_image: /images/important-lesson-subhuti.webp
 ---
 

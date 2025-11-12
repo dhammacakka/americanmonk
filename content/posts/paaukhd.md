@@ -11,7 +11,6 @@ tags:
   - video
 authors: 
   - bksubhuti
-image: /images/paaukdvd.webp
 featured_image: /images/paaukdvd.webp
 ---
 

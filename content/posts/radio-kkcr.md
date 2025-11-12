@@ -5,7 +5,6 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/Screenshot_2015-11-12-20-31-18.webp
 featured_image: /images/Screenshot_2015-11-12-20-31-18.webp
 ---
 

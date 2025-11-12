@@ -10,7 +10,6 @@ tags:
   - samatha
 authors: 
   - bksubhuti
-image: /images/Thumbnail-finger.webp
 featured_image: /images/Thumbnail-finger.webp
 ---
 

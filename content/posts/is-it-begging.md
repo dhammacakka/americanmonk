@@ -3,7 +3,6 @@ title: "Is it Begging?"
 date: 2017-01-14
 authors: 
   - bksubhuti
-image: /images/bowl.webp
 featured_image: /images/bowl.webp
 ---
 

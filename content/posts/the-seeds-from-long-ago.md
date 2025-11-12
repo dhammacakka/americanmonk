@@ -11,7 +11,6 @@ tags:
   - story
 authors: 
   - bksubhuti
-image: /images/seedslongago.webp
 featured_image: /images/seedslongago.webp
 ---
 

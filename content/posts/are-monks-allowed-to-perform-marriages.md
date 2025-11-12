@@ -9,7 +9,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/monk-marriage-dalle.webp
 featured_image: /images/monk-marriage-dalle.webp
 ---
 

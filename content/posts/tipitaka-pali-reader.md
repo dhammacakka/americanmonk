@@ -12,7 +12,6 @@ tags:
   - android
 authors:
   - bksubhuti
-image: /images/TPR-billboard.webp
 featured_image: /images/TPR-billboard.webp
 ---
 

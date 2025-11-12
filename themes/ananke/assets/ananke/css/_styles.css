@@ -18,26 +18,3 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
-
-.tag-link img {
-  border-radius: 10px;
-  max-height: none;
-  width: 100%;
-}
-
-.no-margin-top {
-  
-}
-
-@media only screen and (min-width: 768px) {
-  .tag-link {
-    float: left;
-    margin-right: 20px
-  }
-  .tag-link img {
-    max-height: 123px;
-  }
-  .no-margin-top {
-    margin-top: 0;
-  }
-}

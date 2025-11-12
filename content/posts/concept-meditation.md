@@ -11,7 +11,6 @@ tags:
   - samatha
 authors: 
   - bksubhuti
-image: /images/concept.webp
 featured_image: /images/concept.webp
 ---
 

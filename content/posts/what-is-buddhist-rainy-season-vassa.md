@@ -13,7 +13,6 @@ tags:
     - kaṭhina
 categories: []
 type: ""
-image: "/images/vassa_monk.webp"
 featured_image: "/images/vassa_monk.webp"
 ---
 

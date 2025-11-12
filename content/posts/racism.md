@@ -11,7 +11,6 @@ tags:
   - rohingya
 authors: 
   - bksubhuti
-image: /images/We_want_white_tenants.webp
 featured_image: /images/We_want_white_tenants.webp
 ---
 

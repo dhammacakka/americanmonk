@@ -6,7 +6,6 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/meAtItbmu.webp
 featured_image: /images/meAtItbmu.webp
 ---
 

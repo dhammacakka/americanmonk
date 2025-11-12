@@ -11,7 +11,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/bowl-meridian.webp
 featured_image: /images/bowl-meridian.webp
 ---
 

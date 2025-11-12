@@ -12,7 +12,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/planc.webp
 featured_image: /images/planc.webp
 ---
 

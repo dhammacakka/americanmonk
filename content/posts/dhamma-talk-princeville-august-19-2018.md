@@ -13,7 +13,6 @@ tags:
   - monk-in-kauai
 authors: 
   - bksubhuti
-image: /images/aug-19.webp
 featured_image: /images/aug-19.webp
 ---
 

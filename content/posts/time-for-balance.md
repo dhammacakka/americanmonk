@@ -7,7 +7,6 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/balanceTheRock.webp
 featured_image: /images/balanceTheRock.webp
 ---
 

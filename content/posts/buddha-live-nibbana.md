@@ -9,7 +9,6 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp
 featured_image: /images/MaxPixel.freegreatpicture.com-Buddhist-Prayer-Buddha-Mind-India-Concept-1550590.webp
 ---
 

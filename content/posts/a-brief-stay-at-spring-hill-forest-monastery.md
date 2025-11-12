@@ -10,7 +10,6 @@ tags:
   - sri-lanka
 authors: 
   - bksubhuti
-image: /images/meditation-hall.resized-1.webp
 featured_image: /images/meditation-hall.resized-1.webp
 ---
 

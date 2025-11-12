@@ -14,7 +14,6 @@ tags:
   - pa-auk-sayadaw
 authors: 
   - bksubhuti
-image: /images/pa-auk-Ordination-Certificate-2001.webp
 featured_image: /images/pa-auk-Ordination-Certificate-2001.webp
 ---
 

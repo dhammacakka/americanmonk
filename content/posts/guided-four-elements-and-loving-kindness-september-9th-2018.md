@@ -11,7 +11,6 @@ tags:
   - loving-kindness
 authors: 
   - bksubhuti
-image: /images/me-guided-fourelements.webp
 featured_image: /images/me-guided-fourelements.webp
 ---
 

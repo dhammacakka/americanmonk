@@ -11,7 +11,6 @@ tags:
   - third-precept
 authors: 
   - bksubhuti
-image: /images/couple.webp
 featured_image: /images/couple.webp
 ---
 

@@ -13,7 +13,6 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: /images/3-stories.webp
 featured_image: /images/3-stories.webp
 ---
 

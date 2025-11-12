@@ -11,7 +11,6 @@ tags:
   - pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/k123.webp
 featured_image: /images/k123.webp
 ---
 

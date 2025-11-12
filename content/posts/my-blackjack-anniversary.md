@@ -11,7 +11,6 @@ tags:
   - kuti
 authors: 
   - bksubhuti
-image: /images/me-feb72022.webp
 featured_image: /images/me-feb72022.webp
 ---
 

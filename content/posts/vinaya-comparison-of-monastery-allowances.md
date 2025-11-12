@@ -12,7 +12,6 @@ tags:
   - wat-pa-nanachat
 authors: 
   - bksubhuti
-image: /images/health-chocolate01-lg.webp
 featured_image: /images/health-chocolate01-lg.webp
 ---
 

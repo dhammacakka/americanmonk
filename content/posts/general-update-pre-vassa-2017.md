@@ -10,7 +10,6 @@ tags:
   - varansi
 authors: 
   - bksubhuti
-image: /images/smallpackofNovices.webp
 featured_image: /images/smallpackofNovices.webp
 ---
 

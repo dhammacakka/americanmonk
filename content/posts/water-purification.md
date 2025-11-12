@@ -9,7 +9,6 @@ tags:
   - water
 authors: 
   - bksubhuti
-image: /images/testing-our-water.webp
 featured_image: /images/testing-our-water.webp
 ---
 

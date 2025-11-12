@@ -6,7 +6,6 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/godd-topview2_modified-1024x1024.webp
 featured_image: /images/godd-topview2_modified-1024x1024.webp
 ---
 

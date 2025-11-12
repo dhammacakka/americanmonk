@@ -15,7 +15,6 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/alms-varansi.webp
 featured_image: /images/alms-varansi.webp
 ---
 
