@@ -56,8 +56,11 @@ Note:  If a donor receives a tax deduction, the donation is legally restricted f
 
 
 {{< img src = "/images/vinaya_invitation_watercolor.webp" >}}
+Render of husband and wife inviting a monk.
 {{< img src = "/images/kathina-2021.webp" >}}
+Donations received during Pa-Auk Kathina
 {{< img src = "/images/reqslip.webp" >}}
+Sample Requisites Donation Form from Pa-Auk
 
 ---
 
