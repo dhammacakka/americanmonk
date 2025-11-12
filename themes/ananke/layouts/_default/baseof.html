@@ -8,6 +8,8 @@
 
   <link rel="canonical" href="{{ .Permalink }}" />
   {{ partial "og-image.html" . }}
+  {{ partial "footnotes-popup.html" . }}
+
 
   <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1">
