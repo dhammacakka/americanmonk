@@ -6,14 +6,15 @@ authors:
     - Bhante Subhuti
 tags:
     - donation
+    - requisite-slips
     - saṅgha-donation
     - teaching
     - vinaya
-    - requisite-slips
+    - dana
 categories:
     - teaching
     - vinaya
-featured_image: "/images/vinaya_invitation_watercolor.webp"
+featured_image: /images/vinaya_invitation_watercolor.webp
 ---
 
 ## Introduction  

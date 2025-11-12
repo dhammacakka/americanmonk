@@ -488,6 +488,12 @@ footer .ananke-socials {
   align-items: center;
   gap: 0.4rem; /* modern method, replaces manual margin */
 }
+/* Optional: vertically align with text if needed */
+header .ananke-socials {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem; /* modern method, replaces manual margin */
+}
 
 
 /* ==========================================================================
