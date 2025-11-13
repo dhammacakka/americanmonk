@@ -46,7 +46,7 @@ I ordained on the Full-Moon Day of February 7th, 2001. A Bhikkhu ordination is a
 >   
 > I really love this life and I don’t really see any other life for me. I am sort of like a fish out of water. I am one who has always swum against the stream, looking for a place where I can rest.
 
-{{< img src = "/images/cropped-IMG_20190403_182709.webp" >}}
+{{< img src = "/images/me_hide_away_beach.webp" >}}
 
 Kaua'i 2019
 
