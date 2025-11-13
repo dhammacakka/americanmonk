@@ -1,6 +1,7 @@
 ---
 title: "The Buddhist Monk's Bowl"
 date: 2022-10-21
+featured: true
 categories: 
   - monk-life
   - morality

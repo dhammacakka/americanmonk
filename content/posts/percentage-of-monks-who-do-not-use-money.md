@@ -1,6 +1,7 @@
 ---
 title: "Percentage of Monks Who Do Not Use Money"
 date: 2023-03-23
+featured: true
 categories: 
   - interesting-things
   - monk-life

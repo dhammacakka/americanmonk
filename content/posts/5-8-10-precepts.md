@@ -1,6 +1,7 @@
 ---
 title: "5, 8 and 10 Precepts"
 date: 2016-12-18
+featured: true
 categories: 
   - interesting-things
   - monk-life
