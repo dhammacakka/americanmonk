@@ -16,6 +16,12 @@ categories:
     - vinaya
 featured_image: /images/vinaya_invitation_watercolor.webp
 ---
+## Key Points  
+- A monk may only ask for his needs if he receives **pavāraṇā** (invitation).  
+- Clear invitations—especially phrases like **“any time”** or **“ever”**—create ongoing permission.  
+- Invitations are **not binding**; they simply allow the monk to ask.  
+- Renewing the invitation often helps the monk feel comfortable and avoids misunderstandings.  
+
 
 ## Introduction  
 In the Theravāda Vinaya tradition for monks who do not use money, many lay supporters are not familiar with how invitations work[^1]. Several Vinaya rules prevent a monk from asking for his needs unless he is given **pavāraṇā** (invitation).
