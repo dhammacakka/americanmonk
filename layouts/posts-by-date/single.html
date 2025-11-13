@@ -1,53 +1,46 @@
 {{ define "main" }}
 
-<article class="pa3 pa4-ns nested-copy-line-height">
+<article class="pa3 pa4-ns mw8 center">
 
-  <header class="mb4 tc">
-    <h1 class="f2 fw6 mb3">All Posts by Date</h1>
-    <p class="mid-gray f5">Browse posts organized year by year.</p>
-  </header>
+  <!-- Title -->
+  <h1 class="f2 fw6 mb4 tc">Posts by Date</h1>
 
-  {{/* Get pages and sort by date descending */}}
-  {{ $pages := where site.RegularPages "Section" "posts" }}
-  {{ $sorted := $pages.ByDate.Reverse }}
+  {{/* 1. Get all posts in the "posts" section, newest first */}}
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ $sorted := sort $posts "Date" "desc" }}
 
-  {{/* ===========================
-       YEAR JUMP BUTTONS
-     =========================== */}}
+  {{/* 2. Group by year (e.g. "2025", "2024") */}}
+  {{ $groups := $sorted.GroupByDate "2006" }}
 
-  <div class="tc mv4">
-    {{ range $group := $sorted.GroupByDate "2006" }}
-      <a href="#y{{ $group.Key }}"
-         class="ba br-pill ph3 pv2 mh2 bg-light-gray link dark-gray hover-bg-near-white">
-        {{ $group.Key }}
+  <!-- Year Jump Buttons -->
+  <div class="mb4 tc">
+    {{ range $groups }}
+      <a href="#y{{ .Key }}"
+         class="ba b--moon-gray bg-light-gray br2 dib f6 ph3 pv2 mh1 mb2 link">
+        {{ .Key }}
       </a>
     {{ end }}
   </div>
 
-  {{/* ===========================
-       YEAR SECTIONS
-     =========================== */}}
+  <!-- Year Sections -->
+  {{ range $groups }}
 
-  <div class="mw8 center">
+    <!-- Year heading with anchor -->
+    <h2 id="y{{ .Key }}"
+        class="f3 fw6 mt5 mb3 tc">
+      {{ .Key }}
+    </h2>
 
-    {{ range $group := $sorted.GroupByDate "2006" }}
+    <!-- Posts for this year -->
+    <section class="flex-ns flex-wrap">
+      {{ range .Pages }}
+        <div class="w-100 mb4 bg-white pa3 br3 shadow-4">
+          {{ .Render "summary-with-image" }}
+        </div>
+      {{ end }}
+    </section>
 
-      <h2 id="y{{ $group.Key }}"
-          class="f2 fw6 mt5 mb3 tc bb b--light-gray pb2 recent-title">
-        {{ $group.Key }}
-      </h2>
-
-      <section class="mt3 mb5">
-        {{ range $group.Pages }}
-          <div class="mb4">
-            {{ partial "summary-no-inline-images.html" . }}
-          </div>
-        {{ end }}
-      </section>
-
-    {{ end }}
-
-  </div>
+  {{ end }}
 
 </article>
 
