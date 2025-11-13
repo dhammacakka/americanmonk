@@ -2,6 +2,7 @@
 <article class="bb b--black-10">
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
+
       {{ with $featured_image }}
         {{ $imageResource := resources.Get . }}
         {{ if $imageResource }}
@@ -15,11 +16,17 @@
       {{ end }}
 
       <div class="blah w-100{{ if $featured_image }} w-60-ns {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }}{{ end }}">
+
         <h1 class="f3 fw1 athelas mt0 lh-title">
           <a href="{{ .RelPermalink }}" class="color-inherit dim link">
             {{ .Title }}
           </a>
         </h1>
+
+        <!-- Added date -->
+        <p class="f6 mid-gray mt1 mb3">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </p>
 
         <!-- Summary: clean text only, strip inline images -->
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
@@ -29,6 +36,7 @@
         <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
           {{ $.Param "read_more_copy" | default (i18n "readMore") }}
         </a>
+
       </div>
     </div>
   </div>

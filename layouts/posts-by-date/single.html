@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<article class="pa3 pa4-ns mw8 center">
+  <h1 class="f2 fw6 mb4">Posts by Date</h1>
+
+  {{/* Get all posts in the "posts" section */}}
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+
+  {{/* Sort newest → oldest */}}
+  {{ $sorted := sort $posts "Date" "desc" }}
+
+  <section class="flex-ns flex-wrap">
+    {{ range $sorted }}
+      <div class="w-100 mb4 bg-white">
+        {{ .Render "summary-with-image" }}
+      </div>
+    {{ end }}
+  </section>
+
+</article>
+
+{{ end }}

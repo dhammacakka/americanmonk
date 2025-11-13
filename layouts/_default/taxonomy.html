@@ -1,4 +1,5 @@
 {{ define "main" }}
+
   <article class="cf pa3 pa4-m pa4-l">
     <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
       <h1>{{ .Title }}</h1>
@@ -6,12 +7,18 @@
   </article>
 
   <div class="mw8 center">
+
+    {{ $posts := where .Pages "Section" "posts" }}
+    {{ $sorted := sort $posts "Date" "desc" }}
+
     <section class="flex-ns mt5 flex-wrap justify-around">
-      {{ range .Pages }}
+      {{ range $sorted }}
         <div class="w-100 mb4 relative bg-white">
-          {{ partial "summary-no-inline-images.html" . }}
+          {{ .Render "summary-with-image" }}
         </div>
       {{ end }}
     </section>
+
   </div>
+
 {{ end }}

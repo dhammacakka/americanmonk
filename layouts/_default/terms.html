@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </article>
+
+  <div class="mw8 center">
+    <section class="flex-ns mt5 flex-wrap justify-around">
+      {{ range .Data.Terms }}
+        <div class="w-100 w-25-ns ph3 mb4">
+          <a href="{{ .Page.RelPermalink }}" class="link dark-gray">
+            <div class="bg-near-white pa3 br3 shadow-4 h-100 tc">
+              <img src="/icons/play_icon.webp"
+                   class="db center mb3"
+                   style="width:60px;height:auto;">
+              <h3 class="f4 fw6 mb2">{{ .Page.Title }}</h3>
+              <p class="f6 mid-gray">{{ len .Pages }} posts</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </section>
+  </div>
+
+{{ end }}
