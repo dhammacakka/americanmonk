@@ -1,6 +1,7 @@
 ---
 title: "Why I Ordained Twice"
 date: 2019-09-13
+featured: true
 categories: 
   - monk-life
   - vinaya

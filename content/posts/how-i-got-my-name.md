@@ -1,6 +1,7 @@
 ---
 title: "How I Got My Name"
 date: 2021-02-06
+featured: true
 categories: 
   - monk-life
 tags: 

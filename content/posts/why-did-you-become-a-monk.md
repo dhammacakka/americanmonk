@@ -1,6 +1,7 @@
 ---
 title: "Why did you become a monk?"
 date: 2023-10-01
+featured: true
 categories: 
   - monk-life
 tags: 

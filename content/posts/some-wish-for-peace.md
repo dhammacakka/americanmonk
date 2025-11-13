@@ -1,6 +1,7 @@
 ---
 title: "Some Wish For Peace"
 date: 2015-11-17
+featured: true
 categories: 
   - pa-auk
 authors: 
