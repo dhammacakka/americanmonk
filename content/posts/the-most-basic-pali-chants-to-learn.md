@@ -9,8 +9,7 @@ tags:
   - beginner
   - chanting
   - easy
-  - pali
-  - paḷi
+  - pāḷi
 authors: 
   - bksubhuti
 featured_image: /images/Burmese-Pali_Manuscript.webp

@@ -10,7 +10,7 @@ tags:
   - chanting
   - dependent-origination
   - monk-life
-  - pali
+  - pāḷi
 authors: 
   - bksubhuti
 featured_image: /images/important-lesson-subhuti.webp

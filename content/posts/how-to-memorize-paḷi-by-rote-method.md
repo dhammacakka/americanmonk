@@ -7,7 +7,7 @@ tags:
   - learning
   - memorize
   - memory
-  - pali
+  - pāḷi
   - patimokkha
 authors: 
   - bksubhuti

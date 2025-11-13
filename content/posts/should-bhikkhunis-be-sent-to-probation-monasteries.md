@@ -8,7 +8,7 @@ tags:
   - bhikkhuni
   - bhikkhuni-vinaya-studies
   - nun
-  - pali
+  - pāḷi
   - probation
   - rules
   - saghadisesa

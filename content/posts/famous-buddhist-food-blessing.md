@@ -10,7 +10,7 @@ tags:
     - blessing
     - dana
     - kamma
-    - pali
+    - pāḷi
     - dhammapada
 categories:
     - teaching

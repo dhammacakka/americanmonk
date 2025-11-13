@@ -11,7 +11,8 @@ tags:
   - iit
   - international-institute-of-theravada
   - nissayamuccanaka
-  - pali-class
+  - pāḷi
+  - class
   - training
   - vinaya
   - where-to-ordain

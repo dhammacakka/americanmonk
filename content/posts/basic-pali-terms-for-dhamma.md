@@ -8,7 +8,7 @@ tags:
   - beginner
   - books
   - dhamma
-  - paḷi
+  - pāḷi
   - talk
   - words
 authors: 

@@ -5,7 +5,7 @@ categories:
   - software
 tags:
   - language
-  - pali
+  - pāḷi
   - software
   - tipitaka-pali-reader
   - tpr

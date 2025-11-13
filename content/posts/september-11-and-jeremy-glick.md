@@ -6,7 +6,6 @@ categories:
   - monk-life
 tags: 
   - 2001
-  - 9-11
   - 911
   - bhikkhu
   - buddhism

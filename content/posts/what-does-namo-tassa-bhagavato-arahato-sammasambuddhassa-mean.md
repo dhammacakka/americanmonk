@@ -8,7 +8,7 @@ tags:
   - buddha
   - grammar
   - namo-tassa-bhagavato-arahato-sammasambuddhassa
-  - paḷi
+  - pāḷi
   - sammasambuddhassa
 authors: 
   - bksubhuti
