@@ -7,7 +7,7 @@
         {{ $imageResource := resources.Get . }}
         {{ if $imageResource }}
           {{ $resizedImage := $imageResource.Resize "800x" }}
-          <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns">
+          <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns summary-card-image">
             <a href="{{ $.RelPermalink }}" class="db grow">
               <img src="{{ $resizedImage.RelPermalink }}" class="img" alt="image from {{ $.Title }}">
             </a>

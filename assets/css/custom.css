@@ -524,6 +524,14 @@ header .ananke-socials {
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.20);
 }
 
+/* Limit size of post list images so they don't get huge */
+.summary-card-image img {
+  max-width: 350px;   /* adjust as needed */
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+
 
 /* ==========================================================================
    YouTube Embed Rounded Corners
