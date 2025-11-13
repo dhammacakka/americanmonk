@@ -2,6 +2,9 @@
 
 <article class="pa3 pa4-ns nested-copy-line-height">
 
+  <header class="mb4">
+    <h1 class="f2 fw6 mb3">Browse all blog posts by date, category, tag, or view featured posts.</h1>
+    
   <!-- Navigation Cards -->
   <section class="ph3 ph4-ns pv5 bg-white">
     <div class="mw8 center">
@@ -59,29 +62,7 @@
     </div>
   </section>
 
-  <!-- Recent Posts (unchanged) -->
-  <section class="ph3 ph4-ns pv5 bg-near-white">
-    <div class="mw8 center">
-      <h2 class="f2 fw6 mb4">Recent Posts</h2>
-
-      <section class="flex-ns flex-wrap justify-around">
-        {{ $posts := where .Site.RegularPages "Section" "posts" }}
-        {{ range first 5 $posts }}
-          <div class="w-100 w-50-ns mb4 relative bg-white">
-            {{ .Render "summary-with-image-small" }}
-          </div>
-        {{ end }}
-      </section>
-
-      <div class="mt3">
-        <a href="/posts/"
-           class="ba b--moon-gray bg-light-gray br2 dib f6 ph3 pv2 link">
-          View all posts
-        </a>
-      </div>
-    </div>
-  </section>
-
+  
 </article>
 
 {{ end }}
