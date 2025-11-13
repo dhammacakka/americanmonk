@@ -2,6 +2,7 @@
 title: Buddhist Sun App
 date: 2021-09-13
 categories:
+  - software
   - interesting-things
 tags:
   - app
