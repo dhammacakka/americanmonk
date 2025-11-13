@@ -495,6 +495,35 @@ header .ananke-socials {
   gap: 0.4rem; /* modern method, replaces manual margin */
 }
 
+/* ==========================================================================
+   GLOBAL TEXT COLOR OVERRIDES (remove gray everywhere)
+   ========================================================================== */
+
+/* Force all gray text to clean dark text */
+.mid-gray,
+.dark-gray,
+.near-black,
+.black-60,
+.black-70,
+.black-80,
+.black-90 {
+    color: #222 !important;
+}
+
+/* ==========================================================================
+   CARD HOVER EFFECTS
+   ========================================================================== */
+
+.bg-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.bg-card:hover,
+.bg-card:focus-within {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.20);
+}
+
 
 /* ==========================================================================
    YouTube Embed Rounded Corners

@@ -2,6 +2,7 @@
 title: "American Monk Website Has A New Home"
 date: 2024-02-25
 categories: 
+  - software
   - monk-life
 tags: 
   - alms

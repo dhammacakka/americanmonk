@@ -13,6 +13,7 @@ tags:
     - video
     - software
 categories:
+    - software
     - interesting-things
 type: ""
 featured_image: /images/my-digital-projects.webp

@@ -7,6 +7,7 @@ tags:
   - ai
   - loving-kindness
 authors: 
+  - software
   - bksubhuti
 featured_image: /images/loving-kindness-ai-1.webp
 ---
