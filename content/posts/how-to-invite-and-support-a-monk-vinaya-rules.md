@@ -34,6 +34,8 @@ This shows that even when support exists, a monk may refrain from asking if the 
 ## Types of Donor Invitation (*pavāraṇā*)
 
 - **Full Donor Invitation**: A supporter (individual or committee) gives a clear invitation permitting the monk to ask for his needs “at any time, anywhere, anything.”
+
+- **Family Member**: A family member by a genetic line up to seven generations is automatically a full donor.  No invitation is needed.  "Family," by means of marriage or adoption does not qualify.
   
 - **Item Donor**: The supporter provides only certain items but not others.  For instance, he might invite only for meals (*piṇḍapāta*), and robes (*cīvara*), but not other items. The monk cannot ask for other needs outside that limited list.  For example, the monk may not request books or pens with this offer.
 
@@ -98,7 +100,12 @@ or
 **Specific Item With Time Limit**
 > “If you need **robes** during this **July**, please let me know.”
 
----
+**Requisite Form**
+> “Bhante ﹏﹏﹏﹏﹏,  
+> I ﹏﹏﹏﹏ have given Allowable Requisites having the value  
+> of&nbsp;$﹏﹏﹏﹏ to your steward named ﹏﹏﹏﹏.  
+> If you need anything at any time, up to the value of those requisites, please let that steward know.”
+
 
 ## Conclusion  
 When lay supporters understand how invitations work in the Vinaya, and when monks feel safe to ask, the Dhamma flourishes without burden or confusion. It should be seen as an “invitation to ask,” but it is non-binding.
