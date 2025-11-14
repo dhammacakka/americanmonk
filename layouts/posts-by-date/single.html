@@ -2,36 +2,40 @@
 
 <article class="pa3 pa4-ns mw8 center">
 
-  <!-- Title -->
-  <h1 class="f2 fw6 mb4 tc">Posts by Date</h1>
-
-  {{/* 1. Get all posts in the "posts" section, newest first */}}
+  {{/* 1. Get posts and group by year */}}
   {{ $posts := where .Site.RegularPages "Section" "posts" }}
   {{ $sorted := sort $posts "Date" "desc" }}
-
-  {{/* 2. Group by year (e.g. "2025", "2024") */}}
   {{ $groups := $sorted.GroupByDate "2006" }}
 
-  <!-- Year Jump Buttons -->
+  {{/* 2. Floating sidebar navigation */}}
+  <div id="year-nav" class="year-sidebar">
+    <ul>
+      {{ range $groups }}
+        <li><a href="#year-{{ .Key }}">{{ .Key }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+
+  {{/* 3. Page title */}}
+  <h1 class="f2 fw6 mb4 tc">Posts by Date</h1>
+
+  {{/* 4. Inline year buttons */}}
   <div class="mb4 tc">
     {{ range $groups }}
-      <a href="#y{{ .Key }}"
+      <a href="#year-{{ .Key }}"
          class="ba b--moon-gray bg-light-gray br2 dib f6 ph3 pv2 mh1 mb2 link">
         {{ .Key }}
       </a>
     {{ end }}
   </div>
 
-  <!-- Year Sections -->
+  {{/* 5. Year sections */}}
   {{ range $groups }}
 
-    <!-- Year heading with anchor -->
-    <h2 id="y{{ .Key }}"
-        class="f3 fw6 mt5 mb3 tc">
+    <h2 id="year-{{ .Key }}" class="year-heading f3 fw6 mt5 mb3 tc">
       {{ .Key }}
     </h2>
 
-    <!-- Posts for this year -->
     <section class="flex-ns flex-wrap">
       {{ range .Pages }}
         <div class="w-100 mb4 bg-white pa3 br3 shadow-4">

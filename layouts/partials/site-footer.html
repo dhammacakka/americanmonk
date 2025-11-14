@@ -1,3 +1,24 @@
+{{ if and .File (eq .File.Path "posts/by-date.md") }}
+<script>
+document.addEventListener("scroll", () => {
+  const headings = document.querySelectorAll(".year-heading");
+  let activeYear = "";
+
+  headings.forEach(h => {
+    const rect = h.getBoundingClientRect();
+    if (rect.top <= 140 && rect.bottom >= 140) {
+      activeYear = h.id.replace("year-", "");
+    }
+  });
+
+  document.querySelectorAll("#year-nav a").forEach(a => {
+    const year = a.textContent.trim();
+    a.classList.toggle("active", year === activeYear);
+  });
+});
+</script>
+{{ end }}
+
 <footer class="bg-maroon pv4 ph3 ph5-m ph6-l white-80">
   <div class="mw8 center">
     <div class="flex-ns items-center justify-between">
@@ -22,6 +43,7 @@
       <div class="mt3 f6 lh-copy">{{ . | safeHTML }}</div>
     {{ end }}
   </div>
+  
 </footer>
 
 {{ partial "footnotes-popup.html" . }}

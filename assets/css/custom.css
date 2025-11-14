@@ -532,6 +532,57 @@ header .ananke-socials {
   border-radius: 20px;
 }
 
+/* Floating Year Navigation Sidebar */
+.year-sidebar {
+  position: fixed;
+  top: 120px;
+  left: 20px;
+  width: 80px;
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 10px 5px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  z-index: 999;
+}
+
+.year-sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.year-sidebar li {
+  margin: 6px 0;
+  text-align: center;
+}
+
+.year-sidebar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  display: block;
+  padding: 4px 0;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.year-sidebar a:hover {
+  background: #ffe5e5;
+  color: #8b0000;
+}
+
+/* Highlight active year */
+.year-sidebar a.active {
+  background: #8b0000;
+  color: white;
+}
+
+/* Mobile: hide sidebar */
+@media (max-width: 900px) {
+  .year-sidebar {
+    display: none;
+  }
+}
 
 /* ==========================================================================
    YouTube Embed Rounded Corners

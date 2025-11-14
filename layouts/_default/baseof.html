@@ -87,16 +87,23 @@
   end }}">
   {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
   <main id="main-content" class="pb7" role="main">
-    <div id="progress-circle">
-      <div id="progress-text">0%</div>
-    </div>
+{{ if not (and .File (eq .File.Path "posts/by-date.md")) }}
+  <div id="progress-circle">
+    <div id="progress-text">0%</div>
+  </div>
+{{ end }}
 
 
     {{ block "main" . }}{{ end }}
   </main>
   {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
-<script src="{{ "js/progress.js" | relURL }}"></script>
+{{ block "scripts" . }}
+  {{ if not (and .File (eq .File.Path "posts/by-date.md")) }}
+    <script src="/js/progress.js"></script>
+  {{ end }}
+{{ end }}
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const images = document.querySelectorAll(".fancy-img");
