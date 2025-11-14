@@ -96,15 +96,20 @@ enableRobotsTXT = true
     url = "/youtube/"
     weight = 3
 [[menu.main]]
+    name = "Publications"
+    identifier = "Publications"
+    url = "/publication/"
+    weight = 4
+[[menu.main]]
     name = "Subscribe"
     identifier = "Subscribe"
     url = "/subscribe/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Search"
     identifier = "Search"
     url = "/search/"
-    weight = 5
+    weight = 6
 
 [related]
 threshold = 0
