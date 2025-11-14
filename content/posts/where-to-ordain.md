@@ -2,6 +2,7 @@
 title: "Where to Ordain?"
 date: 2020-09-04
 featured: true
+publication: true
 authors: 
   - bksubhuti
 featured_image: /images/pabbajja.resized.webp

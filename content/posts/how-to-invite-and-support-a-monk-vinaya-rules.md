@@ -2,6 +2,7 @@
 title: "How to Invite and Support a Monk: Vinaya Rules Explained"
 description: A guide to understanding invitation in the Vinaya tradition.
 date: 2025-11-10
+publication: true
 authors:
     - Bhante Subhuti
 tags:

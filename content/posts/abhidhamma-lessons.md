@@ -1,7 +1,9 @@
 ---
 title: "Abhidhamma Lessons: A Top-Down Approach Using Computer Science"
 date: 2018-10-01
+publication: true
 categories: 
+  - book
   - dhamma-talks
   - teaching
 tags: 

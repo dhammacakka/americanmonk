@@ -1,6 +1,7 @@
 ---
 title: "Free Book: Going For Broke"
 date: 2018-10-03
+publication: true
 categories: 
   - interesting-things
 tags: 
