@@ -651,9 +651,18 @@ header .ananke-socials {
   color: white;
 }
 
-/* Always visible on mobile */
+/* FAB visible only on mobile */
 @media (max-width: 900px) {
-  .year-sidebar { display: none; }
+  .year-fab {
+    display: block !important;
+  }
+}
+
+/* Hide FAB on desktop/tablet */
+@media (min-width: 901px) {
+  .year-fab {
+    display: none !important;
+  }
 }
 
 
