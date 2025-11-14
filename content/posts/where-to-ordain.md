@@ -1,11 +1,18 @@
 ---
-title: "Where to Ordain?"
+title: Where to Ordain?
 date: 2020-09-04
 featured: true
 publication: true
-authors: 
+authors:
   - bksubhuti
 featured_image: /images/pabbajja.resized.webp
+categories:
+  - monk-life
+  - vinaya
+tags:
+  - learning
+  - vinaya
+  - pali
 ---
 
 {{< img src = "/images/pabbajja.resized.webp" >}}

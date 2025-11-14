@@ -2,7 +2,6 @@
 title: "Intelligent Donations: Turning The Tables"
 date: 2023-04-01
 categories: 
-  - iit
   - interesting-things
   - international-institute-of-theravada
   - monk-life
@@ -11,7 +10,6 @@ tags:
   - alms
   - dana-2
   - donation
-  - iit
   - international-institute-of-theravada
   - pa-auk
   - piṇḍapata

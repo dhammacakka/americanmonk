@@ -2,16 +2,15 @@
 title: Why I Left The International Institute of Theravāda
 date: 2025-02-11
 categories:
-    - iit
     - monk-life
     - vinaya
+    - International-Institute-of-Theravada
 tags:
     - 6-year-program
     - Catubhāṇavāra
-    - IIT
-    - International-Institute-of-Theravada
     - Kelaniya
     - Nissaya Muttaka
+    - International-Institute-of-Theravada
     - Sri Lanka
     - bhikkhu pātimokkha
 authors:

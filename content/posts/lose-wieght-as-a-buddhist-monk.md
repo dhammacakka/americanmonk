@@ -3,11 +3,11 @@ title: How to Lose Weight as a Buddhist Monk
 date: 2024-03-16T04:17:12.677Z
 categories:
   - teaching
+  - International-Institute-of-Theravada
 tags:
   - bowls
   - Food
   - health
-  - IIT
   - International-Institute-of-Theravada
   - Lao
   - Piṇḍapata

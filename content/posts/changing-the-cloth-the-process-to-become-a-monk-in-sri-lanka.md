@@ -6,7 +6,6 @@ categories:
   - international-institute-of-theravada
   - morality
 tags: 
-  - iit
   - precepts
   - robes
   - samaṇera

@@ -2,13 +2,11 @@
 title: "International Institute of Theravada"
 date: 2022-12-27
 categories: 
-  - iit
   - international-institute-of-theravada
 tags: 
   - 6-year-program
   - bhikkhu
   - bhikkhu-training
-  - iit
   - international-institute-of-theravada
   - nissayamuccanaka
   - pāḷi
