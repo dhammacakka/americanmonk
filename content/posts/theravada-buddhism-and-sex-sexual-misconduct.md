@@ -1,6 +1,7 @@
 ---
 title: "Theravada Buddhism and Sex: The Third Precept on Sexual Misconduct"
 date: 2018-09-10
+publication: true
 tags: 
   - 5-precepts
   - buddhism-and-sex
