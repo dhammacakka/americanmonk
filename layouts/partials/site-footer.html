@@ -41,6 +41,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
 });
 </script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("year-fab-btn");
+  const menu = document.getElementById("year-fab-menu");
+
+  // Toggle FAB menu
+  btn.addEventListener("click", () => {
+    const visible = menu.style.display === "flex";
+    menu.style.display = visible ? "none" : "flex";
+  });
+
+  // Scroll spy highlight for FAB
+  document.addEventListener("scroll", () => {
+    const headings = document.querySelectorAll(".year-heading");
+    let activeYear = "";
+
+    headings.forEach(h => {
+      const rect = h.getBoundingClientRect();
+      if (rect.top <= 140 && rect.bottom >= 140) {
+        activeYear = h.id.replace("year-", "");
+      }
+    });
+
+    // Top active if none
+    if (!activeYear) activeYear = "Top";
+
+    document.querySelectorAll(".year-fab-menu a")
+      .forEach(a => {
+        a.classList.toggle("active", a.textContent.trim() === activeYear);
+      });
+  });
+});
+</script>
 
 
 <footer class="bg-maroon pv4 ph3 ph5-m ph6-l white-80">

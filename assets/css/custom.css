@@ -590,6 +590,71 @@ header .ananke-socials {
   margin-bottom: 8px;
   display: block;
 }
+/* Floating FAB container */
+.year-fab {
+  position: fixed;
+  bottom: 18px;
+  right: 18px;
+  z-index: 9999;
+}
+
+/* The round button */
+#year-fab-btn {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  border: none;
+  background: #8b0000;
+  color: white;
+  font-size: 22px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#year-fab-btn:hover {
+  transform: scale(1.06);
+}
+
+/* The popup menu */
+.year-fab-menu {
+  position: absolute;
+  bottom: 70px;
+  right: 0;
+  display: none;
+  flex-direction: column;
+  gap: 8px;
+  background: white;
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.25);
+}
+
+.year-fab-menu a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.year-fab-menu a:hover {
+  background: #8b0000;
+  color: white;
+}
+
+/* Highlight active */
+.year-fab-menu a.active {
+  background: #8b0000;
+  color: white;
+}
+
+/* Always visible on mobile */
+@media (max-width: 900px) {
+  .year-sidebar { display: none; }
+}
 
 
 /* ==========================================================================

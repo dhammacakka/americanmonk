@@ -54,6 +54,19 @@
 
   {{ end }}
 
+  <!-- Floating Speed Dial Button (mobile + desktop) -->
+<div id="year-fab" class="year-fab">
+  <button id="year-fab-btn">☰</button>
+
+  <div id="year-fab-menu" class="year-fab-menu">
+    <a href="#top">Top</a>
+    {{ range $groups }}
+      <a href="#year-{{ .Key }}">{{ .Key }}</a>
+    {{ end }}
+  </div>
+</div>
+
+
 </article>
 
 {{ end }}
