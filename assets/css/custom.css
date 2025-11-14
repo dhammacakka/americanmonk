@@ -584,6 +584,14 @@ header .ananke-socials {
   }
 }
 
+#year-nav .top-link {
+  font-weight: 700;
+  color: #8b0000;
+  margin-bottom: 8px;
+  display: block;
+}
+
+
 /* ==========================================================================
    YouTube Embed Rounded Corners
    ========================================================================== */

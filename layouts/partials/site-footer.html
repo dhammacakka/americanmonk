@@ -1,23 +1,47 @@
-{{ if and .File (eq .File.Path "posts/by-date.md") }}
 <script>
-document.addEventListener("scroll", () => {
+document.addEventListener("DOMContentLoaded", () => {
+
+  const navLinks = document.querySelectorAll("#year-nav a");
   const headings = document.querySelectorAll(".year-heading");
-  let activeYear = "";
 
-  headings.forEach(h => {
-    const rect = h.getBoundingClientRect();
-    if (rect.top <= 140 && rect.bottom >= 140) {
-      activeYear = h.id.replace("year-", "");
-    }
+  if (navLinks.length === 0 || headings.length === 0) {
+    console.log("ScrollSpy: no headings or nav links found.");
+    return;
+  }
+
+  // Map: "#year-2021" → <a href="#year-2021">
+  const linkMap = {};
+  navLinks.forEach(link => {
+    linkMap[link.getAttribute("href")] = link;
   });
 
-  document.querySelectorAll("#year-nav a").forEach(a => {
-    const year = a.textContent.trim();
-    a.classList.toggle("active", year === activeYear);
+  // Create observer
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      const id = "#" + entry.target.id;
+
+      if (entry.isIntersecting) {
+        // Remove all active
+        navLinks.forEach(a => a.classList.remove("active"));
+
+        // Activate the one that matches this section
+        if (linkMap[id]) {
+          linkMap[id].classList.add("active");
+        }
+      }
+    });
+  }, {
+    root: null,
+    rootMargin: "0px 0px -70% 0px",
+    threshold: 0.1
   });
+
+  // Observe each year heading
+  headings.forEach(h => observer.observe(h));
+
 });
 </script>
-{{ end }}
+
 
 <footer class="bg-maroon pv4 ph3 ph5-m ph6-l white-80">
   <div class="mw8 center">

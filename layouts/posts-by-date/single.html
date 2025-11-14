@@ -2,6 +2,9 @@
 
 <article class="pa3 pa4-ns mw8 center">
 
+  <!-- Safe TOP anchor -->
+  <div id="top"></div>
+
   {{/* 1. Get posts and group by year */}}
   {{ $posts := where .Site.RegularPages "Section" "posts" }}
   {{ $sorted := sort $posts "Date" "desc" }}
@@ -10,9 +13,14 @@
   {{/* 2. Floating sidebar navigation */}}
   <div id="year-nav" class="year-sidebar">
     <ul>
+
+      <!-- TOP link -->
+      <li><a href="#top" class="top-link">Top</a></li>
+
       {{ range $groups }}
         <li><a href="#year-{{ .Key }}">{{ .Key }}</a></li>
       {{ end }}
+
     </ul>
   </div>
 
