@@ -1,6 +1,7 @@
 ---
 title: "Make The Best Free Meditation Seat:  The Samadhi-Sausage"
 date: 2016-08-26
+publication: true
 categories: 
   - interesting-things
   - meditation
