@@ -1,6 +1,7 @@
 ---
 title: "Free PTS Sutta eBooks"
 date: 2019-12-29
+publication: true
 categories: 
   - interesting-things
   - teaching
