@@ -4,28 +4,12 @@ title: "General Dhamma Videos"
 
 ## General Dhamma Videos
 
-{{< video-card id="QExHSIQCMbg" title="What comes around goes around." date="2025-11-06" >}}
-What comes around goes around. We have cause and effect. This is the law of kamma.  Whatever you do — bodily action, verbal speech, even thinking — it all has kamma. Whatever you give out will come back to you.  So when people offer food… long life, good complexion, happiness, strength — those results come from kamma. It’s not magic. It’s cause and effect.  But why do we give this blessing if you will get results anyway?  Because this is to remind you of cause and effect — so that we can add paññā, wisdom, to the quality of the donation.  So when the results come back to you — your benefit is not just ordinary kamma result… but it is coupled with wisdom.
-{{< /video-card >}}
-
-{{< video-card id="84uJH1xMKaE" title="concentration sit longer" date="2025-11-04" >}}
-The main reason you can’t sit for long periods of time is because you don’t have concentration.  So the problem is — you need to have concentration. Focus on concentration… not how long you can sit.  This is the most important thing.  When you have concentration, you’ll be able to sit longer… and longer… and longer.  There are people who sit for five, six, seven hours. It’s quite common with people who have samādhi and Jhāna concentration.
-{{< /video-card >}}
-
 {{< video-card id="c4TO2GKr8Hs" title="Why Halloween Is Bad According to Theravada Buddhism" date="2025-10-21" >}}
 Here we discuss why Is Halloween Bad According to Theravada Buddhism? We discuss the dangers of dressing up and \"acting\" where the five precepts are broken.  We talk about kamma and future lives.  The solution is to be a good person all of the time.
 {{< /video-card >}}
 
-{{< video-card id="mSLaclIFhK0" title="Noble Eightfold Path Is The Fourth Noble Truth." date="2025-10-11" >}}
-
-{{< /video-card >}}
-
 {{< video-card id="wEgayiA2azM" title="Einstein and Triple Gem" date="2025-10-08" >}}
 Here we talk about how the Triple Gem can be explained to non-Buddhists in relation to Einstein.  The second part explains why we might worship a Buddha in a similar manner as an Atheist Physicist might get inspiration from a poster of Einstein on his office wall.
-{{< /video-card >}}
-
-{{< video-card id="JPacyba6rqk" title="Buddhist Compass" date="2025-09-05" >}}
-How to know where Bodh Gaya Is? You can use the Buddhist Compass App. This will let you know the direction easily and quickly.
 {{< /video-card >}}
 
 {{< video-card id="ugjr3ak53SQ" title="How To Remove Sticky Labels" date="2025-06-30" >}}
@@ -66,14 +50,6 @@ Part 1 of 2:  A Bhante Subhuti was asked what was the most important lesson he h
 
 {{< video-card id="3Oqd1K7FGYw" title="ardourpunch-in-out" date="2017-02-15" >}}
 Here is an Ardour tutorial for doing a punch in and out.  It is not polished with low video resolution, but it does the job.  I hope you like it and get benefit from it!  Version 5.6 was used for this video.  Thanks to the ardour IRC, I was able to learn this just yesterday.
-{{< /video-card >}}
-
-{{< video-card id="nzY1tVfVuFQ" title="birdseatingrice" date="2016-12-11" >}}
-Here is a video confirming that it is OK to feed birds uncooked rice on the topic of throwing rice at weddings.
-{{< /video-card >}}
-
-{{< video-card id="cwcKWhANc0I" title="Coolest Incense Holder" date="2016-07-09" >}}
-This shows how an incense holder made from a bottle.  No ash escapes.  Although it is probably safer than a normal holder, use with care at your own risk!
 {{< /video-card >}}
 
 {{< video-card id="nJ4cSTQet0E" title="bagantrip2016" date="2016-02-17" >}}

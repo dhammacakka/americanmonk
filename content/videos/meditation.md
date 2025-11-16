@@ -4,14 +4,6 @@ title: "Meditation Videos"
 
 ## Meditation Videos
 
-{{< video-card id="jAl9_gosDPw" title="How To Sit longer (quick guide)" date="2025-11-05" >}}
-Many people are interested in learning how they can increase their sitting times — what exercises they can do, what kind of stretches they can do — so they can sit longer.  Here is a simple idea.  This is a meditation seat. There is an angled pillow with medium rubber foam at about a 30-degree angle, which is ideal.  And then, in front, I have what is called a bed laptop desk.  This helps you get used to sitting on your meditation seat, but you can still do your work whenever you need to work.  So instead of only getting one hour or two hours of practice time to stretch your tendons in the meditation posture, you can sit on your meditation seat while doing your work — and your legs will slowly get used to the meditation posture.
-{{< /video-card >}}
-
-{{< video-card id="dhMxEu9vaZY" title="Dont Wear Shoes" date="2025-11-04" >}}
-When you sit on the floor, it’s very important that you don’t wear your shoes inside the house, or at least the room where you sit on the floor. That’s very important because when you sit on the floor, the floor becomes your furniture.  And if you’ve had a good mother or good father, they tell you don’t put your shoes on the furniture, right? So you want to have the floor nice and clean. It’s very important that you have a space where you don’t wear your shoes.  In Asia, very few people wear their shoes inside the house. They take the shoes off. You don’t want to bring the outside world into your house, or into your meditation room, or your work room.  After you do this for a while, you think it’s sort of dirty to actually bring your shoes inside the house. So I hope you can also practice this, and make your place more sacred, and make your place more clean.  — Bhante Subhuti
-{{< /video-card >}}
-
 {{< video-card id="72Gl6uqZtnc" title="Increase Sitting With No Stretching" date="2025-08-19" >}}
 Learn how to sit in meditation on the floor without needing to do any stretching.  The secret is to sit on the floor more often and do your work on the floor.  But How?  This short video shows you how with a bed laptop desk.
 {{< /video-card >}}
@@ -38,10 +30,6 @@ In this video we talk about the qualities needed for the development of meditati
 
 {{< video-card id="O4MYS9xg9ts" title="Benefits of Alms (last 5 minutes of Giving alms again and again)" date="2024-07-31" >}}
 Benefits of Alms (last 5 minutes of Giving alms again and again). In this talk, I explain the benefits of going for alms, often with the hardships one faces.  Not that it is wished for, but how one deals with it.  It is the hard times where growth can come.  Further benefits, are appreciation of food, easy to support, meditation, gratitude, and making merit by being a prop for others to make merit as well as the opportunity to share with others from one's own bowl.
-{{< /video-card >}}
-
-{{< video-card id="OXL1voHEd5g" title="Why Was The Earth Kasiṇa Taught First? #meditation #kasina #buddha #earth" date="2024-06-23" >}}
-It might be a mystery as to why the Earth Kasina was taught first in the great and ancient meditation manual called the Visuddhimagga.  Here, in this short video, you can see that we sometimes forget what it was like during the time of the Buddha.
 {{< /video-card >}}
 
 {{< video-card id="Mt69hMPiaFA" title="Bhante Subhuti 2003:  What caused you to be Buddhist and a Monk?" date="2024-06-08" >}}
