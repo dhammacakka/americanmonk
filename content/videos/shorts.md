@@ -1,8 +1,8 @@
 ---
-title: "Shorts Videos"
+title: "Shorts (< 2 min) Videos"
 ---
 
-## Shorts Videos
+## Shorts (< 2 min) Videos
 
 {{< video-card id="Mp0EVlQEvl8" title="triple rooted blessing" date="2025-11-08" >}}
 Summary: When monks chant blessings, we’re reminding you of cause and effect. Dana is already wholesome — because there is non-greed and non-anger present in the moment of giving. But when you give with wisdom — knowing the cause… knowing the effect… it becomes triple-rooted. Alobha, adosa, and amoha (paññā). This is why intention matters. Giving with wisdom multiplies the power of merit.  Transcription: What's special that happens when we give the blessing? The thing is that we're reminding you about cause and effect so that we can add paññā, wisdom, to the quality of the donation. When you give, there's always alobha, adosa. This means non-greed, non-hatred, non-anger. So alobha, adosa, non-greed, non-anger. So these are wholesome things because they're the opposite of greed and anger because it's never present when you're giving a gift. Even if you're angry before, at that moment you're giving, at least you might not be happy, but there will be a neutral feeling associated with that. And then you might go back to being angry at someone. We always say that if you're angry at someone, give them a gift. But in any case, it's always a wholesome mind. But sometimes a lot of times you give and you're not thinking about cause and effect. And not only that, you might not be thinking about being respectful. And so when we do that chant, actually people are like this, they're very, very respectful when we give this chant. And so they're thinking about cause and effect and they're being respectful. And of course these four qualities will come. And triple-rooted, we say. Triple-rooted. Aloba, adosa, amoha. Amoha is the same as paññā. It means wisdom.

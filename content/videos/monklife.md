@@ -16,16 +16,12 @@ I will be going to the USA in a few days.  I was thinking of all of the anger th
 Update March 19, Protections, Leaches, Monks and Khandha Paritta.  Here is a small \"walk and talk\" update while on my way for alms.  This time, I had a friend who came with me and was willing to film me while I talked.     (Ven Anandajoti translation.) “Virūpakkhehi me mettaṁ, mettaṁ Erāpathehi me, “I am friendly with the Virūpakkhas, with the Erāpathas I am friendly,  Chabyāputtehi me mettaṁ, mettaṁ Kaṇhāgotamakehi ca. [01] I am friendly with the Chabyāputtas, and friendly with the Kaṇhāgotamakas.     Apādakehi me mettaṁ, mettaṁ dipādakehi me, I am friendly with those without feet, with those with two feet I am friendly,  catuppadehi  me mettaṁ, mettaṁ bahuppadehi me. [02] I am friendly with those with four feet, with those with many feet I am friendly.     Mā maṁ apādako hiṁsi, mā maṁ hiṁsi dipādako, May the one without feet not hurt me, may the one with two feet not hurt me,  mā maṁ catuppado hiṁsi, mā maṁ hiṁsi bahuppado. [03] may the one with four feet not hurt me, may the one with many feet not hurt me.     Sabbe sattā, sabbe pāṇā, sabbe bhūtā ca kevalā, May all beings, all living creatures, all who are born, in their entirety,  sabbe bhadrāni passantu, mā kañci pāpam-āgamā. [04] may all see prosperity, may nothing bad come to anyone.     Appamāṇo Buddho! The Buddha is measureless!  Appamāṇo Dhammo! The Dhamma is measureless!  Appamāṇo Saṅgho! The Saṅgha is measureless!     Pamāṇavantāni siriṁsapāni, ahivicchikā, satapadī, uṇṇānābhi, sarabū, mūsikā. Measurable are creeping things, (such as) snakes, scorpions, centipedes, spiders, lizards, and rats.  Katā me rakkhā, katā me parittā, paṭikkamantu bhūtāni! I have made this protection, I have made this safeguard, may (all these) beings go away!  Sohaṁ namo Bhagavato, namo sattannaṁ Sammāsambuddhānan”-ti. I revere the Fortunate One, I revere the seven Perfect Sambuddhas.”
 {{< /video-card >}}
 
-{{< video-card id="2diSbujtI8M" title="Alms In Florida?" date="2024-12-06" >}}
-A recollection about how I went for Buddhist alms (piṇḍapāta) in a very small Christian town of Geneva, Florida.  We discuss the method of going for alms and using mettā or Loving-kindness as a basis for going for alms, to make it a meditation, and to make one safe and approachable.  I enjoyed this time.  It inspired myself and I hope it inspires you too.
-{{< /video-card >}}
-
 {{< video-card id="2tm-quG2kDo" title="How Do Monks Greet Each Other?" date="2024-09-14" >}}
 In this video we discuss how monks greet each other.  There are three parts. 1)  Paying respect 2)  Mutual sharing of merits 3) Mutual apologies  Here is the Table of Contents: 0:00 Introduction 1:29 Demonstration with Ven. Upali and explanation 5:43  Paying respect and seniority 14:33 Rejoicing in merits 22:42 Forgiveness  28:09 Recap and Conclusion 32:15 Special merit sharing for a monk's deceased mother           In the Sri Lankan Tradition, we have a tradition when we see first monks and when we say goodbye.  We say this pāḷi phrase:  (Sādhu means well done)  Junior: Okāsa, vandāmi, Bhante.   Please allow me this opportunity, Venerable Sir, I venerate pay respect to you. (bow once)   Elder: Sukhī hontu, Nibbāna-paccayo hotu.  May you be happy, may this be a cause for you to realize nibbāna.  Junior: Mayā kataṁ puññaṁ Sāminā anumoditabbaṁ.  May the master rejoice in the merit that I have made   Elder: Sādhu! Sādhu! Anumodāmi.  Sādhu! Sādhu! I rejoice in your merit.  Junior: Sāminā kataṁ puññaṁ mayhaṁ dātabbaṁ.  May the master share with me the merit that he has made   Elder: Sādhu! Anumoditabbaṁ.  Sādhu!  You should rejoice in my merit.   Junior: Sādhu! Sādhu! Anumodāmi. Okāsa, dvārattayena kataṁ sabbaṁ accayaṁ khamatha me, Bhante.  Sādhu! Sādhu! I rejoice in the merit that venerable has made. Please allow me this opportunity; Venerable Sir, forgive me for all deeds committed by me through the three-doors of body, speech and mind.    Elder: Khamāmi, khamitabbaṁ.  I forgive you, you should forgive me also for all that I may have done.  Junior: Sādhu! Okāsa, khamāmi, Bhante.  Sādhu! Please allow me this opportunity; Venerable Sir, I forgive you for anything that you may have done  (bow three times)   Elder: Sukhī hontu, Nibbāna-paccayo hotu.  May you be happy, may this be a cause for you to realize nibbāna.
 {{< /video-card >}}
 
-{{< video-card id="vdEijJNXl_s" title="More On Buddhist Alms Food (Piṇḍapāta) And Video Footage" date="2024-08-25" >}}
-Here we discuss more on the Theravada Buddhist alms food collection process with several video clips. We also discuss: Itivuttaka 75  (rainless cloud) Cūḷagosiṅgasutta Basic Chant on using the food. Dhammapada Verse185 Alms is Bhikkhu Piṇḍapāta  0:00 introduction Simple Life Story (about being happy if I got food) 9:15 More about \"main job we have to eat\"  12:25 start of video \"namo tassa\" 13:05 Itivuttaka 75  (The Rainless cloud) 19:52 Culaghosinga Sutta 30:59 Sabbasava sutta , chant on using alms food. 32:42 Dhammapada Verse 185:  Moderation in Eating (How not to overeat) 40:04 Conclusion
+{{< video-card id="MCKvog08RCc" title="How To Lose Weight As A Buddhist Monk" date="2024-03-16" >}}
+I recently lost about 10 Kg which is over 20 pounds.  I'd like to share with you how I gained weight and how I also lost it. We talk about the troubles of being a senior monk, Buddhist Monk rules (vinaya), Buddhist Monk reflections on eating, and habits.  Lastly, we talk about how the  difference between the difficulty in losing weight compared to the ending of all suffering.  In short there is no comparison.
 {{< /video-card >}}
 
 {{< video-card id="_gLiQj8IEmU" title="Spring Hill Kuti Design" date="2024-02-08" >}}
@@ -36,16 +32,12 @@ A tour of my kuti in Spring Hill, Hantanna
 A small video on the towels and soap that monks use.
 {{< /video-card >}}
 
-{{< video-card id="imYSL5bn42w" title="Pa Auk Kitchen 2014 (Yogi Brahm's Photos)" date="2020-11-24" >}}
-This is a video of most of the photo collection by the lay yogi named Brahm.  He is quite a good photographer.  It shows how food is cooked for 1200 Yogis (monks, nuns, laypeople) who live and meditate at Pa-Auk Meditation Center.  There are also pictures of the female meditation hall.  (near the kitchen but 1 mile from the monk's area).
-{{< /video-card >}}
-
-{{< video-card id="ciI3W3ZVoBU" title="Getting Food Pa-Auk Mawlamyine" date="2019-06-25" >}}
-This is what it is like for a monk to go through the alms food line at Pa-Auk Main Center, Mawlamyine, Myanmar.   It is not easy to manage so many donors with big hearts to give.  Most of the time, I am giving hand signals to get less food.  You will also notice that I do not open the bowl cover until they make a smaller portion.  The nun with the cup of soupy-rice always tries to put \"a small portion of the cup\" in my bowl everyday.  However, I always make her pour out most of it before I open my bowl lid.  This is a daily exchange.  You might want to play this at double speed.  However, this is a real time video and you can get a feel for what it is like to go in the line.  There are often 300 to 400 monks waiting in line to get to this point too.   Do you like this.. Subscribe to: https://AmericanMonk.org
-{{< /video-card >}}
-
 {{< video-card id="WwzeZHSz5r8" title="NeedleCase360" date="2018-01-27" >}}
 This is a small video on how to make a monk's needle case from a used up disposable pen.  It is one of the 8 requisites of a Buddhist monk.  It is mostly intended for monks to view, but lay people might find it interesting.
+{{< /video-card >}}
+
+{{< video-card id="tKfViQrX6Cc" title="Make A Monk's Needle Case" date="2018-01-14" >}}
+How to make a monk's needle case from an old pen.  It takes a few minutes and all you need is a candle and a used up pen with a front pen tip cover that screws off. This is one of the few things I can make myself and donate to other monks without asking my donors to do the job.
 {{< /video-card >}}
 
 {{< video-card id="V-g_SHk5Wp4" title="How to Make a Monk Water Filter in 3 Minutes" date="2017-10-10" >}}
@@ -54,5 +46,25 @@ Here is a quick tip on how to make a filter in just a few minutes.  Maybe as fas
 
 {{< video-card id="56ZgPffPJgY" title="Make a Foot-Rug from Old Robes" date="2017-08-13" >}}
 This is a instructional Video on how to make a foot-rug from old robes.  Mostly only monks would be interested in this.
+{{< /video-card >}}
+
+{{< video-card id="xguRak-kd-k" title="Kauai Propagation Pt 1" date="2016-07-16" >}}
+A Powerpoint presentation about what two monks did in Kauai, Hawaii during June to December 2015.  The theme was propagation, but the propagation was done just from being monks who do not touch money, and collect their food the traditional Buddhism monk way.  The vision, how it got started, stories and experiences were shared.  http://AmericanMonk.org
+{{< /video-card >}}
+
+{{< video-card id="_zOOsw9FSEM" title="Kauai Propagation Pt 2" date="2016-07-16" >}}
+Part 2 of A Powerpoint presentation about what two monks did in Kauai, Hawaii during June to December 2015.  The theme was propagation, but the propagation was done just from being monks who do not touch money, and collect their food the traditional Buddhism monk way.  The vision, how it got started, stories and experiences were shared.  http://subhuti.withmeta.net
+{{< /video-card >}}
+
+{{< video-card id="nJ4cSTQet0E" title="bagantrip2016" date="2016-02-17" >}}
+Trip to Bagan by Ven Pannagavesaka and Bhikkhu Subhuti
+{{< /video-card >}}
+
+{{< video-card id="2DjEHWNTHQ0" title="Monks visit to Kauai 2015" date="2016-02-07" >}}
+Monks visit to Kauai.  Photo slide show.
+{{< /video-card >}}
+
+{{< video-card id="MFl08DBa7Vw" title="Knowing and Seeing, Pa Auk Forest Monastery HD version" date="2015-10-27" >}}
+Life at the Pa-Auk Forest Monastery in Mawlamyine, Myanmar.  This version was built from the DVD version.  All other YouTube versions (that I know of are built from the Vcd  low resolution.  I originally made this video for my brother in 2005 from a silent 55 minute video shot by the England group in 2003.  If you think this video is long winded for people with long attention spans...uh.. you better look at the original.  As I was doing an audio comment, \"um this is the clinic.\" a friend told me to add some background noises.  Later came a script with a \"narrator's voice.\" (which some do not like, but it was the best I could do.).
 {{< /video-card >}}
 
