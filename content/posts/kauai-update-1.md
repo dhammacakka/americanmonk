@@ -40,8 +40,13 @@ Bhikkhu Subhuti
 
 Pictures: Our kuti (close up) and where we meditate and chant. Managers' house from far away. All on the property where we live.
 
-[![IMG_20150627_131127~2](/images/IMG_20150627_13112721.webp" >}}](/images/2015/08/IMG_20150627_13112721.webp" >}}[![IMG_20150705_152441](/images/IMG_20150705_152441.webp" >}}](/images/2015/08/IMG_20150705_152441.webp" >}}
+{{< img src="/images/IMG_20150627_132010.webp" >}}
 
-[![IMG_20150627_132010](/images/IMG_20150627_132010.webp" >}}](/images/2015/08/IMG_20150627_132010.webp" >}}
+ Where we chant and where I often meditate at "The Sanctuary" grounds where we live in Kauai.
 
-[![IMG_20150626_131541](/images/IMG_20150626_131541.webp" >}}](/images/2015/08/IMG_20150626_131541.webp" >}}
+
+{{< img src="/images/meditation-hut-kauai.webp" >}}
+Where we meditate
+
+Where we live
+{{< img src="ourhouse-sanctuary-kauai.webp" >}}
