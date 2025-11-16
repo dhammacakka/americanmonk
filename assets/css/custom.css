@@ -665,6 +665,98 @@ header .ananke-socials {
   }
 }
 
+/* Video card layout */
+.video-card {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin: 1.5rem auto;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+  overflow: hidden;
+}
+
+/* Thumbnail button */
+.video-card-thumb {
+  position: relative;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  display: block;
+}
+
+.video-card-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Dark overlay + play icon */
+.video-card-overlay {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center,
+              rgba(0,0,0,0.0) 40%,
+              rgba(0,0,0,0.45) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.video-card-play {
+  font-size: 3rem;
+  color: #ffffff;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+}
+
+/* Text block */
+.video-card-body {
+  padding: 1rem 1.2rem 0.8rem;
+}
+
+.video-card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 0.3rem;
+}
+
+.video-card-date {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.video-card-desc {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Embed area */
+.video-card-embed {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+.video-card-embed.open {
+  max-height: 600px; /* enough to show iframe */
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .video-card {
+    margin: 1rem 0.5rem;
+  }
+
+  .video-card-title {
+    font-size: 1.1rem;
+  }
+}
+
 
 /* ==========================================================================
    YouTube Embed Rounded Corners
