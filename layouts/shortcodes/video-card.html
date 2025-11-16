@@ -1,21 +1,12 @@
 <div class="video-card">
-  <button class="video-card-thumb"
-          type="button"
-          data-video-id="{{ .Get "id" }}">
-    <img
-      src="https://img.youtube.com/vi/{{ .Get "id" }}/hqdefault.jpg"
-      alt="{{ .Get "title" }}"
-      loading="lazy"
-    />
-    <div class="video-card-overlay">
-      <span class="video-card-play">▶</span>
-    </div>
-  </button>
+
+  <lite-youtube 
+    videoid="{{ .Get "id" }}" 
+    playlabel="Play video: {{ .Get "title" }}">
+  </lite-youtube>
 
   <div class="video-card-body">
-    <h2 class="video-card-title">
-      {{ .Get "title" }}
-    </h2>
+    <h2 class="video-card-title">{{ .Get "title" }}</h2>
 
     {{ with .Get "date" }}
       <p class="video-card-date">{{ . }}</p>
@@ -25,6 +16,4 @@
       {{ .Inner }}
     </div>
   </div>
-
-  <div class="video-card-embed" id="embed-{{ .Get "id" }}"></div>
 </div>
