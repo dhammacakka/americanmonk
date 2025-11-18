@@ -3,6 +3,7 @@ title: "Pa-Auk Monastery in Mudon"
 date: 2016-03-21
 categories: 
   - pa-auk
+  - mudon
 tags: 
   - forest-monastery
   - monastery
