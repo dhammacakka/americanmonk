@@ -1,0 +1,81 @@
+{{/* Load icons */}}
+{{ $facebook := readFile "themes/ananke/assets/ananke/socials/facebook.svg" }}
+{{ $twitter := readFile "themes/ananke/assets/ananke/socials/x-twitter.svg" }}
+{{ $whatsapp := readFile "themes/ananke/assets/ananke/socials/whatsapp.svg" }}
+{{ $email := readFile "themes/ananke/assets/ananke/socials/envelope.svg" }}
+{{ $viber := readFile "themes/ananke/assets/ananke/socials/viber.svg" }}
+
+<div class="share-wrapper mv3 flex items-center">
+  <span class="mr3 f3 blue b">Share:</span>
+
+  <!-- Facebook -->
+  <a class="share-icon" target="_blank"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}">
+    {{ $facebook | safeHTML }}
+  </a>
+
+  <!-- X / Twitter -->
+  <a class="share-icon" target="_blank"
+     href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}">
+    {{ $twitter | safeHTML }}
+  </a>
+
+  <!-- WhatsApp -->
+  <a class="share-icon" target="_blank"
+     href="https://wa.me/?text={{ .Permalink | urlquery }}">
+    {{ $whatsapp | safeHTML }}
+  </a>
+
+  <!-- Email -->
+  <a class="share-icon"
+     href="mailto:?subject={{ .Title | urlquery }}&body={{ .Permalink | urlquery }}">
+    {{ $email | safeHTML }}
+  </a>
+
+  <!-- Viber -->
+  <a class="share-icon"
+     href="viber://forward?text={{ .Permalink | urlquery }}">
+    {{ $viber | safeHTML }}
+  </a>
+
+  <!-- Copy Link -->
+  <button class="share-icon copy-btn" onclick="copyShareLink('{{ .Permalink }}')" title="Copy URL">
+    📋
+  </button>
+</div>
+
+<script>
+function copyShareLink(url) {
+  navigator.clipboard.writeText(url).then(() => {
+    alert("Link copied!");
+  });
+}
+</script>
+
+<style>
+.share-wrapper { gap: 1rem; }
+
+.share-icon svg {
+  width: 28px;
+  height: 28px;
+  fill: blue;
+  transition: opacity .2s;
+}
+
+.share-icon:hover svg {
+  opacity: .7;
+}
+
+.copy-btn {
+  width: 28px;
+  height: 28px;
+  font-size: 20px;
+  background:none;
+  border:none;
+  cursor:pointer;
+  padding:0;
+  margin:0;
+  color:blue;
+}
+.copy-btn:hover { opacity: .7; }
+</style>

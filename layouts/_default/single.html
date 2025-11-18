@@ -9,6 +9,8 @@
     <h1 class="f1 athelas mt3 mb1">
       {{- .Title -}}
     </h1>
+    {{ partial "share-buttons.html" . }}
+
     {{ with .Params.author | default .Site.Params.author }}
     <p class="tracked">
       {{ $.Render "by" }} <strong>
@@ -36,6 +38,7 @@
     $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l"
     }} w-two-thirds-l">
     {{- .Content -}}
+    {{ partial "share-buttons.html" . }}
     {{ partial "subscribeform.html" . }}
 
     <!-- User prompt to search subjects placed just before the tags -->
