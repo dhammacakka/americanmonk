@@ -36,7 +36,7 @@
     $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l"
     }} w-two-thirds-l">
     {{- .Content -}}
-    {{ partial "subscribe-form.html" . }}
+    {{ partial "subscribeform.html" . }}
 
     <!-- User prompt to search subjects placed just before the tags -->
     <div class="mt3 mb3 pa3 bg-light-gray">
