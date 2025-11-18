@@ -4,16 +4,8 @@ date: 2025-02-14
 draft: false
 ---
 
+Thank you for subscribing!  
+You will receive updates on new Dhamma videos, blog posts, and upcoming teachings.
 
-{{< rawhtml >}}
-<!-- MailerLite Universal -->
-<script>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '1328673');
-</script>
-<!-- End MailerLite Universal -->
-<div class="ml-embedded" data-form="oUzY4v"></div>
-{{< /rawhtml >}}
+After submitting, **check your email and confirm your subscription.**  
+If you do not see the email, look in spam or promotions.
