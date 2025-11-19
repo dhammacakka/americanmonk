@@ -1,4 +1,4 @@
 ---
 title: "Mudon"
-icon: "fa-map-marker-alt"
+icon: "fa-solid fa-mountain-sun"
 ---

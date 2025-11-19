@@ -9,21 +9,40 @@
   <div class="mw8 center">
     <section class="flex-ns mt5 flex-wrap justify-around">
 
-      {{ range .Data.Terms }}
-        {{ $icon := .Page.Params.icon | default "fa-play" }}
+      {{/* Color map */}}
+      {{ $colorMap := dict
+        "book" "dark-blue"
+        "covid" "dark-red"
+        "dhamma-talks" "gold"
+        "interesting-things" "dark-green"
+        "international-institute-of-theravada" "purple"
+        "itbmu" "dark-blue"
+        "kauai" "green"
+        "meditation" "blue"
+        "monk-life" "orange"
+        "morality" "dark-green"
+        "mudon" "purple"
+        "pa-auk" "green"
+        "reflections" "purple"
+        "software" "orange"
+        "teaching" "blue"
+        "vinaya" "dark-blue"
+      }}
+
+      {{ range $i, $term := .Data.Terms }}
+        {{ $name := lower $term.Page.Title | urlize }}
+        {{ $icon := $term.Page.Params.icon | default "fa-tag" }}
+        {{ $color := index $colorMap $name | default "black" }}
 
         <div class="w-100 w-25-ns ph3 mb4">
-          <a href="{{ .Page.RelPermalink }}" class="link dark-gray">
+          <a href="{{ $term.Page.RelPermalink }}" class="link dark-gray">
             <div class="bg-card pa3 br3 shadow-4 h-100 tc pointer grow hover-bg-light-gray">
 
-              <!-- ICON -->
-              <i class="fa-solid {{ $icon }} fa-3x mb3"></i>
+              <!-- Icon with taxonomy-specific color -->
+              <i class="fa-solid {{ $icon }} fa-3x mb3 {{ $color }}"></i>
 
-              <!-- TITLE -->
-              <h3 class="f4 fw6 mb2">{{ .Page.Title }}</h3>
-
-              <!-- POST COUNT -->
-              <p class="f6 mid-gray">{{ len .Pages }} posts</p>
+              <h3 class="f4 fw6 mb2">{{ $term.Page.Title }}</h3>
+              <p class="f6 mid-gray">{{ len $term.Pages }} posts</p>
 
             </div>
           </a>
