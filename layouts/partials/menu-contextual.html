@@ -3,35 +3,41 @@
   https://gohugo.io/content-management/toc/
 */}}
 {{ if .Params.categories }}
-  {{ $colorMap := site.Data.colors }}
-
   <div class="related-sidebar">
     <h3>Categories</h3>
     <ul class="related-list">
 
       {{ range .Params.categories }}
+        {{ $name := . }}
+        {{ $slug := urlize $name }}
 
-        {{ $key := . | urlize }}
-        {{ $catPage := site.GetPage (printf "categories/%s" $key) }}
+        {{/* Get taxonomy term (for count) */}}
+        {{ $term := index site.Taxonomies.categories $slug }}
 
+        {{/* Get category page (for icon) */}}
+        {{ $catPage := site.GetPage (printf "categories/%s" $slug) }}
         {{ $icon := $catPage.Params.icon | default "fa-tag" }}
-        {{ $color := index $colorMap $key | default "purple" }}
+
+        {{/* Pull color from data/colors.yaml (fallback purple) */}}
+        {{ $color := index site.Data.colors $slug | default "purple" }}
 
         <li class="related-card">
-          <a href="{{ `/categories/` | relLangURL }}{{ $key }}" class="related-card-link">
+          <a href="{{ `/categories/` | relLangURL }}{{ $slug }}" class="related-card-link">
             <div class="related-card-inner">
 
               <i class="fa-solid {{ $icon }} fa-2x related-thumb"
                  style="color: {{ $color }};"></i>
 
               <div class="related-card-content">
-                <h4 class="related-title">{{ . }}</h4>
+                <h4 class="related-title">{{ $name }}</h4>
+                <p class="f7 mid-gray mt1">
+                  {{ len $term.Pages }} posts
+                </p>
               </div>
 
             </div>
           </a>
         </li>
-
       {{ end }}
 
     </ul>
