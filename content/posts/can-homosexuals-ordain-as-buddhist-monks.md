@@ -1,13 +1,12 @@
 ---
 title: Can Homosexuals Ordain as Buddhist Monks?
 description: ""
-date: 2024-04-21
+date: 2022-04-21
 preview: This article discusses the challenges and perspectives surrounding the ordination of homosexuals within Theravāda Buddhism, focusing on doctrinal teachings and monastic life.
 Description: Yes, it is possible for homosexuals to ordain, but it is difficult to recommended and very complex.  Read more to find out why.
 draft: false
 tags:
     - bhikkhu
-    - homosexual
     - vinaya
     - ordination
 categories:
@@ -18,7 +17,7 @@ featured_image: /images/monastery-with-rainbow-in-back.webp
 ---
 
 {{< img src = "/images/monastery-with-rainbow-in-back.webp" >}}
-
+Originally Published: April 21, 2024[^1]
 
 ## Summary:
 Yes, it is possible, but it is difficult to recommended because it can be very dangerous for saṅgha.  Some monasteries will prohibit ordinations of openly gay men.  
@@ -96,3 +95,5 @@ Segregation breaks down with homosexuals and it can be similar to a monk living 
 The topic of Homosexuals in monasteries is a touchy subject and it would be best if there were a proper solution to meet everyone's needs.  In theravāda, we still recommend celibacy as a best practice for both heterosexuals and homosexuals.  Obviously, being a monk gives one an environment to practice that way but that environment is only designed for heterosexuals living in segregated residential quarters.  
 
 Being born with a homosexual orientation presents unique challenges within the traditional monastic framework, which is primarily designed for celibate life segregated by gender. This reality calls us to reflect deeply on the nature of saṃsāra and the complexities of human experience. It is a reminder of our shared journey towards enlightenment, which requires us to cultivate understanding and create conditions where every individual can strive for spiritual liberation, to reach Nibbāna.
+
+[^1]: System date adjusted.
