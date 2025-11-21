@@ -52,7 +52,7 @@ description: "Bhante Subhūti – YouTube videos organised by topic."
     <a href="/videos/monklife/" class="no-underline db">
       <div class="bg-card pa4 br3 shadow-4 w-100 h5 flex flex-column items-center justify-center tc hover-bg-light-gray pointer">
         <i class="fa-solid fa-hands-praying fa-3x mb3" style="color:#F4A300;"></i>
-        <h3 class="f5 fw6 mt2 dark-gray">Monk Life (16)</h3>
+        <h3 class="f5 fw6 mt2 dark-gray">Monastic Life (16)</h3>
       </div>
     </a>
   </div>
@@ -107,7 +107,7 @@ description: "Bhante Subhūti – YouTube videos organised by topic."
     </a>
   </div>
 
-  <!-- Uncategorized -->
+  <!-- No Category -->
   <div class="w-100 w-50-m w-33-l pa3">
     <a href="/videos/uncategorized/" class="no-underline db">
       <div class="bg-card pa4 br3 shadow-4 w-100 h5 flex flex-column items-center justify-center tc hover-bg-light-gray pointer">
