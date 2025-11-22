@@ -9,12 +9,12 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-featured_image: /images/monk-marriage-dalle.webp
+featured_image: /images/monk-marriage2.webp
 ---
 
 Although Buddhist lay people might be interested in having a monk perform their marriage ceremony, it is not allowed and doing so is classed as a heavy rule (Saṅghādisesa). Such heavy rules have penalties and require the monk to lose his full status for a minimum of 6 nights[^1] and additional probation time if concealing the offense occurs.
 
-{{< img src = "/images/monk-marriage-dalle.webp" >}}
+{{< img src = "/images/monk-marriage2.webp" >}}
 
 Image was created by AI DALL-E by OpenAI. All participants do not exist in real life.
 
