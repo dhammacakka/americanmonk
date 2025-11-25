@@ -68,6 +68,10 @@ In this Dhamma Talk, I speak of some advice my grandmother told my mother long a
 Exploring dhp 53 and the different aspects of making merit.
 {{< /video-card >}}
 
+{{< video-card id="Qy_h71a17Qo" title="The Power of Timing in Donations: With Real-life Donation Experiences" date="2024-02-04" >}}
+This Dhammatalk discusses the key elements of the Kāladāna Sutta in addition to three personal stories which might represent the effects of giving  donations at the right time.  Some of the stories can be found at my website at this particular webpage below: https://americanmonk.org/miracle-on-3-or-4-streets/
+{{< /video-card >}}
+
 {{< video-card id="GBgT6_rJ1bQ" title="Memorizing The Noble Eightfold Path" date="2021-11-12" >}}
 This video helps you memorize The Noble Eightfold Path.  It has come to my attention that many people who are seasoned Buddhists cannot recall all 8 factors of The Noble Eightfold Path, or do with ease.  Therefore, I have made a small video to help you memorize these ordered factors in English with ease.
 {{< /video-card >}}
