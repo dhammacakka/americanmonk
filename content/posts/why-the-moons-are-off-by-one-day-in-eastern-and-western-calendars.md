@@ -15,4 +15,5 @@ Why?
 
 Well... pick a place in the East, like Yangon and see when the full moon is.  Then pick a place in the far West like Honolulu and see when the full moon is.  Then you will see that the moons are moons anywhere in the world at one given time, and they do not pay attention to time zone differences.  For instance, the new moon is on October 12 in Honolulu, but October 13 in Yangon.  If you (from Hawaii) were to call someone in Myanmar on the phone in the afternoon of October 12, and asked them the date they would say it was October 13.  They would also say it was a full moon day.  That is why the Western or Eastern calendars are "off" by one day.
 
-Below is a sun chart: [![timeanddatesun](/images/timeanddatesun.webp" >}}](/images/2015/10/timeanddatesun.webp" >}}
+
+{{<img src="/images/timeanddatesun.webp">}}

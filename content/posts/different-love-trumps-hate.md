@@ -16,9 +16,10 @@ authors:
 featured_image: /images/pexels-photo-13918.webp
 ---
 
-[![pexels-photo-13918](/images/pexels-photo-13918.webp" >}}](/images/2016/07/pexels-photo-13918.webp" >}}
 
-[![hatredlove](/images/hatredlove.webp" >}}](/images/2016/07/hatredlove.webp" >}}
+{{< img src = "/images/pexels-photo-13918.webp" >}}
+{{< img src = "/images/hatredlove.webp" >}}
+
 
 This video clip below came my way and I would hate to say that not only is this guy is correct right near the end of his talk, but he is expressing the same thoughts as the Buddha and myself...well, at least the last part. This link will skip over to 3 minutes 38 seconds. Remainder running time is about 2 minutes.  **NOTE**: There is more I say below after this video: https://www.youtube.com/watch?v=CceQISThDYQ#t=3m38s
 

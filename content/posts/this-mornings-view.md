@@ -8,6 +8,5 @@ authors:
 featured_image: /images/20150807_064958.webp
 ---
 
+{{<img src = "/images/20150807_064958.webp">}}
 My view this morning after chanting and meditation.
-
-[![20150807_064958](/images/20150807_064958.webp" >}}](/images/2015/08/20150807_064958.webp" >}}

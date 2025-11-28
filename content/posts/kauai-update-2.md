@@ -39,5 +39,4 @@ That is mostly all to report! Aloha!
 Bhikkhu Subhuti
 
 Picture: Another rainbow over the new place.
-
-[![noks farm rainbow](/images/noks-farm-rainbow.webp" >}}](/images/2015/09/noks-farm-rainbow.webp" >}}
+{{< img src = "/images/noks-farm-rainbow.webp" >}}

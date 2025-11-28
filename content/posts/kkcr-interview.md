@@ -17,6 +17,8 @@ authors:
 featured_image: /images/Telecommunication-Tower-Wave-Radio-Broadcast-.webp
 ---
 
+{{< img src = "/images/Telecommunication-Tower-Wave-Radio-Broadcast-.webp" >}}
+
 ![Radio Tower ](/images/Telecommunication-Tower-Wave-Radio-Broadcast--273x300.webp" >}}
 
 Here is the link to the 2015 KKCR radio show. We were interviewed on Kauai Community Radio for about one hour instead of the scheduled 20 minutes. We all had fun doing it.  It will give you a good taste of what we did on the island in 2015 and what I am doing now. I often enjoy revisiting this recording, and I hope you do too.

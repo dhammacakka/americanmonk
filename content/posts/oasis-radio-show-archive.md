@@ -8,8 +8,9 @@ authors:
 featured_image: /images/oasis-radio.webp
 ---
 
-[![oasis radio](/images/oasis-radio.webp" >}}](/images/2015/11/oasis-radio.webp" >}}
+{{< img src = "/images/oasis-radio.webp" >}}
 
+{{< archiveorg id="oasis111518-2" >}}
 Easy but Low quality download and playback here (interview only, no music)
 
 Please try [https://archive.org/details/oasis111518-2](https://archive.org/details/oasis111518-2)

@@ -5,21 +5,24 @@ categories:
   - kauai
 authors:
   - bksubhuti
-featured_image: /images/IMG_20150627_132010.webp
+featured_image: /images/meditation-hut-kauai.webp
 tags:
   - chanting
 ---
-{{< img src="/images/IMG_20150627_132010.webp" >}}
+
+
 
  Where we chant and where I often meditate at "The Sanctuary" grounds where we live in Kauai.
 
 
 {{< img src="/images/meditation-hut-kauai.webp" >}}
 Where we meditate
+{{<img src="/images/IMG_20150627_13112721.webp">}}
+Behind where we meditate
 
+             
+{{< img src="/images/ourhouse-sanctuary-kauai.webp" >}}
 Where we live
-{{< img src="ourhouse-sanctuary-kauai.webp" >}}
-
 
 
 

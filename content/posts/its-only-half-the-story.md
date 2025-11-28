@@ -9,6 +9,8 @@ authors:
 featured_image: /images/fb-bless-kilauea.webp
 ---
 
+{{< img src = "/images/fb-bless-kilauea.webp" >}}
+
 Yesterday, I had spoken about how someone took our pictures and who said something like, "I just wanted to tell you (her hand was now over her heart) how much ...what you do means to me. I really want to thank you for what you are doing!"
 
 She drove off in her electric car that sounded like a vacuum cleaner. A few moments later, the same vacuum cleaner showed up again, and then she asked if she could take our picture. We said, "No problem." And then she did not hear us correctly, so we needed to repeat that it was OK. We posed for her, but she asked us to turn around so she could snap a picture of us in action. So, we turned around and started wishing loving kindness to the same house again. Loving kindness has no limits.
@@ -25,4 +27,5 @@ In the end, it is not so bad if they only get half of a story.
 
 With loving kindness, Bhikkhu Subhuti
 
-[![fb bless kilauea](/images/fb-bless-kilauea.webp" >}}](/images/2015/11/fb-bless-kilauea.webp" >}}
+
+{{< img src = "/images/fb-bless-kilauea.webp" >}}

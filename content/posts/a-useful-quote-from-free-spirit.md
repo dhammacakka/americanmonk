@@ -11,37 +11,8 @@ featured_image: /images/freespirit01.webp
 
 [![freespirit~01](/images/freespirit01.webp" >}}](/images/2015/10/freespirit01.webp" >}}
 
- 
+{{< img src ="/images/freespirit01.webp">}}
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 We spend almost an hour at the library on Tuesdays when we wait for the Thai Restaurant to open. Ven. Dewananda signed this book out of the library called, "Free Spirit." I was curious since "Free Spirit" was the name of my family's sailboat when I was a kid.  While I was flicking through the book, which by the way was well written, I came across this quote that struck me.  I snapped a picture of it.
 
