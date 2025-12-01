@@ -6,6 +6,7 @@ authors:
 featured_image: /images/IMG_20150705_1524412.webp
 ---
 
+{{<img src="/images/IMG_20150705_1524412.webp">}}
 Our kuti in Kilauea, Kauai.
 
 

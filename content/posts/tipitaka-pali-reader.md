@@ -79,8 +79,8 @@ Dictionary
 
 ## User Interface Diagram:
 
-![This image has an empty alt attribute; its file name is TPR-MainScreen-1024x500.webp](/images/TPR-MainScreen-1024x500.webp" >}}
 
+{{<img src = "/images/TPR-MainScreen-1024x500.webp">}}
 ## Multiview, Hide/Show, and Expand/Shrink Panel
 
 {{< img src = "/images/multiview3.gif" >}}

@@ -9,7 +9,7 @@ authors:
 featured_image: /images/some-wish-for-peace.webp
 ---
 
-# [![some-wish-for-peace](/images/some-wish-for-peace.webp" >}}](/images/2015/11/some-wish-for-peace.webp" >}}
+{{< img src="/images/some-wish-for-peace.webp" >}}
 
 # Some wish for peace, I did something (story below)
 

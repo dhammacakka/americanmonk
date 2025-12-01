@@ -13,7 +13,7 @@ authors:
 featured_image: /images/Thumbnail-finger.webp
 ---
 
-![Thumbnail](/images/Thumbnail-finger.webp" >}}
+{{<img src ="/images/Thumbnail-finger.webp" >}}
 
 Last week I taught Fingernail Meditation. This is where one uses the fingernail(s) as a subject of meditation. Although this has probably never been taught before by anyone as a standalone meditation subject, it is a subsection of a meditation instruction that all monks are given on their ordination day. That is called, _"The First Five Body Parts,"_ Yes, it is that well known, but rarely ever or even never taught. However, you might think, "Only a subsection, why not practice the whole thing?"
 

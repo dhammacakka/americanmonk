@@ -12,7 +12,8 @@ authors:
 featured_image: /images/television-144961_1280.webp
 ---
 
-[![television-144961_1280](/images/television-144961_1280.webp" >}}](/images/2016/11/television-144961_1280.webp" >}}
+
+{{<img src = "/images/television-144961_1280.webp">}}
 
 I remember when I moved into my new place in Old Greenwich, CT. It was a duplex house and I had the bottom floor. I was within a Frisbee throw into the heart of the charming Old Greenwich village.. (not to be confused with “The Village” of Manhattan). I was also near the train station which would take me to Manhattan if I wanted. I could run to the beach park and back as part of my 4 mile exercise route. It was a nice place, I could afford it, and things were going well as far as lay people are concerned during my life back then.
 
@@ -66,7 +67,6 @@ When I look back and analyze what came over me to want to become a monk, I think
 
 I believed that there has got to be more to life than “this” and “this” was the normality of life. “Normal People” do not question if there is more to life than this. If you have asked this question, then maybe becoming a monk was a flash in your mind. If you think about that question long enough, a tipping point occurs. Sure, people want “more”, but more or less it is just “more” of the same worldly life. You do not get a chance to realize that until you become wealthy. I could have bought more or less anything I wanted, but it just wasn't my thing to do. So when I asked the “There has got to be more to life than this?”, it was not the normal stuff which has no end to it. Normal people do not wish to become monks and it is even more abnormal to follow through and become one. The normal people in the 90’s had televisions and I chose not to have one. I saw the danger early on when I was in school. It was probably the best lesson I had learned.
 
- 
 
 \*With some research, I got only 90% of the car commercial right. Nobody's perfect.  However, there are several of these logged into youtube and perhaps the one I saw and remember was left out...  You can follow this link here: [https://www.youtube.com/watch?v=71W2pzmBuCg](https://www.youtube.com/watch?v=71W2pzmBuCg)
 

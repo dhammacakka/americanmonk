@@ -12,9 +12,11 @@ tags:
   - yangon
 authors: 
   - bksubhuti
+featured_image: /images/malahand.resized.webp
+
 ---
 
-[![Mala in Hand](/images/malahand.resized.webp" >}}](/images/2016/06/malahand.resized.webp" >}}
+{{<img src="/images/malahand.resized.webp" >}}
 
 The benefits of “Faith piṇḍapata”. This is a term that I learned either in Abhayagiri, Ca, or Wat Pah Nanachat or both. Probably brought to the West from Ajahn Pasanno who is/was the abbot of both. This means that when you go on alms, you make a determination to only eat the alms food you collect. When you do something like this (and I am not sooo perfect when I follow these things), you can learn a lot about yourself and the real Buddhist teachings. (Note: It is often not good to write about ascetic practices. However, I write about my life as a way to teach about Buddhism.)
 

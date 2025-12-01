@@ -17,7 +17,7 @@ authors:
 featured_image: /images/fetus.webp
 ---
 
-[![fetus](/images/fetus.webp" >}}](/images/2016/12/fetus.webp" >}}
+{{<img src="/images/fetus.webp">}}
 
 What do Theravada Buddhists believe in terms of abortion? Much of what has been written are liberal beliefs and overturning what is written down in the texts. They claim “Modern Buddhism” as a section heading, but there is no such thing as “Modern Buddhism” since there is no such thing as “Modern Kamma.” The rules of kamma do not change over time, and abortion has been around since the time of the Buddha. My job is not to make decisions or advice for others, but to give a “pure” classical Buddhist explanation on abortion.
 

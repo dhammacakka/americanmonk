@@ -29,7 +29,7 @@ So today, Tuesday, Dec 8th, was the last day. My monastic friend either had to e
 
 I stopped by his kuti this morning after eating my breakfast to see _if he had eaten yet_. However, all the food was in front of the Buddha like all of the other days. He was leading the chanting, with a few other monks, to the Buddha and I didn't want to play the game and decided to leave. I went back to my kuti and sent a text message to him by Viber and went about my morning business and meditation.
 
-![A story about a monk who refused to eat.](/images/better-eat-edited.webp" >}}
+{{<img src = "/images/better-eat-edited.webp">}}
 
 After lunch I stopped by his kuti again and I could hear laughing and loud talking as I was going up the concrete steps. I gave a quick double knock and then opened the door myself. My friend was still eating.
 

@@ -10,7 +10,9 @@ authors:
 featured_image: /images/hang-glider.webp
 ---
 
-[![hang-glider](/images/hang-glider.webp" >}}](/images/2016/09/hang-glider.webp" >}} Below is a Wrigley’s TV commercial from the 80s which started my lifelong dream to hang-glide and a genuine excuse to get educated.  Whenever I saw this commercial as a child, my jaw was to the floor.  It was something I had always wanted to do. Thanks to youtube, I can trace it all back.
+{{< img src="/images/hang-glider.webp" >}}
+
+ Below is a Wrigley’s TV commercial from the 80s which started my lifelong dream to hang-glide and a genuine excuse to get educated.  Whenever I saw this commercial as a child, my jaw was to the floor.  It was something I had always wanted to do. Thanks to youtube, I can trace it all back.
 
 {{< youtube fJ87pBjQt0k >}}
 

@@ -84,11 +84,9 @@ It is common for monks to shave without a mirror. One can justify if it is a hea
 
 The razors that we use vary. In Myanmar, we often use the single double sided blades. They are quite old fashioned and might be a bit odd for you. But that is the most commonly used razor from monks. The razor normally comes with two safety bars that go over the razor's edges to protect one from "accidents". We normally cut one of the safety edges off so that it does not clog when shaving growth that is long. We often refer to it as the dangerous side and the safety side (!) When a new candidate is getting his head shaved, we need to use the dangerous side. Otherwise, the blade will clog up. After the initial ordination shave, he can use the safety side if he doesn't let his hair and beard grow so much.
 
-{{< img src = "/images/razor1-1024x768.webp" >}}
-
 {{< img src = "/images/razorapart.webp" >}}
 
-![shaving brush](/images/shaving-brush.webp" >}}
+{{< img src = "/images/shaving-brush.webp" >}}
 
 American Kusaladhamma holding his kit in the center picture.
 

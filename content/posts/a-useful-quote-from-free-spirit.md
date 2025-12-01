@@ -9,7 +9,6 @@ authors:
 featured_image: /images/freespirit01.webp
 ---
 
-[![freespirit~01](/images/freespirit01.webp" >}}](/images/2015/10/freespirit01.webp" >}}
 
 {{< img src ="/images/freespirit01.webp">}}
 

@@ -57,13 +57,9 @@ Ironically, this practice does not take place in Sri Lanka where we chant these 
 - For more information on Thingyan water festival you can follow this link at Wikipedia [https://en.wikipedia.org/wiki/Thingyan](https://en.wikipedia.org/wiki/Thingyan)
 - You can also find many pictures at [Google Thingyan Pictures](https://www.google.com/search?q=thingyan&newwindow=1&safe=active&client=opera&hs=edH&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiMudD1jYvMAhVCk5QKHU63BTwQ_AUICCgC&biw=1366&bih=620)
 
-[![FeedBurner](/images/FeedBurner.webp" >}}](/images/2015/08/FeedBurner.webp" >}}
 
 You can get formatted html posts sent directly to your email inbox.  Feed Burner is run by Google and makes it safe and easy to subscribe.  Simply enter your email address and hit the Subscribe button. After you verify that you are you, you will be notified by email for all new posts.
 
-### Email Subscription
-
-Email SubscriptionSubscribe
 
 Picture Credits:
 
