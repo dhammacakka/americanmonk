@@ -5,34 +5,46 @@ categories:
   - interesting-things
 tags: 
   - audio
-  - pronounciation
+  - pronunciation
   - theravada
 authors: 
   - bksubhuti
 featured_image: /images/theravada.webp
 ---
 
-# {{< img src = "/images/theravada-300x151.webp" >}}
+{{< img src="/images/theravada-300x151.webp" >}}
 
 # How to Pronounce Theravāda
 
-Have you ever wondered if you were pronouncing Theravāda correctly? Read this article to find out how to properly pronounce Theravāda.
+Have you ever wondered if you were pronouncing **Theravāda** correctly? Read this article to find out how to properly pronounce it.
 
-Most of the resources out on the web mispronounce the word Theravāda, and Google has failed me when I did a search too. However, it was a good excuse to write this small article. The "Th" sound in Theravāda is not the English "Th" like "Them" or "Think." It is a "T" sound with a puff of air. It is phonetically called an "Aspirated-T". Sometimes the word that is given as an example is "Tough." If it sounds, complicated, don't worry, because most Americans actually aspirate their T's anyway. Just make the beginning of the word with a single "T" and you will fake it better than most.
+Most resources on the web mispronounce *Theravāda*, and even Google failed me when I searched. The “Th” sound is **not** like the English “them” or “think.” It is simply a **T with a puff of air**—an aspirated T. If that sounds complicated, don’t worry. Many Americans already aspirate their T’s naturally. Begin the word with a crisp “T” and you’ll do better than most.
 
-To confuse you even more, the "V" sound sometimes gets a German sounding "W". That means it is somewhere in between.  Many Southeastern countries also transliterate it into a "W"
+To confuse you further, the **V** often leans toward a soft **W** sound, something between the two. Many Southeast Asian countries even transliterate it with a W.
 
-You might notice that I spelled Theravāda with a diacritical mark on the last vowel. That means it is just a little bit stronger and longer. It gets two beats when set in meter and all vowels in Pāḷi are pronounced with a Latin sounding vowels. So "A" will sound like "Ah" and "E" gets the same sound as "Hey." The "E" also gets two beats as well.
+You’ll also notice the diacritical mark on the final vowel. That ā is longer—two beats in meter. All Pāḷi vowels are Latin-style vowels:  
+- **A** sounds like *ah*  
+- **E** sounds like *hey*  
+And **E** also gets two beats.
 
-According to meter syntax, it will look like this:
+In meter, it looks like this:
 
-> # **−⏑−⏑**
+> **−⏑−⏑**
 
-So you would pronounce it like this "Te-Rah-Waah-Dah"  
-In the Sri Lanka, they would have "uh" sound for the final "a." It is pronounced like "Duh" when you feel like some is not up to par in intelligence. Therefore, "Te-Rah-Waah-Duh"
+So you would pronounce it: **Te-Rah-Waah-Dah**.  
+In Sri Lanka, the final “a” becomes more like “uh,” as in “duh,” so you get: **Te-Rah-Waah-Duh**.
 
-If you want to be really cool, you can add a puff of air on the first syllable starting with "T".  Try to sound like an attractive lady and you'll get the sound right.
+If you want to be really cool, you can add the slight puff of air on the first T—almost like an elegant lady gently aspirating the sound:
 
->  "T-he-Rah-Waah-Duh"
+> “T-he-Rah-Waah-Duh”
 
-Below is a recording by [Venerable Anandajoti](http://ancient-buddhist-texts.net) who prefers a stronger sounding "V" than myself, but that is because I have spent more than 10 years in Myanmar..
+Below is a recording by Venerable Anandajoti, who pronounces the V stronger than I do—likely because I spent more than 10 years in Myanmar.
+
+---
+
+## ▶️ Listen to the Pronunciation
+
+<audio controls>
+  <source src="/theravada.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
