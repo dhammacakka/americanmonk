@@ -45,6 +45,6 @@ Below is a recording by Venerable Anandajoti, who pronounces the V stronger than
 ## ▶️ Listen to the Pronunciation
 
 <audio controls>
-  <source src="/theravada.mp3" type="audio/mpeg">
+  <source src="/Theravada.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
