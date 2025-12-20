@@ -20,9 +20,12 @@ featured_image: /images/Going-for-broke-cover.webp
 
 [Download PDF](https://americanmonk.org/going-for-broke-travelogs-on-becoming-a-buddhist-monk.pdf)
 
-[Listen to Audiobook](https://archive.org/details/17GoingForBrokeTravelogsOnBecomingABuddhistMonk)
+[Dowonload Audiobook](https://archive.org/download/17GoingForBrokeTravelogsOnBecomingABuddhistMonk/Going%20For%20Broke.m4b)
 
-
+<audio controls preload="metadata">
+  <source src="https://archive.org/download/17GoingForBrokeTravelogsOnBecomingABuddhistMonk/Going%20For%20Broke.m4b" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 _Going For Broke: Travelogs On Becoming a Buddhist Monk_ is a compilation of travel stories.  It is an anonymously written book about a lay person who quit his job in order to travel the world and then become a Buddhist Monk.  Most people either love it and read it in a few days or never finish it.
 
