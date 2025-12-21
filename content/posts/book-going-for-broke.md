@@ -20,7 +20,7 @@ featured_image: /images/Going-for-broke-cover.webp
 
 [Download PDF](https://americanmonk.org/going-for-broke-travelogs-on-becoming-a-buddhist-monk.pdf)
 
-[Dowonload Audiobook](https://archive.org/download/17GoingForBrokeTravelogsOnBecomingABuddhistMonk/Going%20For%20Broke.m4b)
+# Download Audio book [here:](https://archive.org/download/17GoingForBrokeTravelogsOnBecomingABuddhistMonk/Going%20For%20Broke.m4b)
 
 <audio controls preload="metadata">
   <source src="https://archive.org/download/17GoingForBrokeTravelogsOnBecomingABuddhistMonk/Going%20For%20Broke.m4b" type="audio/mp4">
