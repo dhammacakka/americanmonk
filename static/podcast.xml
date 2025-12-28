@@ -35,6 +35,20 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>Protect Your Trunk</title>
+      <description>Bhante Subhūti delivers a Dhamma talk on the importance of refraining from deliberate lying (musāvāda), drawing from Majjhima Nikāya 61. The discourse uses the metaphor of an elephant protecting its trunk in battle to illustrate the Buddha's instruction to Venerable Rāhula on safeguarding truthfulness as a core aspect of sīla (morality) and the precepts.</description>
+      <link>https://archive.org/details/elephant_trunk_landscape</link>
+      <guid isPermaLink="true">https://archive.org/details/elephant_trunk_landscape</guid>
+      <enclosure url="https://ia600203.us.archive.org/20/items/elephant_trunk_landscape/elephant_trunk_portrait.mp3"
+                 length="11600000"
+                 type="audio/mpeg"/>
+      <pubDate>Sat, 27 Dec 2025 12:00:00 GMT</pubDate>
+      <itunes:duration>00:12:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ia600203.us.archive.org/20/items/elephant_trunk_landscape/protect_trunk_itemimage.jpg"/>
+      <itunes:keywords>elephant trunk, rāhula, lying, musāvāda, precepts, sīla, majjhima nikāya, theravāda, dhamma</itunes:keywords>
+    </item>
+    <item>
       <title>Why Is Halloween Bad According to Theravāda Buddhism?</title>
       <description>Bhante Subhūti explains why Halloween is considered unwholesome in Theravāda Buddhism, showing how dressing up and acting can create future kamma and influence rebirth. He also shares how the power of mettā can truly protect one from fear and spirits.</description>
       <link>https://americanmonk.org/why-is-halloween-bad-according-to-theravada-buddhism/</link>
