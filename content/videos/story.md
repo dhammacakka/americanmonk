@@ -8,6 +8,10 @@ title: "Stories Videos"
 In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of reconnecting with my first meditation teacher after nearly two decades. The focus is on the seeds of kamma that we plant continuously through our actions. What kind of seeds are we planting right now?
 {{< /video-card >}}
 
+{{< video-card id="Iq7LED3zIJo" title="Planting Wisdom:  Reflections on the Cūḷakammavibhaṅga Sutta and a Meditation Journey" date="2024-02-11" >}}
+In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of reconnecting with my first meditation teacher after nearly two decades. The focus is on the seeds of kamma that we plant continuously through our actions. What kind of seeds are we planting right now?
+{{< /video-card >}}
+
 {{< video-card id="c2JQjhwdsxA" title="How I Got Permission To Ordain From My Parents" date="2024-01-23" >}}
 Here I tell the story about how I got permission to ordain.  It was not easy.
 {{< /video-card >}}
