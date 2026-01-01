@@ -6,7 +6,7 @@ description: "From MN 61: when shame over deliberate lying is gone, there is no 
 authors:
   - bksubhuti
 image: "/images/elephant_battle.png"
-featured_image: "/images/elephant_battle.png"
+featured_image: "/images/elephant_battle.webp"
 ---
 
 The Buddha said to Rāhula in the **Ambaṭṭhika Rāhulovāda Sutta**:
