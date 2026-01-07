@@ -87,12 +87,12 @@ The most common scenario is a monk receiving an envelope of cash after a Dhamma 
 Why?
 
 ### The “Duberstein” Test
-The Supreme Court case *Commissioner v. Duberstein (1960)* defines a gift as one arising from **“detached and disinterested generosity.”**
+The Supreme Court case {{<extlink "https://supreme.justia.com/cases/federal/us/363/278/" "Commissioner v. Duberstein (1960)">}} defines a gift as one arising from **“detached and disinterested generosity.”**
 
 If a transfer arises from **moral obligation**, **religious duty**, or **anticipated benefit**, it is **taxable income**.
 
 ### The Clergy Precedent: *Goodwin*
-Although the “Duberstein” was about a business “offering” a car, the courts applied this landmark "gift" definition to clergy in *Goodwin v. United States (1995)*. In this case, Lloyd Goodwin, a pastor, argued that cash from congregants was a gift because he never asked. The court rejected this. The giving arose from a **religious duty to support him**. That made it **compensation**, not a gift.
+Although the “Duberstein” was about a business “offering” a car, the courts applied this landmark "gift" definition to clergy in {{<extlink "https://law.justia.com/cases/federal/district-courts/FSupp/870/265/1647632/" "Goodwin v. United States (1995)">}}. In this case, Lloyd Goodwin, a pastor, argued that cash from congregants was a gift because he never asked. The court rejected this. The giving arose from a **religious duty to support him**. That made it **compensation**, not a gift.
 
 ## Role-Based Support vs Personal Gifts
 Courts distinguish between support given because someone occupies a role (monk, priest, teacher) and gifts given out of personal affection or one-time generosity.
