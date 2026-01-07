@@ -29,7 +29,7 @@ Under U.S. law, many donations given to monks function as **taxable income**, ev
 The issue is not generosity, but **systems of support**. Understanding this protects both the monk and the Saṅgha from legal and ethical risk.
 
 ## Why Did I Research This?
-In all states that do not have Medicaid extension, one generally needs to show a MAGI (Modified Adjusted Gross Income) of **$17,000 to $18,000 per year** to comfortably qualify for the Affordable Care Act (ACA). This can be accomplished by reporting taxable benefits, which in some cases may include certain allowable requisites. During this research the question came up:
+In all states that do not have Medicaid extension, one generally needs to show a MAGI (Modified Adjusted Gross Income) of **$17,000 to $18,000 per year** to comfortably qualify (with a buffer) for the Affordable Care Act (ACA). This can be accomplished by reporting taxable benefits, which in some cases may include certain allowable requisites. During this research the question came up:
 
 > Is reporting allowable requisites or benefits optional, or is it required, and what about monks who directly receive money donations?
 
