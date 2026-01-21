@@ -19,7 +19,7 @@ This article is for general educational purposes only and is not legal or tax ad
 </p>
 
 ### Summary
-Under U.S. law, many donations given to monks function as **taxable income**, even when offered with faith and good intention. The key distinction is not *Vinaya intention*, but whether the support is **regular, role-based, and relied upon for livelihood**. Similar principles may also apply in countries such as Australia and the United Kingdom.
+Unless one has a vow of poverty and an "agent of the order" (which means one does not take money or even personal allowable requisites), then there are many tax laws to abide to.  Under U.S. law, many donations given to monks function as **taxable income**, even when offred as allowable requsiites. The key distinction is not *Vinaya intention*, but whether the support is **regular, role-based, and relied upon for livelihood**. Similar principles may also apply in countries such as Australia and the United Kingdom.
 
 * **Regular cash donations, stipends, allowable requisites and ongoing benefits** are generally treated as income and subject to Self-Employment tax.
 * **One-off, unsolicited personal gifts** may remain non-taxable when they are irregular, not relied upon, and not part of a support system.
