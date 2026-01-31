@@ -94,7 +94,7 @@ This is where the law and Kamma often disagree. If someone attacks you and you k
 * **Effort:** You strike back.
 * **Death:** Yes.
 
-**Judgement:** If the intention to kill arose during the defense, all 5 factors are complete. It is technically killing. However, the weight of the kamma may be lighter than murder because the object (the victim) is not innocent, but the act of breaking the precept remains.
+**Judgement:** If the intention to kill arose during the defense, all 5 factors are complete. It is technically killing. 
 
 If a person wished to fire a gun at another person's hand holding a gun in order to disarm him but accidentally shot him in the head, it would not matter about witnesses, and courts decisions.  We can look at the factors and know there was no intention to kill.  The kamma of killing is not complete.  Nevertheless, it is best to stay clear away from dangerous situations and not use a gun for any reason.
 
