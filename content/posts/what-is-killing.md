@@ -144,6 +144,35 @@ This is often debated on the grounds of "Is it a person?" or "I didn't know or b
 
 According to a {{<extlink "https://pubmed.ncbi.nlm.nih.gov/36629778/" "2018 study">}} by the University of Chicago (Jacobs), 96% of 5,577 academic biologists surveyed affirmed that a human's life begins at fertilization. This consensus exists regardless of their political or religious views. Therefore one should check his mind as to whether or not one perceives life, rather than a developed human. When one understands this, then the factor is complete.
 
+
+### What About Cats Killing Birds?
+
+People might ask, “What about cats that kill birds? Isn’t it their “nature” to kill and hunt?” Yes, it is their nature to kill and hunt. It is also their nature to accumulate unwholesome kamma and experience unwholesome results in the rounds of Saṃsāra. Saṃsāra is not fair and that is why the human birth is so rare. The Buddha told his monks this daily and that is why we chant these words everyday too.
+
+> **Bhikkhave, appamādena sampādetha,**  
+> “Bhikkhus, strive on with diligence!  
+>  
+> **Dullabho buddhuppādo lokasmiṃ,**  
+> Rare is the arising of a Buddha in the world.    
+>  
+> **Dullabho manussattapaṭilābho,**   
+> Rare is the acquisition of human birth.   
+>  
+> **Dullabhā sampatti,**   
+> Rare is the opportune fortune.  
+>  
+> **Dullabhā pabbajjā,**  
+> Rare is the Going Forth (ordination).  
+>  
+> **Dullabhaṃ saddhammassavana”nti.**  
+> Rare is the hearing of the True Dhamma.”  
+>
+> (Sīlakkhandhavaggaṭṭhakathā)
+
+Think of it like this. A person might be born into a family that commits lots of crimes and learns how to do crime from his parents. It is his bad kamma to be born in this family, he will suffer the consequences when he does unwholesome deeds. In another way, some cats are born into families that will keep them as “indoor cats” and feed them well with “already dead” food. The association with humans and abstaining from killing because there is no opportunity to kill, can cause a favorable birth in the next life.
+
+But often, they are attached to being who they are. There is a famous story of a queen who was born as a dung beetle and was quickly attached to her new life even though she was able to remember her old life as a queen. This is found in the {{<extlink "https://suttacentral.net/ja207/en/rouse" "Assaka Jataka (No. 207)">}}. In this story, King Assaka is mourning his wife, Queen Ubbari. An ascetic (the Bodhisatta) shows the King that she has been reborn as a dung beetle. When the King speaks to her, she tells him that while she loved him in her past life, she now prefers her dung beetle husband and the pile of dung! This illustrates how powerful attachment to one's "nature" can be, regardless of how high or low the birth is.
+
 # Conclusion
 In Buddhism, "Killing" is defined by the technical mechanics of the mind along with the 5 factors, and not by social laws. While the courts might forgive someone for something that counts as self defence, kamma does not forgive.  While the courts might put someone in jail for manslaughter, kamma does not count this as killing while negligent behavior is kamma for something else.  The unwholesome Kamma of killing is complete only if Five Factors are present as we repeatedly discussed.
 
