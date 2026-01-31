@@ -90,7 +90,7 @@ This is where the law and Kamma often disagree. If someone attacks you and you k
 
 * **Living Being:** Yes (The attacker).
 * **Perception:** You know they are alive.
-* **Mind bent on killing:** **This is the trap.** If, in the heat of the moment, your mind says "I must kill him to stop him," or you strike with a lethal intent—even for a split second—this factor is fulfilled.
+* **Mind bent on killing:** If, in the heat of the moment, your mind says "I must kill him to stop him," or you strike with a lethal intent—even for a split second—this factor is fulfilled.
 * **Effort:** You strike back.
 * **Death:** Yes.
 
@@ -104,11 +104,11 @@ For example, you are driving a car, you look down at your phone, and you acciden
 
 * **Living Being:** Yes.
 * **Perception:** You knew people were around (or maybe not).
-* **Mind bent on killing:** **NO.** You did not intend to kill anyone. You were negligent, perhaps reckless, but there was no *Vadhacitta* (mind bent on killing).
+* **Mind bent on killing:** **NO.** You did not intend to kill anyone. You were negligent, maybe reckless, but there was no *Vadhacitta* (mind bent on killing).
 * **Effort:** You were driving, but not with lethal effort directed at a being.
 * **Death:** Yes.
 
-**Result:** Because Factor 3 (Intention) is missing and perhaps perception, this is **NOT** a completed course of Killing Kamma because all 5 factors were not present. Even if there was perception at a final moment, there would still not be the intention to kill. It is still not killing. It may be bad kamma of negligence, you might go to jail for this, but it is not *Pāṇātipātā*.
+**Result:** Because Factor 3 (Intention) is missing and perhaps perception, this is **not** a completed kamma of Killing  because all 5 factors were not present. Even if there was perception at a final moment, there would still not be the intention to kill. It is still not killing. It may be bad kamma of negligence, you might go to jail for this, but it is not *Pāṇātipātā*.
 
 # 4. Mercy Killing (Euthanasia)
 
@@ -120,7 +120,7 @@ A doctor administers a drug to end the suffering of a terminal patient.
 * **Effort:** Administering the injection.
 * **Death:** The patient dies.
 
-**Result:** All 5 factors are present. The Law of Kamma does not have a "compassion exemption" for the act of killing. The intention to destroy the life faculty makes it a broken precept.
+**Result:** All 5 factors are present. The Law of Kamma does not have a "compassion exemption" for the act of killing. The intention to destroy the life faculty makes it a broken precept.  
 
 Veterinarians need to be careful when they “put dogs to sleep.” We usually have “nice” words for these actions, but they are not really nice if all factors are there. Why? Well, during the moment before, one might have compassion, but if one really looks at the mind during the act of killing. There is no longer a wholesome mind. There is an unwholesome mind. If you have ever killed an ant that you accidentally damaged, thinking “I will save him from suffering”, then you can replay the video tape in slow motion and see for yourself. Play it back and forth slowly until you hit the right frame. You will see there is not a wholesome frame of mind.
 
@@ -131,7 +131,7 @@ It should be noted that the Third Pārājika (offence entailing defeat) was crea
 This is often debated on the grounds of "Is it a person?" or "I didn't know or believe it was a human." Here in Buddhism, we have a different take on this than the rest of the world. In order for the kamma to be complete, one only needs to believe that it is a living being, or simply recognize that there is “life”. The stages of development, or the perceived ability to feel pain does not matter. Only the five factors matter for the kamma to be complete.
 
 * **Living Being:** Yes. (Biologically, it is life, *Pāṇo*).
-* **Perception:** **The Critical Factor.** People argue, "I didn't perceive it as a human." However, the factor is *Pāṇasaññitā*—perceiving it as a living thing. If you acknowledge it is biologically alive (more than a plant), this factor is met.
+* **Perception:** People argue, "I didn't perceive it as a human." However, the factor is *Pāṇasaññitā*—perceiving it as a living thing. If you acknowledge it is biologically alive (more than a plant), this factor is met.
     
     The Vinaya Commentary gives a warning about 'Mistaken Perception' with the story of the **'Fourfold Case of the Goat'** (*Eḷakacatukka*). A man sees a shape in the dark and marks it, thinking, 'That is a goat. I will kill it tonight.' He returns at night and strikes, perceiving it to be the goat. But he kills his own mother. He thought 'Animal.' He killed 'Human.' The intention was to kill a being, and the result was the death of a human. The Commentary further states that because he intended to kill a being, and he killed a human and even his mother, the Kamma follows the reality of who was actually killed. He bears the heavy kamma of killing a human, especially that of his mother.
     
@@ -142,7 +142,7 @@ This is often debated on the grounds of "Is it a person?" or "I didn't know or b
 
 **Result:** Even if one believes it is just a living "something," if it is a human life in reality, and the 5 factors are fulfilled, the Kamma is that of killing a human.
 
-According to a {{<extlink "https://pubmed.ncbi.nlm.nih.gov/36629778/" "2018 study">}} by the University of Chicago (Jacobs), 96% of 5,577 academic biologists surveyed affirmed that a human's life begins at fertilization. This consensus exists regardless of their political or religious views. Therefore one should check his mind as to whether or not one perceives life, rather than a developed human. When one understands this, then the factor is complete.
+According to a {{<extlink "https://pubmed.ncbi.nlm.nih.gov/36629778/" "2018 study">}} by the University of Chicago (Jacobs), 96% of 5,577 academic biologists surveyed affirmed that a human's life begins at fertilization. This agreement exists regardless of their political or religious views. Therefore, one should check his mind as to whether or not one perceives life, rather than a developed human. When one understands this, then the factor is complete.
 
 
 ### What About Cats Killing Birds?
