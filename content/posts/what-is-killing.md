@@ -116,11 +116,13 @@ A doctor administers a drug to end the suffering of a terminal patient.
 
 * **Living Being:** Yes.
 * **Perception:** The doctor knows the patient is alive.
-* **Mind bent on killing:** **Yes.** The motivation is compassion (to end pain), but the means chosen is to end the life faculty. The specific intent is: "May this life cease."
+* **Mind bent on killing:** **Yes.** The motivation might be compassion (to end the pain), but it is still intent to end the life faculty. The specific intent is: "May this life cease."
 * **Effort:** Administering the injection.
 * **Death:** The patient dies.
 
 **Result:** All 5 factors are present. The Law of Kamma does not have a "compassion exemption" for the act of killing. The intention to destroy the life faculty makes it a broken precept.  
+
+ You might say "But he will die anyways because he is terminally ill.  Why would that be killing?"  Aren't we all going to die...eventually?  So even if one causes someone to die one minute or even one second before his natural death will occur, this still counts because all of the factors are there.  Go ahead and check the factors above.  
 
 Veterinarians need to be careful when they “put dogs to sleep.” We usually have “nice” words for these actions, but they are not really nice if all factors are there. Why? Well, during the moment before, one might have compassion, but if one really looks at the mind during the act of killing. There is no longer a wholesome mind. There is an unwholesome mind. If you have ever killed an ant that you accidentally damaged, thinking “I will save him from suffering”, then you can replay the video tape in slow motion and see for yourself. Play it back and forth slowly until you hit the right frame. You will see there is not a wholesome frame of mind.
 
