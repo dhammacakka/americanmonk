@@ -28,7 +28,7 @@ In Buddhism, "Killing" is defined by the technical mechanics of the mind, not by
 4. Effort: Making the attack.
 5. Result: The being dies.
 
-If all five are met, the precept is broken. This rule applies equally to Self-Defense, Euthanasia, and Abortion—Kamma judges the intention to destroy life, not the justification for doing so.
+If all five are met, the precept killing (pāṇātipāta) is broken. This rule applies equally to Self-Defense, Euthanasia, and Abortion—Kamma judges the intention to destroy life, not the justification for doing so.
 
 # The Five Precepts
 
