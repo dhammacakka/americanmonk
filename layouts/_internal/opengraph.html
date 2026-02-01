@@ -1,10 +1,23 @@
-{{ $image := .Params.featured_image | default .Params.image }}
-{{ $absImage := $image | absURL }}
+{{- /* 1. Determine the Image Source (Priority: Featured -> Page Param -> Site Default) */ -}}
+{{- $image := .Params.featured_image | default .Params.image -}}
+
+{{- if not $image -}}
+  {{- /* Safety Net: If no specific image, use the global default from config.toml */ -}}
+  {{- $image = index .Site.Params.images 0 -}}
+{{- end -}}
+
+{{- /* 2. Determine Page Type (Website for home, Article for posts) */ -}}
+{{- $type := "website" -}}
+{{- if .IsPage -}}
+  {{- $type = "article" -}}
+{{- end -}}
 
 <meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
-<meta property="og:type" content="article">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta property="og:type" content="{{ $type }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{ if $absImage }}
-<meta property="og:image" content="{{ $absImage }}">
-{{ end }}
+
+{{- /* 3. Output the Image (Must be Absolute URL) */ -}}
+{{- if $image -}}
+  <meta property="og:image" content="{{ $image | absURL }}">
+{{- end -}}
