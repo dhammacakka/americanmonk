@@ -35,6 +35,18 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>What Is Killing Landscape</title>
+      <description>In Buddhism, “Killing” is defined by the technical mechanics of the mind, not by social laws. The unwholesome Kamma is complete only if five factors are present. This talk explores the deeper meaning of killing in relation to landscapes, nature, intention, and Theravāda teachings.</description>
+      <link>https://americanmonk.org/</link>
+      <guid isPermaLink="false">what-is-killing-landscape</guid>
+      <pubDate>Wed, 04 Feb 2026 10:30:00 +0530</pubDate>
+      <enclosure url="https://archive.org/download/what_is_killing_landscape/what_is_killing_landscape.mp3" length="0" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://archive.org/download/what_is_killing_landscape/What%20is%20Killing.jpg"/>
+      <itunes:author>Bhante Subhūti</itunes:author>
+    </item>
+    <item>
       <title>Protect Your Trunk</title>
       <description>Bhante Subhūti delivers a Dhamma talk on the importance of refraining from deliberate lying (musāvāda), drawing from Majjhima Nikāya 61. The discourse uses the metaphor of an elephant protecting its trunk in battle to illustrate the Buddha's instruction to Venerable Rāhula on safeguarding truthfulness as a core aspect of sīla (morality) and the precepts.</description>
       <link>https://archive.org/details/elephant_trunk_landscape</link>

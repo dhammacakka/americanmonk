@@ -71,7 +71,6 @@ enableRobotsTXT = true
   public = true # Set to false if the site should not be indexed
   private = false
   description = "Life with Buddha, Dhamma, Saṅgha "
-  images = ["/images/default-social-card.jpg"]
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = 'bg-maroon'
   recent_posts_number = 100
