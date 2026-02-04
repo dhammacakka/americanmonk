@@ -180,3 +180,5 @@ In Buddhism, "Killing" is defined by the technical mechanics of the mind along w
 
 This rule of five factors applies equally to murder, Self-Defense, Euthanasia, and Abortion, but not Manslaughter since there is no intention to kill.  Kamma has no judges.  It is based on a computational formula based on the intention to destroy life along with the other remaining four factors.  If all five factors are met, the precept is broken and the kamma is achieved.  The justification or emotion for doing so has no effect.  Kamma is not always fair.  For instance, in the case of the goat, the person knew he was killing a living being but didn't know he was killing a human.  He will suffer the consequences of the reality, even if it was his own mother.  The discussion on killing is mostly discussed in reference to humans, but it is also true for killing animals, fish or even insects.
 
+## YouTube Video
+{{<youtube 0h2TeVeIITI>}}
