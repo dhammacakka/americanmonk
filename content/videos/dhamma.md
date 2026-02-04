@@ -4,6 +4,10 @@ title: "Dhamma Videos"
 
 ## Dhamma Videos
 
+{{< video-card id="0h2TeVeIITI" title="What Is Killing:  First Precept" date="2026-02-04" >}}
+Here we talk about the first precept of killing. Summary: In Buddhism, “Killing” is defined by the technical mechanics of the mind, not by social laws. The unwholesome Kamma is complete only if Five Factors are present:  Presence: A Living Being. Perception: Knowing it is alive. Intention: A mind bent on killing. Effort: Making the attack. Result: The being dies. If all five are met, the precept killing (pāṇātipāta) is broken. This rule applies equally to Self-Defense, Euthanasia, and Abortion—Kamma judges the intention to destroy life, not the justification for doing so.
+{{< /video-card >}}
+
 {{< video-card id="K8b0lm4oW9M" title="Deliberate Lies, The Elephant's Trunk" date="2025-12-27" >}}
 The Buddha said to Rāhula in the Ambaṭṭhika Rāhulovāda Sutta:  Evameva kho, Rāhula, yassa kassaci sampajānamusāvāde natthi lajjā, nāhaṁ tassa kiñci pāpaṁ akaraṇīyanti vadāmi.  For one who has no shame in deliberate lying, I say there is no evil that person cannot do.  The Elephant’s Trunk The Buddha explained that an elephant always protects its trunk. The trunk is the last thing it will risk. But in ancient times, when elephants were trained for war, they were made to charge fully, without holding back, even exposing the trunk. Once that happens, there is no limit to what the elephant can destroy.  There Is No Limit It is the same with people. When someone tells a deliberate lie without any shame, it is like removing that last protection. After that, there is no evil they cannot do.  Evameva kho, Rāhula, yassa kassaci sampajānamusāvāde natthi lajjā, nāhaṁ tassa kiñci pāpaṁ akaraṇīyanti vadāmi.  For one who has no shame in deliberate lying, I say there is no evil that person cannot do.  Liar First, Killer Second Quite often, we see someone who commits a terrible murder. When he appears in court, he lies through his teeth, denying everything: “I’m innocent! I’m innocent!” When the truth comes out and the evidence is clear, we are shocked that he could lie so easily. We think, “If he can kill, then a lie is easy.” However, it is the other way around. He is a liar first, a killer second. The shameless deliberate lie opens the door to everything else.  Evameva kho, Rāhula, yassa kassaci sampajānamusāvāde natthi lajjā, nāhaṁ tassa kiñci pāpaṁ akaraṇīyanti vadāmi.  For one who has no shame in deliberate lying, I say there is no evil that person cannot do.  So please, always protect your trunk. Always speak the truth. It is very important.  Because when you lie deliberately without shame, there is no limit to the evil you can do.
 {{< /video-card >}}
@@ -78,21 +82,5 @@ This Dhammatalk discusses the key elements of the Kāladāna Sutta in addition t
 
 {{< video-card id="GBgT6_rJ1bQ" title="Memorizing The Noble Eightfold Path" date="2021-11-12" >}}
 This video helps you memorize The Noble Eightfold Path.  It has come to my attention that many people who are seasoned Buddhists cannot recall all 8 factors of The Noble Eightfold Path, or do with ease.  Therefore, I have made a small video to help you memorize these ordered factors in English with ease.
-{{< /video-card >}}
-
-{{< video-card id="b92H23kZAQg" title="The Difference Between Bodhisatva and Bodhisatta" date="2019-03-28" >}}
-Mahayana has a different definition of a  Bodhisatva than the Theravada Bodhisatta (Pali Language).  I explain this difference and I also emphasize that there is a Buddha Path in the Theravada School (also known as Hinayana).  However, because it is so difficult, it is not often encouraged.
-{{< /video-card >}}
-
-{{< video-card id="PmzGozPP9PI" title="Ukkamsa2017 pt3" date="2017-05-16" >}}
-Part 3 of Sayadaw U Ukkamsa's Dhamma talk on Vesak Day 2017.  Stories from the commentary related to the topic. Given in Maymyo Pa-Auk Center.
-{{< /video-card >}}
-
-{{< video-card id="657vsc2mMDU" title="Ukkamsa2017 pt2" date="2017-05-15" >}}
-Part 2 of Sayadaw U Ukkamsa's Dhamma talk on Vesak Day 2017.  The second part
-{{< /video-card >}}
-
-{{< video-card id="NZAf4MSPz54" title="Ukkamsa2017 pt1" date="2017-05-15" >}}
-Part 1 of Sayadaw U Ukkamsa's Dhamma talk on Vesak Day 2017.  The first part speaks about the 10 types of Kusala and Akusala Dhammas.
 {{< /video-card >}}
 

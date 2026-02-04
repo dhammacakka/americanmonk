@@ -28,11 +28,3 @@ Here is another \"Walk and Talk\" video and update.  Here, I talk about my progr
 This video explains both passive and aggressive methods for memorizing Pāḷi  with the Rote Method.  May you be successful in your learning and practice!
 {{< /video-card >}}
 
-{{< video-card id="uPV9NeQ4pK4" title="khandaHalf" date="2017-03-13" >}}
-Here is the latest from EkaSara (One Voice).  It is called Khanda Paritta.  It is half of the sutta that is found on the link below.  EkaSara plans to redo the previous chants in a similar style similar to this one and the others have been pulled from archive, except for the Metta English Mix.  https://archive.org/details/khanda-full_session .  This sutta is required to be chanted daily if the monks live in the forest.  Its main purpose is to prevent snake bites, but it includes all types of animals, 0-leg (snakes), 2 legs, 4 legs, and many legs (insects and centipedes).  It is a magic spell.  Where is the magic?  Loving-Kindness.   I usually ask which of these are the most dangerous.  Most people say snakes.  It is my belief that the  two legged creatures are some of the most dangerous animals on earth.   The text and translation are at http://www.ancient-buddhist-texts.net/Texts-and-Translations/Safeguard/01-Pathamakabhanavaram-10.htm
-{{< /video-card >}}
-
-{{< video-card id="aMpSVv2ZdvI" title="Spoken Metta Mix by One Voice (Ekasara)" date="2017-01-15" >}}
-This is a spoken English version of the Metta Sutta, mixed with the Pāi chanting of One Voice (EkaSara).  Enjoy!  You can see other titles from \"One Voice\" on this channel. You can download the audio  here https://archive.org/details/@bks07  Feedback welcome.
-{{< /video-card >}}
-

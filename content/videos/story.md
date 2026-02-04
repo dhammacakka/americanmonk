@@ -8,10 +8,6 @@ title: "Stories Videos"
 In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of reconnecting with my first meditation teacher after nearly two decades. The focus is on the seeds of kamma that we plant continuously through our actions. What kind of seeds are we planting right now?
 {{< /video-card >}}
 
-{{< video-card id="Iq7LED3zIJo" title="Planting Wisdom:  Reflections on the Cūḷakammavibhaṅga Sutta and a Meditation Journey" date="2024-02-11" >}}
-In this talk, I explore the Cūḷakammavibhaṅga Sutta and share the story of reconnecting with my first meditation teacher after nearly two decades. The focus is on the seeds of kamma that we plant continuously through our actions. What kind of seeds are we planting right now?
-{{< /video-card >}}
-
 {{< video-card id="c2JQjhwdsxA" title="How I Got Permission To Ordain From My Parents" date="2024-01-23" >}}
 Here I tell the story about how I got permission to ordain.  It was not easy.
 {{< /video-card >}}
@@ -26,9 +22,5 @@ This story is how I made the decision to become a Buddhist monk.  It is also cal
 
 {{< video-card id="lhizElsBbtI" title="Accused of Being Psychic" date="2021-12-18" >}}
 A small story about how someone accused me of being psychic.
-{{< /video-card >}}
-
-{{< video-card id="iSTu8j2urnY" title="Acapella Inertia" date="2019-06-15" >}}
-This is a story about a two people who fell in love. While they spontaneously started to dance outside of a Grateful Dead Show,, they found themselves dancing even after the music had stopped, hence the title \"A'capella Inertia\".  The story goes further to relate how meditation might be related to that experience.
 {{< /video-card >}}
 

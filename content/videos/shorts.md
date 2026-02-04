@@ -4,6 +4,10 @@ title: "Shorts Videos"
 
 ## Shorts Videos
 
+{{< video-card id="7Yk_wsYwx9c" title="Lie = No Limit To Evil" date="2026-01-04" >}}
+
+{{< /video-card >}}
+
 {{< video-card id="wCT1tiHJn0s" title="Buddhist Sun App" date="2025-11-24" >}}
 I’m very happy to announce a new update for the Buddhist Sun app on both the iOS App Store and Google Play Store!  For those who haven’t tried it yet, Buddhist Sun helps you keep track of solar noon, moon phases, uposatha days, and dawn rise—all calculated accurately using your GPS location. This is especially helpful for laypeople who observe the Eight Precepts, since the rule is to finish eating before true solar noon, not 12:00 PM on the clock. The app calculates this down to the minute.  There’s also a countdown timer so you can eat peacefully without guessing how much time is left.  The app was originally made for monks, since in the Buddha’s time there were no clocks and solar noon was judged by the shadow’s length. Now the app does all of that for you automatically—no calculations needed.  You’ll also receive optional notifications for upcoming uposatha days and moon days to support your practice.  I hope this update makes it even easier to follow the daily discipline and stay connected with the ancient way of marking time. May this be of benefit and help you progress toward Nibbāna.  Sādhu, sādhu, sādhu.  — Bhante Subhūti
 {{< /video-card >}}
@@ -48,19 +52,7 @@ How to know where Bodh Gaya Is? You can use the Buddhist Compass App. This will 
 It might be a mystery as to why the Earth Kasina was taught first in the great and ancient meditation manual called the Visuddhimagga.  Here, in this short video, you can see that we sometimes forget what it was like during the time of the Buddha.
 {{< /video-card >}}
 
-{{< video-card id="mCkLXxGJJu4" title="How to remove a leech the compassionate and safe way." date="2023-11-14" >}}
-How to remove a leech without harming the both of you.  it is best to flick them off when they are bunched up together, head to toe.  However he I did not use enough flick force because I was hold the phone, so he attached to my finger.  eventually I had to put down the phone and do the same process.
-{{< /video-card >}}
-
 {{< video-card id="HRGdqb-8qic" title="Pa-Auk Pouring Concrete" date="2020-08-19" >}}
 Workers are not with us during lock-down.  So it was time to pour concrete the old fashion way for the Junior Monks' Pathway under the new rain cover for rainy season.  This way the junior monks won't get wet after they collect their food.   The work is quite tiring.  I did some work shovelling rocks and I was completely tired after only one hour.  The work started after lunch and continued into the night until about 7:30 pm.  The nun doing the final pouring at the end of the fire-line is Daw Gunagavesi.  She is a Myanmar medical doctor and in charge of the kitchen staff.
-{{< /video-card >}}
-
-{{< video-card id="nzY1tVfVuFQ" title="birdseatingrice" date="2016-12-11" >}}
-Here is a video confirming that it is OK to feed birds uncooked rice on the topic of throwing rice at weddings.
-{{< /video-card >}}
-
-{{< video-card id="cwcKWhANc0I" title="Coolest Incense Holder" date="2016-07-09" >}}
-This shows how an incense holder made from a bottle.  No ash escapes.  Although it is probably safer than a normal holder, use with care at your own risk!
 {{< /video-card >}}
 
