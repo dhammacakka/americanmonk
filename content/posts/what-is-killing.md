@@ -15,7 +15,7 @@ tags:
     - teaching
 authors:
     - bksubhuti
-featured_image: /images/what_is_killing.webp
+featured_image: images/what_is_killing.webp
 description: Here we discuss the 5 factors need for the kamma of killing to be completed.
 ---
 
