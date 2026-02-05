@@ -1,15 +1,11 @@
 {{ `
 <script type="text/javascript" src="https://zcff-zgfl.maillist-manage.com/js/optin.min.js" onload="setupSF('sf3z1b5a9455682c3568e622c23cb918d4fb973ed6d4efe816ea7906ebe638b2edf3','ZCFORMVIEW',false,'light',false,'0')"></script>
-<script type="text/javascript">
-	function runOnFormSubmit_sf3z1b5a9455682c3568e622c23cb918d4fb973ed6d4efe816ea7906ebe638b2edf3(th){
-		/* Event trigger code can go here */
-	};
-</script>
 
 <style>
+/* Reset and Sidebar Scaling */
 #sf3z1b5a9455682c3568e622c23cb918d4fb973ed6d4efe816ea7906ebe638b2edf3 #customForm *:not(.dateClass){
     box-sizing: border-box !important;
-    word-break:break-word;
+    word-break: break-word;
 }
 #sf3z1b5a9455682c3568e622c23cb918d4fb973ed6d4efe816ea7906ebe638b2edf3 #signupMainDiv {
     width: 100% !important;
@@ -26,10 +22,13 @@
     display: block;
     margin-bottom: 5px;
     text-align: left !important;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
 }
-/* This ensures the Captcha doesn't break the sidebar layout */
+/* Re-scaling the Captcha for sidebars */
 #sf3z1b5a9455682c3568e622c23cb918d4fb973ed6d4efe816ea7906ebe638b2edf3 .recaptcha {
-    transform: scale(0.8);
+    transform: scale(0.75);
     transform-origin: 0 0;
 }
 </style>
@@ -37,26 +36,26 @@
 <div id="sf3z1b5a9455682c3568e622c23cb918d4fb973ed6d4efe816ea7906ebe638b2edf3" data-type="signupform">
     <div id="customForm" style="background-color: transparent;">
         <form method="POST" id="zcampaignOptinForm" action="https://zcff-zgfl.maillist-manage.com/weboptin.zc" target="_zcSignup">
-            <div id="SIGNUP_BODY_ALL" style="padding: 10px;">
-                <h2 style="font-size: 1.2rem; text-align: left; margin-bottom: 10px;">Join Our Mail List</h2>
+            <div id="SIGNUP_BODY_ALL" style="padding: 0px;">
+                <h2 style="font-size: 1.2rem; text-align: left; margin-bottom: 15px; font-family: Arial, sans-serif;">Join Our Mail List</h2>
                 <div id="SIGNUP_BODY">
                     <div class="zcsffieldsdiv">
                         <div style="padding: 5px 0;">
                             <label class="SIGNUP_FORM_LABEL">Email *</label>
                             <div class="zcinputbox">
-                                <input name="CONTACT_EMAIL" style="width:100%; height:35px; border:1px solid #ccc; padding:5px;" type="email" required>
+                                <input name="CONTACT_EMAIL" style="width:100%; height:35px; border:1px solid #ccc; padding:5px; font-size: 14px;" type="email" required>
                             </div>
                         </div>
                         <div style="padding: 5px 0;">
                             <label class="SIGNUP_FORM_LABEL">First Name</label>
                             <div class="zcinputbox">
-                                <input name="FIRSTNAME" style="width:100%; height:35px; border:1px solid #ccc; padding:5px;" type="text">
+                                <input name="FIRSTNAME" style="width:100%; height:35px; border:1px solid #ccc; padding:5px; font-size: 14px;" type="text">
                             </div>
                         </div>
                         <div style="padding: 5px 0;">
                             <label class="SIGNUP_FORM_LABEL">Last Name</label>
                             <div class="zcinputbox">
-                                <input name="LASTNAME" style="width:100%; height:35px; border:1px solid #ccc; padding:5px;" type="text">
+                                <input name="LASTNAME" style="width:100%; height:35px; border:1px solid #ccc; padding:5px; font-size: 14px;" type="text">
                             </div>
                         </div>
                     </div>
@@ -64,7 +63,7 @@
                     <div class="recaptcha" id="recapDiv"></div>
                     
                     <div style="padding: 20px 0; text-align: left;">
-                        <input type="button" action="Save" id="zcWebOptin" style="background-color: #8eb934; color: white; border: none; padding: 10px 20px; cursor: pointer; border-radius: 3px; width: 100%; font-weight: bold;" value="Join Now">
+                        <input type="button" action="Save" id="zcWebOptin" style="background-color: #bf0003; color: white; border: none; padding: 12px 20px; cursor: pointer; border-radius: 3px; width: 100%; font-weight: bold; font-size: 14px; transition: opacity 0.2s;" value="Join Now">
                     </div>
                 </div>
             </div>
