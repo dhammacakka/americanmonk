@@ -1,23 +1,19 @@
-{{- /* 1. Determine the Image Source (Priority: Featured -> Page Param -> Site Default) */ -}}
-{{- $image := .Params.featured_image | default .Params.image -}}
+{{- /* layouts/_internal/opengraph.html */ -}}
 
-{{- if not $image -}}
-  {{- /* Safety Net: If no specific image, use the global default from config.toml */ -}}
-  {{- $image = index .Site.Params.images 0 -}}
-{{- end -}}
+<div style="background:red; color:white; font-size:20px; padding:20px; position:fixed; top:0; left:0; z-index:9999; width:100%;">
+  <strong>DEBUGGING:</strong><br>
+  1. Am I a Page? {{ .IsPage }} <br>
+  2. My featured_image value: "{{ .Params.featured_image }}" <br>
+  3. My images value: "{{ .Params.images }}" <br>
+</div>
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
 
-{{- /* 2. Determine Page Type (Website for home, Article for posts) */ -}}
-{{- $type := "website" -}}
-{{- if .IsPage -}}
-  {{- $type = "article" -}}
-{{- end -}}
+{{- /* Logic */ -}}
+{{- $image := .Params.featured_image | default (index .Site.Params.images 0) -}}
 
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-<meta property="og:type" content="{{ $type }}">
-<meta property="og:url" content="{{ .Permalink }}">
-
-{{- /* 3. Output the Image (Must be Absolute URL) */ -}}
 {{- if $image -}}
-  <meta property="og:image" content="{{ $image | absURL }}">
+  <meta property="og:image" content="{{ $image | absURL }}" />
 {{- end -}}
