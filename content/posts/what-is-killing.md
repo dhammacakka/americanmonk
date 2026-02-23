@@ -57,6 +57,7 @@ The Sutta on Right View contains the famous list of 10 courses of wholesome acti
 (Note: The 10 courses split the speech precept into 4 distinct types and adds the 3 mental actions).
 
 ## The Five Factors of Killing
+{{<youtube Au6oMgPq8EM>}}
 
 In the commentary to Sammādiṭṭhi Sutta, The Commentary To The Discourse on Right View, we can see 5 factors that make up the kamma act of killing.
 
@@ -85,7 +86,7 @@ This is the clearest baseline.
 **Judgement:** All 5 factors are present. This is a complete, heavy course of unwholesome kamma. If caught the person will go to jail for a long time. If this is done to an animal, fish or even an insect, the kamma of killing living beings will still persist even though one may not go to jail.
 
 # 2. Self Defence
-
+{{< youtube xwCw4iWiNTY >}}
 This is where the law and Kamma often disagree. If someone attacks you and you kill them to save your own life:
 
 * **Living Being:** Yes (The attacker).
@@ -99,7 +100,7 @@ This is where the law and Kamma often disagree. If someone attacks you and you k
 If a person wished to fire a gun at another person's hand holding a gun in order to disarm him but accidentally shot him in the head, it would not matter about witnesses, and courts decisions.  We can look at the factors and know there was no intention to kill.  The kamma of killing is not complete.  Nevertheless, it is best to stay clear away from dangerous situations and not use a gun for any reason.
 
 # 3. Manslaughter (Accidental Killing)
-
+{{<youtube 2o1-M2z8K4A >}}
 For example, you are driving a car, you look down at your phone, and you accidentally hit a pedestrian.
 
 * **Living Being:** Yes.
@@ -111,7 +112,7 @@ For example, you are driving a car, you look down at your phone, and you acciden
 **Result:** Because Factor 3 (Intention) is missing and perhaps perception, this is **not** a completed kamma of Killing  because all 5 factors were not present. Even if there was perception at a final moment, there would still not be the intention to kill. It is still not killing. It may be bad kamma of negligence, you might go to jail for this, but it is not *Pāṇātipātā*.
 
 # 4. Mercy Killing (Euthanasia)
-
+{{<youtube RcN-EezaO_4>}}
 A doctor administers a drug to end the suffering of a terminal patient.
 
 * **Living Being:** Yes.
@@ -129,7 +130,7 @@ Veterinarians need to be careful when they “put dogs to sleep.” We usually h
 It should be noted that the Third Pārājika (offence entailing defeat) was created because of a massacre that was done with the intention of mercy killing. The Buddha gave instructions on the foulness of the body and then left for a two week retreat. During that time, the monks felt their bodies were so foul that they didn’t want to live anymore. Many killed themselves and some killed others by their own request. A person named Migalaṇḍika (who looked like a monk, but was not one), was asked to kill the monks out of compassion and to make merit.  The result was a total blood bath while the Buddha was gone. Because of this the third training rule was laid down after the Buddha had returned.
 
 # 5. Abortion
-
+{{<youtube Q1xzLs3KSyM>}}
 This is often debated on the grounds of "Is it a person?" or "I didn't know or believe it was a human." Here in Buddhism, we have a different take on this than the rest of the world. In order for the kamma to be complete, one only needs to believe that it is a living being, or simply recognize that there is “life”. The stages of development, or the perceived ability to feel pain does not matter. Only the five factors matter for the kamma to be complete.
 
 * **Living Being:** Yes. (Biologically, it is life, *Pāṇo*).
@@ -148,7 +149,7 @@ According to a {{<extlink "https://pubmed.ncbi.nlm.nih.gov/36629778/" "2018 stud
 
 
 ### What About Cats Killing Birds?
-
+{{<youtube qaLIANEPigg>}}
 People might ask, “What about cats that kill birds? Isn’t it their “nature” to kill and hunt?” Yes, it is their nature to kill and hunt. It is also their nature to accumulate unwholesome kamma and experience unwholesome results in the rounds of Saṃsāra. Saṃsāra is not fair and that is why the human birth is so rare. The Buddha told his monks this daily and that is why we chant these words everyday too.
 
 > **Bhikkhave, appamādena sampādetha,**  
@@ -180,5 +181,6 @@ In Buddhism, "Killing" is defined by the technical mechanics of the mind along w
 
 This rule of five factors applies equally to murder, Self-Defense, Euthanasia, and Abortion, but not Manslaughter since there is no intention to kill.  Kamma has no judges.  It is based on a computational formula based on the intention to destroy life along with the other remaining four factors.  If all five factors are met, the precept is broken and the kamma is achieved.  The justification or emotion for doing so has no effect.  Kamma is not always fair.  For instance, in the case of the goat, the person knew he was killing a living being but didn't know he was killing a human.  He will suffer the consequences of the reality, even if it was his own mother.  The discussion on killing is mostly discussed in reference to humans, but it is also true for killing animals, fish or even insects.
 
-## YouTube Video
+## Full Length YouTube Video
+The full length video is more than just the short topics you saw or read above.  See Below:
 {{<youtube 0h2TeVeIITI>}}
