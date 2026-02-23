@@ -24,3 +24,7 @@ This story is how I made the decision to become a Buddhist monk.  It is also cal
 A small story about how someone accused me of being psychic.
 {{< /video-card >}}
 
+{{< video-card id="iSTu8j2urnY" title="Acapella Inertia" date="2019-06-15" >}}
+This is a story about a two people who fell in love. While they spontaneously started to dance outside of a Grateful Dead Show,, they found themselves dancing even after the music had stopped, hence the title \"A'capella Inertia\".  The story goes further to relate how meditation might be related to that experience.
+{{< /video-card >}}
+

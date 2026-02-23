@@ -32,3 +32,39 @@ A tour of my kuti in Spring Hill, Hantanna
 A small video on the towels and soap that monks use.
 {{< /video-card >}}
 
+{{< video-card id="WwzeZHSz5r8" title="NeedleCase360" date="2018-01-27" >}}
+This is a small video on how to make a monk's needle case from a used up disposable pen.  It is one of the 8 requisites of a Buddhist monk.  It is mostly intended for monks to view, but lay people might find it interesting.
+{{< /video-card >}}
+
+{{< video-card id="tKfViQrX6Cc" title="Make A Monk's Needle Case" date="2018-01-14" >}}
+How to make a monk's needle case from an old pen.  It takes a few minutes and all you need is a candle and a used up pen with a front pen tip cover that screws off. This is one of the few things I can make myself and donate to other monks without asking my donors to do the job.
+{{< /video-card >}}
+
+{{< video-card id="V-g_SHk5Wp4" title="How to Make a Monk Water Filter in 3 Minutes" date="2017-10-10" >}}
+Here is a quick tip on how to make a filter in just a few minutes.  Maybe as fast as one minute.  This is useful for monks who want to put filters on their water taps.  It is my own invention as far as I know, but I am sure other monks somewhere else also do the same.  The Buddha did mention that if we did not have a filter, we could use the corner of our robes (that we are wearing).  This was how I got the idea by using an old robe.  Old robes are abundant and easy to find in almost any monastery.  Be sure to clean the robe before officially using the filter.  This one was washed twice, but still had a stain on it.  If you are really lazy (like me), you can cut out the filter and then just wash that small piece of cloth in a very short time.  If you are a lay person, it might be interesting to see the commercial strength bowl washing sink where we wash our bowls.  3:15 minutes in length.  Enjoy!
+{{< /video-card >}}
+
+{{< video-card id="56ZgPffPJgY" title="Make a Foot-Rug from Old Robes" date="2017-08-13" >}}
+This is a instructional Video on how to make a foot-rug from old robes.  Mostly only monks would be interested in this.
+{{< /video-card >}}
+
+{{< video-card id="xguRak-kd-k" title="Kauai Propagation Pt 1" date="2016-07-16" >}}
+A Powerpoint presentation about what two monks did in Kauai, Hawaii during June to December 2015.  The theme was propagation, but the propagation was done just from being monks who do not touch money, and collect their food the traditional Buddhism monk way.  The vision, how it got started, stories and experiences were shared.  http://AmericanMonk.org
+{{< /video-card >}}
+
+{{< video-card id="_zOOsw9FSEM" title="Kauai Propagation Pt 2" date="2016-07-16" >}}
+Part 2 of A Powerpoint presentation about what two monks did in Kauai, Hawaii during June to December 2015.  The theme was propagation, but the propagation was done just from being monks who do not touch money, and collect their food the traditional Buddhism monk way.  The vision, how it got started, stories and experiences were shared.  http://subhuti.withmeta.net
+{{< /video-card >}}
+
+{{< video-card id="nJ4cSTQet0E" title="bagantrip2016" date="2016-02-17" >}}
+Trip to Bagan by Ven Pannagavesaka and Bhikkhu Subhuti
+{{< /video-card >}}
+
+{{< video-card id="2DjEHWNTHQ0" title="Monks visit to Kauai 2015" date="2016-02-07" >}}
+Monks visit to Kauai.  Photo slide show.
+{{< /video-card >}}
+
+{{< video-card id="MFl08DBa7Vw" title="Knowing and Seeing, Pa Auk Forest Monastery HD version" date="2015-10-27" >}}
+Life at the Pa-Auk Forest Monastery in Mawlamyine, Myanmar.  This version was built from the DVD version.  All other YouTube versions (that I know of are built from the Vcd  low resolution.  I originally made this video for my brother in 2005 from a silent 55 minute video shot by the England group in 2003.  If you think this video is long winded for people with long attention spans...uh.. you better look at the original.  As I was doing an audio comment, \"um this is the clinic.\" a friend told me to add some background noises.  Later came a script with a \"narrator's voice.\" (which some do not like, but it was the best I could do.).
+{{< /video-card >}}
+

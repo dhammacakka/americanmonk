@@ -84,3 +84,19 @@ This Dhammatalk discusses the key elements of the Kāladāna Sutta in addition t
 This video helps you memorize The Noble Eightfold Path.  It has come to my attention that many people who are seasoned Buddhists cannot recall all 8 factors of The Noble Eightfold Path, or do with ease.  Therefore, I have made a small video to help you memorize these ordered factors in English with ease.
 {{< /video-card >}}
 
+{{< video-card id="b92H23kZAQg" title="The Difference Between Bodhisatva and Bodhisatta" date="2019-03-28" >}}
+Mahayana has a different definition of a  Bodhisatva than the Theravada Bodhisatta (Pali Language).  I explain this difference and I also emphasize that there is a Buddha Path in the Theravada School (also known as Hinayana).  However, because it is so difficult, it is not often encouraged.
+{{< /video-card >}}
+
+{{< video-card id="PmzGozPP9PI" title="Ukkamsa2017 pt3" date="2017-05-16" >}}
+Part 3 of Sayadaw U Ukkamsa's Dhamma talk on Vesak Day 2017.  Stories from the commentary related to the topic. Given in Maymyo Pa-Auk Center.
+{{< /video-card >}}
+
+{{< video-card id="657vsc2mMDU" title="Ukkamsa2017 pt2" date="2017-05-15" >}}
+Part 2 of Sayadaw U Ukkamsa's Dhamma talk on Vesak Day 2017.  The second part
+{{< /video-card >}}
+
+{{< video-card id="NZAf4MSPz54" title="Ukkamsa2017 pt1" date="2017-05-15" >}}
+Part 1 of Sayadaw U Ukkamsa's Dhamma talk on Vesak Day 2017.  The first part speaks about the 10 types of Kusala and Akusala Dhammas.
+{{< /video-card >}}
+

@@ -4,6 +4,10 @@ title: "Shorts Videos"
 
 ## Shorts Videos
 
+{{< video-card id="RcN-EezaO_4" title="First Precept: Euthanasia #buddhism  #theravada" date="2026-02-19" >}}
+So euthanasia. There's a person, let's suppose he's terminally ill. He's got a painful cancer and he's not going to live more than a month. And he's in lots of pain. And the family, including him, decides that they want to end the life. We have object, perception, intention, effort, and result. So we have the object, we have living beings, the patient, the cancer patient. You perceive him as living. You want to destroy the life so you can end its suffering. You tell the doctors to do whatever they do to end the life and they do that. And then he dies the result. So we have all five factors for this. Now you might say, well, he's going to die in a month or in a couple of weeks or tomorrow. Or even a minute from now or even a second from now. The thing is, it doesn't matter because we are all going to die anyways. But where do we draw the line? We draw the line when you do an effort with intention, with perception to end the life force before it's going to end on its own. That's where we draw the line. You might think that you have a wholesome mind. You might think that you have a wholesome mind when you're ending the life because there's suffering, mind of compassion. The thing is that when the action of giving the command or actually killing something is done, it's an unwholesome mind. There's no mixing of minds. There's no wholesome and unwholesome at the same time.
+{{< /video-card >}}
+
 {{< video-card id="7Yk_wsYwx9c" title="Lie = No Limit To Evil" date="2026-01-04" >}}
 
 {{< /video-card >}}
@@ -52,7 +56,19 @@ How to know where Bodh Gaya Is? You can use the Buddhist Compass App. This will 
 It might be a mystery as to why the Earth Kasina was taught first in the great and ancient meditation manual called the Visuddhimagga.  Here, in this short video, you can see that we sometimes forget what it was like during the time of the Buddha.
 {{< /video-card >}}
 
+{{< video-card id="mCkLXxGJJu4" title="How to remove a leech the compassionate and safe way." date="2023-11-14" >}}
+How to remove a leech without harming the both of you.  it is best to flick them off when they are bunched up together, head to toe.  However he I did not use enough flick force because I was hold the phone, so he attached to my finger.  eventually I had to put down the phone and do the same process.
+{{< /video-card >}}
+
 {{< video-card id="HRGdqb-8qic" title="Pa-Auk Pouring Concrete" date="2020-08-19" >}}
 Workers are not with us during lock-down.  So it was time to pour concrete the old fashion way for the Junior Monks' Pathway under the new rain cover for rainy season.  This way the junior monks won't get wet after they collect their food.   The work is quite tiring.  I did some work shovelling rocks and I was completely tired after only one hour.  The work started after lunch and continued into the night until about 7:30 pm.  The nun doing the final pouring at the end of the fire-line is Daw Gunagavesi.  She is a Myanmar medical doctor and in charge of the kitchen staff.
+{{< /video-card >}}
+
+{{< video-card id="nzY1tVfVuFQ" title="birdseatingrice" date="2016-12-11" >}}
+Here is a video confirming that it is OK to feed birds uncooked rice on the topic of throwing rice at weddings.
+{{< /video-card >}}
+
+{{< video-card id="cwcKWhANc0I" title="Coolest Incense Holder" date="2016-07-09" >}}
+This shows how an incense holder made from a bottle.  No ash escapes.  Although it is probably safer than a normal holder, use with care at your own risk!
 {{< /video-card >}}
 
