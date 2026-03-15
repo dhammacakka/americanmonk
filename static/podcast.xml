@@ -34,35 +34,34 @@
     <!-- Optional Podcasting 2.0 tags -->
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
-    <item>
+<item>
       <title>5 Ways Good and Bad</title>
       <description>Bhante Subhūti explains five ways in which phenomena, actions, or mental factors can be classified as good (kusala/wholesome) or bad (akusala/unwholesome) according to Theravāda teachings. The talk emphasizes discernment of wholesome and unwholesome states to support ethical conduct, meditation, and progress on the path.</description>
       <link>https://archive.org/details/5-ways-good-and-bad</link>
       <guid isPermaLink="true">https://archive.org/details/5-ways-good-and-bad</guid>
       <enclosure url="https://archive.org/download/5-ways-good-and-bad/5-ways-good-and-bad1.mp3"
-                 length="0"  <!-- Replace with actual file size in bytes (view in Files section) -->
+                 length="0"
                  type="audio/mpeg"/>
-      <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>  <!-- Aligned with upload; adjust if needed for ordering -->
-      <itunes:duration>00:00:00</itunes:duration>  <!-- Update with exact HH:MM:SS from audio duration -->
+      <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <!-- No episode-specific image; omits <itunes:image> to default to channel podcast-cover.jpg -->
       <itunes:keywords>kusala, akusala, wholesome, unwholesome, good bad, theravāda, buddhism, dhamma, bhante subhūti</itunes:keywords>
-      </item>
-      <item>
+    </item>
+    <item>
       <title>Computer Loving-Kindness</title>
       <description>Bhante Subhūti presents a unique explanation of mettā (loving-kindness) meditation, employing a computer analogy to illustrate how to generate and extend boundless goodwill toward oneself and all beings, making the practice more relatable for modern listeners.</description>
       <link>https://archive.org/details/computer-loving-kindness</link>
       <guid isPermaLink="true">https://archive.org/details/computer-loving-kindness</guid>
       <enclosure url="https://archive.org/download/computer-loving-kindness/computer-loving-kindness_portrait.mp3"
-                 length="0"  <!-- Update with actual byte size once confirmed, e.g., from file metadata -->
+                 length="0"
                  type="audio/mpeg"/>
-      <pubDate>Wed, 15 Mar 2026 12:00:00 GMT</pubDate>  <!-- Adjust to approximate upload/publication time; use GMT -->
-      <itunes:duration>00:00:00</itunes:duration>  <!-- Replace with exact HH:MM:SS once audio duration is known -->
+      <pubDate>Wed, 15 Mar 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://archive.org/download/computer-loving-kindness/computer-loving-kindness.jpg"/>  <!-- Use the actual cover image filename if uploaded; fallback to channel art if omitted -->
+      <itunes:image href="https://archive.org/download/computer-loving-kindness/computer-loving-kindness.jpg"/>
       <itunes:keywords>mettā, loving-kindness, meditation, computer analogy, bhante subhūti, theravāda, dhamma, bhāvanā</itunes:keywords>
-    </item>
-    <item>
+      </item>
+      <item>
       <title>What Is Killing Landscape</title>
       <description>In Buddhism, “Killing” is defined by the technical mechanics of the mind, not by social laws. The unwholesome Kamma is complete only if five factors are present. This talk explores the deeper meaning of killing in relation to landscapes, nature, intention, and Theravāda teachings.</description>
       <link>https://americanmonk.org/</link>
