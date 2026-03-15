@@ -34,6 +34,20 @@
     <!-- Optional Podcasting 2.0 tags -->
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
+    <item>
+      <title>Loving Kindness Wins</title>
+      <description>Loving-kindness wins.  Story about alms in Hawai'i</description>
+      <link>https://archive.org/details/loving-kindness-wins</link>
+      <guid isPermaLink="true">https://archive.org/details/loving-kindness-wins</guid>
+      <enclosure url="https://archive.org/download/loving-kindness-wins/Loving-kindness_wins.mp3"
+                 length="102337536"
+                 type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 08:58:06 GMT</pubDate>
+      <itunes:duration>00:53:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://archive.org/download/loving-kindness-wins/Loving-kindness_wins.png"/>
+      <itunes:keywords>alms, loving-kindness, theravada, buddhism</itunes:keywords>
+    </item>
 <item>
       <title>5 Ways Good and Bad</title>
       <description>Bhante Subhūti explains five ways in which phenomena, actions, or mental factors can be classified as good (kusala/wholesome) or bad (akusala/unwholesome) according to Theravāda teachings. The talk emphasizes discernment of wholesome and unwholesome states to support ethical conduct, meditation, and progress on the path.</description>
