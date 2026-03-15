@@ -35,6 +35,20 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>Samsara Travels</title>
+      <description>About saṃsāra and how we meet people again and again.</description>
+      <link>https://archive.org/details/samsara-travels</link>
+      <guid isPermaLink="true">https://archive.org/details/samsara-travels</guid>
+      <enclosure url="https://archive.org/download/samsara-travels/samsara-travels.mp3"
+                 length="98576640"
+                 type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 13:38:07 GMT</pubDate>
+      <itunes:duration>00:51:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://archive.org/download/samsara-travels/samsara-travels.png"/>
+      <itunes:keywords>samsara, saṃsāra, theravada, buddhism</itunes:keywords>
+    </item>
+    <item>
       <title>Loving Kindness Wins</title>
       <description>Loving-kindness wins.  Story about alms in Hawai'i</description>
       <link>https://archive.org/details/loving-kindness-wins</link>
