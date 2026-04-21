@@ -68,8 +68,30 @@ All that said, the Buddha did allow for a helper to handle money for the monks {
 ## What is Real Subharo?
 {{< img src = "/images/subharo-vinaya.webp" >}}
 
+Subharo means that the monk is satisfied with what he is given.  He does not question the food that is given to him.  He does not ask for more.  He does not ask for something different.  He is simply satisfied with what he is given.
 
-After a monk receives his higher ordination, he is given a list of the four requisites that he is dependent on.  These are the four requisites that he must strive to obtain throughout his life.  This list is given to all monks of all traditions, whether they use money or not.
+
+The {{< extlink "https://tpr.pali.tools/open?book_id=attha_ku_05_01&page_number=182&name=suttanip%C4%81taa%E1%B9%AD%E1%B9%ADhakath%C4%81+%28pa%29&note=c3ViaGFybyBjb21tZW50YXJ5&selected_text=c3VraGVuYSBiaGFyxKt5YXTEq3RpIHN1Ymhhcm8sIHN1cG9zb3RpIHZ1dHRh4bmDIGhvdGk%3D" "commentaries say this" >}}about subharo:
+> **sukhena bharīyatīti subharo, suposoti vuttaṃ hoti.**.  
+>He is easily supported (fed), hence subharo, meaning easy to maintain. 
+>
+> **yo hi bhikkhu sālimaṃsodanādīnaṃ patte pūretvā dinnepi dummukhabhāvaṃ anattamanabhāvameva ca dasseti, tesaṃ vā sammukhāva taṃ piṇḍapātaṃ ‘‘kiṃ tumhehi dinna’’nti apasādento sāmaṇeragahaṭṭhādīnaṃ deti, esa dubbharo.** 
+>For the bhikkhu who, even when his bowl is filled with choice rice and meat, still shows displeasure and discontent, or in front of the donors disparagingly gives that alms-food to novices or laypeople, saying, "What have you given?"—such a one is difficult to support. 
+>
+> **etaṃ disvā manussā dūratova parivajjenti ‘‘dubbharo bhikkhu na sakkā positu’’nti.** 
+>Seeing such a one, people avoid him from afar, saying, "This bhikkhu is difficult to support; he cannot be maintained." 
+>
+> **yo pana yaṃkiñci lūkhaṃ vā paṇītaṃ vā appaṃ vā bahuṃ vā labhitvā attamano vippasannamukho hutvā yāpeti, esa subharo.** 
+>But the one who, having received anything, be it coarse or fine, little or much, sustains himself with a happy and serene face—such a one is easy to support. 
+>
+> **etaṃ disvā manussā ativiya vissatthā honti – ‘‘amhākaṃ bhadanto subharo thokathokenapi tussati, mayameva naṃ posessāmā’’ti paṭiññaṃ katvā posenti.** 
+>Seeing such a one, people become extremely confident and, vowing, "Our venerable master is easy to support; he is content even with a little; we ourselves will maintain him," they do so. 
+>
+> **evarūpo idha subharoti adhippeto.** 
+>Such a bhikkhu is here intended as easy to support. 
+
+## The Four Dependencies Talk After Ordination
+After a monk receives his higher ordination, he is given a list of the four requisites that he is dependent on and how he should appreciate what is given to him.  These are the four requisites that he must strive to obtain throughout his life.  This list is given to all monks of all traditions, whether they use money or not.
 
 > **‘‘Anujānāmi, bhikkhave, upasampādentena cattāro nissaye ācikkhituṃ –**
 >
