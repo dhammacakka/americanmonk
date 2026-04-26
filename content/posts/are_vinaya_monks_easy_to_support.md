@@ -1,6 +1,6 @@
 ---
 title: Are Vinaya Monks Easy to Support?
-date: 2026-04-20
+date: 2026-04-25
 categories:
     - teaching
     - vinaya
@@ -41,19 +41,13 @@ May all beings be happy and secure, may they be happy in themselves.
 
 ## What is Easy To Support?
 
-First, let's talk about how easy it is to support a "normal" monk in America. A "normal" monk is one who uses money and probably also uses credit cards. They usually cook for themselves, don't worry if food is offered or not, buy their own food, and even drive their own cars. Nearly all monks in America are like this. This is why we call them "normal" monks.  It is the status quo for monks in America.
+A monk who uses money, cooks for himself, drives for himself, and stores food is easier to support in terms of the view of the laypeople. They don't have to worry if the monk does not have food or if someone will offer food for him. The monk can just buy it all himself. He can pull food out of the refrigerator that was given to him days earlier. He can drive himself to families' houses, eat there, and collect more money to feed the cycle of self-support. This is "easy to support" in the sense that the laypeople don't have to do anything. Give a kid money, and he will probably like that better. Not only that, it is a lot easier to do. One does not need to shop around or wonder what items would be liked. But would you give $500 to a 10 year old? Monks have some qualities similar to a 10 year old that the Buddha wanted to protect. He wanted the monks to be dependent on laypeople each and every day. Monks who use money have larger expenses and accept money from laypeople. A person might have only $100 to give, and decides to give it to the monk instead of the monastery's general fund. The monastery is often cash poor while the monks are often quite wealthy.
 
-In the rest of the world, especially in Theravāda countries, it is extremely common for monks to use money, but food is usually cooked for them and driving is rare but still happens. Using credit cards is rare as well.
+The Vinaya monk is indeed more difficult to support from the lay person's perspective because the Vinaya rules prohibit the monk from handling money and cooking for themselves. They also must not store food overnight and they must have new food offered each day after dawn.
 
-In contrast, a Forest Vinaya monk does not use money. They do not use credit cards. They do not cook for themselves. They only eat food that is formally offered to them.  They do not buy their own food. They do not drive cars. 
+The laypeople must provide food for him daily and offer it to him. They must drive him around where he needs to go. He also cannot travel with a woman by pre-arrangement.  This is difficult because most of the volunteers are women. If he needs something from the store, someone must buy it for him, usually without him present.
 
-The Vinaya rules prohibit the monk from handling money and cooking for themselves. They also must not store food overnight and they must have new food offered each day after dawn.
-
-The "normal" monk is easier to support in terms of the view of the laypeople. They don't have to worry if the monk does not have food or if someone will offer food for him. The monk can just buy it all himself. He can pull food out of the refrigerator that was given to him days earlier. He can drive himself to families' houses, eat there, and collect more money to feed the cycle of self-support. This is "easy to support" in the sense that the laypeople don't have to do anything. Give a kid money, and he will probably like that better. Not only that, it is a lot easier to do. One does not need to shop around or wonder what items would be liked. But would you give $500 to a 10 year old? Monks have some qualities similar to a 10 year old that the Buddha wanted to protect. He wanted the monks to be dependent on laypeople each and every day. Monks who use money have larger expenses and accept money from laypeople which might normally go to the monastery's general fund. The monastery is therefore often cash poor while the monks are often quite wealthy.
-
-The Vinaya monk is indeed more difficult to support, but that is from the layperson's perspective. The laypeople must provide food for him daily and offer it to him. They must drive him around where he needs to go. He cannot travel alone with a single woman who drives him. He cannot arrange travel with a woman. This is difficult because most of the volunteers are women. If he needs something from the store, someone must buy it for him.
-
-So if being easy to support is a quality of a good monk, then would the Vinaya monk *not* be a good monk?  But the Buddha said that the Vinaya is needed for loving-kindness meditation and *also* that the monk should be easy to support.  So there must be something else to it.
+So if being easy to support is a quality of a "good monk," then would the Vinaya monk *not* be a good monk?  But the Buddha said that the Vinaya is needed for loving-kindness meditation and *also* that the monk should be easy to support.  So there must be something else to it.
 
 {{< img src = "/images/subharo-money.webp" >}}
 (A monk is indeed easy to support, if he uses money)
