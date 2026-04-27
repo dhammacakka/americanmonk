@@ -1,6 +1,6 @@
 ---
 title: "Tipiṭaka Pāḷi Projector (unsupported)"
-date: 2020-08-10
+date: 2024-08-10
 categories: 
   - interesting-things
 tags: 
@@ -23,7 +23,7 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 {{< img src = "/images/asoka.webp" >}}
 
 News:
-
+- 2026 Now supports the ePitaka extension.
 - Developers are encouraged to join our [Discord server](https://discord.gg/3Nw46kBDac) for our 2.0 total rewrite called [Ultimate Pali Reader](https://discord.gg/3Nw46kBDac)
 
 - June 21, 2022 Version 1.4.0 is now released (Win, Linux Snap) ( android 1.2.1)
