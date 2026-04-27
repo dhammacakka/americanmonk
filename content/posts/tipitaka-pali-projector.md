@@ -1,6 +1,6 @@
 ---
 title: "Tipiṭaka Pāḷi Projector (unsupported)"
-date: 2024-08-10
+date: 2025-08-10
 categories: 
   - interesting-things
 tags: 
