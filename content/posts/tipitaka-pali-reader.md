@@ -1,6 +1,6 @@
 ---
 title: Tipitaka Pali Reader
-date: 2022-09-29
+date: 2025-11-29
 categories:
   - software
 tags:
@@ -43,6 +43,7 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 
 ## What is new?
+2.7.7+107 Now supports ePitaka extension will all texts translated.
 
 **Build 85+ Release** — May 2025 for Linux AppImage, Android, and Windows:
 
