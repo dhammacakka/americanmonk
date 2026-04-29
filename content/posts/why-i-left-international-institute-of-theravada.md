@@ -106,7 +106,7 @@ Not just through rigid, endless days.
 A monk must walk the path that’s right,  
 With insight clear and heart kept light.  
 
-## Youtube video
+## video
 Below is a video I made with more details about why I had left IIT.
 
-{{< youtube 2ac9_fNMqgU >}}
+{{< extlink "https://archive.org/details/why-i-left-iit" "Why I left IIT" >}}  
