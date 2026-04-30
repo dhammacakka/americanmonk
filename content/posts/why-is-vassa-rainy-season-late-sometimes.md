@@ -27,7 +27,7 @@ Other Years:
 - 2034 (3-year leap year)
 
 # Introduction
-There seems to be confusion about when Vesak or Vassa is this year (2026). This year is a special year and Vassa starts the day after the full moon day in August. The full moon day is August 3rd and Vassa starts on August 4th.
+There seems to be confusion about when Vesak or Vassa is this year (2026). This year is a special year and Vassa starts the day after the full moon day at the end of July.
 
 However, there are some traditions that believe that Vesak or Vassa are one month earlier
 Who is correct?
