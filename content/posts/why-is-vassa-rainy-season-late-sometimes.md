@@ -34,6 +34,9 @@ Who is correct?
 
 Today we will explain how the two calendar systems work and which one should be followed.
 
+## Mass Market Calendars and Governments
+Yes, they say the same Full Moon no matter what year you are looking at.  That is how they do things, and it is easier for them.  If you ask the monks who follow the commentaries, they will tell you that this leap year method is also how the mass market calendars should do things, and that is why there is confusion every two or three years.
+
 # The Buddhist Calendar
 The Buddhist Calendar follows the lunar calendar. We all know that the uposatha day falls on the new and full moon cycles, with minor uposathas on quarter-moon cycles. We do not follow the Gregorian calendar and observe our religious days on Sundays. Do you agree?
 
