@@ -1,5 +1,5 @@
 ---
-title: "Why Is Vassa (Rainy Season) and Vesak Late Sometimes?"
+title: "Why Are Vassa (Rainy Season) and Vesak Late Sometimes?"
 date: 2026-04-29
 categories: 
   - monk-life
@@ -27,20 +27,20 @@ Other Years:
 - 2034 (3-year leap year)
 
 # Introduction
-There seems to be confusion about when Vesak or Vassa is this year (2026). This year is a special year and Vassa starts the day after the full moon day at the end of July.
+There seems to be some confusion about when Vesak or Vassa falls this year (2026). This is a special year, and Vassa begins the day after the full moon at the end of July.
 
-However, there are some traditions that believe that Vesak or Vassa are one month earlier
+However, some traditions believe that Vesak and Vassa fall one month earlier.
 Who is correct?
 
 Today we will explain how the two calendar systems work and which one should be followed.
 
 ## Mass Market Calendars and Governments
-Yes, they say the same Full Moon no matter what year you are looking at.  That is how they do things, and it is easier for them.  If you ask the monks who follow the commentaries, they will tell you that this leap year method is also how the mass market calendars should do things, and that is why there is confusion every two or three years.
+Yes, they designate the same Full Moon regardless of the year. This is a simpler approach for them. However, monks who follow the commentaries will tell you that this leap year method is the correct way to handle the calendar, which is why confusion arises every two or three years.
 
 # The Buddhist Calendar
-The Buddhist Calendar follows the lunar calendar. We all know that the uposatha day falls on the new and full moon cycles, with minor uposathas on quarter-moon cycles. We do not follow the Gregorian calendar and observe our religious days on Sundays. Do you agree?
+The Buddhist Calendar follows the lunar cycles. We all know that the Uposatha day falls on the new and full moon cycles, with minor Uposathas on quarter-moon cycles. We do not follow the Gregorian calendar or observe our religious days on Sundays.
 
-Buddhism follows the moons.  
+Buddhism follows the moon.  
 Vesak is based on a full moon day  
 Dhammacakkapavatthana was based on a full moon day.
 
@@ -48,9 +48,9 @@ We don’t use the Solar Calendar.
 We use the Lunar Calendar.
 
 # Leap Year
-Because of this, we need to do some math and adjust for the difference between the solar and lunar calendars, because winter would become summer and summer would become winter if we did not make adjustments.
+To keep the seasons aligned, we must adjust for the difference between the solar and lunar calendars; otherwise, winter would eventually shift into summer, and summer into winter.
 
-Even the Solar Calendar has 1 day added for every four years. This is called leap year.
+Even the Solar Calendar adds one day every four years; this is known as a leap year.
 
 The Solar Calendar is 365 days per year.  
 The Lunar Calendar is 354 days per year.  
@@ -63,35 +63,32 @@ From Wikipedia
 The difference is 11 days per year.
 
   
-In 8 years there are 88 days. Or three months. So, we have to adjust every 8 years. Why 8 years?
+Over eight years, the difference accumulates to 88 days—roughly three months. This is why we must adjust every eight years.
 
 8 x 11 is 88, and that is divisible by 29 days, or roughly one Lunar Month.
 
-So we adjust the time lag in 3 separate times.  
+We adjust for this time lag at three separate intervals.  
 3 years  
 3 years  
 and 2 years.
 
 3 + 3 + 2 is 8 right?
 
-So in the Lunar or Moon Calendar we must add one lunar month or 2 pakkha to the Hot Season. There are normally 8 pakkha (new or full moon cycles), in a season. However, this Hot Season for this year has 10 pakkha (or the extra added lunar month).
+Therefore, in the Lunar Calendar, we add an extra lunar month (two *pakkha*) to the Hot Season. While a season typically comprises eight *pakkha* (new or full moon cycles), this year's Hot Season includes ten.
 
 Rainy Season comes after Hot Season, and now the rain is just starting to fall on a more regular basis in Myanmar. The lunar calendar is good for judging the weather. So plan your vacations accordingly!
 
-So normally we add an extra month every three years.  
-This year is the year where we do this after 2 years.  
-3 + 3 + 2 = 8  
-Is that right?
+Typically, we add an extra month every three years. However, in this eight-year cycle, the third adjustment occurs after only two years (3+3+2=8).
 
 And so there you have your answer about which calendar is correct. Some traditions follow the Lunar Calendar while others follow the LuniSolar calendar (Solar mixed with full moons).
 
-Remember Buddhism follows the Lunar Calendar. This is also followed in India. They have two calendars. One is from the British Rule and the other is for the Hindu/Buddhist roots.
+Remember, Buddhism follows the Lunar Calendar, which is also still used in India. They maintain two systems: one originating from British rule and the other rooted in Hindu/Buddhist tradition.
 
   
-So, for this reason Vassa or The Buddhist Rainy Season starts the day after the full moon of July 29th. (in 2026). Vassa starts on July 30th.
+For this reason, Vassa—the Buddhist Rainy Season—begins the day after the full moon on July 29th (in 2026). Vassa officially starts on July 30th.
 
 # Is Vesak Late too?
-You might have noticed that some people celebrated Vesak (The Buddha's Birthday, Enlightenment and Death) on two different months. This was for the same reason. This year the Lunar or Buddhist Calendar adds an extra lunar month. The next Lunar Leap Month will be 3 years from now, so mark your calendars!
+You may have noticed that some people celebrated Vesak (the Buddha's Birth, Enlightenment, and Death) in two different months. This happened for the same reason. This year, the Buddhist Calendar adds an extra lunar month. The next lunar leap month will be three years from now, so mark your calendars!
 
 So practice well and practice correctly this upcoming rainy season on July 30th.  
 
