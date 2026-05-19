@@ -35,6 +35,34 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>Preparing for Meditation</title>
+      <description>The metta sutta has a lot of information about the qualities needed for successful meditation, or how to prepare for meditation whether it is loving-kindness...</description>
+      <link>https://archive.org/details/preparing_for_meditation</link>
+      <guid isPermaLink="true">https://archive.org/details/preparing_for_meditation</guid>
+      <enclosure url="https://ia902901.us.archive.org/18/items/preparing_for_meditation/preparing_for_meditation.mp3"
+                 length="225755136"
+                 type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>01:57:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://archive.org/download/preparing_for_meditation/preparing_for_meditation.png"/>
+      <itunes:keywords>theravada, buddhism, meditation, loving-kindness, metta</itunes:keywords>
+    </item>
+    <item>
+      <title>Importance of Chanting</title>
+      <description>This talk is about how we should develop a habit to chant in order to escape from samsara.</description>
+      <link>https://archive.org/details/importance_of_chanting</link>
+      <guid isPermaLink="true">https://archive.org/details/importance_of_chanting</guid>
+      <enclosure url="https://dn710307.ca.archive.org/0/items/importance_of_chanting/importance_of_chanting.mp3"
+                 length="205143552"
+                 type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>01:46:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://archive.org/download/importance_of_chanting/importance_of_chanting.png"/>
+      <itunes:keywords>theravada, buddhism, chant, puja</itunes:keywords>
+    </item>
+    <item>
       <title>Samsara Travels</title>
       <description>About saṃsāra and how we meet people again and again.</description>
       <link>https://archive.org/details/samsara-travels</link>
