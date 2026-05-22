@@ -51,6 +51,13 @@ Most of the monks who don’t follow the Commentaries like to try to figure thin
 
 The same is true when setting your focus. I spent four months at a study monastery and found it easy to learn the Pāṭimokkha (monks’ rules) by memory, relative to many failed attempts at meditation centers.
 
+## Visas
+If you decide to ordain outside of your own country, you will need a renewable entry visa *before* taking robes.  Do not even think of taking robes without a an entry visa already stamped in your passport.  Make sure your visa is repeated renewable for five or ten years without the need to leave the country.  If you don't have such a visa, you could be forced to go to another country or back to your home country without a teacher that matches your philosophy.
+
+The second thing to consider is allegance to the monastery and teacher who sponser your visa.  They are responsible for you to the government. Monasteries are very protective of their good standing with the government.  Therefore, you cannot just ordain and plan to leave to another monastery unless you have their explicit permission.  "You can do what you want" is a rejection and a statement that you are no longer their student (because you want to do your own thing and cannot be taught by them).  Be very, very careful and note that it is not permission.  
+
+Even if given permission, there will be paperwork to switch the responsible party.  The immigration department won't like this either.  Your visas and cooperating status will be your lifeline to longevity as a monk.  
+
 ## Vinaya (Monk Rules)
 
 I only recommend places that follow the rules (vinaya-following monasteries). It is the same as philosophy matching, but more serious. If you are told it is “okay” to break the rules, then it can lead to very bad kamma. Most monasteries (about 98%) break the rules on money. Most monks who break the rules on money often break the majority of bhikkhu rules the Buddha created for his monks to follow. Breaking the rules is disrespectful to the Original Teacher, the Buddha. It will bring demerit rather than the great merit that can be earned as a monk. Using money is a serious matter because it is unallowable every second you have money or things bought with money. Small drops of kamma like this add up quickly, like rain filling the ocean. See this video [here](https://www.youtube.com/watch?v=7LfvDocA3fI).

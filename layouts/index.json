@@ -1,0 +1,14 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+  {{- if $index -}},{{- end }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "uri": {{ $page.RelPermalink | jsonify }},
+    "content": {{ $page.Plain | jsonify }},
+    "description": {{ $page.Description | jsonify }},
+    "date": {{ if not $page.Date.IsZero }}{{ $page.Date | time.Format (default "January 2, 2006" $.Site.Params.date_format) | jsonify }}{{ else }}""{{ end }},
+    "categories": {{ $page.Params.categories | jsonify }},
+    "tags": {{ $page.Params.tags | jsonify }}
+  }
+  {{- end -}}
+]

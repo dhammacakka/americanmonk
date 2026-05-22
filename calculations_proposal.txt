@@ -1,0 +1,12 @@
+Over 19 years, this 11-day difference accumulates to about 209 days. To perfectly realign the lunar calendar with the solar seasons, the calendar operates on a **19-year cycle**, during which it adds exactly **seven extra lunar months**. Since an extra lunar month is 30 days long, adding seven of them equals 210 days—which almost perfectly erases the 209 days of drift!
+How do we fit 7 leap months into 19 years? We adjust for this time lag at intervals of either three or two years. The pattern looks like this:
+* 3 years, 3 years, 2 years (An 8-year span)
+* 3 years, 3 years, 2 years (Another 8-year span)
+* 3 years (The final span)
+8 + 8 + 3 = 19 years.
+Therefore, in the Lunar Calendar, we add an extra lunar month (two *pakkha*) to the Hot Season. While a season typically comprises eight *pakkha* (new or full moon cycles), this year's Hot Season includes ten.
+Rainy Season comes after Hot Season, and now the rain is just starting to fall on a more regular basis in Myanmar. The lunar calendar is good for judging the weather. So plan your vacations accordingly!
+Typically, we add an extra month every three years. However, this year we are at the end of that 8-year sub-cycle, meaning the adjustment occurs after only two years (3+3+2=8). 
+**The 30-Day Fine-Tuning**
+Because the universe is rarely mathematically perfect, there is one final adjustment. To fix fractions of a day that build up over decades, the calendar occasionally designates a "Great Leap Year." In these specific years, an extra leap day is added to the third month (Nayon), extending it from its normal 29 days to 30 days to keep everything flawlessly synchronized.
+Would you like me to replace the old math section in your file with this new, precise version?

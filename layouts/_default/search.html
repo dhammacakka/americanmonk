@@ -1,0 +1,412 @@
+{{ define "main" }}
+<div class="mw8 center ph3 pv4 sans-serif">
+  <div class="flex-l flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <h1 class="f1 athelas mt3 mb3">
+        {{- .Title -}}
+      </h1>
+    </header>
+    
+    <div class="w-100 mt3">
+      <!-- Search Box Container -->
+      <div id="search-container-box" class="focus-within-ring relative mb4 bg-white flex items-center border-box ba b--light-silver br3 shadow-1">
+        <!-- Search Icon -->
+        <div class="pl3 pr2 mid-gray flex items-center">
+          <svg class="w2 h2 color-inherit" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </div>
+        
+        <!-- Input Field -->
+        <input type="text" id="search-input" 
+               class="w-100 f4 db pv3 pr5 pl1 bn outline-0 input-reset sans-serif" 
+               placeholder="Search posts, topics, glossary terms..." 
+               disabled>
+               
+        <!-- Clear Button -->
+        <button id="search-clear" class="dn absolute right-1 bg-transparent bn pointer pv3 ph3 gray hover-black outline-0" style="right: 10px;" title="Clear search">
+          <svg class="w1 h1" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Search Status / Info -->
+      <div id="search-info" class="f6 gray mb4 flex items-center">
+        <!-- Spinner -->
+        <svg id="search-spinner" class="animate-spin mr2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+          <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
+        <span id="search-status-text">Initializing search index...</span>
+      </div>
+
+      <!-- Search Results -->
+      <div id="search-results" class="flex flex-column gap3">
+        <!-- Results will be injected here -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Lunr JS and logic -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+
+<style>
+  /* Custom Focus Ring matching theme */
+  .focus-within-ring {
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  .focus-within-ring:focus-within {
+    border-color: #85144b;
+    box-shadow: 0 0 0 3px rgba(133, 20, 75, 0.25);
+  }
+  
+  /* Result Cards */
+  .search-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    border: 1px solid #e2e8f0;
+  }
+  .search-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    border-color: #cbd5e1;
+  }
+  
+  /* Accent hover for links */
+  .hover-maroon {
+    transition: color 0.15s ease;
+  }
+  .hover-maroon:hover, .hover-maroon a:hover {
+    color: #85144b !important;
+  }
+  
+  /* Badges */
+  .result-tag {
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+  .result-tag:hover {
+    background-color: #e2e8f0;
+    color: #1a202c;
+  }
+  
+  .result-cat {
+    cursor: pointer;
+    transition: color 0.15s ease;
+  }
+  .result-cat:hover {
+    color: #85144b;
+  }
+
+  /* Spin animation for spinner */
+  .animate-spin {
+    animation: spin 1s linear infinite;
+  }
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .w-4 { width: 1rem; }
+  .h-4 { height: 1rem; }
+  .mr2 { margin-right: 0.5rem; }
+  .opacity-25 { opacity: 0.25; }
+  .opacity-75 { opacity: 0.75; }
+  .dn { display: none; }
+</style>
+
+<script>
+  (function() {
+    let pages = [];
+    let pagesIndex = {};
+    let lunrIndex = null;
+    
+    const searchInput = document.getElementById('search-input');
+    const searchClear = document.getElementById('search-clear');
+    const searchInfo = document.getElementById('search-info');
+    const searchSpinner = document.getElementById('search-spinner');
+    const searchStatusText = document.getElementById('search-status-text');
+    const searchResults = document.getElementById('search-results');
+    
+    // Normalize Pali/Sanskrit diacritics and convert to lowercase
+    function normalize(str) {
+      if (str === null || str === undefined) return '';
+      return String(str).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    }
+    
+    // Create diacritic-insensitive regex pattern
+    function makeDiacriticRegexPattern(term) {
+      const map = {
+        'a': '[aā]',
+        'i': '[iī]',
+        'u': '[uū]',
+        'd': '[dḍ]',
+        'l': '[lḷ]',
+        'm': '[mṃ]',
+        'n': '[nṅñṇ]',
+        't': '[tṭ]',
+        's': '[sśṣ]',
+        'r': '[rṛ]',
+        'o': '[oō]',
+        'e': '[eē]'
+      };
+      return term.split('').map(char => map[char] || char).join('');
+    }
+    
+    // HTML Escape
+    function escapeHTML(str) {
+      if (!str) return '';
+      return str
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+    
+    // Load the index
+    fetch('/index.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        pages = data;
+        pages.forEach(page => {
+          pagesIndex[page.uri] = page;
+        });
+        
+        // Build Lunr index
+        lunrIndex = lunr(function () {
+          this.ref('uri');
+          this.field('title', { boost: 10 });
+          this.field('description', { boost: 5 });
+          this.field('content');
+          this.field('categories', { boost: 3 });
+          this.field('tags', { boost: 3 });
+          
+          pages.forEach(page => {
+            this.add({
+              uri: page.uri,
+              title: normalize(page.title),
+              description: normalize(page.description || ''),
+              content: normalize(page.content || ''),
+              categories: page.categories ? page.categories.map(c => normalize(c)).join(' ') : '',
+              tags: page.tags ? page.tags.map(t => normalize(t)).join(' ') : ''
+            });
+          });
+        });
+        
+        // Hide spinner, enable input
+        searchSpinner.classList.add('dn');
+        searchStatusText.textContent = `Search index loaded. ${pages.length} pages ready.`;
+        searchInput.disabled = false;
+        
+        // Check for URL query parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const queryVal = urlParams.get('q');
+        if (queryVal) {
+          searchInput.value = queryVal;
+          performSearch(queryVal);
+        } else {
+          searchStatusText.textContent = `Type below to search across all ${pages.length} pages.`;
+        }
+      })
+      .catch(error => {
+        console.error('Error fetching/parsing search index:', error);
+        searchSpinner.classList.add('dn');
+        searchStatusText.innerHTML = '<span style="color: red;">Failed to load search index. Please refresh the page.</span>';
+      });
+      
+    // Snippet maker with diacritic-aware highlighting
+    function makeSnippet(content, queryText) {
+      if (!content) return '';
+      const cleanContent = content.replace(/\s+/g, ' ');
+      const normalizedContent = normalize(cleanContent);
+      const terms = normalize(queryText).split(/\s+/).filter(t => t.length > 0);
+      
+      if (terms.length === 0) {
+        return cleanContent.substring(0, 160) + '...';
+      }
+      
+      let matchIdx = -1;
+      let matchedTermLength = 0;
+      for (const term of terms) {
+        const idx = normalizedContent.indexOf(term);
+        if (idx !== -1) {
+          matchIdx = idx;
+          matchedTermLength = term.length;
+          break;
+        }
+      }
+      
+      if (matchIdx === -1) {
+        return cleanContent.substring(0, 160) + '...';
+      }
+      
+      const start = Math.max(0, matchIdx - 60);
+      const end = Math.min(cleanContent.length, matchIdx + matchedTermLength + 100);
+      let snippet = cleanContent.substring(start, end);
+      
+      if (start > 0) snippet = '...' + snippet;
+      if (end < cleanContent.length) snippet = snippet + '...';
+      
+      let escapedSnippet = escapeHTML(snippet);
+      
+      // Highlight terms using diacritic pattern
+      terms.forEach(term => {
+        if (term.length < 2) return; // avoid highlighting single letters
+        const pattern = makeDiacriticRegexPattern(term);
+        try {
+          const regex = new RegExp('(' + pattern + ')', 'gi');
+          escapedSnippet = escapedSnippet.replace(regex, '<mark class="bg-yellow black ph1">$1</mark>');
+        } catch (e) {
+          console.error(e);
+        }
+      });
+      
+      return escapedSnippet;
+    }
+    
+    // Perform Search
+    function performSearch(queryText) {
+      if (!lunrIndex) return;
+      
+      const trimmedQuery = queryText.trim();
+      updateURL(trimmedQuery);
+      
+      if (!trimmedQuery) {
+        searchResults.innerHTML = '';
+        searchStatusText.textContent = `Type below to search across all ${pages.length} pages.`;
+        searchClear.classList.add('dn');
+        return;
+      }
+      
+      searchClear.classList.remove('dn');
+      
+      const normalizedQuery = normalize(trimmedQuery);
+      const terms = normalizedQuery.split(/\s+/).filter(t => t.length > 0);
+      
+      // Construct wildcard query for prefix matching
+      let lunrQuery = '';
+      terms.forEach((term, index) => {
+        if (index > 0) lunrQuery += ' ';
+        // Match term exactly or as a prefix
+        lunrQuery += `+${term} +${term}*`;
+      });
+      
+      let results = [];
+      try {
+        results = lunrIndex.search(lunrQuery);
+      } catch (e) {
+        // Fallback for syntax errors in search
+        try {
+          results = lunrIndex.search(normalizedQuery);
+        } catch (err) {
+          results = [];
+        }
+      }
+      
+      if (results.length === 0) {
+        searchResults.innerHTML = `
+          <div class="tc pv5 gray">
+            <svg class="w3 h3 center db mb3 o-40" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 15.75l-2.489-2.489m0 0a3.375 3.375 0 10-4.773-4.773 3.375 3.375 0 004.773 4.773z"></path>
+            </svg>
+            <p class="f4 sans-serif mb0">No results found for "<strong class="dark-gray">${escapeHTML(trimmedQuery)}</strong>"</p>
+            <p class="f6 mt2">Try checking spelling, removing diacritics, or searching shorter terms.</p>
+          </div>
+        `;
+        searchStatusText.textContent = '0 results found';
+        return;
+      }
+      
+      searchStatusText.textContent = `Found ${results.length} result${results.length === 1 ? '' : 's'} for "${trimmedQuery}"`;
+      
+      let html = '';
+      results.forEach(result => {
+        const page = pagesIndex[result.ref];
+        const snippet = makeSnippet(page.content || '', trimmedQuery);
+        
+        let tagsHtml = '';
+        if (page.tags && page.tags.length > 0) {
+          tagsHtml = '<div class="mt3 flex flex-wrap">';
+          page.tags.forEach(tag => {
+            tagsHtml += `<span class="result-tag f7 sans-serif bg-near-white gray hover-bg-light-gray mr2 mb2 pv1 ph2 br2 ba b--black-05">${escapeHTML(tag)}</span>`;
+          });
+          tagsHtml += '</div>';
+        }
+        
+        let catHtml = '';
+        if (page.categories && page.categories.length > 0) {
+          catHtml = '<div class="flex flex-wrap mb2">';
+          page.categories.forEach(cat => {
+            catHtml += `<span class="result-cat f7 sans-serif b ttu tracked mr3 dark-gray hover-maroon">${escapeHTML(cat)}</span>`;
+          });
+          catHtml += '</div>';
+        }
+        
+        html += `
+          <article class="search-card bg-white br3 ba b--light-gray mb3 pa4 shadow-4">
+            ${catHtml}
+            <h2 class="f3 athelas mt0 mb2 hover-maroon">
+              <a href="${page.uri}" class="link db dark-gray">
+                ${escapeHTML(page.title)}
+              </a>
+            </h2>
+            ${page.date ? `<time class="f6 db gray mb3 sans-serif">${page.date}</time>` : ''}
+            <p class="f5 lh-copy serif mid-gray mv0">
+              ${snippet}
+            </p>
+            ${tagsHtml}
+          </article>
+        `;
+      });
+      
+      searchResults.innerHTML = html;
+    }
+    
+    // Update URL query parameter
+    function updateURL(query) {
+      const url = new URL(window.location.href);
+      if (query) {
+        url.searchParams.set('q', query);
+      } else {
+        url.searchParams.delete('q');
+      }
+      window.history.replaceState({}, '', url.toString());
+    }
+    
+    // Event Listeners
+    let debounceTimer = null;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 150); // Small debounce for performance
+    });
+    
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+    
+    searchResults.addEventListener('click', (e) => {
+      if (e.target.classList.contains('result-tag') || e.target.classList.contains('result-cat')) {
+        const text = e.target.textContent.trim();
+        searchInput.value = text;
+        performSearch(text);
+        searchInput.focus();
+      }
+    });
+  })();
+</script>
+{{ end }}
