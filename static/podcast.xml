@@ -35,6 +35,19 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>Beautiful Factors</title>
+      <description>A discussion on the beautiful factors in Theravāda Buddhism.</description>
+      <link>https://archive.org/details/beautiful_factors</link>
+      <guid isPermaLink="true">https://archive.org/details/beautiful_factors</guid>
+      <enclosure url="https://dn710207.ca.archive.org/0/items/beautiful_factors/beautiful_factors_h.mp3"
+                 length="64172688"
+                 type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jun 2026 15:25:00 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
+      <itunes:keywords>theravada, buddhism, beautiful factors, abhidhamma</itunes:keywords>
+    </item>
+    <item>
       <title>Preparing for Meditation</title>
       <description>The metta sutta has a lot of information about the qualities needed for successful meditation, or how to prepare for meditation whether it is loving-kindness...</description>
       <link>https://archive.org/details/preparing_for_meditation</link>
@@ -45,7 +58,7 @@
       <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
       <itunes:duration>01:57:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://archive.org/download/preparing_for_meditation/preparing_for_meditation.png"/>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
       <itunes:keywords>theravada, buddhism, meditation, loving-kindness, metta</itunes:keywords>
     </item>
     <item>
@@ -59,7 +72,7 @@
       <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
       <itunes:duration>01:46:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://archive.org/download/importance_of_chanting/importance_of_chanting.png"/>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
       <itunes:keywords>theravada, buddhism, chant, puja</itunes:keywords>
     </item>
     <item>
@@ -73,7 +86,7 @@
       <pubDate>Sun, 15 Mar 2026 13:38:07 GMT</pubDate>
       <itunes:duration>00:51:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://archive.org/download/samsara-travels/samsara-travels.png"/>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
       <itunes:keywords>samsara, saṃsāra, theravada, buddhism</itunes:keywords>
     </item>
     <item>
@@ -87,7 +100,7 @@
       <pubDate>Sun, 15 Mar 2026 08:58:06 GMT</pubDate>
       <itunes:duration>00:53:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://archive.org/download/loving-kindness-wins/Loving-kindness_wins.png"/>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
       <itunes:keywords>alms, loving-kindness, theravada, buddhism</itunes:keywords>
     </item>
 <item>
@@ -101,6 +114,7 @@
       <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
       <itunes:keywords>kusala, akusala, wholesome, unwholesome, good bad, theravāda, buddhism, dhamma, bhante subhūti</itunes:keywords>
     </item>
     <item>
