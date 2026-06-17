@@ -12,7 +12,7 @@ description: "Bhante Subhūti – YouTube videos organised by topic."
     <a href="/videos/shorts/" class="no-underline db">
       <div class="bg-card pa4 br3 shadow-4 w-100 h5 flex flex-column items-center justify-center tc hover-bg-light-gray pointer">
         <i class="fa-solid fa-film fa-3x mb3" style="color:#7E57C2;"></i>
-        <h3 class="f5 fw6 mt2 dark-gray">Shorts (25)</h3>
+        <h3 class="f5 fw6 mt2 dark-gray">Shorts (31)</h3>
       </div>
     </a>
   </div>
@@ -62,7 +62,7 @@ description: "Bhante Subhūti – YouTube videos organised by topic."
     <a href="/videos/tech/" class="no-underline db">
       <div class="bg-card pa4 br3 shadow-4 w-100 h5 flex flex-column items-center justify-center tc hover-bg-light-gray pointer">
         <i class="fa-solid fa-microchip fa-3x mb3" style="color:#00897B;"></i>
-        <h3 class="f5 fw6 mt2 dark-gray">Tech & Projects (5)</h3>
+        <h3 class="f5 fw6 mt2 dark-gray">Tech & Projects (4)</h3>
       </div>
     </a>
   </div>
@@ -102,7 +102,7 @@ description: "Bhante Subhūti – YouTube videos organised by topic."
     <a href="/videos/other/" class="no-underline db">
       <div class="bg-card pa4 br3 shadow-4 w-100 h5 flex flex-column items-center justify-center tc hover-bg-light-gray pointer">
         <i class="fa-solid fa-shapes fa-3x mb3" style="color:#43A047;"></i>
-        <h3 class="f5 fw6 mt2 dark-gray">Other (7)</h3>
+        <h3 class="f5 fw6 mt2 dark-gray">Other (6)</h3>
       </div>
     </a>
   </div>
@@ -112,7 +112,7 @@ description: "Bhante Subhūti – YouTube videos organised by topic."
     <a href="/videos/uncategorized/" class="no-underline db">
       <div class="bg-card pa4 br3 shadow-4 w-100 h5 flex flex-column items-center justify-center tc hover-bg-light-gray pointer">
         <i class="fa-solid fa-circle-question fa-3x mb3" style="color:#1E88E5;"></i>
-        <h3 class="f5 fw6 mt2 dark-gray">No Category (1)</h3>
+        <h3 class="f5 fw6 mt2 dark-gray">No Category (2)</h3>
       </div>
     </a>
   </div>
