@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article class="mw8 center ph3 pv4">
+  <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif" }} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} w-100">
+    {{- .Content -}}
+  </div>
+</article>
+{{ end }}
