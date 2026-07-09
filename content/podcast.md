@@ -92,7 +92,7 @@ If you would like to participate in our live Sunday Dhamma discussions, please v
 
 <!-- Spotify -->
 <a href="https://open.spotify.com/show/2ROj0YalYTpP9qb3YsI8Xz" target="_blank" rel="noopener noreferrer" style="display: inline-block; height: 40px;">
-<img src="/images/Spotify_Full_Logo_RGB_Green.png" alt="Listen on Spotify" style="height: 40px; border-radius: 6px;">
+<img src="/images/spotify_badge.png" alt="Listen on Spotify" style="height: 40px; border-radius: 6px;">
 </a>
 
 <!-- Pocket Casts -->
