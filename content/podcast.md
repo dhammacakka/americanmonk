@@ -77,6 +77,9 @@ description: "Listen to the American Monk Podcast — Dhamma talks by Bhante Sub
     Dhamma talks and reflections from Bhante Subhūti, a Theravāda Buddhist monk.
   </p>
 
+  ### Join the Sunday Talks
+If you would like to participate in our live Sunday Dhamma discussions, please visit the [Contact Page](/about/) to request the invitation link.
+
   <h3 style="color: #4a4a4a; margin-bottom: 1rem;">Subscribe on Your Favorite Platform</h3>
 
   <div class="sub-buttons">
