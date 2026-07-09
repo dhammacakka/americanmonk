@@ -69,36 +69,54 @@ description: "Listen to the American Monk Podcast — Dhamma talks by Bhante Sub
 
 <div class="podcast-landing">
 
-  <img class="cover" src="/images/podcast-cover.jpg" alt="American Monk Podcast Cover">
+<img class="cover" src="/images/podcast-cover.jpg" alt="American Monk Podcast Cover">
 
-  <h2 style="margin: 0 0 0.75rem 0; color: #2c2c2c;">The American Monk Podcast</h2>
+<h2 style="margin: 0 0 0.75rem 0; color: #2c2c2c;">The American Monk Podcast</h2>
 
-  <p style="font-size: 1.1rem; color: #555; line-height: 1.6; margin-bottom: 2rem;">
-    Dhamma talks and reflections from Bhante Subhūti, a Theravāda Buddhist monk.
-  </p>
+<p style="font-size: 1.1rem; color: #555; line-height: 1.6; margin-bottom: 2rem;">
+Dhamma talks and reflections from Bhante Subhūti, a Theravāda Buddhist monk.
+</p>
 
-  ### Join the Sunday Talks
-If you would like to participate in our live Sunday Dhamma discussions, please visit the [Contact Page](/about/) to request the invitation link.
+<h3 style="margin: 2rem 0 0.75rem 0; color: #2c2c2c;">Join the Sunday Talks</h3>
+<p style="font-size: 1.1rem; color: #555; line-height: 1.6; margin-bottom: 2.5rem;">
+If you would like to participate in our live Sunday Dhamma discussions, please visit the <a href="/about/">Contact Page</a> to request the invitation link.
+</p>
 
-  <h3 style="color: #4a4a4a; margin-bottom: 1rem;">Subscribe on Your Favorite Platform</h3>
+<h3 style="color: #4a4a4a; margin-bottom: 1.5rem;">Subscribe on Your Favorite Platform</h3>
 
-  <div class="sub-buttons">
-    <a href="https://podcasts.apple.com/us/podcast/american-monk-podcast/id6788781522" style="background: #000;">🎧 Apple Podcasts</a>
-    <a href="https://open.spotify.com/show/2ROj0YalYTpP9qb3YsI8Xz" style="background: #1DB954;">🎵 Spotify</a>
-    <a href="/podcast.xml" style="background: #F26522;">📡 RSS Feed</a>
-  </div>
+<div class="sub-buttons" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; margin-bottom: 2.5rem;">
+<!-- Apple Podcasts -->
+<a href="https://podcasts.apple.com/us/podcast/american-monk-podcast/id6788781522" target="_blank" rel="noopener noreferrer" style="display: inline-block; height: 40px;">
+<img src="/images/Apple_Podcast_Listen_on_Badge_RGB_USGB-EN_CI_111825.svg" alt="Listen on Apple Podcasts" style="height: 40px; border-radius: 6px;">
+</a>
 
-  <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
+<!-- Spotify -->
+<a href="https://open.spotify.com/show/2ROj0YalYTpP9qb3YsI8Xz" target="_blank" rel="noopener noreferrer" style="display: inline-block; height: 40px;">
+<img src="/images/Spotify_Full_Logo_RGB_Green.png" alt="Listen on Spotify" style="height: 40px; border-radius: 6px;">
+</a>
 
-  <h3 style="color: #2c2c2c; margin-bottom: 1.25rem; text-align: left;">Recent Episodes</h3>
+<!-- Pocket Casts -->
+<a href="https://pocketcasts.com/podcast/american-monk-podcast/f0d7eec0-537a-013e-2aa7-0affe10cf08b" target="_blank" rel="noopener noreferrer" style="display: inline-block; height: 40px;">
+<img src="/images/pocketcasts_small_light@2x-g7_53-F9.png" alt="Listen on Pocket Casts" style="height: 40px; border-radius: 6px;">
+</a>
 
-  <div id="episodes-container">
-    <p style="color: #999;">Loading episodes...</p>
-  </div>
+<!-- RSS Feed -->
+<a href="/podcast.xml" style="display: inline-flex; align-items: center; background: #F26522; color: #fff; text-decoration: none; padding: 0 1.2rem; border-radius: 6px; font-weight: 500; height: 40px; box-sizing: border-box; line-height: 40px;">
+📡 RSS Feed
+</a>
+</div>
 
-  <p style="color: #888; font-size: 0.9rem; margin-top: 2rem;">
-    Subscribe to the RSS feed to get all episodes in your favorite podcast app.
-  </p>
+<hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
+
+<h3 style="color: #2c2c2c; margin-bottom: 1.25rem; text-align: left;">Recent Episodes</h3>
+
+<div id="episodes-container">
+<p style="color: #999;">Loading episodes...</p>
+</div>
+
+<p style="color: #888; font-size: 0.9rem; margin-top: 2rem;">
+Subscribe to the RSS feed to get all episodes in your favorite podcast app.
+</p>
 
 </div>
 
