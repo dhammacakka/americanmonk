@@ -17,122 +17,140 @@ featured_image: /images/TPR-billboard.webp
 
 {{< img src = "/images/TPR-billboard-1024x577.webp" >}}
 
-## Tiptkata Pali Reader
 
+## Download
 
-A new beautiful app written in Flutter for all Desktops and Mobile Devices.
+| OS Symbol | Download Link |
+| :---: | :--- |
+| [{{< resizeimg src="/images/Windows_10_logo.webp" width="45" >}}](ms-windows-store://pdp/?ProductId=9MTH9TD82TGR) | [Windows Store](ms-windows-store://pdp/?ProductId=9MTH9TD82TGR) |
+| [{{< simpleimg src="/images/200px-MacOS_logo_2017.svg_.webp" width="45" alt="Mac OS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) | [Mac OS Store](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) |
+| [{{< simpleimg src="/images/flathub-logo-toolbar.svg" width="45" alt="Flathub Store Logo" >}}](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) | [Flathub Store](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) |
+| [{{< simpleimg src="/images/flathub-logo-toolbar.svg" width="45" alt="Linux AppImage Logo" >}}](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) | [Linux AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)<br>`sudo apt install libfuse2 libsqlite3-dev` |
+| [{{< simpleimg src="/images/480px-Android-logo.webp" width="45" alt="Android Store Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) | [Android Store](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) |
+| [{{< simpleimg src="/images/App_Store_iOS_11_Custom_size.webp" width="45" alt="iOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone) | [iOS Store](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone) |
 
-## Download:
-## Download:
-[{{< resizeimg src="/images/Windows_10_logo.webp" width="50" >}}](ms-windows-store://pdp/?ProductId=9MTH9TD82TGR) [(Windows Store)](ms-windows-store://pdp/?ProductId=9MTH9TD82TGR)
+# Tipitaka Pāḷi Reader
 
-[{{< simpleimg src="/images/200px-MacOS_logo_2017.svg_.webp" width="50" alt="MacOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
+### The Ultimate Cross-Platform Pāḷi Reading, AI Search & Translation Suite
 
-[{{< simpleimg src="/images/flathub-logo-toolbar.svg" width="50" alt="Flathub Store Logo" >}}](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) [(Flathub Store)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)
+**Tipitaka Pāḷi Reader (TPR)** is a modern, feature-packed app designed for monks, scholars, students, and practitioners of the Pāḷi Tipiṭaka. Built from the ground up with Flutter, TPR delivers a fluid experience across all Desktop and Mobile devices, combining **Full English Line-by-Line Translations**, **AI-Powered Semantic Searching**, **Integrated Dictionaries**, and **Multi-Panel Canon Reading**.
 
+---
 
-[](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) [TPR-AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)
+## Key Highlighted Features
 
-`sudo apt install libfuse2 libsqlite3-dev`
+### 1. Full Line-by-Line English Translation (via ePitaka Extension)
+Reading Pāḷi has never been more accessible! With the **ePitaka Extension**, TPR brings complete **line-by-line English translations** alongside the original Pāḷi text for the Mūla Suttas.
+- **Side-by-Side Reading**: Compare Pāḷi lines directly with English translations line by line.
+- **Easy One-Click Setup**: Install the ePitaka extension directly inside TPR's built-in Extension Manager.
+- **No Internet Required After Download**: Read fully translated texts offline anywhere you go.
 
-[{{< simpleimg src="/images/480px-Android-logo.webp" width="50" alt="Google Play Store Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader)
+---
 
+### 2. Next-Generation AI Searching & Intelligent Assistant
+TPR revolutionizes Pāḷi canonical research with integrated Artificial Intelligence:
 
-[{{< simpleimg src="/images/App_Store_iOS_11_Custom_size.webp" width="50" alt="iOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone) [(iOS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone)
+- **AI-Powered Semantic Search**: Search the Tipiṭaka using natural language questions or concept queries in plain English (e.g., *"What did the Buddha say about mindfulness of breathing?"* or *"Explain the factors of Jhana"*). The AI automatically plans search terms, queries the canon, evaluates matching passages, and synthesizes key summaries with direct jump links to the exact text.
+- **AI Context & Passage Breakdown**: Highlight any word, sentence, or section in a book, right-click (or long-press), and open **AI Context**.
+- **OpenRouter API Integration**: Connect your own {{< extlink "https://openrouter.ai/" "OpenRouter" >}} key to access free or premium state-of-the-art models (GPT-4o, Claude, Gemini, etc.).
+- **Custom Prompts & Grammatical Analysis**: Ask for contextual breakdowns, etymological explanations, or translation comparisons tailored to your exact study goals.
 
+---
 
+### 3. Complete Tipiṭaka Canon with Multi-View (M-A-T)
+- **Mūla, Aṭṭhakathā, and Ṭīkā (M-A-T)**: Instantly switch or open Root Suttas, Commentaries, and Sub-commentaries side-by-side.
+- **Multi-Panel Split Layout**: Synchronize scrolling across multiple panes, hide/expand panels, and customize your layout for comparative study.
 
-## What is new?
-2.7.7+107 Now supports ePitaka extension will all texts translated.
+---
 
-**Build 85+ Release** — May 2025 for Linux AppImage, Android, and Windows:
+### 4. Deep Integrated Dictionaries (DPD & PEU)
+- Includes the world-class **Digital Pāḷi Dictionary (DPD)** by Ven. Bodhirasa and the **Pāḷi-English Ultimate (PEU)** dictionary.
+- **Single-Tap Lookup**: Tap or click any word in a text to instantly view definitions, grammatical declension/conjugation tables, compound breakdowns, and word family origins.
+- **Moveable Sliding Sheet**: Flexible dictionary drawer that resizes or pops up smoothly.
 
-This release includes AI integration. You will need an AI API key from {{< extlink "https://openrouter.ai/" "OpenRouter" >}}, but you can get one without a credit card and use the free API engines, which work reasonably well. However, GPT-4o or GPT-4.1 offer better performance.
+---
 
-Simply add the key in the settings and save it. Then, go to the book, highlight some text, right-click (or long-press), and select **AI Context**. This will send a request to OpenRouter with the selected text and chosen prompt.
+### 5. Lightning SQLite Full-Text Search (FTS) with Diacritic Fuzzy Matching
+- Instant search engine powered by SQLite FTS.
+- **Fuzzy Diacritic Matching**: Search using simple Roman letters (e.g., typing `samanera` finds `sāmaṇera`).
+- Filter results by canon section chips (Mūla, Aṭṭhakathā, Ṭīkā, Vinaya, Sutta, Abhidhamma).
+- In-page search (`Ctrl+F` / `Cmd+F`) for quick keyword jumping.
 
-You can also temporarily modify the prompts. The feature works with multiple languages and scripts out of the box.
+---
 
+### 6. Built-In Velthuis Diacritic Input & Multi-Script Support
+- **Velthuis System Integration**: Type diacritics using standard ASCII keys (`aa` $\rightarrow$ `ā`, `.m` $\rightarrow$ `ṃ`, `~n` $\rightarrow$ `ñ`). No special external keyboards needed!
+- **Multi-Script Rendering**: View Pāḷi text seamlessly in Roman, Sinhala, Devanagari, Myanmar, Thai, Khmer, Bengali, Cyrillic, and more.
 
+---
 
-## Purpose of Application:
+### 7. Bookmarks, Sticky Highlights & Custom Notes
+- Save bookmarks with custom study notes.
+- Apply sticky highlights directly onto text lines for visual reference.
+- Track recent reading locations for instant continuation.
 
-This app is useful for reading Pāḷi texts. It is similar to [TPP](https://americanmonk.org/tipitaka-pali-projector/). Total feature migration is planned in the future. If you read pāḷi and use a reading app, you will most likely prefer this as your pāḷi reading app on the phone or desktop. However, at the moment some features are better in TPP.
+---
 
-{{< img src = "/images/mettasearch-1024x611.webp" >}}
+### 8. Deep Linking & Easy Passage Sharing
+Sharing canonical passages with friends, study groups, or notes is effortless:
+- **Right-Click to Copy Link**: Right-click (or long-press) any word, sentence, or section to quickly copy a direct deep link.
+- **Bookmark & Share Links**: Save deep links in your bookmarks or share them in messages, emails, and documents.
+- **Instant App Opening**: When anyone taps or clicks the link on their device, it opens the app directly to that exact text and passage!
 
-{{< img src = "/images/screenlinux-1024x610.webp" >}}
+---
 
-## Typing Roman Letters:
-
-Typing in Roman script has full integration with the velthuis ascii typing system which is now a standard in pali. The keyboard chart can be found on this [Wikipedia page](https://en.wikipedia.org/wiki/Velthuis)
-
-## Dictionary:
-
-The dictionary and reading experience is where TPR shines the most. We have included [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/) and Pāḷi English Ultimate dictionaries as part of the standard installed dictionaries. Soon you will be able to download more.
-
-{{< img src = "/images/dictionaryResult.webp" >}}
-
-Dictionary Results
-
-{{< img src = "/images/MoveDictionary.gif" >}}
-
-Dictionary
-
-## User Interface Diagram:
-
-
-{{<img src = "/images/TPR-MainScreen-1024x500.webp">}}
-## Multiview, Hide/Show, and Expand/Shrink Panel
-
-{{< img src = "/images/multiview3.gif" >}}
-
-Easily open, hide show, new documents. Expand hide panel
-
-## Searching:
+## Interactive Interface Showcase
 
 {{< img src = "/images/TPR-MainScreen-1024x500.webp" >}}
+*Main Reader Interface with Navigation Pane and Canon Selection*
 
-Searching is very fast because we use an indexed [Sqlite](https://en.wikipedia.org/wiki/SQLite) Full Text Search ([FTS](https://en.wikipedia.org/wiki/Full-text_search)) technology.
+{{< img src = "/images/multiview3.gif" >}}
+*Multi-View Panel: Open, compare, hide/show, and resize side-by-side Mūla, Aṭṭhakathā, and Ṭīkā views*
+
+{{< img src = "/images/dictionaryResult.webp" >}}
+*Instant Dictionary Lookup with Digital Pāḷi Dictionary (DPD)*
+
+{{< img src = "/images/MoveDictionary.gif" >}}
+*Flexible Resizable & Moveable Dictionary Drawer*
 
 {{< img src = "/images/SearchType-1024x742.webp" >}}
+*Fast Search Engine with Category Filter Chips*
 
 {{< img src = "/images/SearchChipFilter.webp" >}}
-
-Turn on and off filter chips
+*Filtering Search Results by Canonical Sections*
 
 {{< img src = "/images/searchgif.gif" >}}
-
-search filter
-
-## Bookmarks and Recent:
-
-Recent visits and bookmarks items can be deleted by clicking on the trash can on the upper right corner of the screen. You can also swipe right individually and mark for deletion.
+*Dynamic Search Filtering in Action*
 
 {{< img src = "/images/bookmar.webp" >}}
-
-Bookmarks
+*Bookmarks & Custom Notes Management*
 
 {{< img src = "/images/recent.webp" >}}
-
-Recent list
-
-## Extensions:
-
-Now you can add extensions to add English and Pāḷi line by line mula suttas. Also dictionary updates for DPD and PEU. Please watch the [Video on YouTube](https://www.youtube.com/watch?v=iw43j8mnGss) to fully understand how to use this.
+*Recent Reading History & Quick Navigation*
 
 {{< img src = "/images/extensions-1024x606.webp" >}}
+*Extension Manager: One-click install for ePitaka Full English Line-by-Line Translations*
 
-## Contributors:
+{{< img src = "/images/mettasearch-1024x611.webp" >}}
+*Mettā Search & Deep Text Analysis*
 
-The main programmer for this app is Venerable Ashin Pannyadazza. His apps can be [found here for Apple](https://apps.apple.com/sg/developer/pinnyar-daza/id1531500544) and [here for Android](https://play.google.com/store/apps/developer?id=Pn%20Daza). He is a very talented self taught programmer and structures his code very nicely according to proper coding practices. I was responsible for the project management, and some minor programming tasks. The project and code are available on [github](https://github.com/bksubhuti/tipitaka-pali-reader) which also lists the original code this was forked from. If you would like to help in technical and non-technical ways, please [contact](https://americanmonk.org/contact/) us. We also owe gratitude to [Tharindu Madushanka](https://github.com/tharindu) who has donated his time for the Apple submissions to the [Path Nirvana Foundation's](https://apps.apple.com/us/developer/path-nirvana-foundation/id1434955292) App store listing.
+{{< img src = "/images/screenlinux-1024x610.webp" >}}
+*Desktop Reading Experience on Linux*
 
-## Other Software:
+---
 
-Other Software arranged by AmericanMonk.org
+## Contributors & Open Source Community
 
-{{< img src = "/images/buddhist_sun.webp" >}}
+- **Lead Developer**: Venerable Ashin Pannyadazza ([Apple Developer Page](https://apps.apple.com/sg/developer/pinnyar-daza/id1531500544) | [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Pn%20Daza)).
+- **Project Management & Co-Development**: Venerable Subhuti ([AmericanMonk.org](https://americanmonk.org/)).
+- **Store Distribution Support**: Tharindu Madushanka and the [Path Nirvana Foundation](https://apps.apple.com/us/developer/path-nirvana-foundation/id1434955292) for Apple App Store submissions.
+- **Open Source Repository**: Source code is available on [GitHub](https://github.com/bksubhuti/tipitaka-pali-reader). Technical contributions, feature requests, and issue reports are always welcome!
 
-### Buddhist Sun App
+---
 
-If you are a monk, nun or a practicing yogi who has vowed to not eat after Noon, you will benefit from this app.
+## Other Useful Software
+
+[{{< resizeimg src="/images/buddhist_sun_logo4.webp" width="100" >}}](/buddhist-sun-app/)
+
+### [Buddhist Sun App](/buddhist-sun-app/)
+Designed for monks, nuns, and practicing yogis who observe the precept of not eating after noon. Calculates exact solar noon based on GPS location. Available on the [Buddhist Sun App](/buddhist-sun-app/) page.
