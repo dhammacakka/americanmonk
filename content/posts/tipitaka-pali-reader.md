@@ -41,19 +41,32 @@ featured_image: /images/TPR-billboard.webp
 
 ### 1. Full Line-by-Line English Translation (via ePitaka Extension)
 Reading Pāḷi has never been more accessible! With the **ePitaka Extension**, TPR brings complete **line-by-line English translations** alongside the original Pāḷi text for the Mūla Suttas.
-- **Side-by-Side Reading**: Compare Pāḷi lines directly with English translations line by line.
+- **line-by-line Reading**: Compare Pāḷi lines directly with English translations line by line.
 - **Easy One-Click Setup**: Install the ePitaka extension directly inside TPR's built-in Extension Manager.
 - **No Internet Required After Download**: Read fully translated texts offline anywhere you go.
+{{< img src = "/images/extensions-1024x606.webp" >}}
+*Extension Manager: One-click install for ePitaka Full English Line-by-Line Translations*
+
+{{< img src = "/images/linebyline_english.webp" >}}
+*Side-by-Side Line-by-Line English Translation*
 
 ---
 
 ### 2. Next-Generation AI Searching & Intelligent Assistant
+{{< img src = "/images/ai_settings.webp" >}}
+*AI Settings & OpenRouter API Configuration*
+
 TPR revolutionizes Pāḷi canonical research with integrated Artificial Intelligence:
 
 - **AI-Powered Semantic Search**: Search the Tipiṭaka using natural language questions or concept queries in plain English (e.g., *"What did the Buddha say about mindfulness of breathing?"* or *"Explain the factors of Jhana"*). The AI automatically plans search terms, queries the canon, evaluates matching passages, and synthesizes key summaries with direct jump links to the exact text.
 - **AI Context & Passage Breakdown**: Highlight any word, sentence, or section in a book, right-click (or long-press), and open **AI Context**.
 - **OpenRouter API Integration**: Connect your own {{< extlink "https://openrouter.ai/" "OpenRouter" >}} key to access free or premium state-of-the-art models (GPT-4o, Claude, Gemini, etc.).
 - **Custom Prompts & Grammatical Analysis**: Ask for contextual breakdowns, etymological explanations, or translation comparisons tailored to your exact study goals.
+
+
+{{< img src = "/images/ai_search.webp" >}}
+*AI-Powered Semantic Search & Natural Language Queries*
+
 
 ---
 
@@ -75,6 +88,8 @@ TPR revolutionizes Pāḷi canonical research with integrated Artificial Intelli
 - **Fuzzy Diacritic Matching**: Search using simple Roman letters (e.g., typing `samanera` finds `sāmaṇera`).
 - Filter results by canon section chips (Mūla, Aṭṭhakathā, Ṭīkā, Vinaya, Sutta, Abhidhamma).
 - In-page search (`Ctrl+F` / `Cmd+F`) for quick keyword jumping.
+{{< img src = "/images/mettasearch-1024x611.webp" >}}
+*Mettā Search & Deep Text Analysis*
 
 ---
 
@@ -128,11 +143,6 @@ Sharing canonical passages with friends, study groups, or notes is effortless:
 {{< img src = "/images/recent.webp" >}}
 *Recent Reading History & Quick Navigation*
 
-{{< img src = "/images/extensions-1024x606.webp" >}}
-*Extension Manager: One-click install for ePitaka Full English Line-by-Line Translations*
-
-{{< img src = "/images/mettasearch-1024x611.webp" >}}
-*Mettā Search & Deep Text Analysis*
 
 {{< img src = "/images/screenlinux-1024x610.webp" >}}
 *Desktop Reading Experience on Linux*
