@@ -25,13 +25,13 @@ featured_image: /images/Kind_Teleprompter.webp
 
 # Kind Teleprompter
 
-This teleprompter follows your spoken voice in real time as you record videos.
+This **free** teleprompter, with **no subscriptions** and **no ads**, follows your spoken voice in real time as you record videos.
 
 Simply read your script aloud! The offline voice tracking engine matches your spoken words and automatically keeps your script aligned right where you are reading.
 
 
-# Why did I made it?
-I needed a teleprompter, but didn't want to ask a donor to pay for one.  So I made my own.  It turned out pretty well and makes it easy to record videos.  I hope you enjoy it.
+# Why Did I Make It?
+I needed a teleprompter, but didn't want to ask a donor to pay for one, so I made my own.  I think it turned out pretty well and makes it easier to record videos.  I hope you enjoy it.  It was made with love for myself and for anyone else who might need it.  **[Open Source](https://github.com/bksubhuti/kind_teleprompter)**
 
 
 ---
