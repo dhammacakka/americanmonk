@@ -25,13 +25,13 @@ featured_image: /images/Kind_Teleprompter.webp
 
 # Kind Teleprompter
 
-This **free** teleprompter, with **no subscriptions** and **no ads**, follows your spoken voice in real time as you record videos.
+This **free** teleprompter, with **no subscriptions** and **no ads**, follows your spoken voice in real time as you record videos. We don't collect any of your data. You can read our full [Privacy Policy](/privacy-policy-for-kind-teleprompter/).
 
 Simply read your script aloud! The offline voice tracking engine matches your spoken words and automatically keeps your script aligned right where you are reading.
 
 
-# Why Did I Make It?
-I needed a teleprompter, but didn't want to ask a donor to pay for one, so I made my own.  I think it turned out pretty well and makes it easier to record videos.  I hope you enjoy it.  It was made with love for myself and for anyone else who might need it.  **[Open Source](https://github.com/bksubhuti/kind_teleprompter)**
+## Why Did I Make It?
+I needed a teleprompter, but didn't want to ask a donor to pay for one, so I made my own.  I think it turned out pretty well and it makes it easier to record videos.  I hope you enjoy it and find it useful. It was made with love those who need a free and teleprompter.
 
 
 ---
@@ -49,7 +49,11 @@ If highlighting lag distracts you, you can turn it off in the settings.
 
 *Note: The floating window (PIP) feature was removed due to technical challenges, such as audio conflicts on Android and strict PIP limitations on iOS.*
 
-Try reading this sentence now to watch the voice tracking in action!
+Try downloading the app to watch the voice tracking in action!
+
+May this app be of benefit and help you on your path. Sādhu, sādhu, sādhu.
+
+Kind Teleprompter open source link [here.](https://github.com/bksubhuti/kind_teleprompter) 
 
 ---
 
@@ -65,4 +69,3 @@ Designed for monks, nuns, and practicing yogis who observe the precept of not ea
 ### [Tipitaka Pali Reader](/tipitaka-pali-reader/)
 The Ultimate Cross-Platform Pāḷi Reading, AI Search & Translation Suite. Available on the [Tipitaka Pali Reader](/tipitaka-pali-reader/) page.
 
-May this app be of benefit and help you on your path. Sādhu, sādhu, sādhu.
