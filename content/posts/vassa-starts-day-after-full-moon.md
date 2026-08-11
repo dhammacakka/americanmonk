@@ -52,7 +52,7 @@ You can see that for year 2026, the Full Moon day is July 29th, while the First 
 
 ## A Common Mistake
 
-I've had monk friends message me over the years saying, "Happy Vassa! I'm entering the retreat today!" — on the full moon day itself. It's a harmless and common mistake, but technically they are one day early. At Pa-Auk and other vinaya monasteries, we are careful about this because our teachers follow the commentarial tradition closely.
+Over the years I see people saying, "Happy Vassa!" — on the full moon day itself. It's a harmless and common mistake, but technically they are one day early. At Pa-Auk and other vinaya monasteries, we are careful about this because our teachers follow the commentarial tradition closely.
 
 If you really want to understand how the monastic calendar works, I recommend reading my post on {{< url-out "why-is-vassa-rainy-season-late-sometimes" "why vassa is late sometimes" >}} and my earlier post on {{< url-out "when-does-rainy-season-start" "when the rainy season starts" >}}. Together with this post, you'll have a pretty complete picture of how the Buddhist calendar works.
 
