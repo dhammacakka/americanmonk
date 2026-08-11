@@ -65,17 +65,18 @@ If you want to verify all of this yourself, download the {{< extlink "https://am
 {{< youtube W6xVhPiDx_I >}}
 
 ## Summary Poem
-The full moon shines, and the people pray,
-Think that vassa starts that very same day.
-But the monks who know the old ancient way,
-Begin on the vassa on the following day.
 
-The moon marks the endings, and not the start,
-The fifteenth day completes only a part.
-A new pakkha dawns with morning light,
-The rains retreat begins after a night.
-
-So check the app, and see it is clear,
-That the Sāvana month is finally here.
-The ancient calendar holds the old way,
-Of the Vinaya Sangha, as they count the days.
+> The full moon shines, and the people pray,  
+> Think that vassa starts that very same day.  
+> But the monks who know the old ancient way,  
+> Begin on the vassa on the following day.  
+>
+>The moon marks the endings, and not the start,  
+>The fifteenth day completes only a part.  
+>A new pakkha dawns with morning light,  
+>The rains retreat begins after a night.  
+>
+>So check the app, and see it is clear,  
+>That the Sāvana month is finally here.  
+>The ancient calendar holds the old way,  
+>Of the Vinaya Saṅgha, as they count the days.    
