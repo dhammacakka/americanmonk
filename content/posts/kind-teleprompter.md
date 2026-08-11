@@ -9,6 +9,7 @@ tags:
   - app
   - teleprompter
   - android
+  - ios
 authors:
   - bksubhuti
 featured_image: /images/Kind_Teleprompter.webp
@@ -21,6 +22,7 @@ featured_image: /images/Kind_Teleprompter.webp
 | OS Symbol | Download Link |
 | :---: | :--- |
 | [{{< simpleimg src="/images/480px-Android-logo.webp" width="45" alt="Android Store Logo" >}}](https://play.google.com/store/apps/details?id=org.americanmonk.kindteleprompter) | [Android Store](https://play.google.com/store/apps/details?id=org.americanmonk.kindteleprompter) |
+| [{{< simpleimg src="/images/App_Store_iOS_11_Custom_size.webp" width="45" alt="iOS Store Logo" >}}](https://apps.apple.com/us/app/kind-teleprompter/id6796031402) | [iOS Store](https://apps.apple.com/us/app/kind-teleprompter/id6796031402) |
 
 
 # Kind Teleprompter
