@@ -62,6 +62,8 @@ If you really want to understand how the monastic calendar works, I recommend re
 
 If you want to verify all of this yourself, download the {{< extlink "https://americanmonk.org/buddhist-sun-app/" "Buddhist Sun App" >}}. It's free, available on both iOS and Android, and it shows you the Uposatha days, the pakkha cycles, and even which Buddhist month we are currently in. It's a handy tool for monks and laypeople alike.
 
+{{< youtube W6xVhPiDx_I >}}
+
 ## Summary Poem
 The full moon shines, and the people pray,
 Think that vassa starts that very same day.
