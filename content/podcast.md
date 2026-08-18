@@ -109,7 +109,7 @@ If you would like to participate in our live Sunday Dhamma discussions, please v
 
 <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
 
-<h3 style="color: #2c2c2c; margin-bottom: 1.25rem; text-align: left;">Recent Episodes</h3>
+<h3 style="color: #2c2c2c; margin-bottom: 1.25rem; text-align: left;">All Episodes</h3>
 
 <div id="episodes-container">
 <p style="color: #999;">Loading episodes...</p>
@@ -132,27 +132,55 @@ Subscribe to the RSS feed to get all episodes in your favorite podcast app.
       var container = document.getElementById('episodes-container');
       container.innerHTML = '';
 
-      var count = Math.min(items.length, 5);
-      for (var i = 0; i < count; i++) {
+      function formatDuration(dur) {
+        if (!dur || dur === '00:00:00' || dur === '0:00') return '';
+        var parts = dur.split(':').map(function(p) { return parseInt(p, 10); });
+        if (parts.length === 3 && !isNaN(parts[0])) {
+          var h = parts[0], m = parts[1];
+          if (h > 0) {
+            return h + ' hr' + (m > 0 ? ' ' + m + ' min' : '');
+          } else if (m > 0) {
+            return m + ' min';
+          }
+        }
+        return dur.replace(/^00:/, '');
+      }
+
+      for (var i = 0; i < items.length; i++) {
         var item = items[i];
-        var title = item.querySelector('title').textContent;
-        var pubDate = item.querySelector('pubDate').textContent;
+        var title = item.querySelector('title') ? item.querySelector('title').textContent : '';
+        var pubDate = item.querySelector('pubDate') ? item.querySelector('pubDate').textContent : '';
         var enclosure = item.querySelector('enclosure');
         var audioUrl = enclosure ? enclosure.getAttribute('url') : '';
+        var durEl = item.getElementsByTagNameNS('*', 'duration')[0] || item.querySelector('duration');
+        var duration = durEl ? durEl.textContent.trim() : '';
 
         // Format the date nicely
-        var d = new Date(pubDate);
-        var months = ['January','February','March','April','May','June',
-                      'July','August','September','October','November','December'];
-        var dateStr = months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+        var dateStr = '';
+        if (pubDate) {
+          var d = new Date(pubDate);
+          if (!isNaN(d.getTime())) {
+            var months = ['January','February','March','April','May','June',
+                          'July','August','September','October','November','December'];
+            dateStr = months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+          } else {
+            dateStr = pubDate;
+          }
+        }
+
+        var prettyDuration = formatDuration(duration);
+        var metaInfo = dateStr;
+        if (prettyDuration) {
+          metaInfo = metaInfo ? metaInfo + ' • ' + prettyDuration : prettyDuration;
+        }
 
         var card = document.createElement('div');
         card.className = 'episode-card';
         card.innerHTML =
-          '<p class="ep-date">' + dateStr + '</p>' +
+          (metaInfo ? '<p class="ep-date">' + metaInfo + '</p>' : '') +
           '<p class="ep-title">' + title + '</p>' +
           (audioUrl
-            ? '<audio controls preload="metadata"><source src="' + audioUrl + '" type="audio/mpeg"></audio>'
+            ? '<audio controls preload="metadata" src="' + audioUrl + '"></audio>'
             : '');
         container.appendChild(card);
       }

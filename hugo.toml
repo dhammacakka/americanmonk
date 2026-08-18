@@ -41,7 +41,7 @@ enableRobotsTXT = true
 
 
 [permalinks]
-  posts = "/:filename/"
+  posts = "/:contentbasename/"
 
 
 [sitemap]

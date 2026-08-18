@@ -4,7 +4,7 @@
 {{ $image := resources.Get $src }}
 {{ if $image }}
 {{ $resizedImage := $image.Resize $size }}
-<img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Get " alt" }}" />
+<img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Get "alt" }}" />
 {{ else }}
 <p>Image not found: {{ $src }}</p>
 {{ end }}
