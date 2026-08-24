@@ -35,6 +35,20 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>Buddhism And Artificial Intelligence</title>
+      <description>Buddhism and Artificial Intelligence as of 2026.</description>
+      <link>https://archive.org/details/buddhism-and-ai</link>
+      <guid isPermaLink="true">https://archive.org/details/buddhism-and-ai</guid>
+      <enclosure url="https://ia600603.us.archive.org/5/items/buddhism-and-ai/Buddhism_and_ai_cbr.mp3"
+                 length="93141785"
+                 type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>01:04:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
+      <itunes:keywords>AI, artificial intelligence, theravada, buddhism</itunes:keywords>
+    </item>
+    <item>
       <title>Bhavaṅga and Jhāna</title>
       <description>Here we talk about bhavaṅga and jhāna.</description>
       <link>https://archive.org/details/bhavanga-jhana-aug-16-2026</link>
