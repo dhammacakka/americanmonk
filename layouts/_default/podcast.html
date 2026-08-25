@@ -1,7 +1,135 @@
 {{ define "main" }}
-<article class="mw8 center ph3 pv4">
-  <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif" }} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} w-100">
-    {{- .Content -}}
+<div class="podcast-landing mw8 center ph3 ph4-ns pv4">
+
+  <div class="podcast-hero">
+    <img class="podcast-hero-cover" src="{{ "images/podcast-cover.jpg" | absURL }}" alt="American Monk Podcast Cover" width="220" height="220" fetchpriority="high" decoding="async">
+    <h1 class="podcast-title">The American Monk Podcast</h1>
+    <p class="podcast-desc">
+      Dhamma talks and reflections from Bhante Subhūti, a Theravāda Buddhist monk.
+    </p>
+
+    <div class="podcast-sub-buttons">
+      <!-- Apple Podcasts -->
+      <a href="https://podcasts.apple.com/us/podcast/american-monk-podcast/id6788781522" target="_blank" rel="noopener noreferrer" class="podcast-sub-badge">
+        <img src="{{ "images/Apple_Podcast_Listen_on_Badge_RGB_USGB-EN_CI_111825.svg" | absURL }}" alt="Listen on Apple Podcasts">
+      </a>
+
+      <!-- Spotify -->
+      <a href="https://open.spotify.com/show/2ROj0YalYTpP9qb3YsI8Xz" target="_blank" rel="noopener noreferrer" class="podcast-sub-badge">
+        <img src="{{ "images/spotify_badge.png" | absURL }}" alt="Listen on Spotify">
+      </a>
+
+      <!-- Pocket Casts -->
+      <a href="https://pocketcasts.com/podcast/american-monk-podcast/f0d7eec0-537a-013e-2aa7-0affe10cf08b" target="_blank" rel="noopener noreferrer" class="podcast-sub-badge">
+        <img src="{{ "images/pocketcasts_small_light@2x-g7_53-F9.png" | absURL }}" alt="Listen on Pocket Casts">
+      </a>
+
+      <!-- RSS Feed -->
+      <a href="{{ "/podcast.xml" | relURL }}" class="podcast-rss-btn">
+        <span>📡</span> RSS Feed
+      </a>
+    </div>
   </div>
-</article>
+
+  <div class="pa3 pa4-ns br3 bg-white ba b--black-05 shadow-4 mb4 tc">
+    <h3 class="f4 fw6 mt0 mb2" style="color: #1e242d;">Join the Sunday Talks</h3>
+    <p class="f5 lh-copy mid-gray ma0">
+      If you would like to participate in our live Sunday Dhamma discussions, please visit the <a href="/about/">Contact Page</a> to request the invitation link.
+    </p>
+  </div>
+
+  {{ with .Content }}
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mb4">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  <div class="flex items-center justify-between mb3 mt5">
+    <h2 class="f3 fw7 ma0" style="color: #1e242d;">All Episodes</h2>
+  </div>
+
+  <div id="episodes-container">
+    <p class="mid-gray">Loading episodes...</p>
+  </div>
+
+  <p class="mid-gray f6 tc mt4 mb5">
+    Subscribe to the RSS feed to get all episodes automatically in your favorite podcast app.
+  </p>
+
+</div>
+
+<script>
+(function() {
+  fetch('/podcast.xml')
+    .then(function(res) { return res.text(); })
+    .then(function(xmlText) {
+      var parser = new DOMParser();
+      var xml = parser.parseFromString(xmlText, 'application/xml');
+      var items = xml.querySelectorAll('item');
+      var container = document.getElementById('episodes-container');
+      if (!container) return;
+      container.innerHTML = '';
+
+      function formatDuration(dur) {
+        if (!dur || dur === '00:00:00' || dur === '0:00') return '';
+        var parts = dur.split(':').map(function(p) { return parseInt(p, 10); });
+        if (parts.length === 3 && !isNaN(parts[0])) {
+          var h = parts[0], m = parts[1];
+          if (h > 0) {
+            return h + ' hr' + (m > 0 ? ' ' + m + ' min' : '');
+          } else if (m > 0) {
+            return m + ' min';
+          }
+        }
+        return dur.replace(/^00:/, '');
+      }
+
+      for (var i = 0; i < items.length; i++) {
+        var item = items[i];
+        var title = item.querySelector('title') ? item.querySelector('title').textContent : '';
+        var pubDate = item.querySelector('pubDate') ? item.querySelector('pubDate').textContent : '';
+        var enclosure = item.querySelector('enclosure');
+        var audioUrl = enclosure ? enclosure.getAttribute('url') : '';
+        var durEl = item.getElementsByTagNameNS('*', 'duration')[0] || item.querySelector('duration');
+        var duration = durEl ? durEl.textContent.trim() : '';
+
+        // Format the date nicely
+        var dateStr = '';
+        if (pubDate) {
+          var d = new Date(pubDate);
+          if (!isNaN(d.getTime())) {
+            var months = ['January','February','March','April','May','June',
+                          'July','August','September','October','November','December'];
+            dateStr = months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+          } else {
+            dateStr = pubDate;
+          }
+        }
+
+        var prettyDuration = formatDuration(duration);
+        var metaInfo = dateStr;
+        if (prettyDuration) {
+          metaInfo = metaInfo ? metaInfo + ' • ' + prettyDuration : prettyDuration;
+        }
+
+        var card = document.createElement('div');
+        card.className = 'episode-card';
+        card.innerHTML =
+          (metaInfo ? '<p class="ep-date">' + metaInfo + '</p>' : '') +
+          '<h3 class="ep-title">' + title + '</h3>' +
+          (audioUrl
+            ? '<audio controls preload="metadata" src="' + audioUrl + '"></audio>'
+            : '');
+        container.appendChild(card);
+      }
+    })
+    .catch(function(err) {
+      console.error(err);
+      var container = document.getElementById('episodes-container');
+      if (container) {
+        container.innerHTML = '<p style="color:#999;">Could not load episodes.</p>';
+      }
+    });
+})();
+</script>
 {{ end }}
