@@ -13,10 +13,10 @@ tags:
   - dhamma
 authors: 
   - bksubhuti
-featured_image: /images/Kind_Teleprompter.webp
+featured_image: /images/no-facebook.webp
 ---
 
-{{< img src = "/images/Kind_Teleprompter.webp" >}}
+{{< img src = "/images/no-facebook.webp" >}}
 
 ## Going Viral Is Not for Me
 
@@ -37,6 +37,8 @@ I've been learning how to make better videos, and better videos help keep people
 Besides recording smaller clips and gluing them together, writing a script made things easier and improved the quality as well.
 
 ## Kind Teleprompter
+
+{{< img src = "/images/Kind_Teleprompter.webp" >}}
 
 To do this without paying for expensive teleprompter apps, I decided to make my own, which is called the {{< url-out "kind-teleprompter" "Kind Teleprompter" >}}. I've made some videos with it already, and I'm using this app to speak with you right now. It's voice-activated, and it follows me even when I drift a little bit from the script.
 

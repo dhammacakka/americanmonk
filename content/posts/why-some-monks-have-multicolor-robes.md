@@ -12,10 +12,10 @@ tags:
   - sewing
 authors: 
   - bksubhuti
-featured_image: /images/monk-robes.webp
+featured_image: /images/robe-patch.webp
 ---
 
-{{< img src = "/images/monk-robes.webp" >}}
+{{< img src = "/images/robe-patch.webp" >}}
 
 ## Why the Different Colors?
 
@@ -24,6 +24,8 @@ Why is it that some monks have robes made out of many different colors, while mo
 Actually, all monks must wear robes that are stitched together from small pieces of cloth. Because they are usually dyed the same color, you might not notice the seams, but they are there. The Buddha once looked at a rice paddy field and really liked the pattern. Ever since then, that became the standard robe pattern for the monks.
 
 ## The Rice Paddy Pattern
+
+{{< img src = "/images/monk-robes.webp" >}}
 
 If you look closely at a monk's robe, you'll notice it is made of rectangular panels sewn together, separated by thin strips. This pattern is meant to resemble the neat rows of a rice paddy field when viewed from above. It's actually quite beautiful when you understand the origin. The Pāḷi term for this pattern is _khandha_, and the thin border strips are called _kusis_. The number of panels (or _khandhas_) varies depending on the size of the robe, but they must always be an odd number — five, seven, nine, or more.
 
