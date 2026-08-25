@@ -8,3 +8,4 @@ environment:
 dependencies:
   collection: ^1.15.0
   path: ^1.8.0
+  http: ^1.2.0

@@ -19,13 +19,14 @@ jobs:
         uses: dart-lang/setup-dart@v1
 
       - name: Install dependencies
+        working-directory: ./scripts
         run: dart pub get
-        # Or if it's standalone, installs http package
 
       - name: Run Video Sync
+        working-directory: ./scripts
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: dart run bin/sync_videos.dart
+        run: dart run sync_videos.dart
 
       - name: Commit and push if changes exist
         run: |
@@ -35,6 +36,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No video changes detected."
           else
-            git commit -m "chore(videos): auto-sync latest YouTube videos [skip ci]"
+            git commit -m "chore(videos): auto-sync latest YouTube videos"
             git push
           fi
