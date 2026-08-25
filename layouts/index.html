@@ -19,7 +19,7 @@
       <!-- Dhamma Talks -->
       <div class="w-100 w-25-ns ph3 mb4 flex">
         <a href="/posts/" class="no-underline db w-100 flex flex-column">
-          <div class="bg-card pa3 br3 shadow-4 w-100 h-100 flex flex-column justify-between tc hover-bg-light-gray pointer">
+          <div class="explore-card pa4 w-100 h-100 flex flex-column justify-between tc pointer">
             <div class="flex flex-column items-center">
               <div class="flex items-center justify-center mb3" style="height:60px;">
                 <img src="/icons/writing.webp" style="max-height:55px;width:auto;">
@@ -30,7 +30,7 @@
               </p>
             </div>
             <div class="mt-auto pt2">
-              <span class="white br2 dib f6 ph3 pv2" style="background-color:#8b0000;">Dhamma posts →</span>
+              <span class="btn-pill">Dhamma posts →</span>
             </div>
           </div>
         </a>
@@ -39,7 +39,7 @@
       <!-- Videos -->
       <div class="w-100 w-25-ns ph3 mb4 flex">
         <a href="/youtube/" class="no-underline db w-100 flex flex-column">
-          <div class="bg-card pa3 br3 shadow-4 w-100 h-100 flex flex-column justify-between tc hover-bg-light-gray pointer">
+          <div class="explore-card pa4 w-100 h-100 flex flex-column justify-between tc pointer">
             <div class="flex flex-column items-center">
               <div class="flex items-center justify-center mb3" style="height:60px;">
                 <img src="/icons/play_icon.webp" style="max-height:55px;width:auto;">
@@ -50,7 +50,7 @@
               </p>
             </div>
             <div class="mt-auto pt2">
-              <span class="white br2 dib f6 ph3 pv2" style="background-color:#8b0000;">Watch videos →</span>
+              <span class="btn-pill">Watch videos →</span>
             </div>
           </div>
         </a>
@@ -59,7 +59,7 @@
       <!-- Podcast -->
       <div class="w-100 w-25-ns ph3 mb4 flex">
         <a href="/podcast/" class="no-underline db w-100 flex flex-column">
-          <div class="bg-card pa3 br3 shadow-4 w-100 h-100 flex flex-column justify-between tc hover-bg-light-gray pointer">
+          <div class="explore-card pa4 w-100 h-100 flex flex-column justify-between tc pointer">
             <div class="flex flex-column items-center">
               <div class="flex items-center justify-center mb3" style="height:60px;">
                 <img src="/icons/podcast.png" style="max-height:55px;width:auto;">
@@ -70,7 +70,7 @@
               </p>
             </div>
             <div class="mt-auto pt2">
-              <span class="white br2 dib f6 ph3 pv2" style="background-color:#8b0000;">Listen podcast →</span>
+              <span class="btn-pill">Listen podcast →</span>
             </div>
           </div>
         </a>
@@ -79,7 +79,7 @@
       <!-- Tech -->
       <div class="w-100 w-25-ns ph3 mb4 flex">
         <a href="/categories/software/" class="no-underline db w-100 flex flex-column">
-          <div class="bg-card pa3 br3 shadow-4 w-100 h-100 flex flex-column justify-between tc hover-bg-light-gray pointer">
+          <div class="explore-card pa4 w-100 h-100 flex flex-column justify-between tc pointer">
             <div class="flex flex-column items-center">
               <div class="flex items-center justify-center mb3" style="height:60px;">
                 <img src="/icons/computer.webp" style="max-height:55px;width:auto;">
@@ -90,7 +90,7 @@
               </p>
             </div>
             <div class="mt-auto pt2">
-              <span class="white br2 dib f6 ph3 pv2" style="background-color:#8b0000;">Tech posts →</span>
+              <span class="btn-pill">Tech posts →</span>
             </div>
           </div>
         </a>
@@ -99,20 +99,23 @@
   </div>
 </section>
 
-<h2 class="f2 fw6 mb4 white br3 ph4 pv3" style="background-color:#8b0000;">
-  <center>Recent Posts</center>
-</h2>
+<section class="ph3 ph4-ns pv5 bg-near-white">
+  <div class="mw8 center">
+    <div class="flex items-center justify-between mb4">
+      <h2 class="f2 fw6 ma0" style="border:none;padding:0;">Recent Posts</h2>
+      <a href="/posts/" class="btn-pill">View all posts →</a>
+    </div>
 
-<section class="flex-ns flex-wrap justify-around">
-  {{ $posts := where .Site.RegularPages "Section" "posts" }}
-  {{ range first 10 $posts }}
-  <div class="w-100 mb4 relative bg-white">
-    {{ .Render "summary-with-image" }}
+    <div class="post-card-grid">
+      {{ $posts := where .Site.RegularPages "Section" "posts" }}
+      {{ range first 6 $posts }}
+        {{ .Render "summary-with-image" }}
+      {{ end }}
+    </div>
+
+    <div class="tc mt5">
+      <a href="/posts/" class="btn-pill btn-pill-lg">Browse all blog posts →</a>
+    </div>
   </div>
-  {{ end }}
 </section>
-
-<div class="mt3">
-  <a href="/posts/" class="ba b--moon-gray bg-light-gray br2 dib f6 ph3 pv2 link">View all posts</a>
-</div>
 {{ end }}

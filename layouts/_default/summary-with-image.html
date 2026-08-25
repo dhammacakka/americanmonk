@@ -1,43 +1,49 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-
-      {{ with $featured_image }}
-        {{ $imageResource := resources.Get . }}
+<article class="post-card">
+  {{ with $featured_image }}
+    {{ $imageResource := resources.Get . }}
+    <div class="post-card-thumbnail-wrap">
+      <a href="{{ $.RelPermalink }}" class="post-card-thumb-link" aria-label="{{ $.Title }}">
         {{ if $imageResource }}
-          {{ $resizedImage := $imageResource.Resize "800x" }}
-          <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns summary-card-image">
-            <a href="{{ $.RelPermalink }}" class="db grow">
-              <img src="{{ $resizedImage.RelPermalink }}" class="img" alt="image from {{ $.Title }}">
-            </a>
-          </div>
+          {{ $resized := $imageResource.Resize "600x" }}
+          <img src="{{ $resized.RelPermalink }}" class="post-card-img" alt="{{ $.Title }}" loading="lazy">
+        {{ else }}
+          <img src="{{ . | absURL }}" class="post-card-img" alt="{{ $.Title }}" loading="lazy">
         {{ end }}
+      </a>
+      {{ with $.Params.categories }}
+        <span class="post-card-category-badge">{{ index . 0 | humanize }}</span>
       {{ end }}
+    </div>
+  {{ else }}
+    <div class="post-card-thumbnail-wrap post-card-no-img">
+      {{ with $.Params.categories }}
+        <span class="post-card-category-badge">{{ index . 0 | humanize }}</span>
+      {{ end }}
+    </div>
+  {{ end }}
 
-      <div class="blah w-100{{ if $featured_image }} w-60-ns {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }}{{ end }}">
+  <div class="post-card-content">
+    <div class="post-card-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      <span class="meta-dot">·</span>
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
 
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="{{ .RelPermalink }}" class="color-inherit dim link">
-            {{ .Title }}
-          </a>
-        </h1>
+    <h3 class="post-card-title">
+      <a href="{{ .RelPermalink }}" class="post-card-title-link">
+        {{ .Title }}
+      </a>
+    </h3>
 
-        <!-- Added date -->
-        <p class="f6 mid-gray mt1 mb3">
-          {{ .Date.Format "Jan 2, 2006" }}
-        </p>
+    <p class="post-card-excerpt">
+      {{ .Summary | plainify | truncate 130 }}
+    </p>
 
-        <!-- Summary: clean text only, strip inline images -->
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          {{ .Summary | plainify | safeHTML }}
-        </div>
-
-        <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
-          {{ $.Param "read_more_copy" | default (i18n "readMore") }}
-        </a>
-
-      </div>
+    <div class="post-card-footer">
+      <a href="{{ .RelPermalink }}" class="post-card-readmore">
+        Read post <span class="readmore-arrow">→</span>
+      </a>
     </div>
   </div>
 </article>

@@ -1,24 +1,17 @@
 {{ define "main" }}
-
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-      <h1>{{ .Title }}</h1>
+  <div class="mw8 center ph3 ph4-ns pv4">
+    <div class="mb4">
+      <p class="f6 ttu tracked fw6 mid-gray mb1">Category / Tag</p>
+      <h1 class="f2 fw7 mt0 mb3">{{ .Title }}</h1>
     </div>
-  </article>
-
-  <div class="mw8 center">
 
     {{ $posts := where .Pages "Section" "posts" }}
     {{ $sorted := sort $posts "Date" "desc" }}
 
-    <section class="flex-ns mt5 flex-wrap justify-around">
+    <div class="post-card-grid">
       {{ range $sorted }}
-        <div class="w-100 mb4 relative bg-white">
-          {{ .Render "summary-with-image" }}
-        </div>
+        {{ .Render "summary-with-image" }}
       {{ end }}
-    </section>
-
+    </div>
   </div>
-
 {{ end }}

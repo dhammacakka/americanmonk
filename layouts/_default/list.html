@@ -1,40 +1,28 @@
 {{ define "main" }}
-  <main class="mw8 center pa3">
-    <h1 class="f2 lh-title">{{ .Title }}</h1>
+  <main class="mw8 center ph3 ph4-ns pv4">
+    <h1 class="f2 fw7 mb4">{{ .Title }}</h1>
 
-    {{ range .Paginator.Pages }}
-      <article class="mb4">
-        <header>
-          <h2 class="f3 mt3 mb1">
-            <a href="{{ .Permalink }}" class="link dark-red hover-dark-gray">
-              {{ .Title }}
-            </a>
-          </h2>
-        </header>
-
-        <section class="lh-copy">
-          {{ .Summary }}
-        </section>
-
-        <footer class="mt2 f6 gray">
-          Posted on {{ .Date.Format "January 2, 2006" }}
-        </footer>
-      </article>
-    {{ end }}
+    <div class="post-card-grid">
+      {{ range .Paginator.Pages }}
+        {{ .Render "summary-with-image" }}
+      {{ end }}
+    </div>
 
     {{ with .Paginator }}
       {{ if (or .HasPrev .HasNext) }}
-        <nav class="pagination flex justify-between mt4" role="navigation">
+        <nav class="pagination flex justify-between items-center mt5 pt4 bt b--black-10" role="navigation">
           {{ if .HasPrev }}
-            <a href="{{ .Prev.URL }}" rel="prev" class="link dark-red hover-dark-gray">
+            <a href="{{ .Prev.URL }}" rel="prev" class="f6 fw6 no-underline ph3 pv2 br2 white" style="background-color:#8b0000;">
               &laquo; Newer Posts
             </a>
           {{ else }}
             <span></span>
           {{ end }}
 
+          <span class="f6 mid-gray">Page {{ .PageNumber }} of {{ .TotalPages }}</span>
+
           {{ if .HasNext }}
-            <a href="{{ .Next.URL }}" rel="next" class="link dark-red hover-dark-gray">
+            <a href="{{ .Next.URL }}" rel="next" class="f6 fw6 no-underline ph3 pv2 br2 white" style="background-color:#8b0000;">
               Older Posts &raquo;
             </a>
           {{ end }}

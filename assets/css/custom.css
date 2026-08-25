@@ -771,25 +771,275 @@ header .ananke-socials {
 }
 
 /* ==========================================================================
-   CARD HOVER EFFECTS
+   MODERN MAGAZINE / BLOG POST CARD GRID
    ========================================================================== */
 
-.bg-card {
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+.post-card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 28px;
+  width: 100%;
 }
 
+@media (min-width: 640px) {
+  .post-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .post-card-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Post Card Container */
+.post-card {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: 18px;
+  padding: 12px 12px 16px 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.35s ease, border-color 0.3s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-9px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.10), 0 4px 12px rgba(128, 24, 24, 0.06);
+  border-color: rgba(128, 24, 24, 0.28);
+}
+
+/* 16:9 Aspect Ratio Thumbnail with Soft Rounded Corners */
+.post-card-thumbnail-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+  background-color: #f0ede8;
+}
+
+.post-card-thumb-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.post-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 16px;
+  transition: transform 0.45s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.post-card:hover .post-card-img {
+  transform: scale(1.04);
+}
+
+/* Thumbnail Placeholder when no image */
+.post-card-no-img {
+  aspect-ratio: auto;
+  padding: 8px 12px 0 12px;
+  background: transparent;
+  box-shadow: none;
+}
+
+/* Category Pill Badge */
+.post-card-category-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #801818;
+  font-family: var(--font-ui) !important;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  pointer-events: none;
+  transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.post-card:hover .post-card-category-badge {
+  transform: translateY(-2px) scale(1.04);
+}
+
+.post-card-no-img .post-card-category-badge {
+  position: static;
+  display: inline-block;
+}
+
+/* Card Content Area */
+.post-card-content {
+  padding: 14px 8px 0 8px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.post-card-meta {
+  font-family: var(--font-ui) !important;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #718096;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.meta-dot {
+  color: #a0aec0;
+}
+
+.post-card-title {
+  font-family: var(--font-heading) !important;
+  font-size: 1.28rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0 0 10px 0;
+}
+
+.post-card-title-link {
+  color: #1a202c !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.post-card-title-link:hover {
+  color: #801818 !important;
+}
+
+.post-card-excerpt {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #4a5568;
+  margin: 0 0 16px 0;
+  flex-grow: 1;
+}
+
+.post-card-footer {
+  margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.post-card-readmore {
+  font-family: var(--font-ui) !important;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #801818 !important;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+}
+
+.post-card-readmore:hover {
+  color: #c97a1e !important;
+}
+
+.readmore-arrow {
+  transition: transform 0.2s ease;
+}
+
+.post-card:hover .readmore-arrow {
+  transform: translateX(4px);
+}
+
+/* ==========================================================================
+   UNIFIED MODERN BUTTONS & EXPLORE CARDS
+   ========================================================================== */
+
+.explore-card,
+.bg-card {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: 18px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.35s ease, border-color 0.3s ease;
+}
+
+.explore-card:hover,
 .bg-card:hover,
 .bg-card:focus-within {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.20);
+  transform: translateY(-9px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.10), 0 4px 12px rgba(128, 24, 24, 0.06);
+  border-color: rgba(128, 24, 24, 0.28);
 }
 
-/* Limit size of post list images so they don't get huge */
-.summary-card-image img {
-  max-width: 350px;   /* adjust as needed */
-  width: 100%;
-  height: auto;
-  border-radius: 20px;
+.btn-pill,
+.btn-primary {
+  font-family: var(--font-ui) !important;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #374151 !important;
+  background-color: rgba(0, 0, 0, 0.04) !important;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 8px 20px;
+  border-radius: 20px !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  text-decoration: none !important;
+  box-shadow: none;
+  transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), background-color 0.25s ease, color 0.25s ease, box-shadow 0.35s ease, border-color 0.25s ease;
+  cursor: pointer;
+}
+
+/* When the card is hovered, the button inside also raises and tints like the navbar link */
+.explore-card:hover .btn-pill {
+  background-color: rgba(128, 24, 24, 0.08) !important;
+  border-color: rgba(128, 24, 24, 0.25);
+  color: #801818 !important;
+  transform: translateY(-4px);
+  box-shadow: 0 4px 14px rgba(128, 24, 24, 0.12);
+}
+
+/* When hovering directly on the button */
+.btn-pill:hover,
+.btn-primary:hover {
+  background-color: rgba(128, 24, 24, 0.14) !important;
+  border-color: rgba(128, 24, 24, 0.35);
+  color: #5b1212 !important;
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 6px 16px rgba(128, 24, 24, 0.16);
+}
+
+.btn-pill-solid {
+  color: #ffffff !important;
+  background-color: #801818 !important;
+  border: none;
+  box-shadow: 0 2px 8px rgba(128, 24, 24, 0.25);
+}
+
+.btn-pill-solid:hover {
+  background-color: #5b1212 !important;
+  color: #ffffff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(128, 24, 24, 0.35);
+}
+
+.btn-pill-lg {
+  font-size: 0.95rem;
+  padding: 10px 24px;
 }
 
 /* Floating Year Navigation Sidebar */
