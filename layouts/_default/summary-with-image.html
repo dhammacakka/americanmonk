@@ -1,14 +1,19 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 <article class="post-card">
   {{ with $featured_image }}
-    {{ $imageResource := resources.Get . }}
+    {{ $imgPath := strings.TrimPrefix "/" (urls.Parse .).Path }}
+    {{ $imageResource := resources.Get $imgPath }}
+    {{ if not $imageResource }}
+      {{ $imageResource = $.Resources.GetMatch (strings.TrimPrefix "/" ($.Params.featured_image | default "")) }}
+    {{ end }}
+
     <div class="post-card-thumbnail-wrap">
       <a href="{{ $.RelPermalink }}" class="post-card-thumb-link" aria-label="{{ $.Title }}">
         {{ if $imageResource }}
-          {{ $resized := $imageResource.Resize "600x" }}
-          <img src="{{ $resized.RelPermalink }}" class="post-card-img" alt="{{ $.Title }}" loading="lazy">
+          {{ $resized := $imageResource.Resize "600x webp q85" }}
+          <img src="{{ $resized.RelPermalink }}" class="post-card-img" alt="{{ $.Title }}" width="600" height="338" decoding="async">
         {{ else }}
-          <img src="{{ . | absURL }}" class="post-card-img" alt="{{ $.Title }}" loading="lazy">
+          <img src="{{ . | absURL }}" class="post-card-img" alt="{{ $.Title }}" width="600" height="338" decoding="async">
         {{ end }}
       </a>
       {{ with $.Params.categories }}

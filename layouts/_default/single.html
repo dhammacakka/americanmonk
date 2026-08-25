@@ -1,60 +1,93 @@
 {{ define "main" }}
 {{ $section := .Site.GetPage "section" .Section }}
-<article class="flex-l flex-wrap justify-between mw8 center ph3">
-  <header class="mt4 w-100">
-    <aside class="instapaper_ignoref b helvetica tracked ttu">
-      {{ .CurrentSection.Title }}
-    </aside>
-    {{/* social-share removed – obsolete in new Ananke */}}
-    <h1 class="f1 athelas mt3 mb1">
+<article class="single-post-container flex-l flex-wrap justify-between mw8 center ph3 ph4-ns pv4">
+  <header class="single-post-header w-100 mb4 pb3 bb b--black-10">
+    <div class="flex items-center gap-2 mb2">
+      {{ with .Params.categories }}
+        <a href="/categories/{{ index . 0 | urlize }}/" class="single-post-category-badge no-underline">
+          {{ index . 0 | humanize }}
+        </a>
+      {{ else }}
+        <span class="single-post-category-badge">{{ .CurrentSection.Title }}</span>
+      {{ end }}
+    </div>
+
+    <h1 class="single-post-title f1-ns f2 fw7 mt2 mb3">
       {{- .Title -}}
     </h1>
-    {{ partial "share-buttons.html" . }}
 
-    {{ with .Params.author | default .Site.Params.author }}
-    <p class="tracked">
-      {{ $.Render "by" }} <strong>
-        {{- if reflect.IsSlice . -}}
-        {{ delimit . ", " | markdownify }}
-        {{- else -}}
-        {{ . | markdownify }}
-        {{- end -}}
-      </strong>
-    </p>
-    {{ end }}
-    {{ if not .Date.IsZero }}
-    <time class="f6 mv4 dib tracked" {{ printf `datetime="%s" ` (.Date.Format "2006-01-02T15:04:05Z07:00" ) |
-      safeHTMLAttr }}>
-      {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-    </time>
-    {{end}}
-    {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-    <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
-    <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
-    {{ end }}
+    <div class="single-post-meta flex flex-wrap items-center mid-gray f6 gap-2">
+      {{ with .Params.author | default .Site.Params.author }}
+        <span class="fw6 dark-gray">
+          {{- if reflect.IsSlice . -}}
+            {{ delimit . ", " | markdownify }}
+          {{- else -}}
+            {{ . | markdownify }}
+          {{- end -}}
+        </span>
+        <span class="meta-dot">·</span>
+      {{ end }}
+
+      {{ if not .Date.IsZero }}
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+        </time>
+      {{ end }}
+
+      <span class="meta-dot">·</span>
+      <span>{{ .ReadingTime }} min read</span>
+      <span class="meta-dot">·</span>
+      <span>{{ .WordCount }} words</span>
+    </div>
+
+    <div class="mt3">
+      {{ partial "share-buttons.html" . }}
+    </div>
   </header>
 
-  <div class="nested-copy-line-height lh-copy {{ $.Param " post_content_classes" | default "serif" }} f4 nested-links {{
-    $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l"
-    }} w-two-thirds-l">
+  <div class="single-post-content nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif" }} f4 nested-links {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
     {{- .Content -}}
-    {{ partial "share-buttons.html" . }}
-    {{ partial "subscribeform.html" . }}
 
-    <!-- User prompt to search subjects placed just before the tags -->
-    <div class="mt3 mb3 pa3 bg-light-gray">
-      <p class="f4 b tc">Click below to search subjects</p>
+    <div class="mt4 mb4">
+      {{ partial "share-buttons.html" . }}
+    </div>
+
+    <!-- Search subjects prompt -->
+    <div class="mt4 mb3 pa3 br3 bg-near-white ba b--black-05 tc">
+      <p class="f5 fw6 ma0">Click below to search subjects</p>
     </div>
 
     {{- partial "tags.html" . -}}
-    <div class="mt6 instapaper_ignoref">
-      <h3>Add Your Comments:</h3>
-      {{ partial "comments.html" . }} <!-- ✅ Add Giscus comments here -->
+
+    <!-- Next / Previous Post Navigation Cards -->
+    {{ if or .PrevInSection .NextInSection }}
+    <nav class="post-nav-grid mt5 pt4 bt b--black-10">
+      {{ with .PrevInSection }}
+      <a href="{{ .RelPermalink }}" class="post-nav-card post-nav-prev no-underline">
+        <span class="post-nav-label">← Previous Post</span>
+        <span class="post-nav-title">{{ .Title }}</span>
+      </a>
+      {{ end }}
+      {{ with .NextInSection }}
+      <a href="{{ .RelPermalink }}" class="post-nav-card post-nav-next no-underline">
+        <span class="post-nav-label">Next Post →</span>
+        <span class="post-nav-title">{{ .Title }}</span>
+      </a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+    <div class="mt5">
+      {{ partial "subscribeform.html" . }}
     </div>
 
+    <div class="mt5 instapaper_ignoref">
+      <h3 class="f3 fw6 mb3">Comments</h3>
+      {{ partial "comments.html" . }}
+    </div>
   </div>
 
-  <aside class="w-30-l mt6-l">
+  <aside class="w-30-l mt5-l">
     {{- partial "menu-contextual.html" . -}}
   </aside>
 
