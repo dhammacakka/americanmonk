@@ -1,30 +1,22 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-
   const navLinks = document.querySelectorAll("#year-nav a");
   const headings = document.querySelectorAll(".year-heading");
 
   if (navLinks.length === 0 || headings.length === 0) {
-    console.log("ScrollSpy: no headings or nav links found.");
     return;
   }
 
-  // Map: "#year-2021" → <a href="#year-2021">
   const linkMap = {};
   navLinks.forEach(link => {
     linkMap[link.getAttribute("href")] = link;
   });
 
-  // Create observer
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       const id = "#" + entry.target.id;
-
       if (entry.isIntersecting) {
-        // Remove all active
         navLinks.forEach(a => a.classList.remove("active"));
-
-        // Activate the one that matches this section
         if (linkMap[id]) {
           linkMap[id].classList.add("active");
         }
@@ -36,71 +28,96 @@ document.addEventListener("DOMContentLoaded", () => {
     threshold: 0.1
   });
 
-  // Observe each year heading
   headings.forEach(h => observer.observe(h));
-
 });
 </script>
+
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const btn = document.getElementById("year-fab-btn");
   const menu = document.getElementById("year-fab-menu");
+  if (!btn || !menu) return;
 
-  // Toggle FAB menu
   btn.addEventListener("click", () => {
     const visible = menu.style.display === "flex";
     menu.style.display = visible ? "none" : "flex";
   });
 
-  // Scroll spy highlight for FAB
   document.addEventListener("scroll", () => {
     const headings = document.querySelectorAll(".year-heading");
     let activeYear = "";
-
     headings.forEach(h => {
       const rect = h.getBoundingClientRect();
       if (rect.top <= 140 && rect.bottom >= 140) {
         activeYear = h.id.replace("year-", "");
       }
     });
-
-    // Top active if none
     if (!activeYear) activeYear = "Top";
-
-    document.querySelectorAll(".year-fab-menu a")
-      .forEach(a => {
-        a.classList.toggle("active", a.textContent.trim() === activeYear);
-      });
+    document.querySelectorAll(".year-fab-menu a").forEach(a => {
+      a.classList.toggle("active", a.textContent.trim() === activeYear);
+    });
   });
 });
 </script>
 
+<footer class="site-footer">
+  <div class="mw8 center ph3 ph4-ns pv5">
+    <div class="site-footer-grid">
+      
+      <!-- Brand & Tagline -->
+      <div class="footer-col footer-col-brand">
+        <a href="{{ .Site.Home.RelPermalink }}" class="footer-brand-title no-underline">
+          {{ .Site.Title }}
+        </a>
+        <p class="footer-tagline">
+          Reflections, teachings, and stories from the life of Bhante Subhūti, a Theravāda monk living without money for over two decades.
+        </p>
+        <div class="footer-social-row">
+          {{ partial "social/follow.html" . }}
+        </div>
+      </div>
 
-<footer class="bg-maroon pv4 ph3 ph5-m ph6-l white-80">
-  <div class="mw8 center">
-    <div class="flex-ns items-center justify-between">
-      <!-- Creative Commons notice -->
-      <p class="f6 lh-copy mv0" style="font-size:115%;">
-        © {{ now.Format "2006" }} Bhante Subhūti <br>
-        All content on this site by Bhante Subhūti is licensed under
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/"
-           class="white-80 underline hover-light-gray"
-           target="_blank" rel="noopener">
-          CC-Attrib-SA 4.0
-        </a>.
-      </p>
+      <!-- Quick Navigation -->
+      <div class="footer-col">
+        <h4 class="footer-heading">Navigation</h4>
+        <ul class="footer-nav-list">
+          <li><a href="/">Home</a></li>
+          <li><a href="/posts/">Posts Archive</a></li>
+          <li><a href="/about/">About Bhante</a></li>
+          <li><a href="/youtube/">Videos</a></li>
+          <li><a href="/podcast/">Podcast</a></li>
+          <li><a href="/publication/">Publications</a></li>
+          <li><a href="/subscribe/">Subscribe</a></li>
+        </ul>
+      </div>
 
-      <!-- ✅ Modern Ananke social icons -->
-    <div class="mt3 mt0-ns">
-      {{ partial "social/follow.html" . }}
+      <!-- Explore Posts -->
+      <div class="footer-col">
+        <h4 class="footer-heading">Explore Posts</h4>
+        <ul class="footer-nav-list">
+          <li><a href="/posts/by-date/">Posts by Date</a></li>
+          <li><a href="/categories/">Categories</a></li>
+          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/featured/">Featured Posts</a></li>
+          <li><a href="/search/">Search All Content</a></li>
+        </ul>
+      </div>
+
     </div>
 
-    <!-- Optional extra footer content from config -->
-    {{ with .Site.Params.footerContent }}
-      <div class="mt3 f6 lh-copy">{{ . | safeHTML }}</div>
-    {{ end }}
+    <!-- Bottom Copyright & License -->
+    <div class="footer-bottom-row">
+      <p class="footer-copyright">
+        © {{ now.Format "2006" }} Bhante Subhūti · Licensed under 
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">
+          CC BY-SA 4.0
+        </a>
+      </p>
+      <p class="footer-built-with">
+        Built with Hugo &amp; Metta
+      </p>
+    </div>
   </div>
-  
 </footer>
 
 {{ partial "footnotes-popup.html" . }}
