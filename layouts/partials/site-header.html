@@ -1,0 +1,93 @@
+<header class="site-header-sticky">
+  <div class="site-nav-container mw8 center flex items-center justify-between ph3 ph4-ns">
+    <!-- Brand / Logo -->
+    <a href="{{ .Site.Home.RelPermalink }}" class="site-brand no-underline flex items-center">
+      {{ with .Site.Params.site_logo }}
+        <img src="{{ urls.RelURL . }}" class="site-logo" alt="{{ $.Site.Title }}" />
+      {{ else }}
+        <span class="site-brand-text">{{ .Site.Title }}</span>
+      {{ end }}
+    </a>
+
+    <!-- Desktop Navigation Links -->
+    <nav class="desktop-nav dn flex-l items-center" role="navigation">
+      {{ if .Site.Menus.main }}
+        <ul class="nav-menu list ma0 pa0 flex items-center">
+          {{ range .Site.Menus.main }}
+          <li class="nav-item">
+            <a class="nav-link{{ if eq .Identifier "Search" }} search-trigger-btn{{ end }}" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+              {{ if eq .Identifier "Search" }}
+                <svg class="nav-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                </svg>
+                <span>Search</span>
+              {{ else }}
+                {{ .Name }}
+              {{ end }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </nav>
+
+    <!-- Mobile Hamburger Toggle Button -->
+    <div class="mobile-nav-toggle db dn-l">
+      <button id="mobile-menu-btn" class="hamburger-btn" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Slide-out Drawer / Menu -->
+  <div id="mobile-menu-drawer" class="mobile-drawer dn" aria-hidden="true">
+    <div class="mobile-drawer-inner pa4 tc">
+      {{ if .Site.Menus.main }}
+        <ul class="mobile-nav-list list ma0 pa0">
+          {{ range .Site.Menus.main }}
+          <li class="mobile-nav-item mb2">
+            <a class="mobile-nav-link db pv2{{ if eq .Identifier "Search" }} search-trigger-btn{{ end }}" href="{{ .URL }}">
+              {{ if eq .Identifier "Search" }}
+                <span class="flex items-center justify-center">
+                  <svg class="nav-icon mr2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 1.25rem; height: 1.25rem;">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                  </svg>
+                  Search
+                </span>
+              {{ else }}
+                {{ .Name }}
+              {{ end }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+</header>
+
+<script>
+  (function() {
+    function setupMobileMenu() {
+      var btn = document.getElementById("mobile-menu-btn");
+      var drawer = document.getElementById("mobile-menu-drawer");
+      if (btn && drawer && !btn.dataset.initialized) {
+        btn.dataset.initialized = "true";
+        btn.addEventListener("click", function () {
+          var isExpanded = btn.getAttribute("aria-expanded") === "true";
+          btn.setAttribute("aria-expanded", !isExpanded);
+          btn.classList.toggle("is-active", !isExpanded);
+          drawer.classList.toggle("dn", isExpanded);
+          drawer.setAttribute("aria-hidden", isExpanded);
+        });
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", setupMobileMenu);
+    } else {
+      setupMobileMenu();
+    }
+  })();
+</script>
