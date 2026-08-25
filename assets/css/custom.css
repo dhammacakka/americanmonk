@@ -191,6 +191,110 @@ h1, h2, h3, h4, h5, h6,
   background: rgba(128, 24, 24, 0.06);
 }
 
+/* ==========================================================================
+   DROPDOWN SUBMENUS
+   ========================================================================== */
+
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-toggle {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.dropdown-chevron {
+  width: 0.8rem;
+  height: 0.8rem;
+  transition: transform 0.25s ease;
+  vertical-align: middle;
+}
+
+.nav-dropdown:hover .dropdown-chevron,
+.nav-dropdown:focus-within .dropdown-chevron {
+  transform: rotate(180deg);
+}
+
+.nav-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.98);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 14px;
+  min-width: 170px;
+  padding: 6px;
+  display: none;
+  flex-direction: column;
+  gap: 2px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  z-index: 1100;
+  margin-top: 4px;
+}
+
+/* Invisible hover bridge so mouse never loses focus when moving down into menu */
+.nav-dropdown-menu::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 0;
+  right: 0;
+  height: 14px;
+  background: transparent;
+}
+
+.nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown:focus-within .nav-dropdown-menu {
+  display: flex;
+}
+
+.nav-dropdown-child {
+  list-style: none;
+}
+
+.nav-dropdown-link {
+  font-family: var(--font-ui) !important;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #374151 !important;
+  text-decoration: none !important;
+  padding: 8px 14px;
+  border-radius: 8px;
+  display: block;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-dropdown-link:hover {
+  background: rgba(128, 24, 24, 0.08);
+  color: #801818 !important;
+  transform: translateX(3px);
+}
+
+/* Mobile subnav */
+.mobile-dropdown-parent {
+  font-family: var(--font-ui) !important;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #801818;
+  padding: 8px 0 4px 0;
+}
+
+.mobile-subnav-list {
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 12px;
+  padding: 6px;
+  margin-bottom: 6px;
+}
+
 /* Clean UI / Navigation / Meta Font */
 nav, .menu, nav ul li a, .tag, .category, time, .post-meta,
 button, .ttu, input, select, .instapaper_ignoref.b.helvetica {

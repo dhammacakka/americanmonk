@@ -87,35 +87,72 @@ enableRobotsTXT = true
     url = "/posts/"
     weight = 2
 [[menu.main]]
+    identifier = "posts_date"
+    name = "By Date"
+    url = "/posts/by-date/"
+    parent = "posts"
+    weight = 1
+[[menu.main]]
+    identifier = "posts_categories"
+    name = "By Category"
+    url = "/categories/"
+    parent = "posts"
+    weight = 2
+[[menu.main]]
+    identifier = "posts_tags"
+    name = "By Tag"
+    url = "/tags/"
+    parent = "posts"
+    weight = 3
+[[menu.main]]
+    identifier = "posts_featured"
+    name = "Featured"
+    url = "/featured/"
+    parent = "posts"
+    weight = 4
+[[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 3
 [[menu.main]]
+    identifier = "media"
+    name = "Media"
+    url = "/youtube/"
+    weight = 4
+[[menu.main]]
     identifier = "Videos"
     name = "Videos"
     url = "/youtube/"
-    weight = 4
+    parent = "media"
+    weight = 1
 [[menu.main]]
     identifier = "Podcast"
     name = "Podcast"
     url = "/podcast/"
-    weight = 5
+    parent = "media"
+    weight = 2
+[[menu.main]]
+    identifier = "Software"
+    name = "Software"
+    url = "/categories/software/"
+    parent = "media"
+    weight = 3
 [[menu.main]]
     name = "Publications"
     identifier = "Publications"
     url = "/publication/"
-    weight = 6
+    weight = 5
 [[menu.main]]
     name = "Subscribe"
     identifier = "Subscribe"
     url = "/subscribe/"
-    weight = 7
+    weight = 6
 [[menu.main]]
     name = "Search"
     identifier = "Search"
     url = "/search/"
-    weight = 8
+    weight = 7
 
 [related]
 threshold = 0
