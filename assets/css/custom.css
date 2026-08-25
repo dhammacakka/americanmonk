@@ -1,4 +1,110 @@
 /* ==========================================================================
+   MODERN EDITORIAL TYPOGRAPHY SYSTEM
+   ========================================================================== */
+
+:root {
+  --font-heading: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-body: 'Lora', Georgia, Cambria, 'Times New Roman', serif;
+  --font-ui: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-accent-maroon: #5b1212;
+  --color-accent-burgundy: #801818;
+  --color-accent-gold: #c97a1e;
+  --color-bg-quote: #faf5f4;
+  --color-border-quote: #801818;
+  --max-content-width: 44rem;
+}
+
+/* Base Body Font */
+body {
+  font-family: var(--font-body);
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings Font */
+h1, h2, h3, h4, h5, h6,
+.athelas {
+  font-family: var(--font-heading) !important;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+/* Ensure white text on dark headers/heroes and maroon blocks is strictly preserved */
+.white, h2.white, h1.white, .white-90, .white-80, .white-70,
+header .white, header .white-90, header h1, header a,
+.cover h1, .cover a, .cover p {
+  color: #ffffff !important;
+}
+
+header a.white-90, nav a.white-90 {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+header a.hover-white:hover, nav a.hover-white:hover {
+  color: #ffffff !important;
+}
+
+/* Clean UI / Navigation / Meta Font */
+nav, .menu, nav ul li a, .tag, .category, time, .post-meta,
+button, .ttu, input, select, .instapaper_ignoref.b.helvetica {
+  font-family: var(--font-ui) !important;
+}
+
+/* Article Prose & Readability */
+.nested-copy-line-height,
+.nested-links,
+article,
+.lh-copy {
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  line-height: 1.82;
+}
+
+.nested-copy-line-height p,
+article p {
+  margin-top: 0;
+  margin-bottom: 1.6rem;
+}
+
+/* Editorial Blockquotes (Quotes, Suttas, Poems) */
+blockquote {
+  border-left: 4px solid var(--color-border-quote) !important;
+  background: var(--color-bg-quote) !important;
+  margin: 2rem 0 !important;
+  padding: 1.25rem 1.75rem !important;
+  border-radius: 0 10px 10px 0;
+  font-family: var(--font-body) !important;
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.75;
+  color: #383838 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Article Links */
+.nested-links a:not(.no-underline):not(.btn) {
+  color: var(--color-accent-burgundy);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: rgba(128, 24, 24, 0.35);
+  transition: all 0.2s ease;
+}
+
+.nested-links a:not(.no-underline):not(.btn):hover {
+  color: var(--color-accent-gold);
+  text-decoration-color: var(--color-accent-gold);
+}
+
+/* ==========================================================================
    GLOBAL COLORS & BACKGROUND
    ========================================================================== */
 .bg-maroon {
