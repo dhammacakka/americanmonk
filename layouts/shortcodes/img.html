@@ -1,7 +1,11 @@
 {{ $src := .Get "src" }}
-{{ $image := resources.Get $src }}
+{{ $cleanSrc := strings.TrimPrefix "/" $src }}
+{{ $image := resources.Get $cleanSrc }}
+{{ if not $image }}
+  {{ $image = resources.Get $src }}
+{{ end }}
 {{ if $image }}
-<img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" }}" class="fancy-img">
+  <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="eager" decoding="async">
 {{ else }}
-<p>Image not found.</p>
+  <img src="{{ $src | relURL }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="eager" decoding="async">
 {{ end }}
