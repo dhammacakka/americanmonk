@@ -1,59 +1,16 @@
 {{ define "main" }}
+<script>
+  window.location.replace("/posts/by-date/");
+</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url=/posts/by-date/">
+</noscript>
 
-<article class="pa3 pa4-ns nested-copy-line-height">
-
-  <header class="mb4">
-    <h1 class="f2 fw6 mb3">Browse all blog posts by date, category, tag, or view featured posts.</h1>
-    
-  <!-- Navigation Cards -->
-  <section class="ph3 ph4-ns pv5 bg-white">
-    <div class="mw8 center">
-      <div class="flex-ns flex-wrap justify-around">
-
-        <!-- By Date -->
-        <div class="w-100 w-25-ns ph3 mb4">
-          <a href="/posts/by-date/" class="no-underline db">
-            <div class="bg-card pa3 br3 shadow-4 h-100 tc hover-bg-light-gray pointer">
-              <i class="fa-solid fa-calendar-days fa-3x mb3" style="color:#1930af;"></i>
-              <h3 class="f4 fw6 mb2 dark-gray">By Date</h3>
-            </div>
-          </a>
-        </div>
-
-        <!-- By Category -->
-        <div class="w-100 w-25-ns ph3 mb4">
-          <a href="/categories/" class="no-underline db">
-            <div class="bg-card pa3 br3 shadow-4 h-100 tc hover-bg-light-gray pointer">
-              <i class="fa-solid fa-list-ul fa-3x mb3" style="color:#228509;"></i>
-              <h3 class="f4 fw6 mb2 dark-gray">By Category</h3>
-            </div>
-          </a>
-        </div>
-
-        <!-- By Tag -->
-        <div class="w-100 w-25-ns ph3 mb4">
-          <a href="/tags/" class="no-underline db">
-            <div class="bg-card pa3 br3 shadow-4 h-100 tc hover-bg-light-gray pointer">
-              <i class="fa-solid fa-tag fa-3x mb3" style="color:#F7B801;"></i>
-              <h3 class="f4 fw6 mb2 dark-gray">By Tag</h3>
-            </div>
-          </a>
-        </div>
-
-        <!-- Featured -->
-        <div class="w-100 w-25-ns ph3 mb4">
-          <a href="/featured/" class="no-underline db">
-            <div class="bg-card pa3 br3 shadow-4 h-100 tc hover-bg-light-gray pointer">
-              <i class="fa-solid fa-star fa-3x mb3" style="color:#9466cb;"></i>
-              <h3 class="f4 fw6 mb2 dark-gray">By Featured</h3>
-            </div>
-          </a>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
+<article class="mw8 center ph3 ph4-ns pv5 tc">
+  <h1 class="f2 fw6 mb3">Redirecting to Posts by Date...</h1>
+  <p class="f5 mid-gray lh-copy mb4">
+    If you are not redirected automatically, please follow the link below:
+  </p>
+  <a href="/posts/by-date/" class="btn-pill btn-pill-solid btn-pill-lg">Go to Posts by Date →</a>
 </article>
-
 {{ end }}

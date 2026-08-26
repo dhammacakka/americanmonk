@@ -1,8 +1,16 @@
 {{ define "main" }}
 
-<article class="pa3 pa4-ns mw8 center">
+<article class="featured-page mw8 center ph3 ph4-ns pv4">
 
-  <h1 class="f2 fw6 mb4">Featured Posts</h1>
+  <!-- Header -->
+  <header class="tc mb4">
+    {{ partial "browse-methods-nav.html" (dict "active" "featured") }}
+
+    <h1 class="archive-main-title f1-ns f2 fw7 mb2">Featured Posts</h1>
+    <p class="f5 mid-gray lh-copy max-w-prose center ma0">
+      A curated collection of essential teachings, stories, and reflections by Bhante Subhūti.
+    </p>
+  </header>
 
   {{/* Get all posts in the posts section */}}
   {{ $posts := where .Site.RegularPages "Section" "posts" }}

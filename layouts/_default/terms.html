@@ -1,13 +1,23 @@
 {{ define "main" }}
 
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-      <h1>{{ .Title }}</h1>
-    </div>
-  </article>
+<article class="terms-page mw8 center ph3 ph4-ns pv4">
 
-  <div class="mw8 center">
-    <section class="flex-ns mt5 flex-wrap justify-around">
+  <!-- Header -->
+  <header class="tc mb4">
+    {{ partial "browse-methods-nav.html" (dict "active" (cond (eq .Data.Plural "categories") "category" "tag")) }}
+
+    <h1 class="archive-main-title f1-ns f2 fw7 mb2">{{ .Title }}</h1>
+    <p class="f5 mid-gray lh-copy max-w-prose center ma0">
+      {{ if eq .Data.Plural "categories" }}
+        Browse articles, essays, and teachings organized by topic and category.
+      {{ else }}
+        Explore writings tagged with specific Buddhist terms, subjects, and themes.
+      {{ end }}
+    </p>
+  </header>
+
+  <div>
+    <section class="flex-ns flex-wrap justify-around">
 
       {{ $colorMap := site.Data.colors }}
 {{ $taxonomy := $.Data.Plural }}
@@ -52,4 +62,5 @@
     </section>
   </div>
 
+</article>
 {{ end }}

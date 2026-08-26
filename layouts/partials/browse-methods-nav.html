@@ -1,0 +1,27 @@
+{{ $active := .active | default "date" }}
+<nav class="browse-methods-nav" aria-label="Browse posts by method">
+  <div class="browse-nav-inner">
+    <span class="browse-nav-label">
+      <i class="fa-solid fa-compass browse-nav-label-icon"></i>
+      <span>Browse by:</span>
+    </span>
+    <div class="browse-nav-pills">
+      <a href="/posts/by-date/" class="browse-nav-pill{{ if eq $active "date" }} active{{ end }}"{{ if eq $active "date" }} aria-current="page"{{ end }}>
+        <i class="fa-solid fa-calendar-days"></i>
+        <span>By Date</span>
+      </a>
+      <a href="/categories/" class="browse-nav-pill{{ if eq $active "category" }} active{{ end }}"{{ if eq $active "category" }} aria-current="page"{{ end }}>
+        <i class="fa-solid fa-list-ul"></i>
+        <span>By Category</span>
+      </a>
+      <a href="/tags/" class="browse-nav-pill{{ if eq $active "tag" }} active{{ end }}"{{ if eq $active "tag" }} aria-current="page"{{ end }}>
+        <i class="fa-solid fa-tag"></i>
+        <span>By Tag</span>
+      </a>
+      <a href="/featured/" class="browse-nav-pill{{ if eq $active "featured" }} active{{ end }}"{{ if eq $active "featured" }} aria-current="page"{{ end }}>
+        <i class="fa-solid fa-star"></i>
+        <span>Featured</span>
+      </a>
+    </div>
+  </div>
+</nav>

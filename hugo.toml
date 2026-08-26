@@ -84,32 +84,8 @@ enableRobotsTXT = true
 [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts/"
-    weight = 2
-[[menu.main]]
-    identifier = "posts_date"
-    name = "By Date"
     url = "/posts/by-date/"
-    parent = "posts"
-    weight = 1
-[[menu.main]]
-    identifier = "posts_categories"
-    name = "By Category"
-    url = "/categories/"
-    parent = "posts"
     weight = 2
-[[menu.main]]
-    identifier = "posts_tags"
-    name = "By Tag"
-    url = "/tags/"
-    parent = "posts"
-    weight = 3
-[[menu.main]]
-    identifier = "posts_featured"
-    name = "Featured"
-    url = "/featured/"
-    parent = "posts"
-    weight = 4
 [[menu.main]]
     identifier = "about"
     name = "About"
