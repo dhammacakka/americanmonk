@@ -5,7 +5,12 @@
   {{ $image = resources.Get $src }}
 {{ end }}
 {{ if $image }}
-  <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="eager" decoding="async">
+  {{ if eq $image.MediaType.SubType "svg" }}
+    <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="lazy" decoding="async">
+  {{ else }}
+    {{ $resized := $image.Resize "800x webp q85" }}
+    <img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" width="{{ $resized.Width }}" height="{{ $resized.Height }}" loading="lazy" decoding="async">
+  {{ end }}
 {{ else }}
-  <img src="{{ $src | relURL }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="eager" decoding="async">
+  <img src="{{ $src | relURL }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="lazy" decoding="async">
 {{ end }}
