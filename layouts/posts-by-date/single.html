@@ -1,72 +1,105 @@
 {{ define "main" }}
+<article class="posts-by-date-page mw8 center ph3 ph4-ns pv4">
 
-<article class="pa3 pa4-ns mw8 center">
+  <!-- Header -->
+  <header class="tc mb4">
+    <h1 class="archive-main-title f1-ns f2 fw7 mb2">Posts by Date</h1>
+    <p class="f5 mid-gray lh-copy max-w-prose center ma0">
+      A chronological archive of all writings and reflections by Bhante Subhūti.
+    </p>
 
-  <!-- Safe TOP anchor -->
-  <div id="top"></div>
+    <!-- Year Jump Pills -->
+    {{ $posts := where .Site.RegularPages "Section" "posts" }}
+    {{ $sorted := sort $posts "Date" "desc" }}
+    {{ $groups := $sorted.GroupByDate "2006" }}
 
-  {{/* 1. Get posts and group by year */}}
-  {{ $posts := where .Site.RegularPages "Section" "posts" }}
-  {{ $sorted := sort $posts "Date" "desc" }}
-  {{ $groups := $sorted.GroupByDate "2006" }}
+    <div class="year-pills-wrap mt4">
+      <div class="flex items-center justify-center gap-3 mb2">
+        <span class="year-pills-label f7 fw7 uppercase tracked">Jump to year:</span>
+        <button id="toggle-all-years-btn" class="toggle-all-btn" type="button">Expand all</button>
+      </div>
 
-  {{/* 2. Floating sidebar navigation */}}
-  <div id="year-nav" class="year-sidebar">
-    <ul>
+      <div class="year-pills-row">
+        {{ range $groups }}
+        <a href="#year-{{ .Key }}" class="year-pill-link" data-year="{{ .Key }}">
+          {{ .Key }}
+          <span class="year-pill-count">{{ len .Pages }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </header>
 
-      <!-- TOP link -->
-      <li><a href="#top" class="top-link">Top</a></li>
-
-      {{ range $groups }}
-        <li><a href="#year-{{ .Key }}">{{ .Key }}</a></li>
-      {{ end }}
-
-    </ul>
-  </div>
-
-  {{/* 3. Page title */}}
-  <h1 class="f2 fw6 mb4 tc">Posts by Date</h1>
-
-  {{/* 4. Inline year buttons */}}
-  <div class="mb4 tc">
-    {{ range $groups }}
-      <a href="#year-{{ .Key }}"
-         class="ba b--moon-gray bg-light-gray br2 dib f6 ph3 pv2 mh1 mb2 link">
-        {{ .Key }}
-      </a>
-    {{ end }}
-  </div>
-
-  {{/* 5. Year sections */}}
-  {{ range $groups }}
-
-    <h2 id="year-{{ .Key }}" class="year-heading f3 fw6 mt5 mb3 tc">
-      {{ .Key }}
-    </h2>
-
-    <section class="flex-ns flex-wrap">
-      {{ range .Pages }}
-        <div class="w-100 mb4 bg-white pa3 br3 shadow-4">
-          {{ .Render "summary-with-image" }}
+  <!-- Timeline Collapsible Groups -->
+  <div class="archive-timeline">
+    {{ range $index, $group := $groups }}
+    <details class="archive-year-accordion mb3" id="year-{{ .Key }}" {{ if eq $index 0 }}open{{ end }}>
+      <summary class="archive-year-summary">
+        <div class="flex items-center gap-3">
+          <svg class="accordion-chevron" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"></path>
+          </svg>
+          <span class="archive-year-title">{{ .Key }}</span>
         </div>
-      {{ end }}
-    </section>
+        <span class="archive-year-count">{{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }}</span>
+      </summary>
 
-  {{ end }}
+      <ul class="archive-post-list list ma0 pa0">
+        {{ range .Pages }}
+        <li class="archive-post-item">
+          <time class="archive-post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 02" }}</time>
+          
+          <div class="archive-post-info">
+            <a href="{{ .RelPermalink }}" class="archive-post-title">
+              {{ .Title }}
+            </a>
+            {{ with .Params.categories }}
+            <a href="/categories/{{ index . 0 | urlize }}/" class="archive-post-badge no-underline">
+              {{ index . 0 | humanize }}
+            </a>
+            {{ end }}
+          </div>
 
-  <!-- Floating Speed Dial Button (mobile + desktop) -->
-<div id="year-fab" class="year-fab">
-  <button id="year-fab-btn">☰</button>
-
-  <div id="year-fab-menu" class="year-fab-menu">
-    <a href="#top">Top</a>
-    {{ range $groups }}
-      <a href="#year-{{ .Key }}">{{ .Key }}</a>
+          <div class="archive-post-reading-time dn dtc-ns">
+            <span>{{ .ReadingTime }} min</span>
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+    </details>
     {{ end }}
   </div>
-</div>
 
+  <!-- Back to Top -->
+  <div class="tc mv5">
+    <a href="#" class="btn-pill">↑ Back to top</a>
+  </div>
 
 </article>
 
+<script>
+(function() {
+  // Year pill click handler: expand target year and scroll
+  document.querySelectorAll(".year-pill-link").forEach(function(pill) {
+    pill.addEventListener("click", function(e) {
+      var year = this.getAttribute("data-year");
+      var target = document.getElementById("year-" + year);
+      if (target) {
+        target.open = true;
+      }
+    });
+  });
+
+  // Toggle All button
+  var toggleBtn = document.getElementById("toggle-all-years-btn");
+  if (toggleBtn) {
+    toggleBtn.addEventListener("click", function() {
+      var allDetails = document.querySelectorAll(".archive-year-accordion");
+      var someClosed = Array.from(allDetails).some(function(d) { return !d.open; });
+      allDetails.forEach(function(d) { d.open = someClosed; });
+      toggleBtn.textContent = someClosed ? "Collapse all" : "Expand all";
+    });
+  }
+})();
+</script>
 {{ end }}

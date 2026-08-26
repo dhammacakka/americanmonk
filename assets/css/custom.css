@@ -1268,137 +1268,231 @@ header .ananke-socials {
   padding: 10px 24px;
 }
 
-/* Floating Year Navigation Sidebar */
-.year-sidebar {
-  position: fixed;
-  top: 120px;
-  left: 20px;
-  width: 80px;
-  background: #ffffff;
-  border-radius: 14px;
-  padding: 10px 5px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  z-index: 999;
+/* ==========================================================================
+   CLEAN & MODERN POSTS BY DATE (ARCHIVE TIMELINE)
+   ========================================================================== */
+
+.archive-main-title {
+  font-family: var(--font-heading) !important;
+  color: var(--color-text-primary);
+  letter-spacing: -0.02em;
 }
 
-.year-sidebar ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.year-pills-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
 }
 
-.year-sidebar li {
-  margin: 6px 0;
-  text-align: center;
+.year-pills-label {
+  color: #718096;
+  font-family: var(--font-ui) !important;
 }
 
-.year-sidebar a {
-  text-decoration: none;
-  color: #333;
+.year-pills-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 700px;
+}
+
+.year-pill-link {
+  font-family: var(--font-ui) !important;
+  font-size: 0.85rem;
   font-weight: 600;
-  display: block;
-  padding: 4px 0;
-  border-radius: 8px;
+  color: #374151 !important;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 5px 12px;
+  border-radius: 16px;
+  text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
   transition: all 0.2s ease;
 }
 
-.year-sidebar a:hover {
-  background: #ffe5e5;
-  color: #8b0000;
+.year-pill-link:hover {
+  background: rgba(128, 24, 24, 0.08);
+  border-color: rgba(128, 24, 24, 0.25);
+  color: #801818 !important;
+  transform: translateY(-2px);
 }
 
-/* Highlight active year */
-.year-sidebar a.active {
-  background: #8b0000;
-  color: white;
-}
-
-/* Mobile: hide sidebar */
-@media (max-width: 900px) {
-  .year-sidebar {
-    display: none;
-  }
-}
-
-#year-nav .top-link {
-  font-weight: 700;
-  color: #8b0000;
-  margin-bottom: 8px;
-  display: block;
-}
-/* Floating FAB container */
-.year-fab {
-  position: fixed;
-  bottom: 18px;
-  right: 18px;
-  z-index: 9999;
-}
-
-/* The round button */
-#year-fab-btn {
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  border: none;
-  background: #8b0000;
-  color: white;
-  font-size: 22px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
-  cursor: pointer;
-  transition: transform 0.2s ease;
-}
-
-#year-fab-btn:hover {
-  transform: scale(1.06);
-}
-
-/* The popup menu */
-.year-fab-menu {
-  position: absolute;
-  bottom: 70px;
-  right: 0;
-  display: none;
-  flex-direction: column;
-  gap: 8px;
-  background: white;
-  padding: 12px;
+.year-pill-count {
+  font-size: 0.72rem;
+  color: #718096;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 1px 6px;
   border-radius: 10px;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.25);
 }
 
-.year-fab-menu a {
-  display: block;
-  padding: 6px 12px;
-  text-decoration: none;
+.toggle-all-btn {
+  font-family: var(--font-ui) !important;
+  font-size: 0.75rem;
   font-weight: 600;
-  color: #333;
-  border-radius: 6px;
-  white-space: nowrap;
+  color: #801818;
+  background: rgba(128, 24, 24, 0.08);
+  border: 1px solid rgba(128, 24, 24, 0.2);
+  border-radius: 12px;
+  padding: 2px 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
 }
 
-.year-fab-menu a:hover {
-  background: #8b0000;
-  color: white;
+.toggle-all-btn:hover {
+  background: #801818;
+  color: #ffffff;
 }
 
-/* Highlight active */
-.year-fab-menu a.active {
-  background: #8b0000;
-  color: white;
+/* Collapsible Year Accordion */
+.archive-year-accordion {
+  scroll-margin-top: 90px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+  overflow: hidden;
+  transition: box-shadow 0.2s ease;
 }
 
-/* FAB visible only on mobile */
-@media (max-width: 900px) {
-  .year-fab {
-    display: block !important;
-  }
+.archive-year-accordion[open] {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
 }
 
-/* Hide FAB on desktop/tablet */
-@media (min-width: 901px) {
-  .year-fab {
-    display: none !important;
-  }
+.archive-year-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  background: #faf7f2;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  transition: background-color 0.2s ease;
+}
+
+.archive-year-summary::-webkit-details-marker {
+  display: none;
+}
+
+.archive-year-summary:hover {
+  background: #f4eee3;
+}
+
+.archive-year-accordion[open] .archive-year-summary {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.accordion-chevron {
+  width: 18px;
+  height: 18px;
+  color: #801818;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.archive-year-accordion[open] .accordion-chevron {
+  transform: rotate(90deg);
+}
+
+.archive-year-title {
+  font-family: var(--font-heading) !important;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1e242d;
+}
+
+.archive-year-count {
+  font-family: var(--font-ui) !important;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #718096;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 3px 10px;
+  border-radius: 12px;
+}
+
+.archive-post-list {
+  background: #ffffff;
+  padding: 4px 0;
+}
+
+.archive-post-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+  gap: 14px;
+  transition: background-color 0.15s ease;
+}
+
+.archive-post-item:last-child {
+  border-bottom: none;
+}
+
+.archive-post-item:hover {
+  background-color: #faf7f2;
+}
+
+.archive-post-date {
+  font-family: var(--font-ui) !important;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #718096;
+  min-width: 60px;
+  flex-shrink: 0;
+}
+
+.archive-post-info {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex-grow: 1;
+}
+
+.archive-post-title {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #2d3748 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+
+.archive-post-title:hover {
+  color: #801818 !important;
+}
+
+.archive-post-badge {
+  font-family: var(--font-ui) !important;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: #801818 !important;
+  background: rgba(128, 24, 24, 0.06);
+  padding: 2px 8px;
+  border-radius: 12px;
+  border: 1px solid rgba(128, 24, 24, 0.12);
+  transition: all 0.2s ease;
+}
+
+.archive-post-badge:hover {
+  background: #801818;
+  color: #ffffff !important;
+}
+
+.archive-post-reading-time {
+  font-family: var(--font-ui) !important;
+  font-size: 0.8rem;
+  color: #a0aec0;
+  flex-shrink: 0;
+  text-align: right;
+  min-width: 70px;
 }
 
 /* Video card layout */

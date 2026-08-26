@@ -109,7 +109,7 @@
 
     <div class="post-card-grid">
       {{ $posts := where .Site.RegularPages "Section" "posts" }}
-      {{ range first 6 $posts }}
+      {{ range first 12 $posts }}
         {{ .Render "summary-with-image" }}
       {{ end }}
     </div>
