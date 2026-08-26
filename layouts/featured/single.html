@@ -19,17 +19,15 @@
 
   {{ if gt (len $featured) 0 }}
 
-    <section class="flex-ns flex-wrap">
+    <div class="post-card-grid">
       {{ range $featured }}
-        <div class="w-100 mb4 bg-white">
-          {{ .Render "summary-with-image" }}
-        </div>
+        {{ .Render "summary-with-image" }}
       {{ end }}
-    </section>
+    </div>
 
   {{ else }}
 
-    <p class="f5 mid-gray lh-copy">
+    <p class="f5 mid-gray lh-copy tc">
       Featured section coming soon.
       Please check back later for hand-picked posts.
     </p>
