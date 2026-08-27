@@ -33,8 +33,6 @@
   {{ partialCached "site-favicon.html" . }}
   {{ end }}
 
-  ...
-
 
   {{ if .OutputFormats.Get "RSS" }}
   {{ with .OutputFormats.Get "RSS" }}
@@ -117,22 +115,17 @@
 <body class="ma0 {{ $.Param " body_classes" | default "avenir bg-near-white" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{
   end }}">
   {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+  <button id="back-to-top-btn" class="back-to-top-btn" type="button" aria-label="Back to top" title="Back to top">
+    <svg fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18"></path>
+    </svg>
+  </button>
   <main id="main-content" class="pb7" role="main">
-{{ if not (and .File (eq .File.Path "posts/by-date.md")) }}
-  <div id="progress-circle">
-    <div id="progress-text">0%</div>
-  </div>
-{{ end }}
-
-
     {{ block "main" . }}{{ end }}
   </main>
   {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
 {{ block "scripts" . }}
-  {{ if not (and .File (eq .File.Path "posts/by-date.md")) }}
-    <script src="/js/progress.js"></script>
-  {{ end }}
 {{ end }}
 
 <script>

@@ -1,4 +1,5 @@
 <header class="site-header-sticky">
+  <div id="reading-progress-bar" class="reading-progress-bar" aria-hidden="true"></div>
   <div class="site-nav-container mw8 center flex items-center justify-between ph3 ph4-ns">
     <!-- Brand / Logo -->
     <a href="{{ .Site.Home.RelPermalink }}" class="site-brand no-underline flex items-center">
@@ -117,10 +118,50 @@
         });
       }
     }
+
+    function setupProgressBar() {
+      var bar = document.getElementById("reading-progress-bar");
+      var backBtn = document.getElementById("back-to-top-btn");
+      if (!bar) return;
+
+      function onScroll() {
+        var scrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop || 0;
+        var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        if (docHeight > 0) {
+          var pct = Math.min(100, Math.max(0, (scrollY / docHeight) * 100));
+          bar.style.width = pct + "%";
+        } else {
+          bar.style.width = "0%";
+        }
+
+        if (backBtn) {
+          if (scrollY > 350) {
+            backBtn.classList.add("show");
+          } else {
+            backBtn.classList.remove("show");
+          }
+        }
+      }
+
+      if (backBtn && !backBtn.dataset.bound) {
+        backBtn.dataset.bound = "true";
+        backBtn.addEventListener("click", function() {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+      }
+
+      window.addEventListener("scroll", onScroll, { passive: true });
+      onScroll();
+    }
+
     if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", setupMobileMenu);
+      document.addEventListener("DOMContentLoaded", function() {
+        setupMobileMenu();
+        setupProgressBar();
+      });
     } else {
       setupMobileMenu();
+      setupProgressBar();
     }
   })();
 </script>
