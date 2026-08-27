@@ -63,6 +63,8 @@ I hope you can take this reflection and apply it to your life. Use it to cultiva
 
 I wish for all of you to contemplate these teachings deeply so that you may reach Nibbāna safely and quickly. Sādhu, Sādhu, Sādhu. It is my wish that you reach Nibbāna. Now, having spent this time contemplating these deep dhammas, let us share merit and close the session. I am very happy to see your positive engagement while I was speaking.  I saw many heads moving up and down just like the experiment.
 
+Note:  Please take a look at the generated picture again.  You will notice several things.  Death, Bhavaṅga, Idle of a car.  The Flower Shop, Giving Food represent possible bhavaṅga objects.  The name of the road represents the way to Nibbāna.
+
 ## Summary Poem
 
 Death is certain, yet the hour unknown,  
