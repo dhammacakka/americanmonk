@@ -10,18 +10,17 @@ publishDir = 'docs'
   youtube  = { label = "YouTube",  icon = "youtube",  profile = "https://youtube.com/%s" }
   github   = { label = "GitHub",   icon = "github",   profile = "https://github.com/%s" }
   twitter  = { label = "Twitter",  icon = "twitter",  profile = "https://twitter.com/%s" }
+  telegram = { label = "Telegram", icon = "telegram", profile = "https://t.me/%s" }
 
   [params.ananke.social.follow]
-  networks = ["facebook", "youtube", "github", "twitter"]
+  networks = ["youtube", "github", "telegram"]
 
-  [params.ananke.social.facebook]
-  username = "bhante.subhuti.1"
   [params.ananke.social.youtube]
   username = "@BhanteSubhuti"
   [params.ananke.social.github]
   username = "bksubhuti"
-  [params.ananke.social.twitter]
-  username = "GoHugoIO"
+  [params.ananke.social.telegram]
+  username = "Bksubhuti"
 
 googleAnalytics = "G-ES5VJRZTGT"
 environment = "production"

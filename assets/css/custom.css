@@ -1858,10 +1858,36 @@ iframe[src*="youtu.be"] {
   transform: translateY(-2px);
 }
 
-.footer-social-row .ananke-social-link svg {
+.footer-social-row .ananke-social-link svg,
+.about-social-row .ananke-social-link svg {
   width: 18px;
   height: 18px;
   fill: currentColor;
+}
+
+.about-social-row .ananke-socials {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about-social-row .ananke-social-link {
+  color: #4A5568 !important;
+  padding: 8px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.04);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.25s ease;
+  text-decoration: none !important;
+}
+
+.about-social-row .ananke-social-link:hover {
+  color: #801818 !important;
+  background: rgba(128, 24, 24, 0.08);
+  transform: translateY(-2px);
 }
 
 .footer-heading {

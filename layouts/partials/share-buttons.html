@@ -2,6 +2,7 @@
 {{ $facebook := readFile "themes/ananke/assets/ananke/socials/facebook.svg" }}
 {{ $twitter := readFile "themes/ananke/assets/ananke/socials/x-twitter.svg" }}
 {{ $whatsapp := readFile "themes/ananke/assets/ananke/socials/whatsapp.svg" }}
+{{ $telegram := readFile "themes/ananke/assets/ananke/socials/telegram.svg" }}
 {{ $email := readFile "themes/ananke/assets/ananke/socials/envelope.svg" }}
 {{ $viber := readFile "themes/ananke/assets/ananke/socials/viber.svg" }}
 
@@ -28,6 +29,13 @@
        href="https://wa.me/?text={{ (printf "%s %s" .Title .Permalink) | urlquery }}"
        title="Share on WhatsApp" aria-label="Share on WhatsApp">
       {{ $whatsapp | safeHTML }}
+    </a>
+
+    <!-- Telegram -->
+    <a class="share-btn share-btn-telegram" target="_blank" rel="noopener noreferrer"
+       href="https://t.me/share/url?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}"
+       title="Share on Telegram" aria-label="Share on Telegram">
+      {{ $telegram | safeHTML }}
     </a>
 
     <!-- Viber -->
@@ -125,6 +133,12 @@
   .share-btn-whatsapp:hover {
     background-color: #25d366;
     border-color: #25d366;
+    color: #ffffff;
+  }
+
+  .share-btn-telegram:hover {
+    background-color: #229ED9;
+    border-color: #229ED9;
     color: #ffffff;
   }
 
