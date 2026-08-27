@@ -8,7 +8,6 @@
 
   <link rel="canonical" href="{{ .Permalink }}" />
     <!--{{ partial "og-image.html" . }} --->
-  {{ partial "footnotes-popup.html" . }}
 
 
   <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
@@ -157,6 +156,7 @@
 <script src="https://cdn.jsdelivr.net/npm/lite-youtube-embed/src/lite-yt-embed.js" defer></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed/src/lite-yt-embed.css">
 
+{{ partial "image-lightbox.html" . }}
 {{ partial "search-modal.html" . }}
 </body>
 

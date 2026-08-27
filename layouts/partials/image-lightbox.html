@@ -1,0 +1,254 @@
+<!-- Image Lightbox Modal -->
+<div id="image-lightbox-modal" class="image-lightbox-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Image Zoom Preview">
+  <div class="image-lightbox-backdrop" id="image-lightbox-backdrop"></div>
+  
+  <div class="image-lightbox-container">
+    <button class="image-lightbox-close" id="image-lightbox-close" type="button" aria-label="Close image preview (Esc)">
+      <svg fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </button>
+
+    <figure class="image-lightbox-figure">
+      <img id="image-lightbox-img" class="image-lightbox-img" src="" alt="" loading="eager">
+      <figcaption id="image-lightbox-caption" class="image-lightbox-caption"></figcaption>
+    </figure>
+  </div>
+</div>
+
+<style>
+  /* Lightbox Overlay */
+  .image-lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 9999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.24s ease, visibility 0.24s ease;
+  }
+
+  .image-lightbox-overlay.is-open {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  /* Frosted Backdrop */
+  .image-lightbox-backdrop {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(15, 23, 42, 0.88);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    cursor: zoom-out;
+  }
+
+  /* Content Container */
+  .image-lightbox-container {
+    position: relative;
+    z-index: 1;
+    max-width: 94vw;
+    max-height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    box-sizing: border-box;
+  }
+
+  /* Close Button */
+  .image-lightbox-close {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+    z-index: 2;
+    outline: none;
+  }
+
+  .image-lightbox-close:hover,
+  .image-lightbox-close:focus-visible {
+    background: rgba(255, 255, 255, 0.35);
+    transform: scale(1.08);
+  }
+
+  /* Figure & Image */
+  .image-lightbox-figure {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .image-lightbox-img {
+    max-width: 90vw;
+    max-height: 80vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.1);
+    transform: scale(0.95);
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    cursor: zoom-out;
+    background: #111;
+  }
+
+  .image-lightbox-overlay.is-open .image-lightbox-img {
+    transform: scale(1);
+  }
+
+  /* Caption */
+  .image-lightbox-caption {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.95rem;
+    line-height: 1.4;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    text-align: center;
+    margin-top: 14px;
+    max-width: 750px;
+    padding: 0 1rem;
+    empty-cells: hide;
+    transition: opacity 0.2s ease;
+  }
+
+  .image-lightbox-caption:empty {
+    display: none;
+  }
+
+  /* Zoomable image indicators on post pages */
+  .single-post-content img,
+  .fancy-img,
+  article figure img {
+    cursor: zoom-in;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .single-post-content img:hover,
+  .fancy-img:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+  }
+</style>
+
+<script>
+(function() {
+  function initImageLightbox() {
+    var modal = document.getElementById('image-lightbox-modal');
+    var modalImg = document.getElementById('image-lightbox-img');
+    var modalCaption = document.getElementById('image-lightbox-caption');
+    var closeBtn = document.getElementById('image-lightbox-close');
+    var backdrop = document.getElementById('image-lightbox-backdrop');
+
+    if (!modal || !modalImg || modal.dataset.initialized) return;
+    modal.dataset.initialized = 'true';
+
+    function openLightbox(src, altText, captionText) {
+      modalImg.src = src;
+      modalImg.alt = altText || '';
+      
+      var caption = captionText || altText || '';
+      // Don't show default or numeric-looking file names as captions
+      if (caption && !caption.match(/\.(jpe?g|png|webp|gif|svg)$/i)) {
+        modalCaption.textContent = caption;
+        modalCaption.style.display = 'block';
+      } else {
+        modalCaption.textContent = '';
+        modalCaption.style.display = 'none';
+      }
+
+      modal.classList.add('is-open');
+      modal.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+      if (closeBtn) closeBtn.focus();
+    }
+
+    function closeLightbox() {
+      modal.classList.remove('is-open');
+      modal.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+      setTimeout(function() {
+        if (!modal.classList.contains('is-open')) {
+          modalImg.src = '';
+        }
+      }, 250);
+    }
+
+    // Attach click listener to images in single post content
+    document.addEventListener('click', function(e) {
+      var img = e.target.closest('.single-post-content img, .fancy-img, article figure img');
+      
+      // Ignore if image is inside a link that doesn't point to an image or if it's an icon/badge
+      if (img) {
+        // Skip tiny icons, author avatars, etc.
+        if (img.width > 0 && img.width < 60 && img.height < 60) return;
+        if (img.classList.contains('site-logo') || img.classList.contains('nav-icon')) return;
+
+        // Check if inside a link
+        var parentLink = img.closest('a');
+        if (parentLink) {
+          var href = parentLink.getAttribute('href') || '';
+          // If the link is not an image file, don't hijack unless it's just linking to itself
+          if (!href.match(/\.(jpe?g|png|webp|gif|svg)(\?.*)?$/i) && href !== '#') {
+            return;
+          }
+          e.preventDefault();
+        }
+
+        var fullSrc = img.getAttribute('data-zoom-src') || img.currentSrc || img.src;
+        var alt = img.getAttribute('alt') || '';
+        
+        // Look for figure caption if present
+        var figure = img.closest('figure');
+        var figcaption = figure ? figure.querySelector('figcaption') : null;
+        var captionText = figcaption ? figcaption.textContent.trim() : alt;
+
+        openLightbox(fullSrc, alt, captionText);
+      }
+    });
+
+    // Close on backdrop click, image click, or close button
+    if (backdrop) backdrop.addEventListener('click', closeLightbox);
+    if (closeBtn) closeBtn.addEventListener('click', closeLightbox);
+    if (modalImg) modalImg.addEventListener('click', closeLightbox);
+
+    // Keyboard support: Esc key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && modal.classList.contains('is-open')) {
+        closeLightbox();
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initImageLightbox);
+  } else {
+    initImageLightbox();
+  }
+})();
+</script>

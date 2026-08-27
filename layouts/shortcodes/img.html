@@ -9,7 +9,7 @@
     <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="lazy" decoding="async">
   {{ else }}
     {{ $resized := $image.Resize "800x webp q85" }}
-    <img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" width="{{ $resized.Width }}" height="{{ $resized.Height }}" loading="lazy" decoding="async">
+    <img src="{{ $resized.RelPermalink }}" data-zoom-src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" width="{{ $resized.Width }}" height="{{ $resized.Height }}" loading="lazy" decoding="async">
   {{ end }}
 {{ else }}
   <img src="{{ $src | relURL }}" alt="{{ .Get "alt" | default "" }}" class="fancy-img" loading="lazy" decoding="async">
