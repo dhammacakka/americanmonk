@@ -9,9 +9,9 @@
     </p>
     {{ $heroImg := resources.Get "images/me_hide_away_beach.webp" }}
     {{ if $heroImg }}
-      <img src="{{ $heroImg.RelPermalink }}" alt="Bhante Subhūti" class="br3 shadow-4" style="width:160px;height:auto;" width="160" height="213" fetchpriority="high" decoding="async">
+      <img src="{{ $heroImg.RelPermalink }}" alt="Bhante Subhūti" class="br3 shadow-4 db center" style="max-width: 560px; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: center 35%;" fetchpriority="high" decoding="async">
     {{ else }}
-      <img src="/images/me_hide_away_beach.webp" alt="Bhante Subhūti" class="br3 shadow-4" style="width:160px;height:auto;" width="160" height="213" fetchpriority="high" decoding="async">
+      <img src="/images/me_hide_away_beach.webp" alt="Bhante Subhūti" class="br3 shadow-4 db center" style="max-width: 560px; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: center 35%;" fetchpriority="high" decoding="async">
     {{ end }}
   </div>
 </section>
