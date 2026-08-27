@@ -1,6 +1,6 @@
 ---
 title: "Why Do Some Monks Have Multicolor Robes?"
-date: 2026-08-07
+date: 2026-08-26
 categories: 
   - monk-life
   - vinaya
