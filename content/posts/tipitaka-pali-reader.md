@@ -17,23 +17,24 @@ featured_image: /images/TPR-billboard.webp
 
 {{< img src = "/images/TPR-billboard-1024x577.webp" >}}
 
-
-## Download
-
-| OS Symbol | Download Link |
-| :---: | :--- |
-| [{{< resizeimg src="/images/Windows_10_logo.webp" width="45" >}}](ms-windows-store://pdp/?ProductId=9MTH9TD82TGR) | [Windows Store](ms-windows-store://pdp/?ProductId=9MTH9TD82TGR) |
-| [{{< simpleimg src="/images/200px-MacOS_logo_2017.svg_.webp" width="45" alt="Mac OS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) | [Mac OS Store](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) |
-| [{{< simpleimg src="/images/flathub-logo-toolbar.svg" width="45" alt="Flathub Store Logo" >}}](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) | [Flathub Store](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) |
-| [{{< simpleimg src="/images/flathub-logo-toolbar.svg" width="45" alt="Linux AppImage Logo" >}}](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) | [Linux AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)<br>`sudo apt install libfuse2 libsqlite3-dev` |
-| [{{< simpleimg src="/images/480px-Android-logo.webp" width="45" alt="Android Store Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) | [Android Store](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) |
-| [{{< simpleimg src="/images/App_Store_iOS_11_Custom_size.webp" width="45" alt="iOS Store Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone) | [iOS Store](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949?platform=iphone) |
+{{< tpr-downloads >}}
 
 # Tipitaka Pāḷi Reader
 
 ### The Ultimate Cross-Platform Pāḷi Reading, AI Search & Translation Suite
 
 **Tipitaka Pāḷi Reader (TPR)** is a modern, feature-packed app designed for monks, scholars, students, and practitioners of the Pāḷi Tipiṭaka. Built from the ground up with Flutter, TPR delivers a fluid experience across all Desktop and Mobile devices, combining **Full English Line-by-Line Translations**, **AI-Powered Semantic Searching**, **Integrated Dictionaries**, and **Multi-Panel Canon Reading**.
+
+---
+
+## Download & Install
+
+| Platform | Official Store | Direct Download (GitHub) |
+| :---: | :--- | :--- |
+| [{{< simpleimg src="/images/logo-windows.svg" width="32" alt="Windows Logo" >}}](https://apps.microsoft.com/detail/9MTH9TD82TGR)<br>**Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9MTH9TD82TGR) | [Windows Installer (.exe)](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) |
+| [{{< simpleimg src="/images/logo-apple.svg" width="32" alt="Apple Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)<br>**Apple (Mac & iOS)** | [Apple App Store](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) | — |
+| [{{< simpleimg src="/images/logo-android.svg" width="32" alt="Android Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader)<br>**Android** | [Google Play Store](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) | [Direct APK](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) |
+| [{{< simpleimg src="/images/logo-linux.svg" width="32" alt="Linux Logo" >}}](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)<br>**Linux** | [Flathub Store](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) | [Linux AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)<br>`sudo apt install libfuse2 libsqlite3-dev` |
 
 ---
 

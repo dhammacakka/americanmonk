@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Tux Penguin / Linux Logo -->
+  <ellipse cx="50" cy="55" rx="30" ry="35" fill="#222222"/>
+  <ellipse cx="50" cy="60" rx="20" ry="26" fill="#FFFFFF"/>
+  <circle cx="50" cy="28" r="19" fill="#222222"/>
+  <!-- Eyes -->
+  <ellipse cx="44" cy="24" rx="4" ry="6" fill="#FFFFFF"/>
+  <ellipse cx="56" cy="24" rx="4" ry="6" fill="#FFFFFF"/>
+  <circle cx="45" cy="24" r="2.2" fill="#000000"/>
+  <circle cx="55" cy="24" r="2.2" fill="#000000"/>
+  <!-- Beak -->
+  <polygon points="50,38 42,29 58,29" fill="#FFA500"/>
+  <!-- Wings -->
+  <ellipse cx="22" cy="58" rx="8" ry="18" transform="rotate(20 22 58)" fill="#222222"/>
+  <ellipse cx="78" cy="58" rx="8" ry="18" transform="rotate(-20 78 58)" fill="#222222"/>
+  <!-- Feet -->
+  <ellipse cx="36" cy="90" rx="14" ry="6" fill="#FFA500"/>
+  <ellipse cx="64" cy="90" rx="14" ry="6" fill="#FFA500"/>
+</svg>
