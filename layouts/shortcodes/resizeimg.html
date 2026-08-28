@@ -1,10 +1,22 @@
 {{/* resizeimg.html */}}
 {{ $src := .Get "src" }}
-{{ $size := .Get "size" | default "100x" }} <!-- Specify only width for aspect ratio -->
-{{ $image := resources.Get $src }}
+{{ $size := .Get "size" | default "100x" }}
+{{ with .Get "width" }}
+  {{ $size = printf "%sx" . }}
+{{ end }}
+{{ $cleanSrc := strings.TrimPrefix "/" $src }}
+{{ $image := resources.Get $cleanSrc }}
+{{ if not $image }}
+  {{ $image = resources.Get $src }}
+{{ end }}
 {{ if $image }}
-{{ $resizedImage := $image.Resize $size }}
-<img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Get "alt" }}" />
+  {{ if eq $image.MediaType.SubType "svg" }}
+    {{ $style := printf "width: %s" (strings.TrimSuffix "x" $size) }}
+    <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" style="{{ $style }}px;" loading="lazy" decoding="async" />
+  {{ else }}
+    {{ $resizedImage := $image.Resize $size }}
+    <img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" width="{{ $resizedImage.Width }}" height="{{ $resizedImage.Height }}" loading="lazy" decoding="async" />
+  {{ end }}
 {{ else }}
-<p>Image not found: {{ $src }}</p>
+  <p>Image not found: {{ $src }}</p>
 {{ end }}

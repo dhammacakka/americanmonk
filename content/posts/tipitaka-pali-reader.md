@@ -27,17 +27,6 @@ featured_image: /images/TPR-billboard.webp
 
 ---
 
-## Download & Install
-
-| Platform | Official Store | Direct Download (GitHub) |
-| :---: | :--- | :--- |
-| [{{< simpleimg src="/images/logo-windows.svg" width="32" alt="Windows Logo" >}}](https://apps.microsoft.com/detail/9MTH9TD82TGR)<br>**Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9MTH9TD82TGR) | [Windows Installer (.exe)](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) |
-| [{{< simpleimg src="/images/logo-apple.svg" width="32" alt="Apple Logo" >}}](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)<br>**Apple (Mac & iOS)** | [Apple App Store](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) | — |
-| [{{< simpleimg src="/images/logo-android.svg" width="32" alt="Android Logo" >}}](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader)<br>**Android** | [Google Play Store](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) | [Direct APK](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) |
-| [{{< simpleimg src="/images/logo-linux.svg" width="32" alt="Linux Logo" >}}](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)<br>**Linux** | [Flathub Store](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) | [Linux AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)<br>`sudo apt install libfuse2 libsqlite3-dev` |
-
----
-
 ## Key Highlighted Features
 
 ### 1. Full Line-by-Line English Translation (via ePitaka Extension)

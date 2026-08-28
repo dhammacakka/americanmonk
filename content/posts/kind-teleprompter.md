@@ -17,13 +17,10 @@ featured_image: /images/Kind_Teleprompter.webp
 
 {{< img src="/images/Kind_Teleprompter.webp" >}}
 
-## Download
-
-| OS Symbol | Download Link |
-| :---: | :--- |
-| [{{< simpleimg src="/images/480px-Android-logo.webp" width="45" alt="Android Store Logo" >}}](https://play.google.com/store/apps/details?id=org.americanmonk.kindteleprompter) | [Android Store](https://play.google.com/store/apps/details?id=org.americanmonk.kindteleprompter) |
-| [{{< simpleimg src="/images/App_Store_iOS_11_Custom_size.webp" width="45" alt="iOS Store Logo" >}}](https://apps.apple.com/us/app/kind-teleprompter/id6796031402) | [iOS Store](https://apps.apple.com/us/app/kind-teleprompter/id6796031402) |
-
+{{< download-badges 
+     android_id="org.americanmonk.kindteleprompter" 
+     ios_url="https://apps.apple.com/us/app/kind-teleprompter/id6796031402" 
+>}}
 
 # Kind Teleprompter
 
@@ -31,6 +28,7 @@ This **free** teleprompter, with **no subscriptions** and **no ads**, follows yo
 
 Simply read your script aloud! The offline voice tracking engine matches your spoken words and automatically keeps your script aligned right where you are reading.
 
+---
 
 ## Why Did I Make It?
 I needed a teleprompter, but didn't want to ask a donor to pay for one, so I made my own.  I think it turned out pretty well and it makes it easier to record videos.  I hope you enjoy it and find it useful. It was made with love those who need a free and teleprompter.

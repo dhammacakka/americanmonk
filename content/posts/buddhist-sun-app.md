@@ -16,12 +16,12 @@ authors:
   - bksubhuti
 featured_image: /images/buddhist_sun_logo4.webp
 ---
+{{< resizeimg src="/images/buddhist_sun_logo4.webp" width="150" alt="Buddhist Sun App" >}}
 
-{{< resizeimg src="/images/buddhist_sun_logo4.webp" width="150" >}}
-
-{{< extlink "https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun" "Download Android App" >}}
-<br>
-{{< extlink "https://apps.apple.com/us/app/buddhist-sun/id1585091207" "Download iOS App" >}}
+{{< download-badges 
+     android_id="com.bksubhuti.buddhistsun" 
+     ios_url="https://apps.apple.com/us/app/buddhist-sun/id1585091207" 
+>}}
 
 Update November 25, 2025 with video and summary. First published September 2021.
 
