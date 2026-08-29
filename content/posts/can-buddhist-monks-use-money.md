@@ -1,6 +1,7 @@
 ---
 title: "Can Buddhist Monks Use Money?"
 date: 2026-08-28
+draft: true
 categories: 
   - monk-life
   - vinaya
