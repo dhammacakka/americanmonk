@@ -2172,3 +2172,16 @@ iframe[src*="youtu.be"] {
   }
 }
 
+/* ==========================================================================
+   APP STATUS & NOTICE BANNER CARDS
+   ========================================================================== */
+
+.app-notice-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.app-notice-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(217, 119, 6, 0.16) !important;
+}
+
