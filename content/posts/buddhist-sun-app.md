@@ -18,21 +18,21 @@ featured_image: /images/buddhist_sun_logo4.webp
 ---
 {{< resizeimg src="/images/buddhist_sun_logo4.webp" width="150" alt="Buddhist Sun App" >}}
 
-<div class="app-notice-card" style="margin: 2rem 0; padding: 1.4rem 1.7rem; background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%); border: 1.5px solid #f59e0b; border-left: 6px solid #d97706; border-radius: 14px; box-shadow: 0 4px 18px rgba(217, 119, 6, 0.12); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div class="app-notice-card" style="margin: 2rem 0; padding: 1.4rem 1.7rem; background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border: 1.5px solid #22c55e; border-left: 6px solid #16a34a; border-radius: 14px; box-shadow: 0 4px 18px rgba(22, 163, 74, 0.12); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 0.65rem;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <span style="font-size: 1.6rem; line-height: 1;">⚠️</span>
-      <span style="font-size: 1.28rem; font-weight: 700; color: #78350f; letter-spacing: -0.01em;">Important Notice for Android Users</span>
+      <span style="font-size: 1.6rem; line-height: 1;">✅</span>
+      <span style="font-size: 1.28rem; font-weight: 700; color: #14532d; letter-spacing: -0.01em;">Android Only: App Fixed & Ready for Update</span>
     </div>
-    <span style="display: inline-block; background: rgba(217, 119, 6, 0.18); color: #92400e; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 4px 10px; border-radius: 9999px; border: 1px solid rgba(217, 119, 6, 0.35);">
-      Replacement Pending Approval
+    <span style="display: inline-block; background: rgba(22, 163, 74, 0.16); color: #15803d; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 4px 10px; border-radius: 9999px; border: 1px solid rgba(22, 163, 74, 0.35);">
+      Android Only
     </span>
   </div>
-  <p style="margin: 0; font-size: 1.15rem; line-height: 1.65; color: #451a03;">
-    <strong>Buddhist Sun is not working at the moment for Android</strong> and we are waiting for the approval of a replacement submitted <strong>September 3, 2026</strong>.
+  <p style="margin: 0; font-size: 1.15rem; line-height: 1.65; color: #14532d;">
+    <strong>The Buddhist Sun app is now fixed and ready for update on Android!</strong> Please update or install the latest version via Google Play below.
   </p>
-  <div style="margin-top: 0.75rem; padding-top: 0.65rem; border-top: 1px solid rgba(217, 119, 6, 0.2); font-size: 0.92rem; color: #92400e;">
-    <em>Note: The iOS version is unaffected and continues to work normally.</em>
+  <div style="margin-top: 0.75rem; padding-top: 0.65rem; border-top: 1px solid rgba(22, 163, 74, 0.25); font-size: 0.92rem; color: #166534;">
+    <em>Note: This update applies to <strong>Android devices only</strong>. The iOS version was unaffected and continues to run normally.</em>
   </div>
 </div>
 
