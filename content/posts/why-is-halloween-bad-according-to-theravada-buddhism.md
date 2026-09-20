@@ -12,7 +12,7 @@ tags:
   - death
 authors:
   - bksubhuti
-featured_image: /images/oct31-halloween-pexels.webp
+featured_image: /images/girl-gool-pexels-matheus-bertelli-5477427-683x1024.webp
 ---
 Updated October 21, 2025 from the original in 2022.
 
