@@ -35,6 +35,20 @@
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>americanmonk-org-podcast</podcast:guid>
     <item>
+      <title>Sept-20-Anattalakkhana_sutta_and_vibhanga</title>
+      <description>A talk on the Anattalakkhana Sutta and Vibhaṅga (Abhidhamma).</description>
+      <link>https://archive.org/details/sept-20-anattalakkhana-sutta-and-vibhanga</link>
+      <guid isPermaLink="true">https://archive.org/details/sept-20-anattalakkhana-sutta-and-vibhanga</guid>
+      <enclosure url="https://ia600403.us.archive.org/19/items/sept-20-anattalakkhana-sutta-and-vibhanga/Sept-20-Anattalakkhana_sutta_and_vibhanga.mp3"
+                 length="145186480"
+                 type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>01:40:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://americanmonk.org/images/podcast-cover.jpg"/>
+      <itunes:keywords>anattalakkhana, vibhanga, abhidhamma, sutta, theravada, buddhism</itunes:keywords>
+    </item>
+    <item>
       <title>Abhidhamma Plus Jhāna</title>
       <description>A talk on Abhidhamma and jhāna.</description>
       <link>https://archive.org/details/all_plu_jhana_sept_6_2026_ed</link>
