@@ -46,53 +46,56 @@
   </header>
 
   <div class="single-post-content nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif" }} f4 nested-links {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
-    {{- .Content -}}
-
-    <div class="mt4 mb4">
-      {{ partial "share-buttons.html" . }}
-    </div>
-
-    <!-- Search subjects prompt -->
-    <div class="mt4 mb3 pa3 br3 bg-near-white ba b--black-05 tc">
-      <p class="f5 fw6 ma0">Click below to search subjects</p>
-    </div>
-
-    {{- partial "tags.html" . -}}
-
-    <!-- Next / Previous Post Navigation Cards -->
-    {{ if or .PrevInSection .NextInSection }}
-    <nav class="post-nav-grid mt5 pt4 bt b--black-10">
-      {{ with .PrevInSection }}
-      <a href="{{ .RelPermalink }}" class="post-nav-card post-nav-prev no-underline">
-        <span class="post-nav-label">← Previous Post</span>
-        <span class="post-nav-title">{{ .Title }}</span>
-      </a>
-      {{ end }}
-      {{ with .NextInSection }}
-      <a href="{{ .RelPermalink }}" class="post-nav-card post-nav-next no-underline">
-        <span class="post-nav-label">Next Post →</span>
-        <span class="post-nav-title">{{ .Title }}</span>
-      </a>
-      {{ end }}
-    </nav>
-    {{ end }}
-
     {{ if eq .RelPermalink "/subscribe/" }}
-    <div class="mt4">
-      {{ partial "subscribeform.html" . }}
-    </div>
+      <div class="mb4">
+        {{ partial "subscribeform.html" . }}
+      </div>
+      <div class="mt4 f5 mid-gray">
+        {{- .Content -}}
+      </div>
     {{ else }}
-    <div class="mt5 tc pa4 bg-near-white br3 ba b--black-10">
-      <h3 class="f4 fw6 dark-gray mb2">Join Our Mail List</h3>
-      <p class="mid-gray mb3 f5">Get updates on new Dhamma teachings, essays, and videos delivered to your inbox.</p>
-      <a href="/subscribe/" class="btn-pill btn-pill-solid dib">
-        <i class="fa-solid fa-envelope mr1"></i> Subscribe to Updates
-      </a>
-    </div>
-    <div class="mt5 instapaper_ignoref">
-      <h3 class="f3 fw6 mb3">Comments</h3>
-      {{ partial "comments.html" . }}
-    </div>
+      {{- .Content -}}
+
+      <div class="mt4 mb4">
+        {{ partial "share-buttons.html" . }}
+      </div>
+
+      <!-- Search subjects prompt -->
+      <div class="mt4 mb3 pa3 br3 bg-near-white ba b--black-05 tc">
+        <p class="f5 fw6 ma0">Click below to search subjects</p>
+      </div>
+
+      {{- partial "tags.html" . -}}
+
+      <!-- Next / Previous Post Navigation Cards -->
+      {{ if or .PrevInSection .NextInSection }}
+      <nav class="post-nav-grid mt5 pt4 bt b--black-10">
+        {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}" class="post-nav-card post-nav-prev no-underline">
+          <span class="post-nav-label">← Previous Post</span>
+          <span class="post-nav-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}" class="post-nav-card post-nav-next no-underline">
+          <span class="post-nav-label">Next Post →</span>
+          <span class="post-nav-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </nav>
+      {{ end }}
+
+      <div class="mt5 tc pa4 bg-near-white br3 ba b--black-10">
+        <h3 class="f4 fw6 dark-gray mb2">Join Our Mail List</h3>
+        <p class="mid-gray mb3 f5">Get updates on new Dhamma teachings, essays, and videos delivered to your inbox.</p>
+        <a href="/subscribe/" class="btn-pill btn-pill-solid dib">
+          <i class="fa-solid fa-envelope mr1"></i> Subscribe to Updates
+        </a>
+      </div>
+      <div class="mt5 instapaper_ignoref">
+        <h3 class="f3 fw6 mb3">Comments</h3>
+        {{ partial "comments.html" . }}
+      </div>
     {{ end }}
   </div>
 

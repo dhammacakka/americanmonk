@@ -2,6 +2,8 @@
   Use Hugo's native Table of contents feature. You must set `toc: true` in your parameters for this to show.
   https://gohugo.io/content-management/toc/
 */}}
+{{ partial "sidebar-subscribe.html" . }}
+
 {{ if .Params.categories }}
   <div class="related-sidebar">
     <h3>Categories</h3>
@@ -82,5 +84,3 @@
     </ul>
   </div>
 {{ end }}
-
-{{ partial "sidebar-subscribe.html" . }}
