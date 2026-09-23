@@ -77,14 +77,23 @@
     </nav>
     {{ end }}
 
-    <div class="mt5">
+    {{ if eq .RelPermalink "/subscribe/" }}
+    <div class="mt4">
       {{ partial "subscribeform.html" . }}
     </div>
-
+    {{ else }}
+    <div class="mt5 tc pa4 bg-near-white br3 ba b--black-10">
+      <h3 class="f4 fw6 dark-gray mb2">Join Our Mail List</h3>
+      <p class="mid-gray mb3 f5">Get updates on new Dhamma teachings, essays, and videos delivered to your inbox.</p>
+      <a href="/subscribe/" class="btn-pill btn-pill-solid dib">
+        <i class="fa-solid fa-envelope mr1"></i> Subscribe to Updates
+      </a>
+    </div>
     <div class="mt5 instapaper_ignoref">
       <h3 class="f3 fw6 mb3">Comments</h3>
       {{ partial "comments.html" . }}
     </div>
+    {{ end }}
   </div>
 
   <aside class="w-30-l mt5-l">

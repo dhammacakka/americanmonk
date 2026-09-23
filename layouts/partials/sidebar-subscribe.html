@@ -1,6 +1,11 @@
 {{ if ne .RelPermalink "/subscribe/" }}
-<div class="sidebar-section subscribe-widget mt4">
+<div class="sidebar-section related-sidebar mt4">
   <h3>Subscribe</h3>
-  {{ partial "subscribeform.html" . }}
+  <p class="f6 mid-gray mb3">Join our mail list to get new Dhamma talks, videos, and essays delivered to your inbox.</p>
+  <div class="tc">
+    <a href="/subscribe/" class="btn-pill btn-pill-solid w-100" style="display: flex;">
+      <i class="fa-solid fa-envelope mr1"></i> Subscribe to Updates
+    </a>
+  </div>
 </div>
 {{ end }}
