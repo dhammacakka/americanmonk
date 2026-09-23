@@ -1,5 +1,5 @@
 ---
-title: "Death and the Life Continuum (Bhavaṅga)"
+title: "Death and The Life Continuum (Bhavaṅga)"
 date: 2026-08-27
 categories: 
   - dhamma-talks
@@ -39,7 +39,7 @@ Recently, Venerable MaggaVihāri asked me to add a specific feature to the [Budd
 
 {{< img src = "/images/death-o-meter.webp" >}}
 
-One of my friends, did not like this idea at all. Why? We all know the famous Dhammapada story of the weaver's daughter. She came late to the Buddha's teaching due to work. Because she had been focusing on the contemplation of death, the Buddha asked her, "Where did you come from?" and she replied, "I don't know." He asked, "Where are you going?" and she said, "I don't know." He asked if she knew, and she said yes, but when asked "Do you know?", she said she didn't know. The meaning behind this exchange was that she didn't know where she came from in her past life, nor where she would go after death. While she knew for absolute certainty that she would die, she did not know exactly when or how.
+This app is removed.  Why?  One of my friends, did not like this idea at all. Why? We all know the famous Dhammapada story of the weaver's daughter. She came late to the Buddha's teaching due to work. Because she had been focusing on the contemplation of death, the Buddha asked her, "Where did you come from?" and she replied, "I don't know." He asked, "Where are you going?" and she said, "I don't know." He asked if she knew, and she said yes, but when asked "Do you know?", she said she didn't know. The meaning behind this exchange was that she didn't know where she came from in her past life, nor where she would go after death. While she knew for absolute certainty that she would die, she did not know exactly when or how.
 
 My friend dislikes the countdown timer because, even if it reminds one that one might only have 25 years left to live, it removes the immediate urgency and also gives a fixed time, which cannot exist.  It is up to kamma. Sometimes we expect death due to cancer, heart conditions, or old age. But very often, death is entirely unexpected—like in a car accident or a sudden heart attack. It comes suddenly and without warning. My friend feels that if one believes one has 25 years left, one might become complacent and lose the urgency that comes from realizing one could die tomorrow. So, despite it being a good reminder for some, he doesn't like the timer.
 
