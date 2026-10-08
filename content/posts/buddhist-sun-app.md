@@ -99,6 +99,14 @@ Originally built as a hands-free Solar Noon countdown timer, **Buddhist Sun 1.7.
     <div class="screenshot-caption">Hands-Free Voice Countdown</div>
     <div class="screenshot-subcaption">TTS spoken audio alerts for eating periods</div>
   </div>
+
+  <div class="screenshot-device-card">
+    <div class="screenshot-frame">
+      <img src="/images/buddhist-sun/buddhist-sun-d-view.webp" alt="Vitamin D Sun Exposure Calculator" class="fancy-img" loading="lazy" />
+    </div>
+    <div class="screenshot-caption">Vitamin D Sun Exposure</div>
+    <div class="screenshot-subcaption">Calculate optimal sun exposure for Vitamin D synthesis</div>
+  </div>
 </div>
 
 ---
@@ -233,6 +241,26 @@ Originally built as a hands-free Solar Noon countdown timer, **Buddhist Sun 1.7.
   <div class="feature-spotlight-media">
     <div class="screenshot-frame">
       <img src="/images/buddhist-sun/buddhist-sun-noon-countdown.webp" alt="Solar Noon Countdown Screen" class="fancy-img" loading="lazy" />
+    </div>
+  </div>
+</div>
+
+<div class="feature-spotlight-row reverse">
+  <div class="feature-spotlight-content">
+    <span class="feature-pill-badge emerald">Health & Wellness</span>
+    <h3>7. Vitamin D Sun Exposure Calculator</h3>
+    <p>
+      Harness the power of the sun to maintain optimal health with the built-in Vitamin D Sun Exposure calculator.
+    </p>
+    <ul>
+      <li><strong>Optimal Exposure Times:</strong> Find the best time of day to safely absorb sunlight for natural Vitamin D synthesis.</li>
+      <li><strong>Personalized Tracking:</strong> Calculate recommended duration based on the sun's current angle and intensity at your location.</li>
+      <li><strong>Health Maintenance:</strong> Support your immune system and bone health during monastic life or extended retreats.</li>
+    </ul>
+  </div>
+  <div class="feature-spotlight-media">
+    <div class="screenshot-frame">
+      <img src="/images/buddhist-sun/buddhist-sun-d-view.webp" alt="Vitamin D Sun Exposure Screen" class="fancy-img" loading="lazy" />
     </div>
   </div>
 </div>
