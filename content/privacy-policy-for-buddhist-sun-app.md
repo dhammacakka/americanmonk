@@ -8,7 +8,9 @@ Privacy Policy
 Application: Buddhist Sun
 This Solar Noon app is a product of Bhante Subhuti and is open source. Bhante may refer to himself collectively as “we”, “us”, and “ours”. Bhante is committed to protecting your privacy. This Privacy Notice (“Notice”) describes how Bhante processes Personal Data in its capacity as a controller (i.e. Bhante does not collect any data. The data is on your app and stays there.
 
-There is no information collected from the Buddhist Sun application. The only information that is received is from the Google Play store about how many anonymous downloads were completed and installed and other information that Google Play Console gives all developers.
+Last updated: October 10, 2026.
+
+There is no information collected by the developer from the Buddhist Sun application. Some optional features contact third-party services, described below under "Online services used by the app". The only information that is received is from the Google Play store about how many anonymous downloads were completed and installed and other information that Google Play Console gives all developers.
 
 Any Questions?
 If you have questions or complaints regarding our privacy notice or practice you may contact me via an e-mail found at our contact page.
@@ -18,6 +20,13 @@ What Personal Data Does Buddhist Sun use to operate and Why?
 
 GPS and location:
 Buddhist Sun uses GPS services to help you collect the GPS latitude /longitude for calculating the sun position, so you can know when Solar Noon is. There is no data sent back to the creators / owners of Buddhist Sun app. GPS is only used once each time you press the button to collect the GPS coordinates.
+
+Online services used by the app:
+The developer of Buddhist Sun does not run any server and receives none of this data. A few features contact third-party services directly from your phone:
+
+- City name from GPS: after a GPS reading, the app asks your phone's built-in geocoding service (Apple on iOS, Google on Android) for the city and country name of your coordinates. This is covered by Apple's or Google's privacy policy. You can turn off city lookup in the settings.
+- Country check (api.country.is): when the country cannot be found from GPS, the app makes one HTTPS request to api.country.is, an open-source service. This request sends only your IP address, which every internet request sends, and returns a two-letter country code. The country code is stored on your phone only. It is used to decide which features of the Vitamin D sun timer are available in your region.
+- Online UV data (Open-Meteo): if you turn on online UV in the Vitamin D sun timer, the app sends your latitude and longitude, rounded to about 10 km, to Open-Meteo (open-meteo.com) to get today's UV forecast. Open-Meteo does not require an account. You can turn this off, and the timer then uses an offline estimate.
 
 Running in the background:
 Buddhist Sun requests run in the background when you specifically use the switch to “enable TTS with screen off” . This allows the text to speech engine to work while the phone screen is not on so you may get voice notifications as the timer runs. Without this background permission, you will not be able to get hands free voice notifications when the screen is not on. Alternatively, you can choose never to turn this switch on. The app is designed so that the background processes are turned on only when it is requested with a switch. You can operate the app without using the switch. The permission is only asked one time. When the app is closed, the background process is turned off. This is independent from the above GPS permissions. GPS is not streamed. GPS is only requested once as specified by the user single button interaction. This app will not run secretly. When the app is turned off, so are the background processes.
