@@ -24,8 +24,7 @@ Buddhist Sun uses GPS services to help you collect the GPS latitude /longitude f
 Online services used by the app:
 The developer of Buddhist Sun does not run any server and receives none of this data. A few features contact third-party services directly from your phone:
 
-- City name from GPS: after a GPS reading, the app asks your phone's built-in geocoding service (Apple on iOS, Google on Android) for the city and country name of your coordinates. This is covered by Apple's or Google's privacy policy. You can turn off city lookup in the settings.
-- Country check (api.country.is): when the country cannot be found from GPS, the app makes one HTTPS request to api.country.is, an open-source service. This request sends only your IP address, which every internet request sends, and returns a two-letter country code. The country code is stored on your phone only. It is used to decide which features of the Vitamin D sun timer are available in your region.
+- City name from GPS: after a GPS reading, the app asks your phone's built-in geocoding service (Apple on iOS, Google on Android) for the city name of your coordinates. This is covered by Apple's or Google's privacy policy. You can turn off city lookup in the settings.
 - Online UV data (Open-Meteo): if you turn on online UV in the Vitamin D sun timer, the app sends your latitude and longitude, rounded to about 10 km, to Open-Meteo (open-meteo.com) to get today's UV forecast. Open-Meteo does not require an account. You can turn this off, and the timer then uses an offline estimate.
 
 Running in the background:
