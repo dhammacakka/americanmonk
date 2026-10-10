@@ -254,7 +254,8 @@ Originally built as a hands-free Solar Noon countdown timer, **Buddhist Sun 1.7.
     </p>
     <ul>
       <li><strong>Optimal Exposure Times:</strong> Find the best time of day to safely absorb sunlight for natural Vitamin D synthesis.</li>
-      <li><strong>Personalized Tracking:</strong> Calculate recommended duration based on the sun's current angle and intensity at your location.</li>
+      <li><strong>Sun-Based Timing:</strong> Calculate recommended duration based on the sun's current angle and intensity at your location.</li>
+      <li><strong>No Personal Data:</strong> Estimates are for an average adult. The app never asks for your weight or other body measurements; a simple chart shows how to adjust for your own size.</li>
       <li><strong>Health Maintenance:</strong> Support your immune system and bone health during monastic life or extended retreats.</li>
     </ul>
   </div>
