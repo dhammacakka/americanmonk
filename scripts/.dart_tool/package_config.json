@@ -75,6 +75,6 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.13.7",
+  "generatorVersion": "3.14.0",
   "pubCache": "file:///home/runner/.pub-cache"
 }
